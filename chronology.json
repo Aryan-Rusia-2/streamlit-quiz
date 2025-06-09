@@ -29,7 +29,7 @@
       "D, C, A, B",
       "A, B, C, D"
     ],
-    "answer": "C, A, D, B"
+    "answer": "A, C, D, B"
   },
   {
     "question": "Arrange the following in chronological order of publication:",
@@ -61,7 +61,7 @@
       "C, B, A, D",
       "B, C, D, A"
     ],
-    "answer": "B, A, D, C"
+    "answer": "B, D, A, C"
   },
   {
     "question": "Arrange the following in chronological order of publication:",
@@ -73,11 +73,11 @@
     ],
     "options": [
       "C, A, D, B",
-      "A, D, C, B",
+      "A, C, B, D",
       "C, D, B, A",
       "D, C, A, B"
     ],
-    "answer": "C, A, D, B"
+    "answer": "A, C, B, D"
   },
   {
     "question": "Arrange the following in order of release:",
@@ -125,7 +125,7 @@
       "B, D, A, C",
       "B, C, A, D"
     ],
-    "answer": "B, D, A, C"
+    "answer": "D, B, A, C"
   },
   {
     "question": "Arrange the following novels in chronological order:",
@@ -154,9 +154,573 @@
     "options": [
       "B, A, D, C",
       "A, B, D, C",
-      "B, D, C, A",
+      "A, B, C, D",
       "A, D, C, B"
     ],
-    "answer": "B, A, D, C"
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Untouchable – Mulk Raj Anand",
+      "(B) A Tiger for Malgudi – R. K. Narayan",
+      "(C) Midnight’s Children – Salman Rushdie",
+      "(D) The Shadow Lines – Amitav Ghosh"
+    ],
+    "options": [
+      "A, B, C, D",
+      "A, C, D, B",
+      "A, C, B, D",
+      "B, A, C, D"
+    ],
+    "answer": "A, C, B, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) The Guide – R. K. Narayan",
+      "(B) Clear Light of Day – Anita Desai",
+      "(C) The Inheritance of Loss – Kiran Desai",
+      "(D) The White Tiger – Aravind Adiga"
+    ],
+    "options": [
+      "A, B, C, D",
+      "B, A, D, C",
+      "A, B, D, C",
+      "A, D, B, C"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) The Autobiography of an Unknown Indian – Nirad C. Chaudhuri",
+      "(B) Train to Pakistan – Khushwant Singh",
+      "(C) Kanthapura – Raja Rao",
+      "(D) Coolie – Mulk Raj Anand"
+    ],
+    "options": [
+      "C, D, A, B",
+      "D, C, A, B",
+      "A, D, B, C",
+      "C, A, D, B"
+    ],
+    "answer": "D, C, A, B"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Sea of Poppies – Amitav Ghosh",
+      "(B) The God of Small Things – Arundhati Roy",
+      "(C) The Romantics – Pankaj Mishra",
+      "(D) A Suitable Boy – Vikram Seth"
+    ],
+    "options": [
+      "D, B, C, A",
+      "B, D, A, C",
+      "D, C, B, A",
+      "C, B, A, D"
+    ],
+    "answer": "D, B, C, A"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) The Serpent and the Rope – Raja Rao",
+      "(B) The Painter of Signs – R. K. Narayan",
+      "(C) The Namesake – Jhumpa Lahiri",
+      "(D) The Hungry Tide – Amitav Ghosh"
+    ],
+    "options": [
+      "A, B, D, C",
+      "A, B, C, D",
+      "B, A, D, C",
+      "A, D, B, C"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) A House for Mr Biswas – V. S. Naipaul",
+      "(B) Midnight’s Children – Salman Rushdie",
+      "(C) The White Tiger – Aravind Adiga",
+      "(D) An Equal Music – Vikram Seth"
+    ],
+    "options": [
+      "A, B, D, C",
+      "B, A, C, D",
+      "A, D, B, C",
+      "A, B, C, D"
+    ],
+    "answer": "A, B, D, C"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) The Room on the Roof – Ruskin Bond",
+      "(B) The Vendor of Sweets – R. K. Narayan",
+      "(C) The Cat and Shakespeare – Raja Rao",
+      "(D) Interpreter of Maladies – Jhumpa Lahiri"
+    ],
+    "options": [
+      "A, B, C, D",
+      "A, C, B, D",
+      "B, A, D, C",
+      "C, B, A, D"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) The God of Small Things – Arundhati Roy",
+      "(B) The Glass Palace – Amitav Ghosh",
+      "(C) The Lowland – Jhumpa Lahiri",
+      "(D) The White Tiger – Aravind Adiga"
+    ],
+    "options": [
+      "A, B, D, C",
+      "B, A, C, D",
+      "A, D, B, C",
+      "D, A, B, C"
+    ],
+    "answer": "A, B, D, C"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) A Fine Balance – Rohinton Mistry",
+      "(B) Hullabaloo in the Guava Orchard – Kiran Desai",
+      "(C) A Suitable Boy – Vikram Seth",
+      "(D) Interpreter of Maladies – Jhumpa Lahiri"
+    ],
+    "options": [
+      "C, A, D, B",
+      "A, C, D, B",
+      "C, D, A, B",
+      "D, B, A, C"
+    ],
+    "answer": "C, A, D, B"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Nectar in a Sieve – Kamala Markandaya",
+      "(B) The Guide – R. K. Narayan",
+      "(C) Untouchable – Mulk Raj Anand",
+      "(D) Kanthapura – Raja Rao"
+    ],
+    "options": [
+      "C, D, B, A",
+      "D, C, B, A",
+      "C, B, D, A",
+      "C, D, A, B"
+    ],
+    "answer": "C, D, B, A"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Swami and Friends – R. K. Narayan",
+      "(B) The Dark Room – R. K. Narayan",
+      "(C) Waiting for the Mahatma – R. K. Narayan",
+      "(D) The Guide – R. K. Narayan"
+    ],
+    "options": [
+      "A, B, D, C",
+      "A, C, D, B",
+      "A, B, C, D",
+      "B, A, C, D"
+    ],
+    "answer": "A, B, D, C"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Coolie – Mulk Raj Anand",
+      "(B) Two Leaves and a Bud – Mulk Raj Anand",
+      "(C) The Sword and the Sickle – Mulk Raj Anand",
+      "(D) The Big Heart – Mulk Raj Anand"
+    ],
+    "options": [
+      "A, B, C, D",
+      "B, A, C, D",
+      "A, C, B, D",
+      "A, B, D, C"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Kanthapura – Raja Rao",
+      "(B) The Serpent and the Rope – Raja Rao",
+      "(C) The Cat and Shakespeare – Raja Rao",
+      "(D) Comrade Kirillov – Raja Rao"
+    ],
+    "options": [
+      "A, B, C, D",
+      "A, C, B, D",
+      "A, B, D, C",
+      "B, A, C, D"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) The Room on the Roof – Ruskin Bond",
+      "(B) The Blue Umbrella – Ruskin Bond",
+      "(C) Our Trees Still Grow in Dehra – Ruskin Bond",
+      "(D) A Flight of Pigeons – Ruskin Bond"
+    ],
+    "options": [
+      "A, B, D, C",
+      "A, D, B, C",
+      "A, B, C, D",
+      "B, A, D, C"
+    ],
+    "answer": "A, B, D, C"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) The Golden Threshold – Sarojini Naidu",
+      "(B) The Bird of Time – Sarojini Naidu",
+      "(C) The Broken Wing – Sarojini Naidu",
+      "(D) The Feather of the Dawn – Sarojini Naidu"
+    ],
+    "options": [
+      "A, B, C, D",
+      "A, C, B, D",
+      "A, B, D, C",
+      "B, A, C, D"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Summer in Calcutta – Kamala Das",
+      "(B) The Descendants – Kamala Das",
+      "(C) The Old Playhouse – Kamala Das",
+      "(D) My Story – Kamala Das"
+    ],
+    "options": [
+      "A, B, C, D",
+      "A, B, D, C",
+      "B, A, D, C",
+      "A, D, B, C"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Time to Change – Nissim Ezekiel",
+      "(B) The Exact Name – Nissim Ezekiel",
+      "(C) Hymns in Darkness – Nissim Ezekiel",
+      "(D) Latter-Day Psalms – Nissim Ezekiel"
+    ],
+    "options": [
+      "A, B, C, D",
+      "A, C, B, D",
+      "A, B, D, C",
+      "A, C, D, B"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Mappings – Vikram Seth",
+      "(B) The Golden Gate – Vikram Seth",
+      "(C) A Suitable Boy – Vikram Seth",
+      "(D) An Equal Music – Vikram Seth"
+    ],
+    "options": [
+      "A, B, C, D",
+      "B, A, C, D",
+      "A, B, D, C",
+      "A, C, B, D"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) The Circle of Reason – Amitav Ghosh",
+      "(B) The Shadow Lines – Amitav Ghosh",
+      "(C) The Calcutta Chromosome – Amitav Ghosh",
+      "(D) The Glass Palace – Amitav Ghosh"
+    ],
+    "options": [
+      "A, B, C, D",
+      "A, C, B, D",
+      "B, A, C, D",
+      "A, B, D, C"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Interpreter of Maladies – Jhumpa Lahiri",
+      "(B) The Namesake – Jhumpa Lahiri",
+      "(C) Unaccustomed Earth – Jhumpa Lahiri",
+      "(D) The Lowland – Jhumpa Lahiri"
+    ],
+    "options": [
+      "A, B, C, D",
+      "A, C, B, D",
+      "A, B, D, C",
+      "B, A, C, D"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) The Golden Boat – Translated by Bhabani Bhattacharya",
+      "(B) So Many Hungers – Bhabani Bhattacharya",
+      "(C) He Who Rides a Tiger – Bhabani Bhattacharya",
+      "(D) Shadow from Ladakh – Bhabani Bhattacharya"
+    ],
+    "options": [
+      "A, B, C, D",
+      "B, A, C, D",
+      "B, C, D, A",
+      "A, C, B, D"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Tales from Firozsha Baag – Rohinton Mistry",
+      "(B) Such a Long Journey – Rohinton Mistry",
+      "(C) A Fine Balance – Rohinton Mistry",
+      "(D) Family Matters – Rohinton Mistry"
+    ],
+    "options": [
+      "A, B, C, D",
+      "B, A, C, D",
+      "A, C, B, D",
+      "A, B, D, C"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Grimus – Salman Rushdie",
+      "(B) Midnight’s Children – Salman Rushdie",
+      "(C) Shame – Salman Rushdie",
+      "(D) The Satanic Verses – Salman Rushdie"
+    ],
+    "options": [
+      "A, B, C, D",
+      "B, A, C, D",
+      "A, C, B, D",
+      "C, A, B, D"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) The Circle of Reason – Amitav Ghosh",
+      "(B) In an Antique Land – Amitav Ghosh",
+      "(C) Dancing in Cambodia – Amitav Ghosh",
+      "(D) Countdown – Amitav Ghosh"
+    ],
+    "options": [
+      "A, B, C, D",
+      "A, C, B, D",
+      "B, A, C, D",
+      "A, B, D, C"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) The Great Indian Novel – Shashi Tharoor",
+      "(B) Show Business – Shashi Tharoor",
+      "(C) Riot – Shashi Tharoor",
+      "(D) India Shastra – Shashi Tharoor"
+    ],
+    "options": [
+      "A, B, C, D",
+      "B, A, C, D",
+      "A, C, B, D",
+      "A, B, D, C"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) The Striders – A. K. Ramanujan",
+      "(B) Relations – A. K. Ramanujan",
+      "(C) Second Sight – A. K. Ramanujan",
+      "(D) The Black Hen – A. K. Ramanujan"
+    ],
+    "options": [
+      "A, B, C, D",
+      "B, A, C, D",
+      "A, C, B, D",
+      "A, B, D, C"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Tilottamma – Michael Madhusudan Dutt",
+      "(B) Meghnad Badh Kavya – Michael Madhusudan Dutt",
+      "(C) The Lotus – Toru Dutt",
+      "(D) Bianca – Toru Dutt"
+    ],
+    "options": [
+      "A, B, C, D",
+      "B, A, D, C",
+      "A, B, D, C",
+      "C, D, A, B"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) The Life Divine – Sri Aurobindo",
+      "(B) Savitri – Sri Aurobindo",
+      "(C) Hymns to the Mystic Fire – Sri Aurobindo",
+      "(D) The Synthesis of Yoga – Sri Aurobindo"
+    ],
+    "options": [
+      "A, D, B, C",
+      "A, C, D, B",
+      "C, A, D, B",
+      "A, D, C, B"
+    ],
+    "answer": "A, D, B, C"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) The Room on the Roof – Ruskin Bond",
+      "(B) The Blue Umbrella – Ruskin Bond",
+      "(C) A Flight of Pigeons – Ruskin Bond",
+      "(D) The Best of Ruskin Bond – Ruskin Bond"
+    ],
+    "options": [
+      "A, B, C, D",
+      "A, C, B, D",
+      "A, B, D, C",
+      "B, A, D, C"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Time to Change – Nissim Ezekiel",
+      "(B) The Exact Name – Nissim Ezekiel",
+      "(C) Hymns in Darkness – Nissim Ezekiel",
+      "(D) Letter-Day Psalms – Nissim Ezekiel"
+    ],
+    "options": [
+      "A, B, C, D",
+      "A, C, B, D",
+      "A, C, D, B",
+      "A, B, D, C"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Untouchable – Mulk Raj Anand",
+      "(B) The Sword and the Sickle – Mulk Raj Anand",
+      "(C) The Big Heart – Mulk Raj Anand",
+      "(D) The Private Life of an Indian Prince – Mulk Raj Anand"
+    ],
+    "options": [
+      "A, B, C, D",
+      "A, C, B, D",
+      "A, B, D, C",
+      "A, D, B, C"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Kanthapura – Raja Rao",
+      "(B) The Serpent and the Rope – Raja Rao",
+      "(C) The Cat and Shakespeare – Raja Rao",
+      "(D) The Chessmaster and His Moves – Raja Rao"
+    ],
+    "options": [
+      "A, B, C, D",
+      "A, C, B, D",
+      "A, B, D, C",
+      "B, A, C, D"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Rough Passage – R. Parthasarathy",
+      "(B) Poetry from Leeds – R. Parthasarathy",
+      "(C) The Tale of an Anklet – R. Parthasarathy",
+      "(D) Exile – R. Parthasarathy"
+    ],
+    "options": [
+      "B, D, A, C",
+      "B, A, D, C",
+      "D, B, A, C",
+      "A, B, C, D"
+    ],
+    "answer": "B, D, A, C"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Jejuri – Arun Kolatkar",
+      "(B) Kala Ghoda Poems – Arun Kolatkar",
+      "(C) Sarpasatra – Arun Kolatkar",
+      "(D) Boatride – Arun Kolatkar"
+    ],
+    "options": [
+      "D, A, B, C",
+      "A, D, B, C",
+      "A, B, D, C",
+      "A, C, D, B"
+    ],
+    "answer": "D, A, B, C"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) The Great Indian Novel – Shashi Tharoor",
+      "(B) Show Business – Shashi Tharoor",
+      "(C) Riot: A Love Story – Shashi Tharoor",
+      "(D) India Shastra – Shashi Tharoor"
+    ],
+    "options": [
+      "A, B, C, D",
+      "B, A, C, D",
+      "A, C, B, D",
+      "A, B, D, C"
+    ],
+    "answer": "A, B, C, D"
   }
+
 ]
+
+
+
