@@ -1,0 +1,3232 @@
+[
+  {
+    "question": "Who is considered the pioneer of Archetypal Criticism with the book 'Archetypal Patterns in Poetry' (1934)?",
+    "options": ["Northrop Frye", "Carl Jung", "Maud Bodkin", "James Frazer"],
+    "answer": "Maud Bodkin"
+  },
+  {
+    "question": "Which two disciplines form the foundation of Archetypal Criticism?",
+    "options": ["Psychology and Linguistics", "Sociology and Structuralism", "Social Anthropology and Psychoanalysis", "Mythology and Deconstruction"],
+    "answer": "Social Anthropology and Psychoanalysis"
+  },
+  {
+    "question": "Which of the following is NOT a typical literary archetype?",
+    "options": ["The Great Mother", "The Wise Old Man", "The Bureaucrat", "The Hero’s Journey"],
+    "answer": "The Bureaucrat"
+  },
+  {
+    "question": "According to Northrop Frye, which season is associated with Romance?",
+    "options": ["Winter", "Spring", "Summer", "Autumn"],
+    "answer": "Summer"
+  },
+  {
+    "question": "Who focused on the genesis of archetypes?",
+    "options": ["Northrop Frye", "Robert Graves", "Carl Jung", "G. Wilson Knight"],
+    "answer": "Carl Jung"
+  },
+  {
+    "question": "What does Frye refer to with the term 'Centrifugal criticism'?",
+    "options": ["Criticism that focuses on structure of the text", "Criticism moving inward", "Criticism focused on society", "Criticism focusing on form"],
+    "answer": "Criticism focused on society"
+  },
+  {
+    "question": "Which of Frye’s works focuses on the symbolic language of the Bible?",
+    "options": ["Fearful Symmetry", "The Great Code", "The Bush Garden", "The Stubborn Structure"],
+    "answer": "The Great Code"
+  },
+  {
+    "question": "Who coined the term 'Garrison Mentality' in Canadian literature?",
+    "options": ["Harold Bloom", "Carl Jung", "Leslie Fiedler", "Northrop Frye"],
+    "answer": "Northrop Frye"
+  },
+  {
+    "question": "Which book earned Frye international recognition for Blakean criticism?",
+    "options": ["The Well-Tempered Critic", "Anatomy of Criticism", "Fearful Symmetry", "The Great Code"],
+    "answer": "Fearful Symmetry"
+  },
+  {
+    "question": "Which two terms did Russian Formalists use to differentiate story structure?",
+    "options": ["Plot and Narrative", "Theme and Structure", "Fabula and Syuzhet", "Signifier and Signified"],
+    "answer": "Fabula and Syuzhet"
+  },
+  {
+    "question": "Which Russian Formalist is credited with introducing the concept of 'defamiliarization'?",
+    "options": ["Roman Jakobson", "Boris Eikhenbaum", "Viktor Shklovsky", "Jan Mukarovsky"],
+    "answer": "Viktor Shklovsky"
+  },
+  {
+    "question": "What does 'Syuzhet' refer to in Russian Formalism?",
+    "options": ["The theme of a text", "The chronological events", "The writer’s biography", "The arrangement of events in the narrative"],
+    "answer": "The arrangement of events in the narrative"
+  },
+  {
+    "question": "Which school continued the work of Russian Formalism after its suppression?",
+    "options": ["Frankfurt School", "Moscow Circle", "Prague Linguistic Circle", "Geneva School"],
+    "answer": "Prague Linguistic Circle"
+  },
+  {
+    "question": "Which formalist theorist later influenced Structuralism?",
+    "options": ["Carl Jung", "Roman Jakobson", "Northrop Frye", "James Frazer"],
+    "answer": "Roman Jakobson"
+  },
+  {
+    "question": "In Formalist criticism, what is the function of literary language?",
+    "options": ["To describe reality", "To educate readers", "To reference extrinsic world", "To offer special aesthetic experience"],
+    "answer": "To offer special aesthetic experience"
+  },
+  {
+    "question": "Who wrote 'The Bush Garden: Essays on the Canadian Imagination'?",
+    "options": ["G. Wilson Knight", "Northrop Frye", "Francis Fergusson", "Harold Bloom"],
+    "answer": "Northrop Frye"
+  },
+  {
+    "question": "Which literary critic proposed literature as a science as well as an art?",
+    "options": ["Maud Bodkin", "Carl Jung", "Northrop Frye", "Vladimir Propp"],
+    "answer": "Northrop Frye"
+  },
+  {
+    "question": "What is the chronological sequence of events in a narrative called in Formalism?",
+    "options": ["Syuzhet", "Narrative Arc", "Fabula", "Plot"],
+    "answer": "Fabula"
+  },
+  {
+    "question": "Which thinker influenced archetypal criticism with the idea of 'collective unconscious'?",
+    "options": ["Sigmund Freud", "Carl Jung", "Northrop Frye", "Jacques Lacan"],
+    "answer": "Carl Jung"
+  },
+  {
+    "question": "Which among the following is NOT a work by Northrop Frye?",
+    "options": ["Anatomy of Criticism", "The Great Code", "The Secular Scripture", "Mythologies"],
+    "answer": "Mythologies"
+  },
+  {
+    "question": "Which critic is most associated with the concept of 'collective unconscious' in Archetypal Criticism?",
+    "options": ["Francis Fergusson", "Maud Bodkin", "Carl Jung", "G. Wilson Knight"],
+    "answer": "Carl Jung"
+  },
+  {
+    "question": "Which archetype governs the mother-child relationship, according to Jung?",
+    "options": ["Father Archetype", "Hero Archetype", "Great Mother Archetype", "Wise Old Man"],
+    "answer": "Great Mother Archetype"
+  },
+  {
+    "question": "What year was Maud Bodkin's *Archetypal Patterns in Poetry* published?",
+    "options": ["1929", "1934", "1947", "1957"],
+    "answer": "1934"
+  },
+  {
+    "question": "Which of the following is NOT one of Northrop Frye’s four mythoi?",
+    "options": ["Comedy", "Irony", "Epic", "Romance"],
+    "answer": "Epic"
+  },
+  {
+    "question": "What is associated with the season of Winter in Frye’s mythoi?",
+    "options": ["Comedy", "Romance", "Tragedy", "Irony and Satire"],
+    "answer": "Irony and Satire"
+  },
+  {
+    "question": "Which phrase was coined by Frye to describe a common Canadian literary theme?",
+    "options": ["Cultural Homogenization", "The Garrison Mentality", "The Iron Curtain", "Postcolonial Anxiety"],
+    "answer": "The Garrison Mentality"
+  },
+  {
+    "question": "In which book did Frye compile his thoughts on Canadian literature and painting?",
+    "options": ["The Great Code", "The Bush Garden", "Fearful Symmetry", "The Stubborn Structure"],
+    "answer": "The Bush Garden"
+  },
+  {
+    "question": "What critical distinction does Frye make using the terms 'centripetal' and 'centrifugal'?",
+    "options": [
+      "Poetic vs Narrative structure",
+      "Text-focused vs Society-focused criticism",
+      "Form vs Content",
+      "Myth vs Symbol"
+    ],
+    "answer": "Text-focused vs Society-focused criticism"
+  },
+  {
+    "question": "Which formalist founded the Moscow Linguistic Circle in 1914?",
+    "options": ["Jan Mukarovsky", "Roman Jakobson", "Viktor Shklovsky", "Vladimir Propp"],
+    "answer": "Roman Jakobson"
+  },
+  {
+    "question": "Which of these was NOT a member of Russian Formalism?",
+    "options": ["Yusri Tynianov", "Boris Eikhenbaum", "T.S. Eliot", "Viktor Shklovsky"],
+    "answer": "T.S. Eliot"
+  },
+  {
+    "question": "Which country became the new center of formalist studies after its suppression in Russia?",
+    "options": ["Germany", "Czechoslovakia", "France", "Poland"],
+    "answer": "Czechoslovakia"
+  },
+  {
+    "question": "What was the key belief of Russian Formalism regarding literary language?",
+    "options": [
+      "It mirrors real-life emotions",
+      "It is identical to ordinary language",
+      "It offers a special mode of experience through its form",
+      "It is only symbolic and meaningless"
+    ],
+    "answer": "It offers a special mode of experience through its form"
+  },
+  {
+    "question": "Which two thinkers introduced the concepts of Fabula and Syuzhet?",
+    "options": [
+      "Shklovsky and Propp",
+      "Jakobson and Wellek",
+      "Frye and Bloom",
+      "Jung and Bodkin"
+    ],
+    "answer": "Shklovsky and Propp"
+  },
+  {
+    "question": "What was the dominant mode of literary study in the US post-WWII, influenced by formalism?",
+    "options": ["Structuralism", "New Criticism", "Romanticism", "Reader Response"],
+    "answer": "New Criticism"
+  },
+  {
+    "question": "Which of the following works is NOT written by Northrop Frye?",
+    "options": [
+      "The Well-Tempered Critic",
+      "Words With Power",
+      "The Stubborn Structure",
+      "Mythologies"
+    ],
+    "answer": "Mythologies"
+  },
+  {
+    "question": "Which literary critic described value judgments as ‘the donkey carrot of literary criticism’?",
+    "options": ["Leslie Fiedler", "Northrop Frye", "Francis Fergusson", "Harold Bloom"],
+    "answer": "Northrop Frye"
+  },
+  {
+    "question": "Who said: “Frye has earned the reputation of being the leading theoretician of literary criticism among all those writing in English today”?",
+    "options": ["Jacques Derrida", "Harold Bloom", "Carl Jung", "Roman Jakobson"],
+    "answer": "Harold Bloom"
+  },
+  {
+    "question": "Which Russian Formalist is best known for work on folktale structure?",
+    "options": ["Viktor Shklovsky", "Roman Jakobson", "Vladimir Propp", "Boris Tomashevsky"],
+    "answer": "Vladimir Propp"
+  },
+  {
+    "question": "Which of the following best describes ‘Fabula’?",
+    "options": [
+      "The narrative point of view",
+      "The symbolic meaning",
+      "Chronological sequence of events",
+      "The arrangement of events by the author"
+    ],
+    "answer": "Chronological sequence of events"
+  },
+  {
+    "question": "What is the key focus of Russian Formalism?",
+    "options": [
+      "Reader’s emotional response",
+      "Moral values of the text",
+      "Social context of literature",
+      "Internal structure and form of a literary text"
+    ],
+    "answer": "Internal structure and form of a literary text"
+  },
+  {
+    "question": "Who coined the term 'Defamiliarization' (Ostranenie)?",
+    "options": ["Roman Jakobson", "Vladimir Propp", "Viktor Shklovsky", "Fredric Jameson"],
+    "answer": "Viktor Shklovsky"
+  },
+  {
+    "question": "Which essay by Shklovsky introduced the concept of Defamiliarization?",
+    "options": ["Knight’s Move", "Third Factory", "Art as Technique", "Theory of Prose"],
+    "answer": "Art as Technique"
+  },
+  {
+    "question": "In which year did Viktor Shklovsky found OPOYAZ?",
+    "options": ["1914", "1916", "1917", "1923"],
+    "answer": "1916"
+  },
+  {
+    "question": "What is the primary aim of Defamiliarization in literature according to Shklovsky?",
+    "options": [
+      "To simplify poetic language",
+      "To relate personal emotions",
+      "To make everyday perception strange and renew fresh sensations",
+      "To promote realism"
+    ],
+    "answer": "To make everyday perception strange and renew fresh sensations"
+  },
+  {
+    "question": "Which of the following is NOT a work by Viktor Shklovsky?",
+    "options": ["Theory of Prose", "A Hunt for Optimism", "Das Kapital", "Art as Technique"],
+    "answer": "Das Kapital"
+  },
+  {
+    "question": "What does Shklovsky compare poetic language to?",
+    "options": ["Mechanical code", "Framed speech", "Symbolist abstraction", "Automated syntax"],
+    "answer": "Framed speech"
+  },
+  {
+    "question": "Which literary group was Viktor Shklovsky a founder of?",
+    "options": ["Moscow Linguistic Circle", "OPOYAZ", "Prague Circle", "Surrealist Group"],
+    "answer": "OPOYAZ"
+  },
+  {
+    "question": "In which book did Shklovsky present the essay 'Art as Technique'?",
+    "options": ["Knight’s Move", "Theory of Prose", "Literature and Cinematography", "Third Factory"],
+    "answer": "Theory of Prose"
+  },
+  {
+    "question": "Which event did Shklovsky participate in as a revolutionary?",
+    "options": ["October Revolution", "February Revolution", "World War II", "Bolshevik Uprising"],
+    "answer": "February Revolution"
+  },
+  {
+    "question": "Which of the following was **NOT** a concept introduced by Marx or Marxist theory?",
+    "options": ["Centripetal Criticism", "Dialectical Materialism", "False Consciousness", "Class Struggle"],
+    "answer": "Centripetal Criticism"
+  },
+  {
+    "question": "According to Marx, who are the owners of the means of production?",
+    "options": ["Proletariat", "Peasants", "Aristocrats", "Bourgeois"],
+    "answer": "Bourgeois"
+  },
+  {
+    "question": "What concept refers to the upper class’s control over lower classes in terms of economy and politics?",
+    "options": ["Cultural Lag", "Alienation", "Hegemony", "Symbolic Violence"],
+    "answer": "Hegemony"
+  },
+  {
+    "question": "Which law by Marx and Engels explains that everything exists in oppositional unity?",
+    "options": ["Law of Equality", "Law of Contradiction", "Law of Opposites", "Law of Dialectic"],
+    "answer": "Law of Opposites"
+  },
+  {
+    "question": "What is the central idea of Dialectical Materialism?",
+    "options": [
+      "Ideas determine matter",
+      "God determines society",
+      "Material conditions shape ideas via conflict and synthesis",
+      "Language is central to truth"
+    ],
+    "answer": "Material conditions shape ideas via conflict and synthesis"
+  },
+  {
+    "question": "Which law explains how an entity negates itself to reproduce in greater quantity?",
+    "options": ["Law of Reproduction", "Law of Dialectic", "Law of Negation", "Law of Nature"],
+    "answer": "Law of Negation"
+  },
+  {
+    "question": "Who wrote *Marxism and Form*?",
+    "options": ["Terry Eagleton", "Fredric Jameson", "Karl Marx", "Claude McKay"],
+    "answer": "Fredric Jameson"
+  },
+  {
+    "question": "Which writer said, 'Marxist criticism is not merely sociology of literature'?",
+    "options": ["Simone de Beauvoir", "Terry Eagleton", "Jean-Paul Sartre", "Theodore Adorno"],
+    "answer": "Terry Eagleton"
+  },
+  {
+    "question": "Which of the following terms is defined as when people unknowingly accept dominant ideology?",
+    "options": ["Interpellation", "Alienation", "Hegemony", "False Consciousness"],
+    "answer": "False Consciousness"
+  },
+  {
+    "question": "Who coined the term 'Cultural Industry'?",
+    "options": ["Karl Marx", "Claude McKay", "Theodore Adorno", "Fredric Jameson"],
+    "answer": "Theodore Adorno"
+  },
+  {
+    "question": "Which one of these is **not** a work co-authored by Marx and Engels?",
+    "options": ["Das Kapital", "The Communist Manifesto", "The Great Code", "Preface to the Critique of Political Economy"],
+    "answer": "The Great Code"
+  },
+  {
+    "question": "Fredric Jameson described Postmodernism as:",
+    "options": [
+      "The spiritualization of art",
+      "The collapse of history",
+      "The spatialization of culture under organized capitalism",
+      "The moral failure of realism"
+    ],
+    "answer": "The spatialization of culture under organized capitalism"
+  },
+  {
+    "question": "Which Marxist Literary Group was co-founded by Fredric Jameson?",
+    "options": [
+      "New Left Review",
+      "Postmodern Collective",
+      "Marxist Literary Group",
+      "Critical Discourse Circle"
+    ],
+    "answer": "Marxist Literary Group"
+  },
+  {
+    "question": "Which of these is a work by Fredric Jameson?",
+    "options": [
+      "Keywords",
+      "The Illusions of Post-modernism",
+      "Archaeologies of the Future",
+      "Drama from Ibsen to Eliot"
+    ],
+    "answer": "Archaeologies of the Future"
+  },
+  {
+    "question": "Terry Eagleton is best known for which introductory literary theory book?",
+    "options": [
+      "The Event of Literature",
+      "Literary Theory: An Introduction",
+      "The Illusion of Post-modernism",
+      "Sweet Violence"
+    ],
+    "answer": "Literary Theory: An Introduction"
+  },
+  {
+    "question": "Which term does Eagleton use to describe imitation of previous literary or cultural forms?",
+    "options": ["Simulacra", "Allegory", "Pastiche", "Irony"],
+    "answer": "Pastiche"
+  },
+  {
+    "question": "Terry Eagleton’s review of Richard Dawkins’ *The God Delusion* appeared in:",
+    "options": [
+      "The Guardian",
+      "London Review of Books",
+      "Times Literary Supplement",
+      "The Spectator"
+    ],
+    "answer": "London Review of Books"
+  },
+  {
+    "question": "Which of the following is NOT a work by Terry Eagleton?",
+    "options": [
+      "Sweet Violence",
+      "How to Read Literature",
+      "Myths of Power",
+      "The Long Revolution"
+    ],
+    "answer": "The Long Revolution"
+  },
+  {
+    "question": "Who coined the term 'Cultural Materialism'?",
+    "options": ["Fredric Jameson", "Raymond Williams", "Terry Eagleton", "György Lukács"],
+    "answer": "Raymond Williams"
+  },
+  {
+    "question": "What concept did Raymond Williams develop to describe emotional and cultural experiences not yet fully articulated?",
+    "options": [
+      "Residual Ideology",
+      "Base and Superstructure",
+      "Structure of Feeling",
+      "Class Consciousness"
+    ],
+    "answer": "Structure of Feeling"
+  },
+  {
+    "question": "Raymond Williams' book *The Country and the City* is known for:",
+    "options": [
+      "Critiquing modern architecture",
+      "Romanticizing rural life",
+      "Debunking myths of country life as pure and natural",
+      "Comparing nation-states"
+    ],
+    "answer": "Debunking myths of country life as pure and natural"
+  },
+  {
+    "question": "Which journal did Raymond Williams help found in 1960?",
+    "options": [
+      "New Left Review",
+      "The Spectator",
+      "Critical Inquiry",
+      "Marxist Forum"
+    ],
+    "answer": "New Left Review"
+  },
+  {
+    "question": "What are the three cultural modes defined by Raymond Williams?",
+    "options": [
+      "Essentialism, Structuralism, Post-Structuralism",
+      "Class, Race, Gender",
+      "Dominant, Residual, Emergent",
+      "Modern, Postmodern, Classical"
+    ],
+    "answer": "Dominant, Residual, Emergent"
+  },
+  {
+    "question": "According to Williams, how does dominant culture handle truly oppositional residual elements?",
+    "options": [
+      "Celebrates them",
+      "Commercializes them",
+      "Forgets or marginalizes them",
+      "Neutralizes them with theory"
+    ],
+    "answer": "Forgets or marginalizes them"
+  },
+  {
+    "question": "Which is a **novel** written by Raymond Williams?",
+    "options": [
+      "The English Novel from Dickens to Lawrence",
+      "Drama from Ibsen to Eliot",
+      "The Fight for Manod",
+      "Writing in Society"
+    ],
+    "answer": "The Fight for Manod"
+  },
+  {
+    "question": "György Lukács was the founder of which school of thought?",
+    "options": [
+      "Eastern Marxism",
+      "New Historicism",
+      "Western Marxism",
+      "Cultural Materialism"
+    ],
+    "answer": "Western Marxism"
+  },
+  {
+    "question": "Which Lukács work laid the foundation for Western Marxism?",
+    "options": [
+      "The Historical Novel",
+      "Marxism and Literature",
+      "The German Ideology",
+      "History and Class Consciousness"
+    ],
+    "answer": "History and Class Consciousness"
+  },
+  {
+    "question": "Which concept was **NOT** emphasized by György Lukács?",
+    "options": ["Alienation", "Class Consciousness", "Reification", "Interpellation"],
+    "answer": "Interpellation"
+  },
+  {
+    "question": "Which form of literature did Lukács prefer as an alternative to modernism?",
+    "options": ["Postmodernism", "Realism", "Romanticism", "Expressionism"],
+    "answer": "Realism"
+  },
+  {
+    "question": "Which of the following authors was **not** listed by Lukács as an ideal realist?",
+    "options": [
+      "Heinrich Mann",
+      "Maxim Gorky",
+      "Thomas Mann",
+      "Italo Calvino"
+    ],
+    "answer": "Italo Calvino"
+  },
+  {
+    "question": "Which literary theory book by Raymond Williams challenged traditional base-superstructure models?",
+    "options": [
+      "Culture and Society",
+      "Keywords",
+      "Marxism and Literature",
+      "The Long Revolution"
+    ],
+    "answer": "Marxism and Literature"
+},
+  {
+    "question": "Which of the following is a study of utopia and science fiction by Fredric Jameson?",
+    "options": [
+      "The Modernist Papers",
+      "Postmodernism, or, the Cultural Logic of Late Capitalism",
+      "Archaeologies of the Future",
+      "Keywords"
+    ],
+    "answer": "Archaeologies of the Future"
+  },
+  {
+    "question": "Fredric Jameson's co-founded Marxist Literary Group was based at which university?",
+    "options": [
+      "University of Oxford",
+      "University of California",
+      "Harvard University",
+      "Yale University"
+    ],
+    "answer": "University of California"
+  },
+  {
+    "question": "Which work by Fredric Jameson deals with themes of modernism?",
+    "options": [
+      "The Event of Literature",
+      "The Modernist Papers",
+      "The Ideology of Aesthetic",
+      "Drama from Ibsen to Eliot"
+    ],
+    "answer": "The Modernist Papers"
+  },
+  {
+    "question": "Terry Eagleton is known to have criticized which movement?",
+    "options": [
+      "Structuralism",
+      "New Criticism",
+      "New Atheism",
+      "Romanticism"
+    ],
+    "answer": "New Atheism"
+  },
+  {
+    "question": "Which of these is a memoir by Terry Eagleton?",
+    "options": [
+      "The Gatekeeper",
+      "Sweet Violence",
+      "The Body as Language",
+      "The Event of Literature"
+    ],
+    "answer": "The Gatekeeper"
+  },
+  {
+    "question": "Terry Eagleton’s *The Illusions of Post-modernism* was published in:",
+    "options": ["1990", "1993", "1996", "2001"],
+    "answer": "1996"
+  },
+  {
+    "question": "Which of these Eagleton works deals with the tragic?",
+    "options": [
+      "How to Read Literature",
+      "Sweet Violence",
+      "The New Lift Church",
+      "Nationalism, Colonialism, and Literature"
+    ],
+    "answer": "Sweet Violence"
+  },
+  {
+    "question": "Who coined the term 'Structure of Feeling'?",
+    "options": [
+      "Fredric Jameson",
+      "Terry Eagleton",
+      "Raymond Williams",
+      "György Lukács"
+    ],
+    "answer": "Raymond Williams"
+  },
+  {
+    "question": "Which of these is **not** a literary work but a theoretical collection by Raymond Williams?",
+    "options": [
+      "Keywords",
+      "Second Generation",
+      "People of the Black Mountains",
+      "Boarder Country"
+    ],
+    "answer": "Keywords"
+  },
+  {
+    "question": "Which Raymond Williams book critiques the idealization of rural life?",
+    "options": [
+      "Culture and Society",
+      "The English Novel from Dickens to Lawrence",
+      "The Country and the City",
+      "Writing in Society"
+    ],
+    "answer": "The Country and the City"
+  },
+  {
+    "question": "Raymond Williams' *Television: Technology and Cultural Form* was published in which year?",
+    "options": ["1972", "1973", "1974", "1975"],
+    "answer": "1974"
+  },
+  {
+    "question": "In Williams’ cultural framework, which category represents the culture of the past?",
+    "options": ["Dominant", "Residual", "Emergent", "Peripheral"],
+    "answer": "Residual"
+  },
+  {
+    "question": "The idea that culture is a productive force itself, not just a reflection of economics, is proposed by:",
+    "options": [
+      "Terry Eagleton",
+      "Karl Marx",
+      "Raymond Williams",
+      "György Lukács"
+    ],
+    "answer": "Raymond Williams"
+  },
+  {
+    "question": "György Lukács believed that which literary form was best suited to represent total social reality?",
+    "options": [
+      "Modernist fiction",
+      "Realist novel",
+      "Lyric poetry",
+      "Science fiction"
+    ],
+    "answer": "Realist novel"
+  },
+  {
+    "question": "*The Historical Novel* by Lukács is a landmark work in:",
+    "options": [
+      "Literary history",
+      "Poststructuralist theory",
+      "Romanticism",
+      "Modern drama"
+    ],
+    "answer": "Literary history"
+  },
+  {
+    "question": "Which concept discussed by Lukács describes how workers are treated as objects?",
+    "options": [
+      "Alienation",
+      "Reification",
+      "Class Struggle",
+      "False Consciousness"
+    ],
+    "answer": "Reification"
+  },
+  {
+    "question": "Lukács's idea of Class Consciousness refers to:",
+    "options": [
+      "Awareness of one’s role in capitalist society",
+      "Denial of social hierarchy",
+      "Support for bourgeois culture",
+      "Individualist rebellion"
+    ],
+    "answer": "Awareness of one’s role in capitalist society"
+  },
+  {
+    "question": "Which one of the following is a **novel** by Raymond Williams?",
+    "options": [
+      "The English Novel from Dickens to Lawrence",
+      "The Long Revolution",
+      "Loyalties",
+      "Marxism and Literature"
+    ],
+    "answer": "Loyalties"
+  },
+  {
+    "question": "Who developed the concept of 'homologies' between social and literary structures?",
+    "options": [
+      "Karl Marx",
+      "Terry Eagleton",
+      "Fredric Jameson",
+      "Raymond Williams"
+    ],
+    "answer": "Raymond Williams"
+  },
+  {
+    "question": "Who among these is considered a founder of Western Marxism?",
+    "options": [
+      "Georg Lukács",
+      "Terry Eagleton",
+      "Raymond Williams",
+      "Louis Althusser"
+    ],
+    "answer": "Georg Lukács"
+  },
+  {
+    "question": "Who is considered the father of Structuralism?",
+    "options": [
+      "Claude Lévi-Strauss",
+      "Ferdinand de Saussure",
+      "Michel Foucault",
+      "Roman Jakobson"
+    ],
+    "answer": "Ferdinand de Saussure"
+  },
+  {
+    "question": "Which two terms define the parts of a linguistic sign in Structuralism?",
+    "options": ["Langue and Parole", "Signifier and Signified", "Phoneme and Morpheme", "Syntax and Semantics"],
+    "answer": "Signifier and Signified"
+  },
+  {
+    "question": "Who introduced the term 'Narratology' in 1969?",
+    "options": [
+      "Roland Barthes",
+      "Claude Lévi-Strauss",
+      "Tzvetan Todorov",
+      "Jonathan Culler"
+    ],
+    "answer": "Tzvetan Todorov"
+  },
+  {
+    "question": "Which structuralist theorist introduced the idea of Binary Opposition?",
+    "options": [
+      "Jacques Derrida",
+      "Claude Lévi-Strauss",
+      "Fredric Jameson",
+      "Michel Foucault"
+    ],
+    "answer": "Claude Lévi-Strauss"
+  },
+  {
+    "question": "Saussure's concept of language includes which two main divisions?",
+    "options": [
+      "Syntax and Phonetics",
+      "Langue and Parole",
+      "Signifier and Referent",
+      "Poetic and Practical"
+    ],
+    "answer": "Langue and Parole"
+  },
+  {
+    "question": "Saussure's influential work *Course in General Linguistics* was published in:",
+    "options": ["1906", "1913", "1916", "1921"],
+    "answer": "1916"
+  },
+  {
+    "question": "Who helped publish Saussure’s lectures posthumously as *Course in General Linguistics*?",
+    "options": [
+      "Jacques Derrida and Claude Lévi-Strauss",
+      "Charles Bally and Albert Sechehaye",
+      "Roman Jakobson and Roland Barthes",
+      "Julia Kristeva and Michel Foucault"
+    ],
+    "answer": "Charles Bally and Albert Sechehaye"
+  },
+  {
+    "question": "Which of the following terms is associated with *Writing Degree Zero* by Barthes?",
+    "options": [
+      "Structuralist Marxism",
+      "French Realism",
+      "Zero Point of Literature",
+      "Defamiliarization"
+    ],
+    "answer": "Zero Point of Literature"
+  },
+  {
+    "question": "Roland Barthes' famous 1967 essay is titled:",
+    "options": [
+      "Writing Degree Zero",
+      "The Death of the Author",
+      "The Pleasure of the Text",
+      "Mythologies"
+    ],
+    "answer": "The Death of the Author"
+  },
+  {
+    "question": "According to Barthes, 'The birth of the reader must be at the cost of':",
+    "options": [
+      "The author's signature",
+      "The author's control",
+      "The death of the author",
+      "The text’s ideology"
+    ],
+    "answer": "The death of the author"
+  },
+  {
+    "question": "What is the main characteristic of a Writerly Text, according to Barthes?",
+    "options": [
+      "Read for entertainment only",
+      "Passive consumption of meaning",
+      "Reader produces their own meaning",
+      "Fixed message from the author"
+    ],
+    "answer": "Reader produces their own meaning"
+  },
+  {
+    "question": "Which of the following is NOT a work by Roland Barthes?",
+    "options": [
+      "S/Z",
+      "Mythologies",
+      "The Event of Literature",
+      "Camera Lucida"
+    ],
+    "answer": "The Event of Literature"
+  },
+  {
+    "question": "Barthes’ concept of the 'Scriptor' describes:",
+    "options": [
+      "A critic of canonical texts",
+      "A writer who imitates myths",
+      "A person who reuses existing text in new ways",
+      "A traditional author figure"
+    ],
+    "answer": "A person who reuses existing text in new ways"
+  },
+  {
+    "question": "Which French theorist influenced the movement of Structuralism through the analysis of myths?",
+    "options": [
+      "Jacques Derrida",
+      "Claude Lévi-Strauss",
+      "Roland Barthes",
+      "Ferdinand de Saussure"
+    ],
+    "answer": "Claude Lévi-Strauss"
+  },
+  {
+    "question": "What is the phrase associated with Aestheticism?",
+    "options": [
+      "Art imitates life",
+      "The Will to Power",
+      "Art for Art's Sake",
+      "Truth is Beauty"
+    ],
+    "answer": "Art for Art's Sake"
+  },
+  {
+    "question": "Which author is most associated with Aestheticism in the Victorian period?",
+    "options": [
+      "Oscar Wilde",
+      "Matthew Arnold",
+      "Charles Dickens",
+      "George Eliot"
+    ],
+    "answer": "Oscar Wilde"
+  },
+  {
+    "question": "Who coined the phrase 'The Lost Generation'?",
+    "options": [
+      "Ernest Hemingway",
+      "Gertrude Stein",
+      "F. Scott Fitzgerald",
+      "Ezra Pound"
+    ],
+    "answer": "Gertrude Stein"
+  },
+  {
+    "question": "Which of the following thinkers is associated with the judgment of sentiments and taste in Aestheticism?",
+    "options": [
+      "Roland Barthes",
+      "Wolfgang Iser",
+      "Harold Bloom",
+      "Claude Lévi-Strauss"
+    ],
+    "answer": "Wolfgang Iser"
+  },
+  {
+    "question": "Who remarked “The love of art for its own sake” in *The Renaissance* (1873)?",
+    "options": [
+      "Walter Pater",
+      "Oscar Wilde",
+      "A.C. Swinburne",
+      "John Ruskin"
+    ],
+    "answer": "Walter Pater"
+  },
+  {
+    "question": "Which of these best represents a Readerly Text as per Barthes?",
+    "options": [
+      "A novel that demands interpretation",
+      "A poem filled with ambiguity",
+      "A conventional story with fixed meaning",
+      "A fragmented narrative"
+    ],
+    "answer": "A conventional story with fixed meaning"
+  },
+  {
+    "question": "Which linguist introduced the concepts of Diachronic and Synchronic analysis?",
+    "options": [
+      "Roland Barthes",
+      "Roman Jakobson",
+      "Ferdinand de Saussure",
+      "Claude Lévi-Strauss"
+    ],
+    "answer": "Ferdinand de Saussure"
+  },
+  {
+    "question": "Structuralist literary criticism is primarily concerned with:",
+    "options": [
+      "Moral values in literature",
+      "Emotional expression of the author",
+      "Underlying structures in language and narrative",
+      "Historical accuracy of the text"
+    ],
+    "answer": "Underlying structures in language and narrative"
+  },
+  {
+    "question": "Which of the following best defines 'Langue' in Saussurean linguistics?",
+    "options": [
+      "Individual speech act",
+      "System of signs shared by a community",
+      "Textual deviation",
+      "Inner logic of narrative"
+    ],
+    "answer": "System of signs shared by a community"
+  },
+  {
+    "question": "According to Saussure, 'Parole' refers to:",
+    "options": [
+      "Language system",
+      "Mental concept of a sign",
+      "Individual speech or utterance",
+      "A signifier used in culture"
+    ],
+    "answer": "Individual speech or utterance"
+  },
+  {
+    "question": "The Prague School in linguistics was heavily influenced by:",
+    "options": [
+      "Noam Chomsky",
+      "Roland Barthes",
+      "Ferdinand de Saussure",
+      "Jacques Lacan"
+    ],
+    "answer": "Ferdinand de Saussure"
+  },
+  {
+    "question": "Which of the following is NOT one of Saussure's four dichotomies?",
+    "options": [
+      "Langue-Parole",
+      "Signifier-Signified",
+      "Readerly-Writerly",
+      "Paradigmatic-Syntagmatic"
+    ],
+    "answer": "Readerly-Writerly"
+  },
+  {
+    "question": "What does 'Structuralism' aim to analyze?",
+    "options": [
+      "Moral dilemmas in society",
+      "Structures underlying human activity and culture",
+      "Individual author’s emotions",
+      "Reader’s emotional reaction"
+    ],
+    "answer": "Structures underlying human activity and culture"
+  },
+  {
+    "question": "Charles Darwin's *On the Origin of Species* was published in which year?",
+    "options": ["1851", "1859", "1880", "1867"],
+    "answer": "1859"
+  },
+  {
+    "question": "The term 'Darwinism' was coined by:",
+    "options": ["Charles Darwin", "Thomas Henry Huxley", "Alfred Wallace", "Jean-Baptiste Lamarck"],
+    "answer": "Thomas Henry Huxley"
+  },
+  {
+    "question": "Which of the following is NOT one of Darwin’s five core theories?",
+    "options": [
+      "Theory of Evolution",
+      "Gradualism",
+      "Deconstruction",
+      "Natural Selection"
+    ],
+    "answer": "Deconstruction"
+  },
+  {
+    "question": "What does 'Survival of the Fittest' relate to in Darwinian theory?",
+    "options": [
+      "Only the intelligent survive",
+      "Most aggressive individuals thrive",
+      "Individuals with advantageous traits are more likely to survive and reproduce",
+      "The richest control reproduction"
+    ],
+    "answer": "Individuals with advantageous traits are more likely to survive and reproduce"
+  },
+  {
+    "question": "What is meant by 'Common Descent' in Darwin's theory?",
+    "options": [
+      "Humans are unrelated to animals",
+      "All species come from multiple unrelated ancestors",
+      "Organisms descended from one or several common ancestors",
+      "Evolution stops once species form"
+    ],
+    "answer": "Organisms descended from one or several common ancestors"
+  },
+  {
+    "question": "What type of selection involves mate preferences influencing traits?",
+    "options": [
+      "Natural Selection",
+      "Artificial Selection",
+      "Sexual Selection",
+      "Gradual Selection"
+    ],
+    "answer": "Sexual Selection"
+  },
+  {
+    "question": "Roland Barthes’ *Camera Lucida* reflects on:",
+    "options": [
+      "Post-structuralist poetry",
+      "The politics of language",
+      "The nature of photography and personal memory",
+      "Binary oppositions in culture"
+    ],
+    "answer": "The nature of photography and personal memory"
+  },
+  {
+    "question": "In Barthes’ terms, which type of text allows the reader to produce meaning?",
+    "options": [
+      "Mythological",
+      "Readerly",
+      "Scriptor’s",
+      "Writerly"
+    ],
+    "answer": "Writerly"
+  },
+  {
+    "question": "According to Barthes, the 'Author' is traditionally viewed as:",
+    "options": [
+      "A passive observer",
+      "A mythic reader",
+      "A lone genius who creates original work",
+      "A structuralist figure"
+    ],
+    "answer": "A lone genius who creates original work"
+  },
+  {
+    "question": "The Aesthetic Movement emphasized:",
+    "options": [
+      "Class conflict in literature",
+      "Moral teachings through art",
+      "Art's ability to convey history",
+      "Art for its own sake and refined sensuous pleasure"
+    ],
+    "answer": "Art for its own sake and refined sensuous pleasure"
+  },
+  {
+    "question": "Which British writer is most famously associated with Aestheticism?",
+    "options": [
+      "Matthew Arnold",
+      "Oscar Wilde",
+      "John Ruskin",
+      "G.B. Shaw"
+    ],
+    "answer": "Oscar Wilde"
+  },
+  {
+    "question": "Who said: “The love of art for its own sake”?",
+    "options": [
+      "Walter Pater",
+      "A.C. Swinburne",
+      "Roland Barthes",
+      "Ferdinand de Saussure"
+    ],
+    "answer": "Walter Pater"
+  },
+  {
+    "question": "Who is considered the founder of Deconstruction?",
+    "options": [
+      "Michel Foucault",
+      "Jacques Derrida",
+      "Roland Barthes",
+      "Paul de Man"
+    ],
+    "answer": "Jacques Derrida"
+  },
+  {
+    "question": "Which 1967 work by Derrida is considered foundational for Deconstruction?",
+    "options": [
+      "Writing and Difference",
+      "Of Grammatology",
+      "The Post Card",
+      "Glas"
+    ],
+    "answer": "Of Grammatology"
+  },
+  {
+    "question": "What does Derrida mean by the term 'Differance'?",
+    "options": [
+      "A binary of presence and absence",
+      "To differ and to defer",
+      "To destroy textual unity",
+      "A synonym of intertextuality"
+    ],
+    "answer": "To differ and to defer"
+  },
+  {
+    "question": "According to Derrida, 'There is no meaning outside the ________'.",
+    "options": [
+      "culture",
+      "author",
+      "text",
+      "structure"
+    ],
+    "answer": "text"
+  },
+  {
+    "question": "Which concept challenges the privileging of speech over writing?",
+    "options": [
+      "Logocentrism",
+      "Structuralism",
+      "Arche-writing",
+      "Interpellation"
+    ],
+    "answer": "Logocentrism"
+  },
+  {
+    "question": "The term 'Aporia' in Deconstruction refers to:",
+    "options": [
+      "A linguistic sign",
+      "An undecidable contradiction in a text",
+      "A mythic center of truth",
+      "A post-colonial concept"
+    ],
+    "answer": "An undecidable contradiction in a text"
+  },
+  {
+    "question": "Which movement follows Deconstruction and applies it to all areas of thought?",
+    "options": [
+      "Structuralism",
+      "Post-Structuralism",
+      "Psychoanalysis",
+      "Feminist Theory"
+    ],
+    "answer": "Post-Structuralism"
+  },
+  {
+    "question": "Post-Structuralism replaces the author with which figure as the center of analysis?",
+    "options": [
+      "Editor",
+      "Publisher",
+      "Reader",
+      "Critic"
+    ],
+    "answer": "Reader"
+  },
+  {
+    "question": "Who coined the concept of 'Phallogocentrism'?",
+    "options": [
+      "Michel Foucault",
+      "Gayatri Spivak",
+      "Judith Butler",
+      "Jacques Derrida"
+    ],
+    "answer": "Jacques Derrida"
+  },
+  {
+    "question": "In Post-Structuralism, which of the following is considered to have no fixed meaning?",
+    "options": [
+      "History",
+      "Language",
+      "Class",
+      "Gender"
+    ],
+    "answer": "Language"
+  },
+  {
+    "question": "Which thinker translated Derrida’s *De la Grammatologie* into English?",
+    "options": [
+      "Julia Kristeva",
+      "Judith Butler",
+      "Gayatri Chakravorty Spivak",
+      "Michel Foucault"
+    ],
+    "answer": "Gayatri Chakravorty Spivak"
+  },
+  {
+    "question": "Gayatri Spivak’s most famous essay is titled:",
+    "options": [
+      "The Other Heading",
+      "Can the Subaltern Speak?",
+      "Death of a Discipline",
+      "Red Thread"
+    ],
+    "answer": "Can the Subaltern Speak?"
+  },
+  {
+    "question": "What is the meaning of 'Subaltern' in Spivak’s theory?",
+    "options": [
+      "The ruling class in colonial power",
+      "The European philosopher",
+      "A marginalized group outside of hegemonic power",
+      "An upper caste speaker"
+    ],
+    "answer": "A marginalized group outside of hegemonic power"
+  },
+  {
+    "question": "Who originally coined the term 'Subaltern'?",
+    "options": [
+      "Spivak",
+      "Foucault",
+      "Gramsci",
+      "Said"
+    ],
+    "answer": "Gramsci"
+  },
+  {
+    "question": "What idea by Spivak refers to temporarily using simplified identity for collective action?",
+    "options": [
+      "Subalternism",
+      "Essentialism",
+      "Strategic Essentialism",
+      "Collective Hegemony"
+    ],
+    "answer": "Strategic Essentialism"
+  },
+  {
+    "question": "Which of these is NOT a work by Jacques Derrida?",
+    "options": [
+      "Of Grammatology",
+      "Dissemination",
+      "Structure and Agency",
+      "Spectres of Marx"
+    ],
+    "answer": "Structure and Agency"
+  },
+  {
+    "question": "Which of the following is a work by Spivak exploring subaltern exclusion in Western metaphysics?",
+    "options": [
+      "A Critique of Post-Colonial Reason",
+      "Writing and Difference",
+      "The Pleasure of the Text",
+      "Mythologies"
+    ],
+    "answer": "A Critique of Post-Colonial Reason"
+  },
+  {
+    "question": "In Derrida's theory, what does 'Trace' refer to?",
+    "options": [
+      "Physical writing on paper",
+      "A residual meaning left by prior signs",
+      "The origin of speech",
+      "Fixed interpretation"
+    ],
+    "answer": "A residual meaning left by prior signs"
+  },
+  {
+    "question": "Which essay by Derrida marks the beginning of Post-Structuralism?",
+    "options": [
+      "Writing and Difference",
+      "Speech and Phenomena",
+      "Structure, Sign and Play in the Discourse of Human Sciences",
+      "Of Grammatology"
+    ],
+    "answer": "Structure, Sign and Play in the Discourse of Human Sciences"
+  },
+  {
+    "question": "Spivak used which character to reflect on Sati and female agency in colonial India?",
+    "options": [
+      "Bhubaneswari Bhaduri",
+      "Gayatri Devi",
+      "Savitribai Phule",
+      "Anarkali"
+    ],
+    "answer": "Bhubaneswari Bhaduri"
+  },
+  {
+    "question": "Which term coined by Derrida means both 'to differ' and 'to defer'?",
+    "options": ["Logocentrism", "Trace", "Aporia", "Differance"],
+    "answer": "Differance"
+  },
+  {
+    "question": "The term 'Aporia' in deconstruction refers to:",
+    "options": [
+      "A marginal social group",
+      "A privileged binary",
+      "A logical contradiction with no resolution",
+      "The presence of speech"
+    ],
+    "answer": "A logical contradiction with no resolution"
+  },
+  {
+    "question": "According to Derrida, speech is considered a form of:",
+    "options": [
+      "Absence",
+      "Presence",
+      "Silence",
+      "Trace"
+    ],
+    "answer": "Presence"
+  },
+  {
+    "question": "What does 'Arche-writing' refer to in Derrida’s theory?",
+    "options": [
+      "Primitive cave symbols",
+      "Writing derived from speech",
+      "An original, non-derivative system of signs",
+      "Traditional calligraphy"
+    ],
+    "answer": "An original, non-derivative system of signs"
+  },
+  {
+    "question": "What is Derrida's critique of logocentrism?",
+    "options": [
+      "It privileges writing over speech",
+      "It falsely treats speech as the center of meaning",
+      "It focuses only on metaphors",
+      "It overvalues narrative structure"
+    ],
+    "answer": "It falsely treats speech as the center of meaning"
+  },
+  {
+    "question": "Which Derrida work discusses the 'Metaphysics of Presence'?",
+    "options": [
+      "Dissemination",
+      "Of Grammatology",
+      "Writing and Difference",
+      "The Post Card"
+    ],
+    "answer": "Of Grammatology"
+  },
+  {
+    "question": "Which of the following terms is **not** directly linked with Derrida?",
+    "options": [
+      "Logocentrism",
+      "Free Play",
+      "Strategic Essentialism",
+      "Trace"
+    ],
+    "answer": "Strategic Essentialism"
+  },
+  {
+    "question": "Who among the following is **not** a deconstructionist?",
+    "options": [
+      "Paul de Man",
+      "Michel Foucault",
+      "Barbara Johnson",
+      "Antonio Gramsci"
+    ],
+    "answer": "Antonio Gramsci"
+  },
+  {
+    "question": "Which essay by Derrida critiques Claude Lévi-Strauss and marks the rise of post-structuralism?",
+    "options": [
+      "Structure, Sign and Play in the Discourse of Human Sciences",
+      "Writing and Difference",
+      "Dissemination",
+      "Speech and Phenomena"
+    ],
+    "answer": "Structure, Sign and Play in the Discourse of Human Sciences"
+  },
+  {
+    "question": "What is the term used by Derrida to describe the illusion that a central meaning exists?",
+    "options": [
+      "Logocentrism",
+      "Reader-response",
+      "Structuralist fixity",
+      "Phonocentrism"
+    ],
+    "answer": "Logocentrism"
+  },
+  {
+    "question": "Gayatri Spivak’s *A Critique of Post-Colonial Reason* mainly argues that:",
+    "options": [
+      "Postmodernism values local cultures",
+      "Western metaphysics silences the subaltern",
+      "Subalterns need to speak through dominant discourse",
+      "History should be rewritten with fiction"
+    ],
+    "answer": "Western metaphysics silences the subaltern"
+  },
+  {
+    "question": "Which scholar coined the term 'Strategic Essentialism'?",
+    "options": [
+      "Judith Butler",
+      "Edward Said",
+      "Gayatri Spivak",
+      "Homi Bhabha"
+    ],
+    "answer": "Gayatri Spivak"
+  },
+  {
+    "question": "According to Spivak, when the subaltern speaks, what happens?",
+    "options": [
+      "Their voice is clearly heard",
+      "They remain in their position",
+      "They must enter dominant discourse, losing their subalternity",
+      "They are empowered without compromise"
+    ],
+    "answer": "They must enter dominant discourse, losing their subalternity"
+  },
+  {
+    "question": "In which work does Spivak use the example of Bhubaneswari Bhaduri?",
+    "options": [
+      "Death of a Discipline",
+      "In Other Worlds",
+      "Can the Subaltern Speak?",
+      "Red Thread"
+    ],
+    "answer": "Can the Subaltern Speak?"
+  },
+  {
+    "question": "Which postcolonial theorist introduced the idea of ‘Subaltern’ to literary discourse?",
+    "options": [
+      "Jacques Derrida",
+      "Michel Foucault",
+      "Antonio Gramsci",
+      "Gayatri Spivak"
+    ],
+    "answer": "Gayatri Spivak"
+  },
+  {
+    "question": "The concept of ‘Subaltern’ is originally derived from the writings of:",
+    "options": [
+      "Edward Said",
+      "Frantz Fanon",
+      "Antonio Gramsci",
+      "Homi Bhabha"
+    ],
+    "answer": "Antonio Gramsci"
+  },
+  {
+    "question": "Spivak’s critical theory challenges what kind of dominance?",
+    "options": [
+      "Economic dominance only",
+      "Cultural, political, and intellectual colonialism",
+      "Gender essentialism",
+      "Technological globalization"
+    ],
+    "answer": "Cultural, political, and intellectual colonialism"
+  },
+  {
+    "question": "Which of these works is **not** authored by Spivak?",
+    "options": [
+      "Death of a Discipline",
+      "Of Grammatology",
+      "In Other Worlds",
+      "A Critique of Post-Colonial Reason"
+    ],
+    "answer": "Of Grammatology"
+  },
+  {
+    "question": "Which of the following statements is true about Post-Structuralism?",
+    "options": [
+      "It seeks to fix meaning through signifiers",
+      "It treats meaning as unstable and text-centered",
+      "It privileges the author over the reader",
+      "It supports the idea of metaphysical presence"
+    ],
+    "answer": "It treats meaning as unstable and text-centered"
+  },
+  {
+    "question": "Which major influence shaped Derrida’s Deconstruction?",
+    "options": [
+      "Heidegger's Being and Time",
+      "Aristotle's Poetics",
+      "Hegel’s Phenomenology",
+      "Freud’s The Uncanny"
+    ],
+    "answer": "Heidegger's Being and Time"
+  },
+  {
+    "question": "Who is considered the founder of New Historicism?",
+    "options": [
+      "Michel Foucault",
+      "Jacques Derrida",
+      "Stephen Greenblatt",
+      "Terry Eagleton"
+    ],
+    "answer": "Stephen Greenblatt"
+  },
+  {
+    "question": "Which work by Greenblatt introduced the idea of 'Self-Fashioning'?",
+    "options": [
+      "Will in the World",
+      "Hamlet in Purgatory",
+      "Renaissance Self-Fashioning",
+      "The Circulation of Social Energy"
+    ],
+    "answer": "Renaissance Self-Fashioning"
+  },
+  {
+    "question": "New Historicism views a literary text primarily as:",
+    "options": [
+      "An artistic masterpiece",
+      "A reflection of universal values",
+      "A product of its historical and cultural context",
+      "A form of aesthetic judgment"
+    ],
+    "answer": "A product of its historical and cultural context"
+  },
+  {
+    "question": "New Historicism is heavily influenced by the work of:",
+    "options": [
+      "Jacques Derrida",
+      "Michel Foucault",
+      "Julia Kristeva",
+      "Gayatri Spivak"
+    ],
+    "answer": "Michel Foucault"
+  },
+  {
+    "question": "Which of the following is a major New Historicist besides Greenblatt?",
+    "options": [
+      "Stanley Fish",
+      "I. A. Richards",
+      "Louis Montrose",
+      "Fredric Jameson"
+    ],
+    "answer": "Louis Montrose"
+  },
+  {
+    "question": "In Greenblatt’s terms, what is 'Resonance'?",
+    "options": [
+      "A sudden visual reaction",
+      "Reader's emotional response",
+      "An object's cultural power to evoke historical context",
+      "Textual ambiguity"
+    ],
+    "answer": "An object's cultural power to evoke historical context"
+  },
+  {
+    "question": "Which of these is **not** a work by Stephen Greenblatt?",
+    "options": [
+      "Practicing New Historicism",
+      "The Swerve",
+      "Is There a Text in This Class?",
+      "Hamlet in Purgatory"
+    ],
+    "answer": "Is There a Text in This Class?"
+  },
+  {
+    "question": "Greenblatt co-authored 'Practicing New Historicism' with:",
+    "options": [
+      "Gayatri Spivak",
+      "Roland Barthes",
+      "Catherine Gallagher",
+      "Wolfgang Iser"
+    ],
+    "answer": "Catherine Gallagher"
+  },
+  {
+    "question": "Reader Response Criticism primarily focuses on:",
+    "options": [
+      "The author’s intention",
+      "Historical context",
+      "Reader’s interpretation and experience",
+      "Structural unity of the text"
+    ],
+    "answer": "Reader’s interpretation and experience"
+  },
+  {
+    "question": "Which theorist said the reader gives 'real existence' to the text?",
+    "options": [
+      "Stanley Fish",
+      "Norman Holland",
+      "Wolfgang Iser",
+      "I. A. Richards"
+    ],
+    "answer": "Wolfgang Iser"
+  },
+  {
+    "question": "Who established the theory of Affective Stylistics?",
+    "options": [
+      "David Bleich",
+      "Stanley Fish",
+      "Louise Rosenblatt",
+      "Stephen Greenblatt"
+    ],
+    "answer": "Stanley Fish"
+  },
+  {
+    "question": "What is the key claim of Subjective Reader-Response Theory?",
+    "options": [
+      "All meaning is found in historical context",
+      "Readers determine meaning individually",
+      "Text has fixed meaning regardless of reader",
+      "Interpretation is guided by authorial intent"
+    ],
+    "answer": "Readers determine meaning individually"
+  },
+  {
+    "question": "Stanley Fish’s work *Is There a Text in This Class?* introduces the idea of:",
+    "options": [
+      "Authorial voice",
+      "Structural criticism",
+      "Interpretive communities",
+      "Self-fashioning"
+    ],
+    "answer": "Interpretive communities"
+  },
+  {
+    "question": "Which critic is associated with Psychological Reader-Response Theory?",
+    "options": [
+      "Norman Holland",
+      "Wolfgang Iser",
+      "Stanley Fish",
+      "Stephen Greenblatt"
+    ],
+    "answer": "Norman Holland"
+  },
+  {
+    "question": "Who proposed Transactional Reader Response Theory?",
+    "options": [
+      "Stanley Fish",
+      "David Bleich",
+      "Louise Rosenblatt",
+      "Michel Foucault"
+    ],
+    "answer": "Louise Rosenblatt"
+  },
+  {
+    "question": "In Reader-Response theory, meaning of a text is:",
+    "options": [
+      "Encoded by the author",
+      "Fixed by history",
+      "Completed by the reader",
+      "A reflection of structural form"
+    ],
+    "answer": "Completed by the reader"
+  },
+  {
+    "question": "Which literary theory does New Historicism challenge?",
+    "options": [
+      "Reader-Response Theory",
+      "Deconstruction",
+      "Formalist and Structuralist theories",
+      "Post-colonialism"
+    ],
+    "answer": "Formalist and Structuralist theories"
+  },
+  {
+    "question": "In *The Circulation of Social Energy*, Greenblatt argues that:",
+    "options": [
+      "Old texts lose relevance over time",
+      "Texts are only appreciated through aesthetics",
+      "Texts remain relevant by carrying cultural energy",
+      "History must be ignored in literary analysis"
+    ],
+    "answer": "Texts remain relevant by carrying cultural energy"
+  },
+  {
+    "question": "Reader Response Theory emerged prominently in:",
+    "options": [
+      "1900s in Britain",
+      "1940s in France",
+      "1960s-70s in USA and Germany",
+      "1980s in India"
+    ],
+    "answer": "1960s-70s in USA and Germany"
+  },
+  {
+    "question": "Which of the following best describes 'Wonder' according to Greenblatt?",
+    "options": [
+      "An emotional overflow",
+      "A viewer’s intellectual engagement with context",
+      "A reaction of awe evoked by a unique cultural object",
+      "A subjective illusion"
+    ],
+    "answer": "A reaction of awe evoked by a unique cultural object"
+  },
+  {
+    "question": "Which of the following texts by Greenblatt opened with the line 'I began with the desire to speak with the dead'?",
+    "options": [
+      "Hamlet in Purgatory",
+      "Shakespeare's Freedom",
+      "Shakespearean Negotiations",
+      "Will in the World"
+    ],
+    "answer": "Shakespearean Negotiations"
+  },
+  {
+    "question": "In New Historicism, what does the term 'Self-Fashioning' refer to?",
+    "options": [
+      "The construction of authorial identity through language",
+      "An individual shaping their identity according to cultural expectations",
+      "An artistic metaphor for historical fiction",
+      "Rewriting of literary canons"
+    ],
+    "answer": "An individual shaping their identity according to cultural expectations"
+  },
+  {
+    "question": "Which journal was co-founded by Stephen Greenblatt?",
+    "options": [
+      "Modern Language Review",
+      "Representations",
+      "Textual Practice",
+      "Literature Today"
+    ],
+    "answer": "Representations"
+  },
+  {
+    "question": "Greenblatt’s term 'Social Energy' refers to:",
+    "options": [
+      "The power of a text to affect cultural institutions",
+      "An aesthetic experience of historical texts",
+      "Cultural forces within and beyond a literary text",
+      "A reader’s moral response to a text"
+    ],
+    "answer": "Cultural forces within and beyond a literary text"
+  },
+  {
+    "question": "New Historicism considers literature as:",
+    "options": [
+      "An autonomous aesthetic product",
+      "An imaginative creation of the author’s genius",
+      "A historical and cultural document",
+      "A fixed narrative interpretation"
+    ],
+    "answer": "A historical and cultural document"
+  },
+  {
+    "question": "Who is the author of *Will in the World: How Shakespeare Became Shakespeare*?",
+    "options": [
+      "Louis Montrose",
+      "Jonathan Goldberg",
+      "Stephen Greenblatt",
+      "Catherine Gallagher"
+    ],
+    "answer": "Stephen Greenblatt"
+  },
+  {
+    "question": "Which of the following is **not** a principle associated with New Historicism?",
+    "options": [
+      "Recurrent use of anecdote",
+      "Skeptical analysis of ideology",
+      "Focus on reader’s emotional response",
+      "Fascination with the history of the body"
+    ],
+    "answer": "Focus on reader’s emotional response"
+  },
+  {
+    "question": "Which Reader Response theorist focused on interpretive communities?",
+    "options": [
+      "Stanley Fish",
+      "Wolfgang Iser",
+      "David Bleich",
+      "Norman Holland"
+    ],
+    "answer": "Stanley Fish"
+  },
+  {
+    "question": "*Literature as Exploration* (1938), which laid early foundations for Reader Response, was written by:",
+    "options": [
+      "I. A. Richards",
+      "Wolfgang Iser",
+      "Louise Rosenblatt",
+      "Hans-Robert Jauss"
+    ],
+    "answer": "I. A. Richards"
+  },
+  {
+    "question": "Which theorist emphasized the 'transaction' between reader and text?",
+    "options": [
+      "Stanley Fish",
+      "Louise Rosenblatt",
+      "Wolfgang Iser",
+      "Norman Holland"
+    ],
+    "answer": "Louise Rosenblatt"
+  },
+  {
+    "question": "Which of the following critics emphasized 'real existence' of the text being completed by the reader?",
+    "options": [
+      "Stanley Fish",
+      "Wolfgang Iser",
+      "Catherine Gallagher",
+      "Stephen Greenblatt"
+    ],
+    "answer": "Wolfgang Iser"
+  },
+  {
+    "question": "*Surprised by Sin* is a reader-oriented analysis of which literary work?",
+    "options": [
+      "Paradise Regained",
+      "Paradise Lost",
+      "Hamlet",
+      "The Waste Land"
+    ],
+    "answer": "Paradise Lost"
+  },
+  {
+    "question": "Which type of Reader Response theory is most focused on individual written interpretations?",
+    "options": [
+      "Transactional Theory",
+      "Subjective Reader-Response Theory",
+      "Affective Stylistics",
+      "Psychological Theory"
+    ],
+    "answer": "Subjective Reader-Response Theory"
+  },
+  {
+    "question": "Which critic is associated with Psychological Reader-Response Criticism?",
+    "options": [
+      "Wolfgang Iser",
+      "Stanley Fish",
+      "David Bleich",
+      "Norman Holland"
+    ],
+    "answer": "Norman Holland"
+  },
+  {
+    "question": "What does Affective Stylistics emphasize?",
+    "options": [
+      "Reader’s emotional reaction to authorial intent",
+      "Stylistic patterns in postmodern poetry",
+      "Text only exists as it is being read",
+      "Language’s psychological effect"
+    ],
+    "answer": "Text only exists as it is being read"
+  },
+  {
+    "question": "Which of the following is a shared belief of Reader Response theorists?",
+    "options": [
+      "Text carries one universal meaning",
+      "Text’s meaning emerges only through the act of reading",
+      "Meaning resides solely in the author’s intent",
+      "All readers must interpret identically"
+    ],
+    "answer": "Text’s meaning emerges only through the act of reading"
+  },
+  {
+    "question": "Reader Response theory emerged in opposition to:",
+    "options": [
+      "New Historicism",
+      "Post-colonialism",
+      "Formalism and New Criticism",
+      "Post-Structuralism"
+    ],
+    "answer": "Formalism and New Criticism"
+  },
+  {
+    "question": "Which theorist proposed that texts are understood differently in each historical moment?",
+    "options": [
+      "Stephen Greenblatt",
+      "Stanley Fish",
+      "Wolfgang Iser",
+      "Jonathan Culler"
+    ],
+    "answer": "Stephen Greenblatt"
+  },
+  {
+    "question": "Which work co-authored by Greenblatt and Gallagher explores the methodology of New Historicism?",
+    "options": [
+      "Practicing New Historicism",
+      "Hamlet in Purgatory",
+      "The Power of Forms",
+      "Shakespearean Negotiations"
+    ],
+    "answer": "Practicing New Historicism"
+  },
+  {
+    "question": "Which critic classified New Historicism as an extension of post-structuralism?",
+    "options": [
+      "Louis Montrose",
+      "Stephen Greenblatt",
+      "Michel Foucault",
+      "Jonathan Goldberg"
+    ],
+    "answer": "Stephen Greenblatt"
+  },
+  {
+    "question": "Which of the following works was authored by F. R. Leavis?",
+    "options": [
+      "Culture and Anarchy",
+      "The Great Tradition",
+      "Seven Types of Ambiguity",
+      "Practical Criticism"
+    ],
+    "answer": "The Great Tradition"
+  },
+  {
+    "question": "Which periodical was founded and edited by F. R. Leavis?",
+    "options": [
+      "Criterion",
+      "Scrutiny",
+      "Encounter",
+      "Agenda"
+    ],
+    "answer": "Scrutiny"
+  },
+  {
+    "question": "In 'The Great Tradition', Leavis names all of the following as great novelists EXCEPT:",
+    "options": [
+      "Jane Austen",
+      "George Eliot",
+      "D. H. Lawrence",
+      "James Joyce"
+    ],
+    "answer": "James Joyce"
+  },
+  {
+    "question": "Who coined the term 'Eco-criticism' in a 1978 essay?",
+    "options": [
+      "Raymond Williams",
+      "Rachel Carson",
+      "William Rueckert",
+      "Joseph Meeker"
+    ],
+    "answer": "William Rueckert"
+  },
+  {
+    "question": "Which journal is associated with the Association for the Study of Literature and Environment (ASLE)?",
+    "options": [
+      "Green Studies",
+      "Eco-Watch",
+      "ISLE",
+      "Nature & Literature"
+    ],
+    "answer": "ISLE"
+  },
+  {
+    "question": "Rachel Carson’s book 'Silent Spring' belongs to which series?",
+    "options": [
+      "Ocean Trilogy",
+      "Sea Trilogy",
+      "Green Series",
+      "Nature Series"
+    ],
+    "answer": "Sea Trilogy"
+  },
+  {
+    "question": "Postmodernism challenges the ideas of:",
+    "options": [
+      "Deconstruction",
+      "Truth and Grand Narratives",
+      "Realism and Naturalism",
+      "Symbolism and Metaphysics"
+    ],
+    "answer": "Truth and Grand Narratives"
+  },
+  {
+    "question": "Which of these is considered a postmodernist philosopher?",
+    "options": [
+      "Northrop Frye",
+      "I. A. Richards",
+      "Michel Foucault",
+      "Stephen Greenblatt"
+    ],
+    "answer": "Michel Foucault"
+  },
+  {
+    "question": "Which writer critiqued pastoral literature in 'The Country and the City'?",
+    "options": [
+      "Raymond Williams",
+      "Edward Said",
+      "William Rueckert",
+      "Rachel Carson"
+    ],
+    "answer": "Raymond Williams"
+  },
+  {
+    "question": "Which work is NOT part of Postcolonial literature?",
+    "options": [
+      "Orientalism",
+      "The Wretched of the Earth",
+      "Heart of Darkness",
+      "The Interpretation of Dreams"
+    ],
+    "answer": "The Interpretation of Dreams"
+  },
+  {
+    "question": "The term 'Intertextuality' was coined by:",
+    "options": [
+      "Michel Foucault",
+      "Julia Kristeva",
+      "Jacques Derrida",
+      "Roland Barthes"
+    ],
+    "answer": "Julia Kristeva"
+  },
+  {
+    "question": "Julia Kristeva is associated with which concept?",
+    "options": [
+      "Dialogism",
+      "Abjection",
+      "Deconstruction",
+      "Ecocriticism"
+    ],
+    "answer": "Abjection"
+  },
+  {
+    "question": "In which work did Julia Kristeva distinguish three types of feminism?",
+    "options": [
+      "Women's Time",
+      "Intertextuality",
+      "Semeiotike",
+      "Black Sun"
+    ],
+    "answer": "Women's Time"
+  },
+  {
+    "question": "Which of the following is a novel by Julia Kristeva?",
+    "options": [
+      "The Golden Notebook",
+      "The Old Man and the Wolves",
+      "The Bell Jar",
+      "Wide Sargasso Sea"
+    ],
+    "answer": "The Old Man and the Wolves"
+  },
+  {
+    "question": "Which book by Frantz Fanon explores psychological and cultural effects of colonialism?",
+    "options": [
+      "Orientalism",
+      "The God of Small Things",
+      "Black Skin, White Masks",
+      "The Empire Writes Back"
+    ],
+    "answer": "Black Skin, White Masks"
+  },
+  {
+    "question": "Which poet was NOT celebrated by Leavis in 'New Bearings in English Poetry'?",
+    "options": [
+      "Ezra Pound",
+      "T. S. Eliot",
+      "W. B. Yeats",
+      "William Wordsworth"
+    ],
+    "answer": "William Wordsworth"
+  },
+  {
+    "question": "F. R. Leavis collaborated with which critic in 'Culture and Environment'?",
+    "options": [
+      "Denys Thompson",
+      "Q. D. Leavis",
+      "I. A. Richards",
+      "William Empson"
+    ],
+    "answer": "Denys Thompson"
+  },
+  {
+    "question": "What quality did Leavis emphasize in great works of art?",
+    "options": [
+      "Linguistic experimentation",
+      "Moral seriousness",
+      "Narrative suspense",
+      "Social satire"
+    ],
+    "answer": "Moral seriousness"
+  },
+  {
+    "question": "Leavis’s essay 'Revaluation' focused on the development of which genre?",
+    "options": [
+      "Fiction",
+      "Drama",
+      "Poetry",
+      "Criticism"
+    ],
+    "answer": "Poetry"
+  },
+  {
+    "question": "Which novelist did Leavis consider too concerned with style?",
+    "options": [
+      "Samuel Richardson",
+      "James Joyce",
+      "George Moore",
+      "Henry James"
+    ],
+    "answer": "George Moore"
+  },
+  {
+    "question": "Who among the following is NOT a philosopher associated with postmodernism?",
+    "options": [
+      "Jean Baudrillard",
+      "Fredric Jameson",
+      "Jean-Paul Sartre",
+      "Jacques Derrida"
+    ],
+    "answer": "Jean-Paul Sartre"
+  },
+  {
+    "question": "Postmodernism is officially said to have started with which journal?",
+    "options": [
+      "ISLE",
+      "Scrutiny",
+      "Boundary 2",
+      "Modern Fiction Studies"
+    ],
+    "answer": "Boundary 2"
+  },
+  {
+    "question": "Who wrote 'The Comedy of Survival'?",
+    "options": [
+      "Rachel Carson",
+      "Joseph Meeker",
+      "Raymond Williams",
+      "William Rueckert"
+    ],
+    "answer": "Joseph Meeker"
+  },
+  {
+    "question": "The term 'Cultural Ecology' was coined by:",
+    "options": [
+      "Edward Said",
+      "Julian Steward",
+      "Joseph Meeker",
+      "Raymond Williams"
+    ],
+    "answer": "Julian Steward"
+  },
+  {
+    "question": "Which of the following is NOT an example of postcolonial literature?",
+    "options": [
+      "The God of Small Things",
+      "Heart of Darkness",
+      "Discourse on Colonialism",
+      "Semeiotike"
+    ],
+    "answer": "Semeiotike"
+  },
+  {
+    "question": "Which prize was Julia Kristeva awarded in 2006?",
+    "options": [
+      "Holberg Prize",
+      "Pulitzer Prize",
+      "Booker Prize",
+      "Hannah Arendt Prize"
+    ],
+    "answer": "Hannah Arendt Prize"
+  },
+  {
+    "question": "Which novel is NOT written by Julia Kristeva?",
+    "options": [
+      "Murder in Byzantium",
+      "Possession",
+      "The Samurai",
+      "The Second Sex"
+    ],
+    "answer": "The Second Sex"
+  },
+  {
+    "question": "What is the title of Julia Kristeva’s work that explores depression and melancholy?",
+    "options": [
+      "Hatred and Forgiveness",
+      "Black Sun",
+      "Powers of Horror",
+      "The Severed Head"
+    ],
+    "answer": "Black Sun"
+  },
+  {
+    "question": "Which concept refers to a maternal space in Kristeva’s theory?",
+    "options": [
+      "Mirror Stage",
+      "Semiotic",
+      "Chora",
+      "Dialogism"
+    ],
+    "answer": "Chora"
+  },
+  {
+    "question": "Which postcolonial theorist wrote 'An Image of Africa'?",
+    "options": [
+      "Frantz Fanon",
+      "Chinua Achebe",
+      "Edward Said",
+      "Aimé Césaire"
+    ],
+    "answer": "Chinua Achebe"
+  },
+  {
+    "question": "Leavis criticized Charlotte Brontë because she:",
+    "options": [
+      "Disregarded George Eliot",
+      "Couldn’t see value in Jane Austen",
+      "Wrote in an over-emotional style",
+      "Focused only on style"
+    ],
+    "answer": "Couldn’t see value in Jane Austen"
+  },
+  {
+    "question": "According to Leavis, who failed to appreciate Austen?",
+    "options": [
+      "The Brontë sisters",
+      "The Trollopes",
+      "George Moore",
+      "Samuel Richardson"
+    ],
+    "answer": "The Trollopes"
+  },
+  {
+    "question": "Which work by Kristeva discusses horror and abjection?",
+    "options": [
+      "The Severed Head",
+      "Black Sun",
+      "Powers of Horror",
+      "Hatred and Forgiveness"
+    ],
+    "answer": "Powers of Horror"
+  },
+  {
+    "question": "The vertical axis in Kristeva's intertextuality theory represents:",
+    "options": [
+      "The reader's emotion",
+      "The author's identity",
+      "Text’s relation to other texts",
+      "The context of publication"
+    ],
+    "answer": "Text’s relation to other texts"
+  },
+  {
+    "question": "Which postcolonial thinker wrote 'The Colonizer and the Colonized'?",
+    "options": [
+      "Albert Memmi",
+      "Aimé Césaire",
+      "Frantz Fanon",
+      "Ngũgĩ wa Thiong'o"
+    ],
+    "answer": "Albert Memmi"
+  },
+  {
+    "question": "Which of the following is NOT associated with New Criticism?",
+    "options": [
+      "Close reading of the text",
+      "Reader response theory",
+      "Affective Fallacy",
+      "Intentional Fallacy"
+    ],
+    "answer": "Reader response theory"
+  },
+  {
+    "question": "Who wrote 'The New Criticism'?",
+    "options": [
+      "Cleanth Brooks",
+      "John Crowe Ransom",
+      "W. K. Wimsatt",
+      "Robert Penn Warren"
+    ],
+    "answer": "John Crowe Ransom"
+  },
+  {
+    "question": "What phrase did T. S. Eliot use to refer to New Criticism in 'Frontiers of Criticism'?",
+    "options": [
+      "Textual Tyranny",
+      "Structural Delusion",
+      "Lemon Squeezing Criticism",
+      "Analytical Orthodoxy"
+    ],
+    "answer": "Lemon Squeezing Criticism"
+  },
+  {
+    "question": "Which of these works is by Cleanth Brooks?",
+    "options": [
+      "The Well Wrought Urn",
+      "Tradition and the Individual Talent",
+      "The Affective Fallacy",
+      "Miss Emily and the Bibliographer"
+    ],
+    "answer": "The Well Wrought Urn"
+  },
+  {
+    "question": "John Crowe Ransom was the founding editor of which literary journal?",
+    "options": [
+      "Southern Review",
+      "Kenyon Review",
+      "The Nation",
+      "Scrutiny"
+    ],
+    "answer": "Kenyon Review"
+  },
+  {
+    "question": "Which poetry collection is NOT by John Crowe Ransom?",
+    "options": [
+      "Two Gentlemen in Bonds",
+      "Chills and Fever",
+      "God Without Thunder",
+      "The Waste Land"
+    ],
+    "answer": "The Waste Land"
+  },
+  {
+    "question": "Which award did Ransom's 'Selected Poems' win in 1964?",
+    "options": [
+      "Pulitzer Prize",
+      "National Book Award",
+      "Nobel Prize",
+      "Booker Prize"
+    ],
+    "answer": "National Book Award"
+  },
+  {
+    "question": "Which of the following is NOT one of Homi Bhabha's core concepts?",
+    "options": [
+      "Hybridity",
+      "Ambivalence",
+      "Orientalism",
+      "Mimicry"
+    ],
+    "answer": "Orientalism"
+  },
+  {
+    "question": "Homi Bhabha's theory of 'Third Space' refers to:",
+    "options": [
+      "An imaginary utopia",
+      "A networked hybrid space from cultural interaction",
+      "Colonial nostalgia",
+      "A postmodern technology zone"
+    ],
+    "answer": "A networked hybrid space from cultural interaction"
+  },
+  {
+    "question": "Which of these books was written by Homi Bhabha?",
+    "options": [
+      "The Empire Writes Back",
+      "Culture and Imperialism",
+      "The Location of Culture",
+      "Orientalism"
+    ],
+    "answer": "The Location of Culture"
+  },
+  {
+    "question": "Who coined the concept of 'Occidentalism' as a stereotype of the West?",
+    "options": [
+      "Jacques Derrida",
+      "Edward Said",
+      "Homi Bhabha",
+      "Frantz Fanon"
+    ],
+    "answer": "Edward Said"
+  },
+  {
+    "question": "What is Edward Said’s most influential book?",
+    "options": [
+      "Out of Place",
+      "Musical Elaborations",
+      "Culture and Imperialism",
+      "Orientalism"
+    ],
+    "answer": "Orientalism"
+  },
+  {
+    "question": "Edward Said co-founded the West-Eastern Divan Orchestra with:",
+    "options": [
+      "Zubin Mehta",
+      "Daniel Barenboim",
+      "Yehudi Menuhin",
+      "Leonard Bernstein"
+    ],
+    "answer": "Daniel Barenboim"
+  },
+  {
+    "question": "Which term describes a blurred imitation of colonizer’s traits according to Bhabha?",
+    "options": [
+      "Mimicry",
+      "Exoticism",
+      "Creolization",
+      "Simulacrum"
+    ],
+    "answer": "Mimicry"
+  },
+  {
+    "question": "Which philosopher influenced both Edward Said and Homi Bhabha?",
+    "options": [
+      "John Locke",
+      "Michel Foucault",
+      "Immanuel Kant",
+      "Richard Rorty"
+    ],
+    "answer": "Michel Foucault"
+  },
+  {
+    "question": "Which book by Said is a sequel to 'Orientalism'?",
+    "options": [
+      "Beginnings",
+      "Culture and Imperialism",
+      "Out of Place",
+      "Late Style"
+    ],
+    "answer": "Culture and Imperialism"
+  },
+  {
+    "question": "Which of the following is NOT written by Edward Said?",
+    "options": [
+      "Nation and Narration",
+      "Musical Elaborations",
+      "On Late Style",
+      "Joseph Conrad and the Fiction of Autobiography"
+    ],
+    "answer": "Nation and Narration"
+  },
+  {
+    "question": "Which idea of Said builds on Gramsci’s concept of hegemony?",
+    "options": [
+      "Third Space",
+      "Orientalism",
+      "Hybridity",
+      "Affective Fallacy"
+    ],
+    "answer": "Orientalism"
+  },
+  {
+    "question": "Which poet praised John Crowe Ransom’s 'Poems about God'?",
+    "options": [
+      "Robert Frost",
+      "T. S. Eliot",
+      "Ezra Pound",
+      "Wallace Stevens"
+    ],
+    "answer": "Robert Frost"
+  },
+  {
+    "question": "Which of the following is NOT a key idea from New Criticism?",
+    "options": [
+      "Affective Fallacy",
+      "Total structure and local texture",
+      "Intertextuality",
+      "Well-wrought urn"
+    ],
+    "answer": "Intertextuality"
+  },
+  {
+    "question": "Which of the following figures was NOT part of the American Transcendentalist movement?",
+    "options": [
+      "Ralph Waldo Emerson",
+      "Henry David Thoreau",
+      "Walt Whitman",
+      "Edgar Allan Poe"
+    ],
+    "answer": "Edgar Allan Poe"
+  },
+  {
+    "question": "What was the name of the periodical associated with the Transcendentalists?",
+    "options": [
+      "The Nation",
+      "The Dial",
+      "The Germ",
+      "The Spectator"
+    ],
+    "answer": "The Dial"
+  },
+  {
+    "question": "Which novel by Nathaniel Hawthorne satirizes the Transcendentalist movement?",
+    "options": [
+      "The Scarlet Letter",
+      "The Marble Faun",
+      "The Blithedale Romance",
+      "Twice-Told Tales"
+    ],
+    "answer": "The Blithedale Romance"
+  },
+  {
+    "question": "Who used the term 'Frogpondians' to mock Transcendentalists?",
+    "options": [
+      "Henry David Thoreau",
+      "Walt Whitman",
+      "Edgar Allan Poe",
+      "Herman Melville"
+    ],
+    "answer": "Edgar Allan Poe"
+  },
+  {
+    "question": "Who first used the term 'Nationalism'?",
+    "options": [
+      "James Thompson",
+      "Thomas Arne",
+      "Johann Gottfried Herder",
+      "Jean-Jacques Rousseau"
+    ],
+    "answer": "Johann Gottfried Herder"
+  },
+  {
+    "question": "Which English composition became a national song in 1740?",
+    "options": [
+      "God Save the Queen",
+      "Jerusalem",
+      "Rule, Britannia!",
+      "Land of Hope and Glory"
+    ],
+    "answer": "Rule, Britannia!"
+  },
+  {
+    "question": "Which French writer is considered a central figure of Realist literature?",
+    "options": [
+      "Victor Hugo",
+      "Honore de Balzac",
+      "Jean-Paul Sartre",
+      "Gustave Flaubert"
+    ],
+    "answer": "Honore de Balzac"
+  },
+  {
+    "question": "Which of these best defines the aim of Realist literature?",
+    "options": [
+      "To present life as it should be",
+      "To explore the supernatural",
+      "To represent life as it really is",
+      "To idealize emotions and beauty"
+    ],
+    "answer": "To represent life as it really is"
+  },
+  {
+    "question": "Who among the following was a major Enlightenment thinker?",
+    "options": [
+      "John Keats",
+      "William Wordsworth",
+      "Francis Bacon",
+      "Ralph Waldo Emerson"
+    ],
+    "answer": "Francis Bacon"
+  },
+  {
+    "question": "Immanuel Kant’s definition of Enlightenment emphasizes:",
+    "options": [
+      "Mystical self-discovery",
+      "Obedience to tradition",
+      "Liberation from self-caused immaturity",
+      "Complete skepticism"
+    ],
+    "answer": "Liberation from self-caused immaturity"
+  },
+  {
+    "question": "Who expanded Utilitarianism to include quality of pleasure?",
+    "options": [
+      "Jeremy Bentham",
+      "David Hume",
+      "John Stuart Mill",
+      "Adam Smith"
+    ],
+    "answer": "John Stuart Mill"
+  },
+  {
+    "question": "Dark Romanticism emphasizes:",
+    "options": [
+      "Scientific rationality",
+      "National unity",
+      "Human sin and self-destruction",
+      "Social realism"
+    ],
+    "answer": "Human sin and self-destruction"
+  },
+  {
+    "question": "Which of the following is NOT an English Dark Romantic?",
+    "options": [
+      "Lord Byron",
+      "S. T. Coleridge",
+      "Mary Shelley",
+      "Nathaniel Hawthorne"
+    ],
+    "answer": "Nathaniel Hawthorne"
+  },
+  {
+    "question": "Which journal was published by the Pre-Raphaelite Brotherhood?",
+    "options": [
+      "The Dial",
+      "The Germ",
+      "The Review",
+      "The New Statesman"
+    ],
+    "answer": "The Germ"
+  },
+  {
+    "question": "Who was the most famous literary figure associated with the Pre-Raphaelite Brotherhood?",
+    "options": [
+      "William Holman Hunt",
+      "John Everett Millais",
+      "D. G. Rossetti",
+      "James Collinson"
+    ],
+    "answer": "D. G. Rossetti"
+  },
+  {
+    "question": "What was the central aim of the Oxford Movement?",
+    "options": [
+      "Reject modern science",
+      "Promote Protestantism",
+      "Renew Roman Catholic thought within Anglicanism",
+      "Reform Parliament"
+    ],
+    "answer": "Renew Roman Catholic thought within Anglicanism"
+  },
+  {
+    "question": "What were the doctrinal publications of the Oxford Movement called?",
+    "options": [
+      "Theological Papers",
+      "Tracts for the Times",
+      "Catholic Chronicles",
+      "Church Essays"
+    ],
+    "answer": "Tracts for the Times"
+  },
+  {
+    "question": "The autobiography of John Henry Newman is titled:",
+    "options": [
+      "My Catholic Life",
+      "Confessions",
+      "Apologia Pro Vita Sua",
+      "The Anglican Crisis"
+    ],
+    "answer": "Apologia Pro Vita Sua"
+  },
+  {
+    "question": "Which of these artists is NOT associated with Dadaism?",
+    "options": [
+      "Tristan Tzara",
+      "Man Ray",
+      "Pablo Picasso",
+      "Marcel Duchamp"
+    ],
+    "answer": "Pablo Picasso"
+  },
+  {
+    "question": "According to Hugo Ball, the purpose of art in Dadaism was:",
+    "options": [
+      "Entertainment and decoration",
+      "Religious contemplation",
+      "True perception and criticism of the times",
+      "Commercial success"
+    ],
+    "answer": "True perception and criticism of the times"
+  },
+  {
+    "question": "Which Transcendentalist work was directly inspired by Immanuel Kant?",
+    "options": [
+      "Nature",
+      "The Transcendentalist",
+      "Leaves of Grass",
+      "Walden"
+    ],
+    "answer": "The Transcendentalist"
+  },
+  {
+    "question": "Which of the following was a Transcendentalist periodical published between 1840–1844?",
+    "options": [
+      "The Spectator",
+      "The Dial",
+      "The Germ",
+      "The New Republic"
+    ],
+    "answer": "The Dial"
+  },
+  {
+    "question": "What core belief was central to American Transcendentalism?",
+    "options": [
+      "Institutional religion is essential for morality",
+      "Human nature is inherently corrupt",
+      "Inherent goodness of people and nature",
+      "Tradition is superior to innovation"
+    ],
+    "answer": "Inherent goodness of people and nature"
+  },
+  {
+    "question": "Which movement was mocked by Edgar Allan Poe as 'Frogpondians'?",
+    "options": [
+      "Naturalism",
+      "Transcendentalism",
+      "Romanticism",
+      "Dadaism"
+    ],
+    "answer": "Transcendentalism"
+  },
+  {
+    "question": "Which 18th-century composer created the music for 'Rule Britannia'?",
+    "options": [
+      "George Frideric Handel",
+      "Henry Purcell",
+      "Thomas Arne",
+      "Edward Elgar"
+    ],
+    "answer": "Thomas Arne"
+  },
+  {
+    "question": "Which 18th-century thinker wrote the words to 'Rule Britannia'?",
+    "options": [
+      "James Macpherson",
+      "James Thompson",
+      "William Wordsworth",
+      "Thomas Gray"
+    ],
+    "answer": "James Thompson"
+  },
+  {
+    "question": "Which author wrote about Moll Flanders and Robinson Crusoe?",
+    "options": [
+      "Jonathan Swift",
+      "Daniel Defoe",
+      "Samuel Richardson",
+      "Henry Fielding"
+    ],
+    "answer": "Daniel Defoe"
+  },
+  {
+    "question": "What does Realist literature aim to depict?",
+    "options": [
+      "Mythological realities",
+      "Idealistic dreams",
+      "Life as it really is",
+      "Historical fantasies"
+    ],
+    "answer": "Life as it really is"
+  },
+  {
+    "question": "Which country is William Dean Howells associated with in Realist literature?",
+    "options": [
+      "England",
+      "France",
+      "Russia",
+      "America"
+    ],
+    "answer": "America"
+  },
+  {
+    "question": "What was Jeremy Bentham’s principle of utility based on?",
+    "options": [
+      "Moral authority",
+      "Greatest happiness for the greatest number",
+      "Religious belief",
+      "Economic success"
+    ],
+    "answer": "Greatest happiness for the greatest number"
+  },
+  {
+    "question": "Dark Romanticism often includes which of the following elements?",
+    "options": [
+      "Political satire",
+      "Scientific optimism",
+      "Supernatural evil forces",
+      "Comic absurdity"
+    ],
+    "answer": "Supernatural evil forces"
+  },
+  {
+    "question": "Which American author is associated with Dark Romanticism?",
+    "options": [
+      "Walt Whitman",
+      "Edgar Allan Poe",
+      "Mark Twain",
+      "Ralph Waldo Emerson"
+    ],
+    "answer": "Edgar Allan Poe"
+  },
+  {
+    "question": "What was the aim of the Pre-Raphaelite Brotherhood?",
+    "options": [
+      "Promote Catholic doctrine",
+      "Imitate classical Greek art",
+      "Reject academic art after Raphael",
+      "Celebrate medieval Gothic architecture"
+    ],
+    "answer": "Reject academic art after Raphael"
+  },
+  {
+    "question": "Which magazine was edited by William Rossetti?",
+    "options": [
+      "The Dial",
+      "The Germ",
+      "The Kenyon Review",
+      "The Atlantic"
+    ],
+    "answer": "The Germ"
+  },
+  {
+    "question": "Which of the following was NOT a founding member of the Pre-Raphaelite Brotherhood?",
+    "options": [
+      "D. G. Rossetti",
+      "John Everett Millais",
+      "William Holman Hunt",
+      "John Henry Newman"
+    ],
+    "answer": "John Henry Newman"
+  },
+  {
+    "question": "Which movement is also referred to as the Tractarian Movement?",
+    "options": [
+      "Pre-Raphaelite Brotherhood",
+      "Oxford Movement",
+      "Dadaism",
+      "Enlightenment"
+    ],
+    "answer": "Oxford Movement"
+  },
+  {
+    "question": "Who edited the 'Tracts for the Times'?",
+    "options": [
+      "William Ward",
+      "Edward Pusey",
+      "John Henry Newman",
+      "Charles Marriott"
+    ],
+    "answer": "John Henry Newman"
+  },
+  {
+    "question": "Which country was the center of the Dadaism art movement?",
+    "options": [
+      "France",
+      "Germany",
+      "Switzerland",
+      "Italy"
+    ],
+    "answer": "Switzerland"
+  },
+  {
+    "question": "Which literary work is considered pre-Dadaist?",
+    "options": [
+      "The Wasteland",
+      "Ubu Roi",
+      "The Trial",
+      "A Season in Hell"
+    ],
+    "answer": "Ubu Roi"
+  },
+  {
+    "question": "What did Dadaism use to attack the logic and order of modern life?",
+    "options": [
+      "Classical techniques",
+      "Moral allegory",
+      "Nonsense and ridicule",
+      "Scientific realism"
+    ],
+    "answer": "Nonsense and ridicule"
+  },
+  {
+    "question": "Who published the 'Manifesto on Surrealism' in 1924?",
+    "options": [
+      "Louis Aragon",
+      "Salvador Dali",
+      "Andre Breton",
+      "Paul Eluard"
+    ],
+    "answer": "Andre Breton"
+  },
+  {
+    "question": "Which psychological theory heavily influenced Surrealism?",
+    "options": [
+      "Behaviorism",
+      "Freud’s theories of the subconscious",
+      "Jungian archetypes",
+      "Maslow’s hierarchy of needs"
+    ],
+    "answer": "Freud’s theories of the subconscious"
+  },
+  {
+    "question": "Imagism was a reaction against which of the following?",
+    "options": [
+      "Modernism",
+      "Romanticism",
+      "Victorian sentimentalism",
+      "Postmodernism"
+    ],
+    "answer": "Victorian sentimentalism"
+  },
+  {
+    "question": "Who wrote the haiku-like poem 'In Station of the Metro'?",
+    "options": [
+      "H. D.",
+      "Amy Lowell",
+      "Ezra Pound",
+      "William Carlos Williams"
+    ],
+    "answer": "Ezra Pound"
+  },
+  {
+    "question": "What does the term 'Jindyworobak' mean?",
+    "options": [
+      "To liberate",
+      "To join or annex",
+      "To revolt",
+      "To purify"
+    ],
+    "answer": "To join or annex"
+  },
+  {
+    "question": "Who founded the Jindyworobak movement?",
+    "options": [
+      "Ian Mudie",
+      "Rex Ingamells",
+      "William Hart Smith",
+      "Nancy Cato"
+    ],
+    "answer": "Rex Ingamells"
+  },
+  {
+    "question": "Which school is associated with the origin of Critical Theory?",
+    "options": [
+      "Columbia School",
+      "Chicago School",
+      "Frankfurt School",
+      "Vienna Circle"
+    ],
+    "answer": "Frankfurt School"
+  },
+  {
+    "question": "Which thinker is part of the first generation of the Frankfurt School?",
+    "options": [
+      "Jürgen Habermas",
+      "Axel Honneth",
+      "Theodor Adorno",
+      "Rainer Frost"
+    ],
+    "answer": "Theodor Adorno"
+  },
+  {
+    "question": "Who coined the term 'Beat Generation'?",
+    "options": [
+      "Allen Ginsberg",
+      "Jack Kerouac",
+      "William S. Burroughs",
+      "Gregory Corso"
+    ],
+    "answer": "Jack Kerouac"
+  },
+  {
+    "question": "Which work is NOT a product of the Beat Generation?",
+    "options": [
+      "Howl",
+      "Naked Lunch",
+      "On the Road",
+      "The Great Gatsby"
+    ],
+    "answer": "The Great Gatsby"
+  },
+  {
+    "question": "Which 1925 anthology gave the Harlem Renaissance its alternate name?",
+    "options": [
+      "New Negro Poets",
+      "Voices of Harlem",
+      "The New Negro",
+      "Black Modernism"
+    ],
+    "answer": "The New Negro"
+  },
+  {
+    "question": "Who is known as 'The father of Harlem Radicalism'?",
+    "options": [
+      "Langston Hughes",
+      "Alain Locke",
+      "Hurbert Harrison",
+      "Claude McKay"
+    ],
+    "answer": "Hurbert Harrison"
+  },
+  {
+    "question": "Which author is NOT associated with American Literary Realism?",
+    "options": [
+      "Mark Twain",
+      "William Dean Howells",
+      "T. E. Hulme",
+      "Henry James"
+    ],
+    "answer": "T. E. Hulme"
+  },
+  {
+    "question": "Which author wrote 'Maggie: A Girl of the Streets'?",
+    "options": [
+      "Stephen Crane",
+      "Theodore Dreiser",
+      "Frank Norris",
+      "William Dean Howells"
+    ],
+    "answer": "Stephen Crane"
+  },
+  {
+    "question": "What novel by Frank Norris is considered Naturalist literature?",
+    "options": [
+      "Sister Carrie",
+      "The Call of the Wild",
+      "McTeague",
+      "An American Tragedy"
+    ],
+    "answer": "McTeague"
+  },
+  {
+    "question": "Who wrote 'An American Tragedy'?",
+    "options": [
+      "Stephen Crane",
+      "Frank Norris",
+      "Theodore Dreiser",
+      "Edith Wharton"
+    ],
+    "answer": "Theodore Dreiser"
+  },
+  {
+    "question": "What does 'Haiku' literally mean in Japanese?",
+    "options": [
+      "A painted verse",
+      "Short song",
+      "Seasonal reflection",
+      "A small three-line poem"
+    ],
+    "answer": "A small three-line poem"
+  },
+  {
+    "question": "The Holocaust was termed by Nazis as:",
+    "options": [
+      "The Great Cleansing",
+      "Operation Purity",
+      "The Final Solution",
+      "Total Extermination"
+    ],
+    "answer": "The Final Solution"
+  },
+  {
+    "question": "What philosophical text first used the term 'Holocaust' in 1658?",
+    "options": [
+      "The Leviathan",
+      "Urn Burial",
+      "Tractatus",
+      "The City of God"
+    ],
+    "answer": "Urn Burial"
+  },
+  {
+    "question": "Which surrealist artist is known for melting clocks and dreamlike imagery?",
+    "options": [
+      "Paul Eluard",
+      "Pierre Reverdy",
+      "Salvador Dali",
+      "Max Ernst"
+    ],
+    "answer": "Salvador Dali"
+  },
+  {
+    "question": "Which technique was commonly used by Surrealists to bypass rational thought?",
+    "options": [
+      "Symbolic logic",
+      "Automatic writing",
+      "Free verse",
+      "Haiku composition"
+    ],
+    "answer": "Automatic writing"
+  },
+  {
+    "question": "Which Surrealist artist was known for his contributions to poetry?",
+    "options": [
+      "Paul Eluard",
+      "Salvador Dali",
+      "Louis Aragon",
+      "Pierre Reverdy"
+    ],
+    "answer": "Paul Eluard"
+  },
+  {
+    "question": "The core aim of Imagism was to:",
+    "options": [
+      "Revive Victorian poetic forms",
+      "Explore dream states",
+      "Use clear, precise imagery",
+      "Promote political ideals"
+    ],
+    "answer": "Use clear, precise imagery"
+  },
+  {
+    "question": "The poem 'In Station of the Metro' consists of how many words?",
+    "options": [
+      "10",
+      "15",
+      "17",
+      "12"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "Who edited the 1930 Post-Imagist Anthology?",
+    "options": [
+      "Ezra Pound",
+      "Amy Lowell",
+      "Richard Aldington",
+      "H. D."
+    ],
+    "answer": "Richard Aldington"
+  },
+  {
+    "question": "The Jindyworobak movement drew inspiration from which of the following?",
+    "options": [
+      "American Modernism",
+      "German Expressionism",
+      "Australian Bush Ballad Tradition",
+      "French Symbolism"
+    ],
+    "answer": "Australian Bush Ballad Tradition"
+  },
+  {
+    "question": "Which of the following is NOT a member of the Jindyworobak movement?",
+    "options": [
+      "Ian Mudie",
+      "Nancy Cato",
+      "Judith Wright",
+      "William Hart Smith"
+    ],
+    "answer": "Judith Wright"
+  },
+  {
+    "question": "Which generation of the Frankfurt School is associated with Axel Honneth?",
+    "options": [
+      "First",
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "answer": "Third"
+  },
+  {
+    "question": "Where was the Frankfurt School originally located before relocating to the USA?",
+    "options": [
+      "Berlin",
+      "Zurich",
+      "Munich",
+      "Frankfurt"
+    ],
+    "answer": "Frankfurt"
+  },
+  {
+    "question": "Which member of the Frankfurt School wrote about aesthetics and music?",
+    "options": [
+      "Max Horkheimer",
+      "Herbert Marcuse",
+      "Walter Benjamin",
+      "Theodor Adorno"
+    ],
+    "answer": "Theodor Adorno"
+  },
+  {
+    "question": "Which of these is a central theme in Beat Generation literature?",
+    "options": [
+      "Royalty and Nobility",
+      "Industrial Revolution",
+      "Spiritual quest and non-conformity",
+      "Scientific advancements"
+    ],
+    "answer": "Spiritual quest and non-conformity"
+  },
+  {
+    "question": "Which Beat Generation work was published in 1956?",
+    "options": [
+      "Naked Lunch",
+      "On the Road",
+      "Howl",
+      "The Subterraneans"
+    ],
+    "answer": "Howl"
+  },
+  {
+    "question": "Which art form was central to the Harlem Renaissance?",
+    "options": [
+      "Photography",
+      "Architecture",
+      "African-American literature and music",
+      "Realist sculpture"
+    ],
+    "answer": "African-American literature and music"
+  },
+  {
+    "question": "The Harlem Renaissance is also known as the:",
+    "options": [
+      "New Negro Movement",
+      "Black Power Movement",
+      "Soul Renaissance",
+      "Jazz Age"
+    ],
+    "answer": "New Negro Movement"
+  },
+  {
+    "question": "Who authored the 1925 anthology 'The New Negro'?",
+    "options": [
+      "Langston Hughes",
+      "Claude McKay",
+      "Alain Locke",
+      "Zora Neale Hurston"
+    ],
+    "answer": "Alain Locke"
+  },
+  {
+    "question": "Which American Realist writer is known for 'The Adventures of Tom Sawyer'?",
+    "options": [
+      "William Dean Howells",
+      "Stephen Crane",
+      "Mark Twain",
+      "Henry James"
+    ],
+    "answer": "Mark Twain"
+  },
+  {
+    "question": "Which American novel by Stephen Crane depicts a Civil War soldier?",
+    "options": [
+      "Maggie: A Girl of the Streets",
+      "Sister Carrie",
+      "McTeague",
+      "The Red Badge of Courage"
+    ],
+    "answer": "The Red Badge of Courage"
+  },
+  {
+    "question": "Which female author contributed to American Naturalism with 'Ethan Frome'?",
+    "options": [
+      "Harriet Beecher Stowe",
+      "Kate Chopin",
+      "Edith Wharton",
+      "Louisa May Alcott"
+    ],
+    "answer": "Edith Wharton"
+  },
+  {
+    "question": "The term 'Shoah' refers specifically to:",
+    "options": [
+      "The Nazi propaganda",
+      "The Holocaust",
+      "A peace treaty",
+      "The resistance movement"
+    ],
+    "answer": "The Holocaust"
+  },
+  {
+    "question": "How many Jews were systematically killed during the Holocaust?",
+    "options": [
+      "Four million",
+      "Five million",
+      "Six million",
+      "Seven million"
+    ],
+    "answer": "Six million"
+  }
+]
+
+
+
+
+
+
+
+
+
+

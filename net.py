@@ -9,15 +9,18 @@ QUIZ_SIZE = 20
 st.title("📘 UGC-NET English Literature Quiz")
 st.subheader("Choose Quiz Type:")
 
-# Quiz type selector
-quiz_type = st.selectbox("Quiz Type", ["MCQs", "Chronology"])
+# Updated quiz type selector
+quiz_type = st.selectbox("Quiz Type", ["Indian Literature", "Cultural Studies", "Chronology"])
 
-# Load appropriate JSON file
-if quiz_type == "MCQs":
+# Load the appropriate JSON file
+if quiz_type == "Indian Literature":
     json_file = "chapterOne.json"
+elif quiz_type == "Cultural Studies":
+    json_file = "chapterTwo.json"
 else:
     json_file = "chronology.json"
 
+# Load questions
 with open(json_file, "r", encoding="utf-8") as f:
     all_questions = json.load(f)
 
@@ -43,21 +46,16 @@ if "shuffled_options" not in st.session_state or st.session_state.get("quiz_id")
 st.subheader(f"{quiz_type} — Quiz {quiz_index}")
 user_answers = []
 
-# Render quiz for Chronology
+# Chronology-based rendering
 if quiz_type == "Chronology":
-    # st.subheader(f"{quiz_type} — Quiz {quiz_index}")
-
     for idx, q in enumerate(selected_questions):
         st.markdown(f"---\n### Q{idx + 1}: {q['question']}")
-
-        # Show the 4 actual works/lines
         st.markdown(f"A. {q['works'][0]}")
         st.markdown(f"B. {q['works'][1]}")
         st.markdown(f"C. {q['works'][2]}")
         st.markdown(f"D. {q['works'][3]}")
         st.markdown("")
 
-        # Show options (shuffled sequences)
         options = st.session_state.shuffled_options[idx]
         user_ans = st.radio("Choose the correct order:", options, key=f"chrono_q{idx}")
 
@@ -68,11 +66,8 @@ if quiz_type == "Chronology":
             else:
                 st.error(f"❌ Incorrect. Your answer: {user_ans} | Correct: {correct}")
 
+# MCQ-based rendering (Indian Lit / Cultural Studies)
 else:
-    # Original MCQ-style quiz
-    # st.subheader(f"{quiz_type} — Quiz {quiz_index}")
-    user_answers = []
-
     with st.form("quiz_form"):
         for idx, q in enumerate(selected_questions):
             st.markdown(f"---\n### Q{idx + 1}. {q['question']}")
@@ -92,5 +87,3 @@ else:
             else:
                 st.error(f"❌ Q{idx + 1}: Wrong. Your answer: {user_ans} | Correct: {correct}")
         st.markdown(f"### ✅ Final Score: **{score}/{len(selected_questions)}**")
-
-
