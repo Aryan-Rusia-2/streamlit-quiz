@@ -5,54 +5,92 @@ import random
 # Constants
 QUIZ_SIZE = 20
 
-# Load questions
-with open("chapterOne.json", "r", encoding="utf-8") as f:
+# Title
+st.title("📘 UGC-NET English Literature Quiz")
+st.subheader("Choose Quiz Type:")
+
+# Quiz type selector
+quiz_type = st.selectbox("Quiz Type", ["MCQs", "Chronology"])
+
+# Load appropriate JSON file
+if quiz_type == "MCQs":
+    json_file = "chapterOne.json"
+else:
+    json_file = "chronology.json"
+
+with open(json_file, "r", encoding="utf-8") as f:
     all_questions = json.load(f)
 
 # Create quiz sets
 quiz_sets = [all_questions[i:i + QUIZ_SIZE] for i in range(0, len(all_questions), QUIZ_SIZE)]
 total_quizzes = len(quiz_sets)
 
-# Title
-st.title("📘 UGC-NET English MCQ Quiz App")
-st.subheader("Indian Literature")
-
-# Select quiz
+# Quiz Set selector
 quiz_index = st.selectbox(f"Choose a Quiz Set (Total: {total_quizzes})", list(range(1, total_quizzes + 1)))
 selected_questions = quiz_sets[quiz_index - 1]
 
 # Shuffle options once
-if "shuffled_options" not in st.session_state or st.session_state.get("quiz_id") != quiz_index:
+quiz_key = f"{quiz_type}_quiz{quiz_index}"
+if "shuffled_options" not in st.session_state or st.session_state.get("quiz_id") != quiz_key:
     st.session_state.shuffled_options = []
     for q in selected_questions:
         opts = q['options'][:]
         random.shuffle(opts)
         st.session_state.shuffled_options.append(opts)
-    st.session_state.quiz_id = quiz_index
+    st.session_state.quiz_id = quiz_key
 
 # Render quiz
-st.subheader(f"Quiz {quiz_index} — {QUIZ_SIZE} Questions")
+st.subheader(f"{quiz_type} — Quiz {quiz_index}")
 user_answers = []
 
-with st.form("quiz_form"):
+# Render quiz for Chronology
+if quiz_type == "Chronology":
+    # st.subheader(f"{quiz_type} — Quiz {quiz_index}")
+
     for idx, q in enumerate(selected_questions):
-        st.markdown(f"**Q{idx + 1}. {q['question']}**")
+        st.markdown(f"---\n### Q{idx + 1}: {q['question']}")
+
+        # Show the 4 actual works/lines
+        st.markdown(f"A. {q['works'][0]}")
+        st.markdown(f"B. {q['works'][1]}")
+        st.markdown(f"C. {q['works'][2]}")
+        st.markdown(f"D. {q['works'][3]}")
+        st.markdown("")
+
+        # Show options (shuffled sequences)
         options = st.session_state.shuffled_options[idx]
-        answer = st.radio("Choose one:", options, key=f"q{idx}")
-        user_answers.append(answer)
-    submitted = st.form_submit_button("Submit")
+        user_ans = st.radio("Choose the correct order:", options, key=f"chrono_q{idx}")
 
-# Feedback under each question
-if submitted:
-    st.markdown("### 🧾 Feedback:")
+        if st.button(f"Submit Q{idx + 1}", key=f"submit_{idx}"):
+            correct = q["answer"]
+            if user_ans == correct:
+                st.success(f"✅ Correct! ({correct})")
+            else:
+                st.error(f"❌ Incorrect. Your answer: {user_ans} | Correct: {correct}")
 
-    score = 0
-    for idx, (q, user_ans) in enumerate(zip(selected_questions, user_answers)):
-        correct = q['answer']
-        if user_ans == correct:
-            st.success(f"✅ Q{idx + 1}: Correct ({correct})")
-            score += 1
-        else:
-            st.error(f"❌ Q{idx + 1}: Wrong. Your answer: {user_ans} | Correct: {correct}")
+else:
+    # Original MCQ-style quiz
+    # st.subheader(f"{quiz_type} — Quiz {quiz_index}")
+    user_answers = []
 
-    st.markdown(f"### ✅ Final Score: **{score}/{QUIZ_SIZE}**")
+    with st.form("quiz_form"):
+        for idx, q in enumerate(selected_questions):
+            st.markdown(f"---\n### Q{idx + 1}. {q['question']}")
+            options = st.session_state.shuffled_options[idx]
+            answer = st.radio("Choose one:", options, key=f"q{idx}")
+            user_answers.append(answer)
+        submitted = st.form_submit_button("Submit")
+
+    if submitted:
+        st.markdown("### 🧾 Feedback:")
+        score = 0
+        for idx, (q, user_ans) in enumerate(zip(selected_questions, user_answers)):
+            correct = q['answer']
+            if user_ans == correct:
+                st.success(f"✅ Q{idx + 1}: Correct ({correct})")
+                score += 1
+            else:
+                st.error(f"❌ Q{idx + 1}: Wrong. Your answer: {user_ans} | Correct: {correct}")
+        st.markdown(f"### ✅ Final Score: **{score}/{len(selected_questions)}**")
+
+

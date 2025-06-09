@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Gitanjali – Rabindranath Tagore",
+      "(B) Cry, the Peacock – Anita Desai",
+      "(C) The Foreigner – Arun Joshi",
+      "(D) Ghasiram Kotwal – Vijay Tendulkar"
+    ],
+    "options": [
+      "A, C, B, D",
+      "A, B, C, D",
+      "C, A, D, B",
+      "D, A, B, C"
+    ],
+    "answer": "A, C, B, D"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Kanthapura – Raja Rao",
+      "(B) The God of Small Things – Arundhati Roy",
+      "(C) The Financial Expert – R. K. Narayan",
+      "(D) A Bend in the Ganges – Manohar Malgonkar"
+    ],
+    "options": [
+      "C, A, D, B",
+      "A, C, D, B",
+      "D, C, A, B",
+      "A, B, C, D"
+    ],
+    "answer": "C, A, D, B"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) The Empire Writes Back",
+      "(B) Nation and Narration",
+      "(C) Culture and Imperialism",
+      "(D) The Twice-Born Fiction"
+    ],
+    "options": [
+      "D, A, B, C",
+      "A, D, B, C",
+      "C, B, A, D",
+      "B, A, D, C"
+    ],
+    "answer": "D, A, B, C"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Culture and Society",
+      "(B) Culture and Anarchy",
+      "(C) To Hell with Culture",
+      "(D) Studies in Dying Culture"
+    ],
+    "options": [
+      "B, A, D, C",
+      "A, B, D, C",
+      "C, B, A, D",
+      "B, C, D, A"
+    ],
+    "answer": "B, A, D, C"
+  },
+  {
+    "question": "Arrange the following in chronological order of publication:",
+    "works": [
+      "(A) Mythologies",
+      "(B) Of Grammatology",
+      "(C) Culture and Society",
+      "(D) Blindness and Insight"
+    ],
+    "options": [
+      "C, A, D, B",
+      "A, D, C, B",
+      "C, D, B, A",
+      "D, C, A, B"
+    ],
+    "answer": "C, A, D, B"
+  },
+  {
+    "question": "Arrange the following in order of release:",
+    "works": [
+      "(A) Nagamandala – Girish Karnad",
+      "(B) Tughlaq – Girish Karnad",
+      "(C) Yayati – Girish Karnad",
+      "(D) Hayavadana – Girish Karnad"
+    ],
+    "options": [
+      "C, B, D, A",
+      "B, C, A, D",
+      "A, D, C, B",
+      "D, A, B, C"
+    ],
+    "answer": "C, B, D, A"
+  },
+  {
+    "question": "Arrange the following novels by Anita Desai in order of release:",
+    "works": [
+      "(A) Voices in the City",
+      "(B) Bye Bye Blackbird",
+      "(C) Where Shall We Go This Summer?",
+      "(D) Clear Light of Day"
+    ],
+    "options": [
+      "A, B, C, D",
+      "B, A, D, C",
+      "B, A, C, D",
+      "C, D, A, B"
+    ],
+    "answer": "A, B, C, D"
+  },
+  {
+    "question": "Arrange the following works in chronological order of release:",
+    "works": [
+      "(A) Ghare Baire – Rabindranath Tagore",
+      "(B) The Gardener – Rabindranath Tagore",
+      "(C) The Book of The Religion of Man – Rabindranath Tagore",
+      "(D) Gitanjali – Rabindranath Tagore"
+    ],
+    "options": [
+      "A, D, B, C",
+      "D, A, B, C",
+      "B, D, A, C",
+      "B, C, A, D"
+    ],
+    "answer": "B, D, A, C"
+  },
+  {
+    "question": "Arrange the following novels in chronological order:",
+    "works": [
+      "(A) Tess of the D’Urbervilles",
+      "(B) Kim",
+      "(C) The Time Machine",
+      "(D) A Portrait of the Artist as a Young Man"
+    ],
+    "options": [
+      "A, C, B, D",
+      "A, B, C, D",
+      "B, C, A, D",
+      "C, A, D, B"
+    ],
+    "answer": "A, C, B, D"
+  },
+  {
+    "question": "Arrange the following in order of publication:",
+    "works": [
+      "(A) Writing Degree Zero",
+      "(B) Mythologies",
+      "(C) The Empire of Signs",
+      "(D) The Pleasure of the Text"
+    ],
+    "options": [
+      "B, A, D, C",
+      "A, B, D, C",
+      "B, D, C, A",
+      "A, D, C, B"
+    ],
+    "answer": "B, A, D, C"
+  }
+]
