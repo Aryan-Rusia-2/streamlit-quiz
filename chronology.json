@@ -123,7 +123,7 @@
       "A, D, B, C",
       "D, A, B, C",
       "B, D, A, C",
-      "B, C, A, D"
+      "D, B, A, C"
     ],
     "answer": "D, B, A, C"
   },
@@ -296,12 +296,12 @@
       "(D) Interpreter of Maladies – Jhumpa Lahiri"
     ],
     "options": [
-      "C, A, D, B",
+      "C, A, B, D",
       "A, C, D, B",
       "C, D, A, B",
       "D, B, A, C"
     ],
-    "answer": "C, A, D, B"
+    "answer": "C, A, B, D"
   },
   {
     "question": "Arrange the following in chronological order of publication:",
@@ -317,7 +317,7 @@
       "C, B, D, A",
       "C, D, A, B"
     ],
-    "answer": "C, D, B, A"
+    "answer": "C, D, A, B"
   },
   {
     "question": "Arrange the following in chronological order of publication:",
