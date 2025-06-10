@@ -10,13 +10,15 @@ st.title("📘 UGC-NET English Literature Quiz")
 st.subheader("Choose Quiz Type:")
 
 # Updated quiz type selector
-quiz_type = st.selectbox("Quiz Type", ["Indian Literature", "Cultural Studies", "Chronology"])
+quiz_type = st.selectbox("Quiz Type", ["Indian Literature", "Cultural Studies", "Chronology", "Literary Theory"])
 
 # Load the appropriate JSON file
 if quiz_type == "Indian Literature":
     json_file = "chapterOne.json"
 elif quiz_type == "Cultural Studies":
     json_file = "chapterTwo.json"
+elif quiz_type == "Literary Theory":
+    json_file = "chapterThree.json"
 else:
     json_file = "chronology.json"
 

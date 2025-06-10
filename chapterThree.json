@@ -1,0 +1,3409 @@
+[
+  {
+    "question": "What was the real name of Plato?",
+    "options": ["Socrates", "Aristocle", "Pythagoras", "Epicurus"],
+    "answer": "Aristocle"
+  },
+  {
+    "question": "According to Plato’s Theory of Mimesis, art is an imitation of:",
+    "options": ["Reality", "An illusion", "An imitation", "Nature"],
+    "answer": "An imitation"
+  },
+  {
+    "question": "Why did Plato disapprove of poetry?",
+    "options": ["Because it is immoral", "Because it distorts reality", "Because it is based on falsehood", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "In Plato’s example of a carpenter and a chair, who is twice removed from reality?",
+    "options": ["Carpenter", "Painter", "Poet", "Philosopher"],
+    "answer": "Painter"
+  },
+  {
+    "question": "Which work by Plato had a strong influence on Thomas More’s Utopia?",
+    "options": ["Phaedrus", "The Republic", "Parmenides", "Theaetetus"],
+    "answer": "The Republic"
+  },
+  {
+    "question": "According to Plato, which is better: Philosophy or Poetry?",
+    "options": ["Poetry", "Philosophy", "Both are equal", "Neither"],
+    "answer": "Philosophy"
+  },
+  {
+    "question": "How many genuine dialogues did Plato write?",
+    "options": ["20", "36", "12", "50"],
+    "answer": "36"
+  },
+  {
+    "question": "What does Plato call poets in terms of truth?",
+    "options": ["Seekers of truth", "Breeders of falsehood", "Philosophers", "Historians"],
+    "answer": "Breeders of falsehood"
+  },
+  {
+    "question": "In The Republic, how many books did Plato write?",
+    "options": ["5", "8", "10", "12"],
+    "answer": "10"
+  },
+  {
+    "question": "Which musical modes did Plato recommend in The Republic?",
+    "options": ["Ionian and Dorian", "Lydian and Ionian", "Phrygian and Mixolydian", "Aeolian and Bochian"],
+    "answer": "Lydian and Ionian"
+  },
+  {
+    "question": "Plato’s Theory of Mimesis states that art is an imitation of what?",
+    "options": ["An idea", "An object", "An imitation", "A dream"],
+    "answer": "An imitation"
+  },
+  {
+    "question": "Which of the following was NOT one of Plato’s objections to poetry?",
+    "options": ["Educational", "Philosophical", "Moral", "Economic"],
+    "answer": "Economic"
+  },
+  {
+    "question": "What is the term Plato used for the speech of a character directly reproduced?",
+    "options": ["Digenesis", "Mimesis", "Dialectic", "Rhetoric"],
+    "answer": "Mimesis"
+  },
+  {
+    "question": "In Plato’s philosophy, what is considered more important than the pleasure of poetry?",
+    "options": ["Artistic expression", "Truth of philosophy", "Popularity", "Emotional impact"],
+    "answer": "Truth of philosophy"
+  },
+  {
+    "question": "Which dialogue discusses the privileging of speech over writing?",
+    "options": ["The Republic", "Phaedrus", "Parmenides", "Theaetetus"],
+    "answer": "Phaedrus"
+  },
+  {
+    "question": "What age did Plato consider ideal for a poet?",
+    "options": ["Less than 30 years", "Less than 40 years", "Less than 50 years", "More than 50 years"],
+    "answer": "Less than 50 years"
+  },
+  {
+    "question": "Who ruled the ideal city 'Kallipolis' in The Republic?",
+    "options": ["Philosopher kings", "Democrats", "Aristocrats", "Military generals"],
+    "answer": "Philosopher kings"
+  },
+  {
+    "question": "What type of government does Plato define as 'Timocracy'?",
+    "options": ["Government of philosophers", "Government of the wealthy", "Government of people who love, rule and honour", "Government of the military"],
+    "answer": "Government of people who love, rule and honour"
+  },
+  {
+    "question": "How many musical modes did Plato introduce in The Republic?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "Which of these is NOT one of the musical modes introduced by Plato?",
+    "options": ["Ionian", "Dorian", "Mixolydian", "Harmonic"],
+    "answer": "Harmonic"
+  },
+  {
+    "question": "Who was Aristotle a disciple of?",
+    "options": ["Socrates", "Plato", "Pythagoras", "Epicurus"],
+    "answer": "Plato"
+  },
+  {
+    "question": "What is Aristotle’s attitude towards poetry compared to Plato?",
+    "options": [
+      "He condemned it more strongly",
+      "He regarded mimesis as a natural healthy impulse",
+      "He agreed that poetry is twice removed from reality",
+      "He ignored poetry altogether"
+    ],
+    "answer": "He regarded mimesis as a natural healthy impulse"
+  },
+  {
+    "question": "Which of these is a critical treatise by Aristotle?",
+    "options": ["The Poetics", "The Republic", "The Rhetoric", "Both A and C"],
+    "answer": "Both A and C"
+  },
+  {
+    "question": "According to Aristotle, which part of poetry is the most developed?",
+    "options": ["Comedy", "Tragedy", "Epic", "Lyric"],
+    "answer": "Tragedy"
+  },
+  {
+    "question": "How did Aristotle respond to Plato’s charge that poetry is removed from truth?",
+    "options": [
+      "He agreed fully",
+      "He said it leads us to the essential reality of life",
+      "He said poetry is meaningless",
+      "He said poetry is only entertainment"
+    ],
+    "answer": "He said it leads us to the essential reality of life"
+  },
+  {
+    "question": "According to Aristotle, what does tragedy produce in the audience?",
+    "options": ["Confusion", "A better state of mind", "Boredom", "Fear only"],
+    "answer": "A better state of mind"
+  },
+  {
+    "question": "What did Aristotle say is the function shared by philosophy and poetry?",
+    "options": [
+      "They teach ethics directly",
+      "They have an identical function",
+      "They are opposites",
+      "Poetry is superior"
+    ],
+    "answer": "They have an identical function"
+  },
+  {
+    "question": "What did Aristotle say about the emotional effect of poetry?",
+    "options": [
+      "It makes people weak and sentimental",
+      "It aims to please and teaches civic morality",
+      "It is harmful to emotions",
+      "It has no emotional effect"
+    ],
+    "answer": "It aims to please and teaches civic morality"
+  },
+  {
+    "question": "What are the three aspects Aristotle used to classify art?",
+    "options": [
+      "Object, Medium, Manner",
+      "Plot, Character, Thought",
+      "Diction, Melody, Spectacle",
+      "Form, Content, Style"
+    ],
+    "answer": "Object, Medium, Manner"
+  },
+  {
+    "question": "How did Aristotle define tragedy?",
+    "options": [
+      "A serious imitation of action producing catharsis",
+      "A humorous imitation of life",
+      "A mere narration of events",
+      "An imitation of nature’s beauty"
+    ],
+    "answer": "A serious imitation of action producing catharsis"
+  },
+  {
+    "question": "What is the meaning of 'Catharsis' in Aristotle’s theory?",
+    "options": [
+      "Purgation of pity and fear",
+      "Joyful celebration",
+      "Confusion and chaos",
+      "Moral instruction"
+    ],
+    "answer": "Purgation of pity and fear"
+  },
+  {
+    "question": "Which part of a play does Aristotle call 'Climax'?",
+    "options": ["Act I", "Act II", "Act III", "Act V"],
+    "answer": "Act III"
+  },
+  {
+    "question": "What is 'Hamartia' according to Aristotle?",
+    "options": [
+      "A tragic flaw or error of judgment",
+      "A plot twist",
+      "A type of melody",
+      "A comic relief"
+    ],
+    "answer": "A tragic flaw or error of judgment"
+  },
+  {
+    "question": "What is 'Peripetia' in Aristotle’s theory?",
+    "options": [
+      "The exposition of a play",
+      "The reversal of fortune",
+      "The resolution",
+      "The moment of recognition"
+    ],
+    "answer": "The reversal of fortune"
+  },
+  {
+    "question": "What does 'Anagnorisis' mean in tragedy?",
+    "options": [
+      "Moment of recognition or discovery",
+      "Climax of the story",
+      "Final catastrophe",
+      "Introduction to characters"
+    ],
+    "answer": "Moment of recognition or discovery"
+  },
+  {
+    "question": "How many chapters are there in Aristotle’s Poetics?",
+    "options": ["10", "15", "20", "26"],
+    "answer": "26"
+  },
+  {
+    "question": "Who was Aristotle’s famous student?",
+    "options": ["Alexander the Great", "Plato", "Socrates", "Pythagoras"],
+    "answer": "Alexander the Great"
+  },
+  {
+    "question": "What does Aristotle’s term 'Entelechy' mean?",
+    "options": [
+      "Something that is currently happening",
+      "A tragic flaw",
+      "A musical mode",
+      "An error in judgment"
+    ],
+    "answer": "Something that is currently happening"
+  },
+  {
+    "question": "According to Aristotle, which is the most important part of tragedy?",
+    "options": ["Plot", "Character", "Diction", "Melody"],
+    "answer": "Plot"
+  },
+  {
+    "question": "What is the final part of a tragedy called?",
+    "options": ["Denouement", "Catastrophe", "Exposition", "Climax"],
+    "answer": "Catastrophe"
+  },
+  {
+    "question": "Which art form did Aristotle consider lost?",
+    "options": ["Tragedy", "Comedy", "Epic", "Lyric"],
+    "answer": "Comedy"
+  },
+  {
+    "question": "What does Aristotle call the overall visual appearance of the stage and actors?",
+    "options": ["Diction", "Melody", "Spectacle", "Plot"],
+    "answer": "Spectacle"
+  },
+  {
+    "question": "In Aristotle's structure of a play, what is Act I called?",
+    "options": ["Exposition", "Climax", "Resolution", "Catastrophe"],
+    "answer": "Exposition"
+  },
+  {
+    "question": "What did Aristotle say poetry teaches besides pleasing?",
+    "options": ["Civic morality", "Philosophy", "History", "Science"],
+    "answer": "Civic morality"
+  },
+  {
+    "question": "Which is NOT one of Aristotle’s six parts of tragedy?",
+    "options": ["Plot", "Character", "Tone", "Thought"],
+    "answer": "Tone"
+  },
+  {
+    "question": "What does 'Ethos' refer to in Aristotle’s parts of tragedy?",
+    "options": ["Plot", "Character", "Thought", "Diction"],
+    "answer": "Character"
+  },
+  {
+    "question": "Aristotle's concept of 'Mythos' refers to which part of tragedy?",
+    "options": ["Plot", "Thought", "Diction", "Melody"],
+    "answer": "Plot"
+  },
+  {
+    "question": "Which charge of Plato did Aristotle reject?",
+    "options": [
+      "Poetry is immoral",
+      "Poetry is twice removed from reality",
+      "Poetry makes people weak and sentimental",
+      "Poetry has no artistic value"
+    ],
+    "answer": "Poetry makes people weak and sentimental"
+  },
+  {
+    "question": "According to Aristotle, what is the medium of imitation in poetry?",
+    "options": ["Language", "Visual arts", "Dance", "Music"],
+    "answer": "Language"
+  },
+  {
+    "question": "Aristotle’s Rhetoric deals primarily with:",
+    "options": ["The art of speaking", "The structure of tragedy", "Philosophical ethics", "Poetry writing"],
+    "answer": "The art of speaking"
+  },
+  {
+    "question": "Who was Longinus?",
+    "options": [
+      "A Greek teacher of rhetoric and literary critic",
+      "A Roman poet",
+      "An Egyptian philosopher",
+      "A medieval theologian"
+    ],
+    "answer": "A Greek teacher of rhetoric and literary critic"
+  },
+  {
+    "question": "What is the title of Longinus's well-known treatise?",
+    "options": [
+      "On the Sublime",
+      "The Republic",
+      "Poetics",
+      "The Rhetoric"
+    ],
+    "answer": "On the Sublime"
+  },
+  {
+    "question": "How is 'On the Sublime' primarily written?",
+    "options": [
+      "In epistolary form",
+      "As a dialogue",
+      "As a poem",
+      "As a play"
+    ],
+    "answer": "In epistolary form"
+  },
+  {
+    "question": "To whom is Longinus's treatise 'On the Sublime' dedicated?",
+    "options": [
+      "Posthumious Terentianus",
+      "Alexander the Great",
+      "Plato",
+      "Aristotle"
+    ],
+    "answer": "Posthumious Terentianus"
+  },
+  {
+    "question": "What does the term 'Sublime' mean according to Longinus?",
+    "options": [
+      "Loftiness and excellence in language",
+      "Complexity of ideas",
+      "Length of a literary work",
+      "Simplicity in style"
+    ],
+    "answer": "Loftiness and excellence in language"
+  },
+  {
+    "question": "Which sacred text does Longinus refer to in 'On the Sublime'?",
+    "options": [
+      "Genesis (1st chapter of Bible)",
+      "The Quran",
+      "The Bhagavad Gita",
+      "The Iliad"
+    ],
+    "answer": "Genesis (1st chapter of Bible)"
+  },
+  {
+    "question": "What quality must authors have to be truly great according to Longinus?",
+    "options": [
+      "Moral excellence",
+      "Wealth",
+      "Fame",
+      "Technical skill only"
+    ],
+    "answer": "Moral excellence"
+  },
+  {
+    "question": "Who called Longinus the ‘first romantic critic’?",
+    "options": [
+      "Scott James",
+      "Samuel Taylor Coleridge",
+      "Matthew Arnold",
+      "T.S. Eliot"
+    ],
+    "answer": "Scott James"
+  },
+  {
+    "question": "Which English poet’s work sums up Longinus’s teachings on poetry?",
+    "options": [
+      "Alexander Pope",
+      "John Milton",
+      "William Wordsworth",
+      "Geoffrey Chaucer"
+    ],
+    "answer": "Alexander Pope"
+  },
+  {
+    "question": "According to Longinus, how many principle sources of the sublime are there?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5"
+  },
+  {
+    "question": "Which of the following is NOT one of the sources of the sublime according to Longinus?",
+    "options": [
+      "Grandeur of thought",
+      "Vivid portrayal of passion",
+      "Use of figures of speech",
+      "Length of the work"
+    ],
+    "answer": "Length of the work"
+  },
+  {
+    "question": "The first two sources of the sublime are related to:",
+    "options": [
+      "Natural capacities of the author",
+      "Rhetorical skills",
+      "Length and structure",
+      "Historical context"
+    ],
+    "answer": "Natural capacities of the author"
+  },
+  {
+    "question": "What is the first source of the sublime?",
+    "options": [
+      "Grandeur of thought",
+      "Appropriate diction",
+      "Melodic composition",
+      "Figures of speech"
+    ],
+    "answer": "Grandeur of thought"
+  },
+  {
+    "question": "According to Longinus, how can one attain grandeur of thought?",
+    "options": [
+      "By imitating great masters",
+      "By copying famous writers mechanically",
+      "By reading many short poems",
+      "By avoiding strong emotions"
+    ],
+    "answer": "By imitating great masters"
+  },
+  {
+    "question": "What is the second source of the sublime?",
+    "options": [
+      "Vivid portrayal of passion",
+      "Dignity of composition",
+      "Use of metaphor",
+      "Rhythmic harmony"
+    ],
+    "answer": "Vivid portrayal of passion"
+  },
+  {
+    "question": "According to Longinus, what kind of emotion contributes most to sublimity?",
+    "options": [
+      "Genuine emotion in the right place",
+      "Forced emotion",
+      "Indifference",
+      "Mild amusement"
+    ],
+    "answer": "Genuine emotion in the right place"
+  },
+  {
+    "question": "How much of 'On the Sublime' does Longinus devote to figures of speech?",
+    "options": [
+      "About one third",
+      "Less than one tenth",
+      "Half",
+      "Nearly all"
+    ],
+    "answer": "About one third"
+  },
+  {
+    "question": "Which of these is NOT a chief figure of speech mentioned by Longinus?",
+    "options": [
+      "Asyndeton",
+      "Hyperbaton",
+      "Alliteration",
+      "Periphrasis"
+    ],
+    "answer": "Alliteration"
+  },
+  {
+    "question": "What does Longinus say about the use of figures of speech?",
+    "options": [
+      "They should be used naturally, not mechanically",
+      "They should be used as often as possible",
+      "They should be avoided",
+      "They are only for comedic effect"
+    ],
+    "answer": "They should be used naturally, not mechanically"
+  },
+  {
+    "question": "What does ‘Nobility of Diction’ include according to Longinus?",
+    "options": [
+      "Choice and arrangement of words, metaphors, and ornamental language",
+      "Lengthy sentences",
+      "Simple words only",
+      "Technical jargon"
+    ],
+    "answer": "Choice and arrangement of words, metaphors, and ornamental language"
+  },
+  {
+    "question": "Which of these is considered an ornament of speech by Longinus?",
+    "options": [
+      "Metaphor",
+      "Alliteration",
+      "Simile",
+      "Irony"
+    ],
+    "answer": "Metaphor"
+  },
+  {
+    "question": "What is meant by ‘Dignity of Composition’?",
+    "options": [
+      "Harmonious blend of thought, emotion, figures, and words",
+      "Using very long sentences",
+      "Avoiding emotions",
+      "Simple story structure"
+    ],
+    "answer": "Harmonious blend of thought, emotion, figures, and words"
+  },
+  {
+    "question": "What is a feature of the true sublime?",
+    "options": [
+      "Universality of appeal",
+      "Bombastic language",
+      "Timidity in style",
+      "Puerility"
+    ],
+    "answer": "Universality of appeal"
+  },
+  {
+    "question": "What characterizes the false sublime?",
+    "options": [
+      "Bombast and puerility",
+      "Clear and simple language",
+      "Harmony and rhythm",
+      "Genuine emotion"
+    ],
+    "answer": "Bombast and puerility"
+  },
+  {
+    "question": "Which quotation is by Longinus?",
+    "options": [
+      "\"Sublimity is the echo of the noble mind\"",
+      "\"All that glitters is not gold\"",
+      "\"To be or not to be, that is the question\"",
+      "\"Poetry is the spontaneous overflow of powerful feelings\""
+    ],
+    "answer": "\"Sublimity is the echo of the noble mind\""
+  },
+  {
+    "question": "Longinus said 'Poetry has the character of':",
+    "options": [
+      "Oracle",
+      "History",
+      "Comedy",
+      "Drama"
+    ],
+    "answer": "Oracle"
+  },
+  {
+    "question": "Who was Plotinus?",
+    "options": [
+      "A major philosopher of Neoplatonism",
+      "A Roman senator",
+      "A Greek poet",
+      "A Hindu sage"
+    ],
+    "answer": "A major philosopher of Neoplatonism"
+  },
+  {
+    "question": "Which three elements are central to Plotinus's philosophy?",
+    "options": [
+      "The one, the intellect, the soul",
+      "Body, mind, spirit",
+      "Truth, beauty, goodness",
+      "Earth, air, fire"
+    ],
+    "answer": "The one, the intellect, the soul"
+  },
+  {
+    "question": "What is the name of the work written by Plotinus?",
+    "options": [
+      "Enneads",
+      "The Republic",
+      "On the Sublime",
+      "Poetics"
+    ],
+    "answer": "Enneads"
+  },
+  {
+    "question": "Who was Boethius?",
+    "options": [
+      "A Roman senator and philosopher",
+      "A Greek rhetorician",
+      "A medieval poet",
+      "An Indian philosopher"
+    ],
+    "answer": "A Roman senator and philosopher"
+  },
+  {
+    "question": "Where did Boethius write 'Consolation of Philosophy'?",
+    "options": [
+      "In jail",
+      "In Athens",
+      "In exile",
+      "In Rome"
+    ],
+    "answer": "In jail"
+  },
+  {
+    "question": "Which of these is NOT a work by Boethius?",
+    "options": [
+      "De Arthemetica",
+      "De Musica",
+      "Introductio ad Syllogismos",
+      "The City of Gold"
+    ],
+    "answer": "The City of Gold"
+  },
+  {
+    "question": "St. Augustine is famous for which major work?",
+    "options": [
+      "The City of Gold",
+      "Consolation of Philosophy",
+      "Enneads",
+      "On the Sublime"
+    ],
+    "answer": "The City of Gold"
+  },
+  {
+    "question": "Which of the following is an autobiographical work by St. Augustine?",
+    "options": [
+      "Reading the Confession",
+      "Philosophical Anthropology",
+      "Ontology and Eudemonism",
+      "The Mysterious Women from Northern Africa"
+    ],
+    "answer": "Reading the Confession"
+  },
+  {
+    "question": "Who was Horace?",
+    "options": [
+      "A Roman classicist and poet",
+      "A Greek philosopher",
+      "An Indian aesthetician",
+      "A medieval playwright"
+    ],
+    "answer": "A Roman classicist and poet"
+  },
+  {
+    "question": "What is the title of Horace’s important critical work?",
+    "options": [
+      "Ars Poetica",
+      "Poetics",
+      "The Republic",
+      "The Sublime"
+    ],
+    "answer": "Ars Poetica"
+  },
+  {
+    "question": "What is the main aim of poetry according to Horace?",
+    "options": [
+      "To instruct, delight, or both",
+      "To imitate nature exactly",
+      "To preach morality only",
+      "To entertain without teaching"
+    ],
+    "answer": "To instruct, delight, or both"
+  },
+  {
+    "question": "Which ancient text did Horace's Ars Poetica adapt?",
+    "options": [
+      "Lucretius’ Hellenistic Critic",
+      "Plato’s Republic",
+      "Aristotle’s Poetics",
+      "Longinus’s On the Sublime"
+    ],
+    "answer": "Lucretius’ Hellenistic Critic"
+  },
+  {
+    "question": "What concept did Horace formulate combining usefulness and pleasure?",
+    "options": [
+      "Utile Dulci",
+      "Catharsis",
+      "Mimesis",
+      "Dhvani"
+    ],
+    "answer": "Utile Dulci"
+  },
+  {
+    "question": "What is Indian Aesthetics primarily based on?",
+    "options": [
+      "Hindu views of literature and art",
+      "Greek philosophy",
+      "Roman rhetoric",
+      "Medieval Christian thought"
+    ],
+    "answer": "Hindu views of literature and art"
+  },
+  {
+    "question": "Who propounded the Rasa theory in Indian aesthetics?",
+    "options": [
+      "Bharata Muni",
+      "Ksemendra",
+      "Anandavardhana",
+      "Bhartihari"
+    ],
+    "answer": "Bharata Muni"
+  },
+  {
+    "question": "How many Rasas are there according to Indian aesthetics?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "question": "Which theory emphasizes the suggestive or indirect meaning in literature?",
+    "options": [
+      "Dhvani theory",
+      "Sphota theory",
+      "Alankara theory",
+      "Aucitya theory"
+    ],
+    "answer": "Dhvani theory"
+  },
+  {
+    "question": "Who propounded the Dhvani theory?",
+    "options": [
+      "Anandavardhana",
+      "Bharata Muni",
+      "Ksemendra",
+      "Bhartihari"
+    ],
+    "answer": "Anandavardhana"
+  },
+  {
+    "question": "What is the focus of Sphota theory?",
+    "options": [
+      "How meaning is communicated beyond words and sounds",
+      "Figures of speech",
+      "Dramatic performance",
+      "Rhythm and melody"
+    ],
+    "answer": "How meaning is communicated beyond words and sounds"
+  },
+  {
+    "question": "Which of the following is a figure of speech studied in Alankara?",
+    "options": [
+      "Simile (Upama)",
+      "Rasa",
+      "Dhvani",
+      "Sphota"
+    ],
+    "answer": "Simile (Upama)"
+  },
+  {
+    "question": "What term was applied to Plotinus by new historians?",
+    "options": ["Neoplatonism", "Stoicism", "Epicureanism", "Skepticism"],
+    "answer": "Neoplatonism"
+  },
+  {
+    "question": "Boethius’s full name was:",
+    "options": [
+      "Anicius Manilius Severinus Boethius",
+      "Marcus Tullius Cicero",
+      "Gaius Julius Caesar",
+      "Publius Ovidius Naso"
+    ],
+    "answer": "Anicius Manilius Severinus Boethius"
+  },
+  {
+    "question": "Which is NOT one of Boethius’s works?",
+    "options": [
+      "De Arthemetica",
+      "De Musica",
+      "Introductio ad Syllogismos",
+      "Natya Shastra"
+    ],
+    "answer": "Natya Shastra"
+  },
+  {
+    "question": "St. Augustine was born as:",
+    "options": [
+      "Aurelius Augustinus",
+      "Marcus Aurelius",
+      "Augustus Caesar",
+      "Aurelius Victor"
+    ],
+    "answer": "Aurelius Augustinus"
+  },
+  {
+    "question": "Which book collection contains Horace’s Latin lyric poems?",
+    "options": [
+      "Odes",
+      "Epistles",
+      "Satires",
+      "Georgics"
+    ],
+    "answer": "Odes"
+  },
+  {
+    "question": "Who translated Horace’s Ars Poetica into English in 1556?",
+    "options": [
+      "Thomas Drant",
+      "Ben Jonson",
+      "Alexander Pope",
+      "John Milton"
+    ],
+    "answer": "Thomas Drant"
+  },
+  {
+    "question": "Which element is considered the main element of literariness (Aucitya) developed by Ksemendra?",
+    "options": [
+      "Exactness and appropriateness of expression",
+      "Use of complex metaphors",
+      "Length of the poem",
+      "Emotional appeal"
+    ],
+    "answer": "Exactness and appropriateness of expression"
+  },
+  {
+    "question": "What is Vakrokti in Indian aesthetics?",
+    "options": [
+      "Roundabout saying of things",
+      "Direct statement",
+      "Musical composition",
+      "Dance movement"
+    ],
+    "answer": "Roundabout saying of things"
+  },
+  {
+    "question": "Who propounded the Sphota theory?",
+    "options": [
+      "Bhartihari",
+      "Bharata Muni",
+      "Anandavardhana",
+      "Ksemendra"
+    ],
+    "answer": "Bhartihari"
+  },
+  {
+    "question": "Which theory emphasizes that the universe is sound and different frequencies of vibration?",
+    "options": [
+      "Sruti theory",
+      "Rasa theory",
+      "Dhvani theory",
+      "Sphota theory"
+    ],
+    "answer": "Sruti theory"
+  },
+  {
+    "question": "Who is known as the father of Semiotics?",
+    "options": ["Ferdinand de Saussure", "Charles Sanders Pierce", "Roland Barthes", "Mikhail Bakhtin"],
+    "answer": "Ferdinand de Saussure"
+  },
+  {
+    "question": "What term did Saussure use for Semiotics?",
+    "options": ["Semiology", "Semiotics", "Semantics", "Syntactics"],
+    "answer": "Semiology"
+  },
+  {
+    "question": "What are the two aspects of a sign according to Saussure?",
+    "options": ["Signifier and Signified", "Icon and Index", "Symbol and Referent", "Syntax and Semantics"],
+    "answer": "Signifier and Signified"
+  },
+  {
+    "question": "Which branch of Semiotics deals with the relation between signs and their meanings?",
+    "options": ["Semantics", "Syntactics", "Pragmatics", "Phonetics"],
+    "answer": "Semantics"
+  },
+  {
+    "question": "Which branch of Semiotics studies the relation among signs in formal structure?",
+    "options": ["Syntactics", "Semantics", "Pragmatics", "Morphology"],
+    "answer": "Syntactics"
+  },
+  {
+    "question": "Pragmatics in Semiotics focuses on:",
+    "options": ["Relation between signs and sign-using agents", "Meaning of signs", "Structure of signs", "History of signs"],
+    "answer": "Relation between signs and sign-using agents"
+  },
+  {
+    "question": "Who is NOT an important semiotician?",
+    "options": ["Roland Barthes", "Yuri Lotman", "Mikhail Bakhtin", "Immanuel Kant"],
+    "answer": "Immanuel Kant"
+  },
+  {
+    "question": "The sign where the signifier resembles the signified is called:",
+    "options": ["Iconic Sign", "Indexical Sign", "Symbolic Sign", "Arbitrary Sign"],
+    "answer": "Iconic Sign"
+  },
+  {
+    "question": "The sign where the signifier is caused by the signified is called:",
+    "options": ["Indexical Sign", "Iconic Sign", "Symbolic Sign", "Linguistic Sign"],
+    "answer": "Indexical Sign"
+  },
+  {
+    "question": "Who practiced structural analysis of signs?",
+    "options": ["Roland Barthes", "Charles Sanders Pierce", "Ferdinand de Saussure", "Mikhail Bakhtin"],
+    "answer": "Roland Barthes"
+  },
+  {
+    "question": "Mikhail Bakhtin belonged to which intellectual school?",
+    "options": ["Russian Formalism", "Structuralism", "Postmodernism", "Existentialism"],
+    "answer": "Russian Formalism"
+  },
+  {
+    "question": "Which work by Bakhtin was first published posthumously in 1986?",
+    "options": ["Towards a Philosophy of the Act", "The Dialogic Imagination", "Problems of Dostoyevsky's Poetics", "Rabelais and His World"],
+    "answer": "Towards a Philosophy of the Act"
+  },
+  {
+    "question": "Bakhtin’s schematic modal of the human psyche includes:",
+    "options": ["I-for-Myself, I-for-the-Other, Other-for-me", "Id, Ego, Superego", "Subject, Object, Mediator", "Self, Soul, Spirit"],
+    "answer": "I-for-Myself, I-for-the-Other, Other-for-me"
+  },
+  {
+    "question": "According to Bakhtin, which concept means a person is never fully revealed?",
+    "options": ["Unfinalizable Self", "Polyphony", "Dialogism", "Carnivalesque"],
+    "answer": "Unfinalizable Self"
+  },
+  {
+    "question": "What does Bakhtin’s concept of Polyphony imply?",
+    "options": [
+      "If two people disagree, at least one must be in error",
+      "All voices are harmonious",
+      "Only one truth exists",
+      "Dialogue is impossible"
+    ],
+    "answer": "If two people disagree, at least one must be in error"
+  },
+  {
+    "question": "Bakhtin’s concept of Carnival refers to:",
+    "options": [
+      "A context where distinct individual voices interact",
+      "A formal literary style",
+      "A political revolution",
+      "An ancient festival unrelated to literature"
+    ],
+    "answer": "A context where distinct individual voices interact"
+  },
+  {
+    "question": "Which is NOT one of the four categories of Carnivalesque according to Bakhtin?",
+    "options": [
+      "Familiar and free interaction",
+      "Eccentric behaviour",
+      "Sacrilegious acts",
+      "Monarchical rule"
+    ],
+    "answer": "Monarchical rule"
+  },
+  {
+    "question": "What is a key characteristic of Carnivalesque?",
+    "options": [
+      "Liberation from prevailing truth and order",
+      "Strict adherence to hierarchy",
+      "Formal literary language",
+      "Classical tragedy structure"
+    ],
+    "answer": "Liberation from prevailing truth and order"
+  },
+  {
+    "question": "What Russian word did the Bakhtin School use that means 'Word' or 'Discourse'?",
+    "options": ["Slovo", "Logos", "Doxa", "Ethos"],
+    "answer": "Slovo"
+  },
+  {
+    "question": "Julia Kristeva’s concept of Intertextuality is derived from:",
+    "options": ["Bakhtin’s Dialogism and Saussure’s Signs", "Freud’s Psychoanalysis", "Marx’s Historical Materialism", "Foucault’s Discourse Theory"],
+    "answer": "Bakhtin’s Dialogism and Saussure’s Signs"
+  },
+  {
+    "question": "Which of the following is NOT a branch of Semiotics?",
+    "options": ["Semantics", "Syntactics", "Pragmatics", "Phonology"],
+    "answer": "Phonology"
+  },
+  {
+    "question": "Charles Sanders Pierce is known as:",
+    "options": ["An important semiotician", "The father of modern linguistics", "A Russian philosopher", "A French critic"],
+    "answer": "An important semiotician"
+  },
+  {
+    "question": "The study of signs and sign processes is called:",
+    "options": ["Semiosis", "Syntax", "Phonetics", "Morphology"],
+    "answer": "Semiosis"
+  },
+  {
+    "question": "In Bakhtin’s modal of the human psyche, 'I-for-the-Other' refers to:",
+    "options": [
+      "The self’s perception through others",
+      "One’s inner thoughts",
+      "A social institution",
+      "An external event"
+    ],
+    "answer": "The self’s perception through others"
+  },
+  {
+    "question": "In 'Problems of Dostoyevsky's Poetics', Bakhtin introduced all EXCEPT:",
+    "options": [
+      "Unfinalizable Self",
+      "Dialogism",
+      "Polyphony",
+      "Structuralism"
+    ],
+    "answer": "Structuralism"
+  },
+  {
+    "question": "According to Bakhtin, 'Heteroglossia' means:",
+    "options": [
+      "Co-existence of distinct varieties within a single language",
+      "A single unified language style",
+      "The death of language",
+      "Formal literary language"
+    ],
+    "answer": "Co-existence of distinct varieties within a single language"
+  },
+  {
+    "question": "The 'Chronotope' in Bakhtin's theory relates to:",
+    "options": [
+      "Configurations of time and space in language and discourse",
+      "Musical rhythms",
+      "Plot structure",
+      "Character development"
+    ],
+    "answer": "Configurations of time and space in language and discourse"
+  },
+  {
+    "question": "Bakhtin’s term 'Carnivalesque' is associated with:",
+    "options": [
+      "Humor and chaos subverting dominant styles",
+      "Formal poetic structures",
+      "Political ideologies",
+      "Religious rituals"
+    ],
+    "answer": "Humor and chaos subverting dominant styles"
+  },
+  {
+    "question": "Which work by Bakhtin studies social and literary interactions and the material body?",
+    "options": [
+      "Rabelais and His World",
+      "The Dialogic Imagination",
+      "Problems of Dostoyevsky's Poetics",
+      "Towards a Philosophy of the Act"
+    ],
+    "answer": "Rabelais and His World"
+  },
+  {
+    "question": "The Bakhtin School includes all EXCEPT:",
+    "options": [
+      "Pavel Medvedev",
+      "Valentin Voloshinov",
+      "Julia Kristeva",
+      "Mikhail Bakhtin"
+    ],
+    "answer": "Julia Kristeva"
+  },
+  {
+    "question": "What is Feminist Criticism primarily concerned with?",
+    "options": [
+      "Oppression of women in social, political, economic, and psychological aspects",
+      "The superiority of male authors",
+      "The study of literary devices",
+      "The analysis of classical texts"
+    ],
+    "answer": "Oppression of women in social, political, economic, and psychological aspects"
+  },
+  {
+    "question": "Who coined the term 'Feminism'?",
+    "options": [
+      "Charles Fourier",
+      "Mary Wollstonecraft",
+      "Simone de Beauvoir",
+      "Elaine Showalter"
+    ],
+    "answer": "Charles Fourier"
+  },
+  {
+    "question": "When did the women’s liberation movement, which sparked Feminist Criticism, start?",
+    "options": [
+      "1960s",
+      "1830s",
+      "1990s",
+      "1920s"
+    ],
+    "answer": "1960s"
+  },
+  {
+    "question": "Feminist criticism can be written by:",
+    "options": [
+      "Both male and female authors",
+      "Only female authors",
+      "Only male authors",
+      "Only critics"
+    ],
+    "answer": "Both male and female authors"
+  },
+  {
+    "question": "Which wave of feminism focused on equal education and intellectual achievements?",
+    "options": [
+      "First Wave Feminism",
+      "Second Wave Feminism",
+      "Third Wave Feminism",
+      "Fourth Wave Feminism"
+    ],
+    "answer": "First Wave Feminism"
+  },
+  {
+    "question": "Who wrote 'A Vindication of the Rights of Women'?",
+    "options": [
+      "Mary Wollstonecraft",
+      "Simone de Beauvoir",
+      "Elaine Showalter",
+      "Germaine Greer"
+    ],
+    "answer": "Mary Wollstonecraft"
+  },
+  {
+    "question": "The feminist phase that focused on control over their bodies and fighting single abuse is called:",
+    "options": [
+      "Second Wave Feminism",
+      "First Wave Feminism",
+      "Third Wave Feminism",
+      "Fourth Wave Feminism"
+    ],
+    "answer": "Second Wave Feminism"
+  },
+  {
+    "question": "Which critic coined the term 'Gynocriticism'?",
+    "options": [
+      "Elaine Showalter",
+      "Simone de Beauvoir",
+      "Helene Cixous",
+      "Kate Millet"
+    ],
+    "answer": "Elaine Showalter"
+  },
+  {
+    "question": "Gynocriticism focuses on:",
+    "options": [
+      "Literature written by female authors",
+      "Literature written about women by men",
+      "All feminist literature",
+      "Male perspectives on women"
+    ],
+    "answer": "Literature written by female authors"
+  },
+  {
+    "question": "What are the three stages of female literary tradition according to Elaine Showalter?",
+    "options": [
+      "Feminine, Feminist, Female",
+      "First Wave, Second Wave, Third Wave",
+      "Victorian, Modern, Postmodern",
+      "Masculine, Feminine, Androgynous"
+    ],
+    "answer": "Feminine, Feminist, Female"
+  },
+  {
+    "question": "During which phase did women write using male pseudonyms due to an inferiority complex?",
+    "options": [
+      "Feminine Phase",
+      "Feminist Phase",
+      "Female Phase",
+      "Post-Feminist Phase"
+    ],
+    "answer": "Feminine Phase"
+  },
+  {
+    "question": "What significant achievement marked the Feminist Phase (1882-1920)?",
+    "options": [
+      "Women won the right to vote",
+      "Women began imitating male writers",
+      "Women rejected imitation",
+      "Women published anonymously"
+    ],
+    "answer": "Women won the right to vote"
+  },
+  {
+    "question": "Which phase marks the rejection of imitation and protest in women’s literature?",
+    "options": [
+      "Female Phase",
+      "Feminine Phase",
+      "Feminist Phase",
+      "Fourth Wave Feminism"
+    ],
+    "answer": "Female Phase"
+  },
+  {
+    "question": "Who is considered the first English feminist?",
+    "options": [
+      "Mary Astell",
+      "Mary Wollstonecraft",
+      "Simone de Beauvoir",
+      "Elaine Showalter"
+    ],
+    "answer": "Mary Astell"
+  },
+  {
+    "question": "What is 'Ecriture Feminine'?",
+    "options": [
+      "Feminine or women’s writing characterized by openness and play",
+      "A form of male writing",
+      "Political pamphlets",
+      "Philosophical essays"
+    ],
+    "answer": "Feminine or women’s writing characterized by openness and play"
+  },
+  {
+    "question": "Who coined the term 'Ecriture Feminine'?",
+    "options": [
+      "Helene Cixous",
+      "Elaine Showalter",
+      "Simone de Beauvoir",
+      "Kate Millet"
+    ],
+    "answer": "Helene Cixous"
+  },
+  {
+    "question": "Which feminist text was written by Simone de Beauvoir?",
+    "options": [
+      "The Second Sex",
+      "The Female Eunuch",
+      "A Literature of their Own",
+      "Sexual Politics"
+    ],
+    "answer": "The Second Sex"
+  },
+  {
+    "question": "What is 'Womanism'?",
+    "options": [
+      "A feminist term focusing on Black women’s experiences",
+      "A form of radical feminism",
+      "A literary technique",
+      "A historical movement"
+    ],
+    "answer": "A feminist term focusing on Black women’s experiences"
+  },
+  {
+    "question": "Who coined the term 'Womanism'?",
+    "options": [
+      "Alice Walker",
+      "Simone de Beauvoir",
+      "Helene Cixous",
+      "Germaine Greer"
+    ],
+    "answer": "Alice Walker"
+  },
+  {
+    "question": "Radical Feminism seeks to:",
+    "options": [
+      "Abolish patriarchy by challenging social norms and institutions",
+      "Gain voting rights",
+      "Promote male superiority",
+      "Ignore economic issues"
+    ],
+    "answer": "Abolish patriarchy by challenging social norms and institutions"
+  },
+  {
+    "question": "Which feminist writer wrote 'The Female Eunuch'?",
+    "options": [
+      "Germaine Greer",
+      "Kate Millet",
+      "Elaine Showalter",
+      "Helene Cixous"
+    ],
+    "answer": "Germaine Greer"
+  },
+  {
+    "question": "Which feminist critic is known for the book 'Sexual Politics'?",
+    "options": [
+      "Kate Millet",
+      "Toril Moi",
+      "Bell Hooks",
+      "Simone de Beauvoir"
+    ],
+    "answer": "Kate Millet"
+  },
+  {
+    "question": "Bell Hooks is known for which feminist work?",
+    "options": [
+      "Feminist Theory: From Margin to Centre",
+      "The Second Sex",
+      "A Literature of their Own",
+      "The Laugh of the Medusa"
+    ],
+    "answer": "Feminist Theory: From Margin to Centre"
+  },
+  {
+    "question": "Which feminist text emphasizes women’s self-discovery and writing a literature of their own?",
+    "options": [
+      "A Literature of their Own by Elaine Showalter",
+      "The Second Sex by Simone de Beauvoir",
+      "The Female Eunuch by Germaine Greer",
+      "The Laugh of the Medusa by Helene Cixous"
+    ],
+    "answer": "A Literature of their Own by Elaine Showalter"
+  },
+  {
+    "question": "Who said, 'Woman is always perceived as the Other'?",
+    "options": [
+      "Simone de Beauvoir",
+      "Elaine Showalter",
+      "Kate Millet",
+      "Alice Walker"
+    ],
+    "answer": "Simone de Beauvoir"
+  },
+  {
+    "question": "Which wave of feminism is characterized by the use of social media and technology?",
+    "options": [
+      "Fourth Wave Feminism",
+      "Third Wave Feminism",
+      "Second Wave Feminism",
+      "First Wave Feminism"
+    ],
+    "answer": "Fourth Wave Feminism"
+  },
+  {
+    "question": "Jennifer Baumgardner associates the start of the fourth wave feminism with the year:",
+    "options": [
+      "2008",
+      "1960",
+      "1990",
+      "1984"
+    ],
+    "answer": "2008"
+  },
+  {
+    "question": "The earliest feminist advocacy of equal education was published by:",
+    "options": [
+      "Mary Astell",
+      "Mary Wollstonecraft",
+      "Helene Cixous",
+      "Simone de Beauvoir"
+    ],
+    "answer": "Mary Astell"
+  },
+  {
+    "question": "Which feminist term critiques literature written by women, focused on women's textual meaning?",
+    "options": [
+      "Gynocriticism",
+      "Ecriture Feminine",
+      "Womanism",
+      "Radical Feminism"
+    ],
+    "answer": "Gynocriticism"
+  },
+  {
+    "question": "Which feminist thinker said, 'One is not born a woman' emphasizing social construction of gender?",
+    "options": [
+      "Monique Wittig",
+      "Helene Cixous",
+      "Simone de Beauvoir",
+      "Kate Millet"
+    ],
+    "answer": "Monique Wittig"
+  },
+  {
+    "question": "Who is Judith Butler?",
+    "options": [
+      "An American philosopher and gender theorist",
+      "A French existentialist writer",
+      "A German phenomenologist",
+      "An Italian semiotician"
+    ],
+    "answer": "An American philosopher and gender theorist"
+  },
+  {
+    "question": "Which book by Judith Butler challenges notions of gender and identity?",
+    "options": [
+      "Gender Trouble",
+      "The Second Sex",
+      "Phenomenology of Spirit",
+      "On the Sublime"
+    ],
+    "answer": "Gender Trouble"
+  },
+  {
+    "question": "Judith Butler is known for developing the theory of:",
+    "options": [
+      "Performativity of gender",
+      "Existential feminism",
+      "Phenomenological consciousness",
+      "Structural linguistics"
+    ],
+    "answer": "Performativity of gender"
+  },
+  {
+    "question": "Which work by Butler began her argument on performativity of gender?",
+    "options": [
+      "Performative Acts and Gender Constitution",
+      "Bodies that Matter",
+      "Undoing Gender",
+      "Giving an Account of Oneself"
+    ],
+    "answer": "Performative Acts and Gender Constitution"
+  },
+  {
+    "question": "Which of the following is NOT a major work of Judith Butler?",
+    "options": [
+      "The Second Sex",
+      "Bodies that Matter",
+      "Undoing Gender",
+      "Excitable Speech"
+    ],
+    "answer": "The Second Sex"
+  },
+  {
+    "question": "Simone de Beauvoir was a:",
+    "options": [
+      "French writer and feminist",
+      "German philosopher",
+      "American gender theorist",
+      "Russian literary critic"
+    ],
+    "answer": "French writer and feminist"
+  },
+  {
+    "question": "What is Simone de Beauvoir famous for?",
+    "options": [
+      "The Second Sex",
+      "Gender Trouble",
+      "The Ethics of Ambiguity",
+      "On the Sublime"
+    ],
+    "answer": "The Second Sex"
+  },
+  {
+    "question": "Simone de Beauvoir’s philosophy is often described as:",
+    "options": [
+      "Existential feminism",
+      "Phenomenology",
+      "Structuralism",
+      "Postmodernism"
+    ],
+    "answer": "Existential feminism"
+  },
+  {
+    "question": "Which phrase best summarizes de Beauvoir’s idea about womanhood?",
+    "options": [
+      "One is not born, but becomes a woman",
+      "Woman is a natural essence",
+      "Gender is biologically fixed",
+      "Men and women are inherently equal"
+    ],
+    "answer": "One is not born, but becomes a woman"
+  },
+  {
+    "question": "Which essay by Simone de Beauvoir discusses existentialist ethics?",
+    "options": [
+      "The Ethics of Ambiguity",
+      "Bodies that Matter",
+      "Phenomenology of Spirit",
+      "Excitable Speech"
+    ],
+    "answer": "The Ethics of Ambiguity"
+  },
+  {
+    "question": "Phenomenology is the study of:",
+    "options": [
+      "Structures of experience and consciousness",
+      "Language and signs",
+      "Social power structures",
+      "Biological essentialism"
+    ],
+    "answer": "Structures of experience and consciousness"
+  },
+  {
+    "question": "Who founded the philosophical movement of Phenomenology?",
+    "options": [
+      "Edmund Husserl",
+      "Martin Heidegger",
+      "Simone de Beauvoir",
+      "Judith Butler"
+    ],
+    "answer": "Edmund Husserl"
+  },
+  {
+    "question": "What did Phenomenology reject?",
+    "options": [
+      "Objective research",
+      "Subjective experience",
+      "Consciousness",
+      "Language analysis"
+    ],
+    "answer": "Objective research"
+  },
+  {
+    "question": "Which term refers to the method of suspending judgments about the natural world in Phenomenology?",
+    "options": [
+      "Phenomenological Epochs",
+      "Dialectics",
+      "Hermeneutics",
+      "Deconstruction"
+    ],
+    "answer": "Phenomenological Epochs"
+  },
+  {
+    "question": "Martin Heidegger focused on which concept within Phenomenology?",
+    "options": [
+      "Dasein (the mode of being human)",
+      "Gender performativity",
+      "Structural linguistics",
+      "Existential ambiguity"
+    ],
+    "answer": "Dasein (the mode of being human)"
+  },
+  {
+    "question": "Which school of critics is associated with Phenomenological Criticism?",
+    "options": [
+      "Geneva School",
+      "New Criticism",
+      "Russian Formalism",
+      "Structuralism"
+    ],
+    "answer": "Geneva School"
+  },
+  {
+    "question": "What role do Geneva School critics assign to the reader?",
+    "options": [
+      "Enter into the consciousness of the author and reproduce it",
+      "Evaluate the social context only",
+      "Ignore authorial intent",
+      "Focus on formal structures only"
+    ],
+    "answer": "Enter into the consciousness of the author and reproduce it"
+  },
+  {
+    "question": "Which of the following is NOT a critic associated with the Geneva School?",
+    "options": [
+      "J. Hillis Miller",
+      "Giorgio Poulet",
+      "Roland Barthes",
+      "Marcel Raymond"
+    ],
+    "answer": "Roland Barthes"
+  },
+  {
+    "question": "Phenomenological critics are sometimes called:",
+    "options": [
+      "Critics of consciousness",
+      "Structuralists",
+      "Postmodernists",
+      "Deconstructionists"
+    ],
+    "answer": "Critics of consciousness"
+  },
+  {
+    "question": "Phenomenology emphasizes:",
+    "options": [
+      "Impressions and experience as received by the reader",
+      "Strict formal analysis",
+      "Historical context alone",
+      "Political ideologies"
+    ],
+    "answer": "Impressions and experience as received by the reader"
+  },
+  {
+    "question": "Judith Butler's work has influenced all EXCEPT:",
+    "options": [
+      "Political philosophy",
+      "Ethics",
+      "Quantum physics",
+      "Third wave feminism"
+    ],
+    "answer": "Quantum physics"
+  },
+  {
+    "question": "Which theorist’s works are critically discussed in Judith Butler’s 'Gender Trouble'?",
+    "options": [
+      "Simone de Beauvoir, Jacques Derrida, Michel Foucault",
+      "Mary Wollstonecraft, Helene Cixous, Kate Millet",
+      "Roland Barthes, Mikhail Bakhtin, Ferdinand de Saussure",
+      "Edmund Husserl, Martin Heidegger, J. Hillis Miller"
+    ],
+    "answer": "Simone de Beauvoir, Jacques Derrida, Michel Foucault"
+  },
+  {
+    "question": "Judith Butler has actively supported which movements?",
+    "options": [
+      "Lesbian and Gay rights",
+      "Environmental movements",
+      "Labour unions",
+      "Educational reform"
+    ],
+    "answer": "Lesbian and Gay rights"
+  },
+  {
+    "question": "Simone de Beauvoir’s open relationship was with:",
+    "options": [
+      "Jean-Paul Sartre",
+      "Michel Foucault",
+      "Roland Barthes",
+      "Albert Camus"
+    ],
+    "answer": "Jean-Paul Sartre"
+  },
+  {
+    "question": "Which novel by Simone de Beauvoir fictionalizes her relationship with Sartre?",
+    "options": [
+      "She Came to Stay",
+      "The Second Sex",
+      "The Ethics of Ambiguity",
+      "Pyrrhus et Cineas"
+    ],
+    "answer": "She Came to Stay"
+  },
+  {
+    "question": "Phenomenology was further critiqued by:",
+    "options": [
+      "Martin Heidegger",
+      "Judith Butler",
+      "Simone de Beauvoir",
+      "Mikhail Bakhtin"
+    ],
+    "answer": "Martin Heidegger"
+  },
+  {
+    "question": "The study of 'Dasein' relates to:",
+    "options": [
+      "The mode of being human",
+      "The theory of signs",
+      "Gender performativity",
+      "Feminist ethics"
+    ],
+    "answer": "The mode of being human"
+  },
+  {
+    "question": "The Geneva School critics believe the reader should:",
+    "options": [
+      "Enter the author’s consciousness and reproduce it",
+      "Focus only on text structure",
+      "Ignore authorial intent",
+      "Concentrate on political context"
+    ],
+    "answer": "Enter the author’s consciousness and reproduce it"
+  },
+  {
+    "question": "Phenomenological Epochs is a process of:",
+    "options": [
+      "Grouping assumptions in experience",
+      "Textual analysis",
+      "Linguistic deconstruction",
+      "Historical contextualization"
+    ],
+    "answer": "Grouping assumptions in experience"
+  },
+  {
+    "question": "Judith Butler’s book 'Bodies That Matter' was published in:",
+    "options": [
+      "1993",
+      "1988",
+      "2004",
+      "2005"
+    ],
+    "answer": "1993"
+  },
+  {
+    "question": "Who is the founder of Psychoanalysis?",
+    "options": ["Sigmund Freud", "Josef Breuer", "Jacques Lacan", "Edmund Husserl"],
+    "answer": "Sigmund Freud"
+  },
+  {
+    "question": "What year did Freud formulate his own theory of Psychoanalysis?",
+    "options": ["1890", "1900", "1920", "1930"],
+    "answer": "1890"
+  },
+  {
+    "question": "Which work first explained Freud's ideas on Psychoanalysis?",
+    "options": ["Studies on Hysteria", "The Interpretation of Dreams", "Beyond the Pleasure Principle", "The Ego and the Id"],
+    "answer": "Studies on Hysteria"
+  },
+  {
+    "question": "Freud’s Topographic Theory divides the mind into:",
+    "options": ["Conscious, Pre-conscious, Unconscious", "Id, Ego, Superego", "Real, Symbolic, Imaginary", "Body, Mind, Soul"],
+    "answer": "Conscious, Pre-conscious, Unconscious"
+  },
+  {
+    "question": "According to Structural Theory, which part of psyche is present at birth?",
+    "options": ["Id", "Ego", "Superego", "Conscious"],
+    "answer": "Id"
+  },
+  {
+    "question": "The Ego operates on which principle according to Freud?",
+    "options": ["Reality Principle", "Pleasure Principle", "Morality Principle", "Unconscious Desire"],
+    "answer": "Reality Principle"
+  },
+  {
+    "question": "Freud’s 'Iceberg model' represents:",
+    "options": ["Id, Ego, Superego in conscious and unconscious mind", "Levels of dreams", "Stages of development", "Phases of therapy"],
+    "answer": "Id, Ego, Superego in conscious and unconscious mind"
+  },
+  {
+    "question": "Which work by Freud discusses infantile sexuality?",
+    "options": ["The Three Essays on the Theory of Sexuality", "The Interpretation of Dreams", "Civilisation and its Discontents", "Moses and Monotheism"],
+    "answer": "The Three Essays on the Theory of Sexuality"
+  },
+  {
+    "question": "Freud’s essay 'Beyond the Pleasure Principle' was published in:",
+    "options": ["1920", "1905", "1895", "1930"],
+    "answer": "1920"
+  },
+  {
+    "question": "What is the name of Freud’s 1923 work elaborating the Id, Ego, and Superego?",
+    "options": ["The Ego and the Id", "The Interpretation of Dreams", "Studies on Hysteria", "On Aphasia"],
+    "answer": "The Ego and the Id"
+  },
+  {
+    "question": "Jacques Lacan was a psychoanalyst from which country?",
+    "options": ["France", "Austria", "Germany", "USA"],
+    "answer": "France"
+  },
+  {
+    "question": "Lacan described the unconscious as:",
+    "options": ["Structured like a language", "A chaotic abyss", "Composed of dreams only", "A biological instinct"],
+    "answer": "Structured like a language"
+  },
+  {
+    "question": "What is the 'Mirror Stage' in Lacan’s theory?",
+    "options": [
+      "When infants recognize themselves in a mirror",
+      "A phase of dream analysis",
+      "The conscious mind development",
+      "A form of therapy"
+    ],
+    "answer": "When infants recognize themselves in a mirror"
+  },
+  {
+    "question": "Lacan’s concept of 'The Real' refers to:",
+    "options": [
+      "Authentic, unchangeable truth",
+      "The world of language",
+      "Imaginary self-image",
+      "Social construction"
+    ],
+    "answer": "Authentic, unchangeable truth"
+  },
+  {
+    "question": "Which of these is NOT one of Lacan’s Three Orders?",
+    "options": ["Physical", "Real", "Symbolic", "Imaginary"],
+    "answer": "Physical"
+  },
+  {
+    "question": "The 'Symbolic' order in Lacan’s theory is:",
+    "options": [
+      "The structure of language and social laws",
+      "The body image",
+      "The unconscious desires",
+      "The physical world"
+    ],
+    "answer": "The structure of language and social laws"
+  },
+  {
+    "question": "In Lacan’s theory, the 'Imaginary' order is associated with:",
+    "options": [
+      "Formation of ego through identification",
+      "Logical reasoning",
+      "Social institutions",
+      "Biological drives"
+    ],
+    "answer": "Formation of ego through identification"
+  },
+  {
+    "question": "Lacan critiqued which aspect of Freud’s work?",
+    "options": [
+      "Ego Psychology",
+      "Dream analysis",
+      "Child development",
+      "Id theory"
+    ],
+    "answer": "Ego Psychology"
+  },
+  {
+    "question": "One of Lacan’s major works is:",
+    "options": [
+      "Écrits: A Selection",
+      "The Interpretation of Dreams",
+      "Civilisation and its Discontents",
+      "Studies on Hysteria"
+    ],
+    "answer": "Écrits: A Selection"
+  },
+  {
+    "question": "Lacan's work has influenced all EXCEPT:",
+    "options": [
+      "Clinical Psychoanalysis",
+      "Literary Theory",
+      "Quantum Mechanics",
+      "Feminist Theory"
+    ],
+    "answer": "Quantum Mechanics"
+  },
+  {
+    "question": "Who collaborated with Freud on 'Studies on Hysteria'?",
+    "options": [
+      "Josef Breuer",
+      "Carl Jung",
+      "Jacques Lacan",
+      "Alfred Adler"
+    ],
+    "answer": "Josef Breuer"
+  },
+  {
+    "question": "Freud’s paper 'The History of the Psychoanalytic Movement' was published in which year?",
+    "options": [
+      "1917",
+      "1923",
+      "1900",
+      "1939"
+    ],
+    "answer": "1917"
+  },
+  {
+    "question": "Freud was awarded the Goethe Prize in recognition of his contributions in:",
+    "options": [
+      "Psychology and German literary culture",
+      "Physics",
+      "Mathematics",
+      "Philosophy"
+    ],
+    "answer": "Psychology and German literary culture"
+  },
+  {
+    "question": "Freud’s last book was:",
+    "options": [
+      "Moses and Monotheism",
+      "Civilisation and its Discontents",
+      "Beyond the Pleasure Principle",
+      "The Interpretation of Dreams"
+    ],
+    "answer": "Moses and Monotheism"
+  },
+  {
+    "question": "Lacan’s famous statement is:",
+    "options": [
+      "\"I think therefore I am as, I am not where I think and I think where I am not.\"",
+      "\"Cogito ergo sum.\"",
+      "\"The unconscious is the true reality.\"",
+      "\"Dreams are the royal road to the unconscious.\""
+    ],
+    "answer": "\"I think therefore I am as, I am not where I think and I think where I am not.\""
+  },
+  {
+    "question": "Lacan’s quarrel with which psychoanalytic school was more muted?",
+    "options": [
+      "Object relations psychoanalysis",
+      "Ego psychology",
+      "Freud’s original theory",
+      "Behaviourism"
+    ],
+    "answer": "Object relations psychoanalysis"
+  },
+  {
+    "question": "In Lacan’s Three Orders, which order becomes prominent after 1953?",
+    "options": [
+      "The Symbolic",
+      "The Real",
+      "The Imaginary",
+      "The Physical"
+    ],
+    "answer": "The Symbolic"
+  },
+  {
+    "question": "Lacan’s concept of alienation is linked to which order?",
+    "options": [
+      "The Imaginary",
+      "The Real",
+      "The Symbolic",
+      "The Conscious"
+    ],
+    "answer": "The Imaginary"
+  },
+  {
+    "question": "Lacan’s 'Écrits' was published in which year?",
+    "options": [
+      "1977",
+      "1960",
+      "1981",
+      "1953"
+    ],
+    "answer": "1977"
+  },
+  {
+    "question": "Which of the following is NOT a major work of Freud?",
+    "options": [
+      "Feminine Sexuality",
+      "The Ego and the Id",
+      "Civilisation and its Discontents",
+      "The Interpretation of Dreams"
+    ],
+    "answer": "Feminine Sexuality"
+  },
+  {
+    "question": "Queer Theory emerged primarily in which decade?",
+    "options": ["1990s", "1980s", "2000s", "1970s"],
+    "answer": "1990s"
+  },
+  {
+    "question": "Who coined the term 'Queer Theory'?",
+    "options": [
+      "Teresa de Lauretis",
+      "Judith Butler",
+      "Lauren Berlant",
+      "Eve Kosofsky Sedgwick"
+    ],
+    "answer": "Teresa de Lauretis"
+  },
+  {
+    "question": "Queer Theory focuses on mismatches between:",
+    "options": [
+      "Sex, gender, and desire",
+      "Race and ethnicity",
+      "Class and power",
+      "Language and meaning"
+    ],
+    "answer": "Sex, gender, and desire"
+  },
+  {
+    "question": "Michel Foucault was a philosopher from which country?",
+    "options": ["France", "Germany", "USA", "Italy"],
+    "answer": "France"
+  },
+  {
+    "question": "Foucault’s book 'History of Madness' traces madness through how many phases?",
+    "options": ["Three", "Two", "Four", "Five"],
+    "answer": "Three"
+  },
+  {
+    "question": "Which of these is NOT a phase described by Foucault in 'History of Madness'?",
+    "options": [
+      "Renaissance",
+      "Classical Age",
+      "Medieval Age",
+      "Modern Age"
+    ],
+    "answer": "Medieval Age"
+  },
+  {
+    "question": "Foucault’s concept of 'Panopticon' is related to:",
+    "options": [
+      "Social control through surveillance",
+      "Medical clinics",
+      "Historical research methods",
+      "Linguistic structures"
+    ],
+    "answer": "Social control through surveillance"
+  },
+  {
+    "question": "Foucault’s famous quote about power is:",
+    "options": [
+      "\"Power circulates in all directions, to and from all social levels\"",
+      "\"Knowledge is power\"",
+      "\"Power corrupts absolutely\"",
+      "\"Power is the root of all evil\""
+    ],
+    "answer": "\"Power circulates in all directions, to and from all social levels\""
+  },
+  {
+    "question": "Which Foucault work studied sexuality in the Western world?",
+    "options": [
+      "The History of Sexuality",
+      "Discipline and Punish",
+      "The Birth of the Clinic",
+      "Madness and Civilization"
+    ],
+    "answer": "The History of Sexuality"
+  },
+  {
+    "question": "Cleanth Brooks was associated with which critical movement?",
+    "options": [
+      "New Criticism",
+      "Structuralism",
+      "Phenomenology",
+      "Postcolonialism"
+    ],
+    "answer": "New Criticism"
+  },
+  {
+    "question": "What is Cleanth Brooks’s best-known work?",
+    "options": [
+      "The Well-Wrought Urn",
+      "Understanding Fiction",
+      "The Hidden God",
+      "Literary Criticism: A Short History"
+    ],
+    "answer": "The Well-Wrought Urn"
+  },
+  {
+    "question": "The phrase 'The Heresy of Paraphrase' relates to:",
+    "options": [
+      "The irreducibility of meaning in poetry",
+      "Simplifying poetry",
+      "Ignoring historical context",
+      "Focusing on plot only"
+    ],
+    "answer": "The irreducibility of meaning in poetry"
+  },
+  {
+    "question": "Cleanth Brooks co-founded which influential journal?",
+    "options": [
+      "The Southern Review",
+      "The Paris Review",
+      "The Kenyon Review",
+      "The Yale Review"
+    ],
+    "answer": "The Southern Review"
+  },
+  {
+    "question": "Cleanth Brooks’s criticism is particularly associated with which literary devices?",
+    "options": [
+      "Irony and paradox",
+      "Allegory and metaphor",
+      "Symbolism and imagery",
+      "Satire and comedy"
+    ],
+    "answer": "Irony and paradox"
+  },
+  {
+    "question": "Which poet’s work inspired the title 'The Well-Wrought Urn'?",
+    "options": [
+      "John Donne and John Keats",
+      "William Wordsworth and Percy Shelley",
+      "T.S. Eliot and Ezra Pound",
+      "Robert Frost and Emily Dickinson"
+    ],
+    "answer": "John Donne and John Keats"
+  },
+  {
+    "question": "Cleanth Brooks collaborated with which author on 'Understanding Poetry'?",
+    "options": [
+      "Robert Penn Warren",
+      "T.S. Eliot",
+      "Harold Bloom",
+      "F.R. Leavis"
+    ],
+    "answer": "Robert Penn Warren"
+  },
+  {
+    "question": "Foucault’s 'Discipline and Punish' focuses on:",
+    "options": [
+      "How elites dominate and control society",
+      "The history of medical practice",
+      "The origins of sexuality",
+      "Linguistic structures"
+    ],
+    "answer": "How elites dominate and control society"
+  },
+  {
+    "question": "Which Foucault book deals with the philosophical shift in medical discourse?",
+    "options": [
+      "The Birth of the Clinic",
+      "The Order of Things",
+      "Madness and Civilization",
+      "The Hermeneutics of the Subject"
+    ],
+    "answer": "The Birth of the Clinic"
+  },
+  {
+    "question": "Teresa de Lauretis’s conference that coined 'Queer Theory' was held at:",
+    "options": [
+      "University of California, Santa Cruz",
+      "Harvard University",
+      "University of Oxford",
+      "Yale University"
+    ],
+    "answer": "University of California, Santa Cruz"
+  },
+  {
+    "question": "Queer Theory combines Gay and Lesbian Studies with:",
+    "options": [
+      "Theoretical writings on sexual variance",
+      "Marxist theory",
+      "Classical feminism",
+      "Psychoanalysis only"
+    ],
+    "answer": "Theoretical writings on sexual variance"
+  },
+  {
+    "question": "Queer Theory is heavily influenced by all EXCEPT:",
+    "options": [
+      "Lauren Berlant",
+      "Leo Bersani",
+      "Jacques Lacan",
+      "Eve Kosofsky Sedgwick"
+    ],
+    "answer": "Jacques Lacan"
+  },
+  {
+    "question": "Queer Theory critiques the idea that gender is:",
+    "options": [
+      "An essential part of self",
+      "Socially constructed",
+      "Fluid and performative",
+      "Biologically fixed"
+    ],
+    "answer": "An essential part of self"
+  },
+  {
+    "question": "Foucault argued that madness is:",
+    "options": [
+      "Socially constructed",
+      "A natural, unchanging condition",
+      "Only a medical problem",
+      "A myth"
+    ],
+    "answer": "Socially constructed"
+  },
+  {
+    "question": "Which concept did Foucault use to describe surveillance and control in prisons?",
+    "options": [
+      "Panopticon",
+      "Heterotopia",
+      "Discourse",
+      "Genealogy"
+    ],
+    "answer": "Panopticon"
+  },
+  {
+    "question": "Foucault's work focuses on the relationship between:",
+    "options": [
+      "Power and Knowledge",
+      "Language and Meaning",
+      "History and Literature",
+      "Psyche and Behavior"
+    ],
+    "answer": "Power and Knowledge"
+  },
+  {
+    "question": "Cleanth Brooks emphasized the importance of:",
+    "options": [
+      "The interior life of a poem",
+      "Historical context",
+      "Author’s biography",
+      "Reader’s response"
+    ],
+    "answer": "The interior life of a poem"
+  },
+  {
+    "question": "The Southern Review was co-founded by Cleanth Brooks and:",
+    "options": [
+      "Robert Penn Warren",
+      "T.S. Eliot",
+      "Harold Bloom",
+      "F.R. Leavis"
+    ],
+    "answer": "Robert Penn Warren"
+  },
+  {
+    "question": "'The Hidden God' by Cleanth Brooks studies:",
+    "options": [
+      "Faulkner, Hemingway, Yeats, Eliot, and Warren",
+      "Shakespearean drama",
+      "Modernist poetry",
+      "Classical literature"
+    ],
+    "answer": "Faulkner, Hemingway, Yeats, Eliot, and Warren"
+  },
+  {
+    "question": "Queer Theory often examines:",
+    "options": [
+      "Non-normative sexual identities and expressions",
+      "Classical literary traditions",
+      "Economic theories",
+      "Philosophy of language"
+    ],
+    "answer": "Non-normative sexual identities and expressions"
+  },
+  {
+    "question": "Teresa de Lauretis edited a special issue of which journal for the conference on Queer Theory?",
+    "options": [
+      "Differences: A Journal of Feminist Cultural Studies",
+      "Signs",
+      "Critical Inquiry",
+      "The Southern Review"
+    ],
+    "answer": "Differences: A Journal of Feminist Cultural Studies"
+  },
+  {
+    "question": "Who is Andrew Cecil Bradley best known for writing about?",
+    "options": ["Shakespeare", "Milton", "Keats", "Wordsworth"],
+    "answer": "Shakespeare"
+  },
+  {
+    "question": "What is the title of Bradley’s major work on Shakespearean plays?",
+    "options": ["Shakespearean Tragedy", "Oxford Lectures on Poetry", "The Well-Wrought Urn", "Understanding Fiction"],
+    "answer": "Shakespearean Tragedy"
+  },
+  {
+    "question": "Kenneth Burke described humans as:",
+    "options": ["Symbol-using animals", "Rational animals", "Political animals", "Social animals"],
+    "answer": "Symbol-using animals"
+  },
+  {
+    "question": "Which of these is NOT a major work of Kenneth Burke?",
+    "options": [
+      "Counter Statement",
+      "The Rhetoric of Hitler’s Battle",
+      "The Well-Wrought Urn",
+      "Language as Symbolic Action"
+    ],
+    "answer": "The Well-Wrought Urn"
+  },
+  {
+    "question": "Kenneth Burke’s first essay 'Definition of Man' is part of which collection?",
+    "options": ["Language as Symbolic Action", "Understanding Poetry", "The Hidden God", "Shakespearean Tragedy"],
+    "answer": "Language as Symbolic Action"
+  },
+  {
+    "question": "T.E. Hulme is considered an important figure in:",
+    "options": ["Modernism", "Romanticism", "Postmodernism", "Realism"],
+    "answer": "Modernism"
+  },
+  {
+    "question": "Which poem by T.E. Hulme is considered the first imagist poem?",
+    "options": ["Autumn", "The Poet", "Above the Dock", "City Sunset"],
+    "answer": "Autumn"
+  },
+  {
+    "question": "T.E. Hulme distinguished between Romanticism and:",
+    "options": ["Classicism", "Modernism", "Symbolism", "Imagism"],
+    "answer": "Classicism"
+  },
+  {
+    "question": "Which political ideology did T.E. Hulme support?",
+    "options": ["Conservatism", "Liberalism", "Socialism", "Anarchism"],
+    "answer": "Conservatism"
+  },
+  {
+    "question": "Robert Graves is best known as a:",
+    "options": ["Poet, novelist, critic, and classicist", "Philosopher", "Political theorist", "Dramatist"],
+    "answer": "Poet, novelist, critic, and classicist"
+  },
+  {
+    "question": "What is the title of Robert Graves’ famous autobiography?",
+    "options": ["Good-Bye to All That", "The White Goddess", "The Golden Fleece", "I, Claudius"],
+    "answer": "Good-Bye to All That"
+  },
+  {
+    "question": "Robert Graves received the James Tait Black Memorial Prize for which novel?",
+    "options": ["I, Claudius", "Count Belisarius", "King Jesus", "The Golden Fleece"],
+    "answer": "I, Claudius"
+  },
+  {
+    "question": "Which classical texts did Robert Graves translate?",
+    "options": ["The Twelve Caesars and The Golden Ass", "The Iliad and The Odyssey", "The Aeneid and Metamorphoses", "The Bible"],
+    "answer": "The Twelve Caesars and The Golden Ass"
+  },
+  {
+    "question": "Which poem by Robert Graves expresses his war experiences?",
+    "options": ["Country Sentiment", "The Penny Fiddle", "No More Ghosts", "Love Respelt"],
+    "answer": "Country Sentiment"
+  },
+  {
+    "question": "Which of the following is a historical novel by Robert Graves?",
+    "options": ["King Jesus", "The Shout", "The Poet and His Public", "Autumn"],
+    "answer": "King Jesus"
+  },
+  {
+    "question": "Robert Graves collaborated with which author on 'The Long Week-End'?",
+    "options": ["Alan Hodge", "T.E. Hulme", "Cleanth Brooks", "Kenneth Burke"],
+    "answer": "Alan Hodge"
+  },
+  {
+    "question": "Robert Graves turned to which genre with 'Seven Days in New Crete'?",
+    "options": ["Science fiction", "Historical fiction", "Poetry", "Drama"],
+    "answer": "Science fiction"
+  },
+  {
+    "question": "T.E. Hulme’s poetry is associated with which literary movement?",
+    "options": ["Imagism", "Symbolism", "Romanticism", "Modernism"],
+    "answer": "Imagism"
+  },
+  {
+    "question": "Kenneth Burke’s philosophy was influenced by all EXCEPT:",
+    "options": ["Karl Marx", "Sigmund Freud", "Friedrich Nietzsche", "William Shakespeare"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "A.C. Bradley delivered lectures at which university?",
+    "options": ["University of Glasgow", "Oxford University", "Harvard University", "Cambridge University"],
+    "answer": "University of Glasgow"
+  },
+  {
+    "question": "Which work by A.C. Bradley was delivered as Gifford Lectures?",
+    "options": ["Ideals of Religion", "Shakespearean Tragedy", "Oxford Lectures on Poetry", "Understanding Fiction"],
+    "answer": "Ideals of Religion"
+  },
+  {
+    "question": "Which of these is NOT a poem by T.E. Hulme?",
+    "options": ["Susan Ann and Immortality", "The Embankment", "Love Respelt", "Autumn"],
+    "answer": "Love Respelt"
+  },
+  {
+    "question": "Robert Graves’s 'The White Goddess' is a study of:",
+    "options": ["Poetic inspiration and mythology", "Classical history", "Political theory", "Religious texts"],
+    "answer": "Poetic inspiration and mythology"
+  },
+  {
+    "question": "Which author was influenced by T.E. Hulme in 1913?",
+    "options": ["Robert Frost", "Ezra Pound", "W.B. Yeats", "T.S. Eliot"],
+    "answer": "Robert Frost"
+  },
+  {
+    "question": "Cleanth Brooks’s 'The Well-Wrought Urn' draws its title from poems by:",
+    "options": ["John Donne and John Keats", "William Wordsworth and Samuel Taylor Coleridge", "Robert Frost and Walt Whitman", "T.S. Eliot and Ezra Pound"],
+    "answer": "John Donne and John Keats"
+  },
+  {
+    "question": "Kenneth Burke is credited with the first English translation of:",
+    "options": ["Death in Venice", "The Divine Comedy", "Faust", "The Odyssey"],
+    "answer": "Death in Venice"
+  },
+  {
+    "question": "Which critical movement is Kenneth Burke associated with?",
+    "options": ["Philosophy of rhetoric", "New Criticism", "Structuralism", "Postcolonialism"],
+    "answer": "Philosophy of rhetoric"
+  },
+  {
+    "question": "A.C. Bradley’s lectures on Shakespearean tragedy focus on which plays?",
+    "options": ["Hamlet, Othello, King Lear, Macbeth", "Romeo and Juliet, Julius Caesar, The Tempest, Twelfth Night", "The Merchant of Venice, Much Ado About Nothing, As You Like It, Antony and Cleopatra", "Henry IV, Henry V, Richard III, Macbeth"],
+    "answer": "Hamlet, Othello, King Lear, Macbeth"
+  },
+  {
+    "question": "Robert Graves’s historical novel about a Byzantine general is titled:",
+    "options": ["Count Belisarius", "I, Claudius", "King Jesus", "The Shout"],
+    "answer": "Count Belisarius"
+  },
+  {
+    "question": "Kenneth Burke’s 'Counter Statement' was published in:",
+    "options": ["1931", "1920", "1947", "1966"],
+    "answer": "1931"
+  },
+  {
+    "question": "Which critic is known for emphasizing 'interior life of a poem'?",
+    "options": ["Cleanth Brooks", "Kenneth Burke", "A.C. Bradley", "T.E. Hulme"],
+    "answer": "Cleanth Brooks"
+  },
+  {
+    "question": "T.E. Hulme contributed critical articles to which publication?",
+    "options": ["The New Age", "The Dial", "The Southern Review", "The Paris Review"],
+    "answer": "The New Age"
+  },
+  {
+    "question": "Kenneth Burke’s essay 'Definition of Man' states that humans are:",
+    "options": [
+      "Symbol-using animals",
+      "Social animals",
+      "Rational beings",
+      "Political animals"
+    ],
+    "answer": "Symbol-using animals"
+  },
+  {
+    "question": "A.C. Bradley’s 'Oxford Lectures on Poetry' were delivered in which year?",
+    "options": [
+      "1909",
+      "1904",
+      "1910",
+      "1899"
+    ],
+    "answer": "1909"
+  },
+  {
+    "question": "T.E. Hulme’s poem 'City Sunset' was first published in:",
+    "options": [
+      "1909",
+      "1912",
+      "1917",
+      "1908"
+    ],
+    "answer": "1909"
+  },
+  {
+    "question": "Robert Graves’ volume of short stories is titled:",
+    "options": [
+      "Catacrok: Mostly stories, Mostly Funny",
+      "Over the Brazier",
+      "Good-Bye to All That",
+      "The Greek Myths"
+    ],
+    "answer": "Catacrok: Mostly stories, Mostly Funny"
+  },
+  {
+    "question": "Which historical figure is the focus of Graves’ novel 'Count Belisarius'?",
+    "options": [
+      "Byzantine General Belisarius",
+      "Roman Emperor Claudius",
+      "King Jesus",
+      "Alexander the Great"
+    ],
+    "answer": "Byzantine General Belisarius"
+  },
+  {
+    "question": "Kenneth Burke was influenced by all EXCEPT:",
+    "options": [
+      "William Shakespeare",
+      "Karl Marx",
+      "Sigmund Freud",
+      "Friedrich Nietzsche"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "Robert Graves translated the 'Rubaiyat' of which poet?",
+    "options": [
+      "Omar Khayyam",
+      "Rumi",
+      "Hafez",
+      "Saadi"
+    ],
+    "answer": "Omar Khayyam"
+  },
+  {
+    "question": "T.E. Hulme is known as an important figure in which poetry movement?",
+    "options": [
+      "Imagism",
+      "Romanticism",
+      "Symbolism",
+      "Modernism"
+    ],
+    "answer": "Imagism"
+  },
+  {
+    "question": "Cleanth Brooks co-authored 'Understanding Fiction' with:",
+    "options": [
+      "Robert Penn Warren",
+      "Kenneth Burke",
+      "A.C. Bradley",
+      "T.E. Hulme"
+    ],
+    "answer": "Robert Penn Warren"
+  },
+  {
+    "question": "Which of the following is NOT a poem by T.E. Hulme?",
+    "options": [
+      "The Man in the Crow’s Nest",
+      "A Sudden Secret",
+      "Love Respelt",
+      "Autumn"
+    ],
+    "answer": "Love Respelt"
+  },
+  {
+    "question": "Sir Philip Sidney is regarded as:",
+    "options": [
+      "The first dramatic critic",
+      "The first novelist",
+      "A Romantic poet",
+      "A Renaissance playwright"
+    ],
+    "answer": "The first dramatic critic"
+  },
+  {
+    "question": "Sidney’s major critical work is called:",
+    "options": [
+      "The Defence of Poesy",
+      "The School of Abuse",
+      "An Apology for Poetry",
+      "The Art of Poetry"
+    ],
+    "answer": "The Defence of Poesy"
+  },
+  {
+    "question": "‘The Defence of Poesy’ was written as a reply to:",
+    "options": [
+      "Stephen Gosson’s 'School of Abuse'",
+      "Plato’s banishment of poets",
+      "Aristotle’s Poetics",
+      "William Ponsonby’s critiques"
+    ],
+    "answer": "Stephen Gosson’s 'School of Abuse'"
+  },
+  {
+    "question": "Sidney’s work synthesizes ideas from all EXCEPT:",
+    "options": [
+      "Scaliger",
+      "Minturno",
+      "T.S. Eliot",
+      "Plato"
+    ],
+    "answer": "T.S. Eliot"
+  },
+  {
+    "question": "According to Sidney, poetry is superior to:",
+    "options": [
+      "History and Philosophy",
+      "Drama and Music",
+      "Science and Mathematics",
+      "Religion and Mythology"
+    ],
+    "answer": "History and Philosophy"
+  },
+  {
+    "question": "Sidney defines poetry as:",
+    "options": [
+      "The art of representation",
+      "The art of versification",
+      "The art of narration",
+      "The art of persuasion"
+    ],
+    "answer": "The art of representation"
+  },
+  {
+    "question": "Sidney’s classification of poetry genres includes all EXCEPT:",
+    "options": [
+      "Satiric",
+      "Epic",
+      "Elegy",
+      "Pastoral"
+    ],
+    "answer": "Epic"
+  },
+  {
+    "question": "Sidney believed metre is:",
+    "options": [
+      "Not necessary for poetry",
+      "Essential for poetry",
+      "Only important in drama",
+      "A characteristic of prose"
+    ],
+    "answer": "Not necessary for poetry"
+  },
+  {
+    "question": "Sidney viewed the poet as:",
+    "options": [
+      "God, the creator",
+      "A servant of history",
+      "A mere imitator",
+      "A moral preacher"
+    ],
+    "answer": "God, the creator"
+  },
+  {
+    "question": "Sidney’s 'The Defence of Poesy' was published:",
+    "options": [
+      "Posthumously in 1595",
+      "During his lifetime in 1583",
+      "In 1601",
+      "In 1570"
+    ],
+    "answer": "Posthumously in 1595"
+  },
+  {
+    "question": "Sidney’s work is a combination of which two literary trends?",
+    "options": [
+      "Romanticism and Classicism",
+      "Realism and Naturalism",
+      "Modernism and Postmodernism",
+      "Symbolism and Surrealism"
+    ],
+    "answer": "Romanticism and Classicism"
+  },
+  {
+    "question": "Sidney used which classical principle in his argumentation?",
+    "options": [
+      "Ciceronian Principle of Oratory",
+      "Aristotelian Tragedy",
+      "Platonic Idealism",
+      "Epicureanism"
+    ],
+    "answer": "Ciceronian Principle of Oratory"
+  },
+  {
+    "question": "Sidney’s Apology for Poetry is divided into how many parts?",
+    "options": [
+      "Seven",
+      "Five",
+      "Three",
+      "Nine"
+    ],
+    "answer": "Seven"
+  },
+  {
+    "question": "Which of these was NOT a charge made by Stephen Gosson against poetry?",
+    "options": [
+      "Poetry encourages virtuous morals",
+      "Poetry is the waste of time",
+      "Poetry is mother of lies",
+      "Poetry is nurse of abuse"
+    ],
+    "answer": "Poetry encourages virtuous morals"
+  },
+  {
+    "question": "Sidney said, 'It is not riming and versing that maketh a poet' meaning:",
+    "options": [
+      "Poetry is more than rhyme and meter",
+      "Only rhyme makes a poem",
+      "Meter is the essence of poetry",
+      "Poetry is about history"
+    ],
+    "answer": "Poetry is more than rhyme and meter"
+  },
+  {
+    "question": "John Dryden is known as:",
+    "options": [
+      "The Father of English Criticism",
+      "The Father of English Poetry",
+      "The Father of Romanticism",
+      "The Father of Modern Drama"
+    ],
+    "answer": "The Father of English Criticism"
+  },
+  {
+    "question": "Dryden’s 'An Essay on Dramatic Poesy' was written during:",
+    "options": [
+      "The closure of London Theatres due to plague",
+      "The English Civil War",
+      "The Restoration of the Monarchy",
+      "The Renaissance"
+    ],
+    "answer": "The closure of London Theatres due to plague"
+  },
+  {
+    "question": "'An Essay on Dramatic Poesy' is structured as:",
+    "options": [
+      "A dialogue between four speakers",
+      "A formal essay",
+      "A poetic treatise",
+      "A series of letters"
+    ],
+    "answer": "A dialogue between four speakers"
+  },
+  {
+    "question": "Who does Eugenius represent in Dryden’s essay?",
+    "options": [
+      "Charles Sackville or Sir William Davenant",
+      "Sir Robert Howard",
+      "Roger Boyle",
+      "John Dryden himself"
+    ],
+    "answer": "Charles Sackville or Sir William Davenant"
+  },
+  {
+    "question": "Eugenius defends:",
+    "options": [
+      "Moderns, Shakespeare, and Johnson",
+      "Ancients and their traditions",
+      "French playwrights",
+      "Classical unities"
+    ],
+    "answer": "Moderns, Shakespeare, and Johnson"
+  },
+  {
+    "question": "Crites represents:",
+    "options": [
+      "Sir Robert Howard",
+      "Roger Boyle",
+      "Sir William Davenant",
+      "John Dryden"
+    ],
+    "answer": "Sir Robert Howard"
+  },
+  {
+    "question": "Crites defends:",
+    "options": [
+      "Ancients and opposes rhyme in serious plays",
+      "Modern playwrights",
+      "French drama",
+      "Tragic comedy"
+    ],
+    "answer": "Ancients and opposes rhyme in serious plays"
+  },
+  {
+    "question": "Lisideius is a supporter of:",
+    "options": [
+      "French playwrights",
+      "English dramatists",
+      "Ancient Greek playwrights",
+      "Roman dramatists"
+    ],
+    "answer": "French playwrights"
+  },
+  {
+    "question": "Neander represents:",
+    "options": [
+      "John Dryden himself",
+      "Sir William Davenant",
+      "Sir Robert Howard",
+      "Roger Boyle"
+    ],
+    "answer": "John Dryden himself"
+  },
+  {
+    "question": "Neander supports:",
+    "options": [
+      "Modern English writers and rhyme in drama",
+      "Ancient unities",
+      "French classical drama",
+      "Blank verse only"
+    ],
+    "answer": "Modern English writers and rhyme in drama"
+  },
+  {
+    "question": "According to Neander, 'tragic comedy' is:",
+    "options": [
+      "The best form of drama",
+      "Inferior to tragedy",
+      "Only found in French drama",
+      "Strictly classical"
+    ],
+    "answer": "The best form of drama"
+  },
+  {
+    "question": "Neander believes subplots:",
+    "options": [
+      "Enrich a play",
+      "Destroy unity",
+      "Should be avoided",
+      "Are unclassical"
+    ],
+    "answer": "Enrich a play"
+  },
+  {
+    "question": "Neander argues against:",
+    "options": [
+      "Strict observance of the three unities",
+      "Use of rhyme",
+      "Tragic comedy",
+      "English drama"
+    ],
+    "answer": "Strict observance of the three unities"
+  },
+  {
+    "question": "The three classical unities are:",
+    "options": [
+      "Time, Place, and Action",
+      "Plot, Character, and Thought",
+      "Beginning, Middle, and End",
+      "Rhyme, Meter, and Rhythm"
+    ],
+    "answer": "Time, Place, and Action"
+  },
+  {
+    "question": "Crites uses which playwright as an example of the best English drama?",
+    "options": [
+      "Ben Jonson",
+      "William Shakespeare",
+      "Christopher Marlowe",
+      "John Webster"
+    ],
+    "answer": "Ben Jonson"
+  },
+  {
+    "question": "Lisideius criticizes English drama for:",
+    "options": [
+      "Lack of adherence to the unities",
+      "Being too classical",
+      "Ignoring French influence",
+      "Excessive use of rhyme"
+    ],
+    "answer": "Lack of adherence to the unities"
+  },
+  {
+    "question": "Lisideius praises French drama for:",
+    "options": [
+      "Following classical rules and better management of narration",
+      "Its use of rhyme",
+      "Its complex characters",
+      "Its experimental structure"
+    ],
+    "answer": "Following classical rules and better management of narration"
+  },
+  {
+    "question": "Lisideius says English plays wrongly:",
+    "options": [
+      "Represent death on stage",
+      "Avoid tragedy",
+      "Follow the unities strictly",
+      "Are based on French stories"
+    ],
+    "answer": "Represent death on stage"
+  },
+  {
+    "question": "Neander compares French poesy to:",
+    "options": [
+      "A beautiful statue",
+      "A lively drama",
+      "A poetic prose",
+      "A tragic comedy"
+    ],
+    "answer": "A beautiful statue"
+  },
+  {
+    "question": "Neander praises English drama for:",
+    "options": [
+      "Lively imitation of nature and surprise elements",
+      "Strict use of blank verse",
+      "Strict observance of unities",
+      "Avoiding subplots"
+    ],
+    "answer": "Lively imitation of nature and surprise elements"
+  },
+  {
+    "question": "Neander defends the use of:",
+    "options": [
+      "Rhyme in tragedies",
+      "Blank verse only",
+      "Prose",
+      "No meter"
+    ],
+    "answer": "Rhyme in tragedies"
+  },
+  {
+    "question": "Crites opposes rhyme because:",
+    "options": [
+      "It is unnatural in serious plays",
+      "It is too difficult",
+      "It is not classical",
+      "It is too musical"
+    ],
+    "answer": "It is unnatural in serious plays"
+  },
+  {
+    "question": "Dryden argues rhyme can be made natural by:",
+    "options": [
+      "Use of run-on lines",
+      "Strict meter",
+      "Ignoring classical rules",
+      "Avoiding blank verse"
+    ],
+    "answer": "Use of run-on lines"
+  },
+  {
+    "question": "Dryden believes blank verse is:",
+    "options": [
+      "Simply poetic prose fit only for comedy",
+      "Superior to rhyme",
+      "Unsuitable for any drama",
+      "Ideal for tragedy"
+    ],
+    "answer": "Simply poetic prose fit only for comedy"
+  },
+  {
+    "question": "Dryden famously said about Shakespeare:",
+    "options": [
+      "\"I admire him but I love Shakespeare\"",
+      "\"He is the most correct poet\"",
+      "\"He followed the Ancients\"",
+      "\"His plays lack imagination\""
+    ],
+    "answer": "\"I admire him but I love Shakespeare\""
+  },
+  {
+    "question": "Dryden called Shakespeare:",
+    "options": [
+      "\"The man who of all modern and perhaps ancient poets had the largest and most comprehensive soul\"",
+      "\"A lesser poet than Jonson\"",
+      "\"The founder of blank verse\"",
+      "\"A French dramatist\""
+    ],
+    "answer": "\"The man who of all modern and perhaps ancient poets had the largest and most comprehensive soul\""
+  },
+  {
+    "question": "The debate in 'An Essay on Dramatic Poesy' is primarily about:",
+    "options": [
+      "Ancients vs Moderns in drama",
+      "Poetry vs Prose",
+      "Comedy vs Tragedy",
+      "English vs Italian literature"
+    ],
+    "answer": "Ancients vs Moderns in drama"
+  },
+  {
+    "question": "Dryden’s defense of English drama includes:",
+    "options": [
+      "Justifying rhyme and violation of classical unities",
+      "Strict adherence to Aristotelian rules",
+      "Rejecting French drama",
+      "Supporting blank verse only"
+    ],
+    "answer": "Justifying rhyme and violation of classical unities"
+  },
+  {
+    "question": "The dialogue in Dryden’s essay ends with the four friends:",
+    "options": [
+      "Parting their own separate ways at twilight",
+      "Agreeing unanimously on all points",
+      "Declaring French drama superior",
+      "Concluding rhyme should be banned"
+    ],
+    "answer": "Parting their own separate ways at twilight"
+  },
+  {
+    "question": "William Wordsworth defined poetry as:",
+    "options": [
+      "The spontaneous overflow of powerful feelings",
+      "An imitation of nature",
+      "A moral instruction",
+      "A strict metrical composition"
+    ],
+    "answer": "The spontaneous overflow of powerful feelings"
+  },
+  {
+    "question": "Wordsworth’s 'Preface to Lyrical Ballads' was published in:",
+    "options": [
+      "1800",
+      "1798",
+      "1817",
+      "1820"
+    ],
+    "answer": "1800"
+  },
+  {
+    "question": "Wordsworth stated, 'What is a poet? He is man speaking to man;' meaning:",
+    "options": [
+      "Poets have a more lively sensibility and knowledge of human nature",
+      "Poets should only write about nature",
+      "Poets imitate ancient writers",
+      "Poets are entertainers only"
+    ],
+    "answer": "Poets have a more lively sensibility and knowledge of human nature"
+  },
+  {
+    "question": "Wordsworth’s poetic process includes all EXCEPT:",
+    "options": [
+      "Compose",
+      "Recollect",
+      "Imagine",
+      "Contemplate"
+    ],
+    "answer": "Imagine"
+  },
+  {
+    "question": "According to Wordsworth, poetry is:",
+    "options": [
+      "The breath and finer spirit of all knowledge",
+      "A mere imitation of life",
+      "Strictly structured verse",
+      "Only narrative"
+    ],
+    "answer": "The breath and finer spirit of all knowledge"
+  },
+  {
+    "question": "P.B. Shelley’s major critical work is:",
+    "options": [
+      "A Defence of Poetry",
+      "Preface to Lyrical Ballads",
+      "Biographia Literaria",
+      "The White Goddess"
+    ],
+    "answer": "A Defence of Poetry"
+  },
+  {
+    "question": "Shelley famously called poets:",
+    "options": [
+      "The unacknowledged legislators of the world",
+      "The teachers of morality",
+      "Merely imitators",
+      "Creators of fairy tales"
+    ],
+    "answer": "The unacknowledged legislators of the world"
+  },
+  {
+    "question": "Shelley believed poets are founders of:",
+    "options": [
+      "Laws and civil society",
+      "Only literature",
+      "Religious dogma",
+      "Philosophy alone"
+    ],
+    "answer": "Laws and civil society"
+  },
+  {
+    "question": "Shelley’s quote: 'A single word even may be a spark of...'",
+    "options": [
+      "Inextinguishable thought",
+      "Imaginary power",
+      "Mimetic art",
+      "Philosophical insight"
+    ],
+    "answer": "Inextinguishable thought"
+  },
+  {
+    "question": "S.T. Coleridge’s major critical work is:",
+    "options": [
+      "Biographia Literaria",
+      "The Defence of Poetry",
+      "Preface to Lyrical Ballads",
+      "A Defence of Poetry"
+    ],
+    "answer": "Biographia Literaria"
+  },
+  {
+    "question": "Biographia Literaria was published in:",
+    "options": [
+      "1817",
+      "1800",
+      "1821",
+      "1834"
+    ],
+    "answer": "1817"
+  },
+  {
+    "question": "Coleridge distinguished between:",
+    "options": [
+      "Genius and talent",
+      "Poetry and prose",
+      "Romanticism and Classicism",
+      "Imagination and fancy"
+    ],
+    "answer": "Genius and talent"
+  },
+  {
+    "question": "Coleridge’s concept of 'Esemplastic Power' refers to:",
+    "options": [
+      "The faculty by which the soul perceives the spiritual unity of the universe",
+      "The power of imitation",
+      "The ability to compose rhyme",
+      "The use of allegory"
+    ],
+    "answer": "The faculty by which the soul perceives the spiritual unity of the universe"
+  },
+  {
+    "question": "Coleridge’s famous idea about the reader’s suspension is called:",
+    "options": [
+      "Willing suspension of disbelief",
+      "Suspension of imagination",
+      "Critical engagement",
+      "Allegorical reading"
+    ],
+    "answer": "Willing suspension of disbelief"
+  },
+  {
+    "question": "Wordsworth said poetry is more:",
+    "options": [
+      "Expressive than mimetic",
+      "Mimetic than expressive",
+      "Only descriptive",
+      "Only narrative"
+    ],
+    "answer": "Expressive than mimetic"
+  },
+  {
+    "question": "Wordsworth wrote to James Fox about poems that showed:",
+    "options": [
+      "Men who did not wear fine clothes can feel deeply",
+      "Poetry is for the elite only",
+      "Poetry must follow classical rules",
+      "Only kings can write poetry"
+    ],
+    "answer": "Men who did not wear fine clothes can feel deeply"
+  },
+  {
+    "question": "Arnold said about Wordsworth:",
+    "options": [
+      "He was a great critic but left too little criticism",
+      "He was a great poet but no critic",
+      "He was a poor critic",
+      "He wrote too much criticism"
+    ],
+    "answer": "He was a great critic but left too little criticism"
+  },
+  {
+    "question": "Shelley’s quote describing poets as 'a nightingale who...':",
+    "options": [
+      "Sings to cheer its own solitude",
+      "Sings for the world",
+      "Writes to instruct",
+      "Creates laws"
+    ],
+    "answer": "Sings to cheer its own solitude"
+  },
+  {
+    "question": "Shelley believed poetry adds beauty to:",
+    "options": [
+      "That which is most deformed",
+      "Only nature",
+      "Only beauty itself",
+      "Philosophy"
+    ],
+    "answer": "That which is most deformed"
+  },
+  {
+    "question": "Wordsworth said 'Poetry is the image of':",
+    "options": [
+      "Man and nature",
+      "History and society",
+      "Truth and beauty",
+      "Reason and passion"
+    ],
+    "answer": "Man and nature"
+  },
+  {
+    "question": "Coleridge’s 'Biographia Literaria' includes:",
+    "options": [
+      "Literary autobiography and philosophical views",
+      "Only poetic works",
+      "Strict literary theory",
+      "Political essays"
+    ],
+    "answer": "Literary autobiography and philosophical views"
+  },
+  {
+    "question": "T.S. Eliot’s essay 'Tradition and Individual Talent' was first published in:",
+    "options": ["The Egoist", "The Sacred Wood", "The Criterion", "The Dial"],
+    "answer": "The Egoist"
+  },
+  {
+    "question": "'Tradition and Individual Talent' is divided into how many parts?",
+    "options": ["Three", "Two", "Four", "Five"],
+    "answer": "Three"
+  },
+  {
+    "question": "According to Eliot, a poet must embody the whole of European literature starting from:",
+    "options": ["Homer", "Shakespeare", "Virgil", "Dante"],
+    "answer": "Homer"
+  },
+  {
+    "question": "Eliot’s theory of poetry involves the poet's:",
+    "options": ["Continual surrender of himself", "Complete self-expression", "Total emotional release", "Imitation of nature"],
+    "answer": "Continual surrender of himself"
+  },
+  {
+    "question": "Eliot claimed poetry is not a turning loose of emotions but rather:",
+    "options": ["An escape from emotion", "A display of passion", "A mimicry of nature", "An expression of truth"],
+    "answer": "An escape from emotion"
+  },
+  {
+    "question": "Eliot’s concept that the past should be altered by the present as much as the present is directed by the past suggests:",
+    "options": [
+      "A dynamic relationship between tradition and innovation",
+      "Strict adherence to classical rules",
+      "Total rejection of the past",
+      "Focus only on contemporary ideas"
+    ],
+    "answer": "A dynamic relationship between tradition and innovation"
+  },
+  {
+    "question": "In 'Hamlet and His Problems', Eliot called Hamlet:",
+    "options": ["An artistic failure", "A perfect tragedy", "A timeless hero", "A symbol of the Renaissance"],
+    "answer": "An artistic failure"
+  },
+  {
+    "question": "Eliot introduced which critical concept in 'Hamlet and His Problems'?",
+    "options": ["Objective Correlative", "Dissociation of Sensibility", "Irony", "Mimesis"],
+    "answer": "Objective Correlative"
+  },
+  {
+    "question": "Eliot’s 'Dissociation of Sensibility' was discussed in his work on:",
+    "options": ["The Metaphysical Poets", "The Waste Land", "Tradition and Individual Talent", "Four Quartets"],
+    "answer": "The Metaphysical Poets"
+  },
+  {
+    "question": "Mathew Arnold believed his duty was to:",
+    "options": ["Awaken the nation from reduced consciousness", "Promote Romantic poetry", "Reject classical models", "Write only poetry"],
+    "answer": "Awaken the nation from reduced consciousness"
+  },
+  {
+    "question": "Arnold’s phrase 'Sweetness and Light' refers to:",
+    "options": ["Culture as a study of perfection", "Poetry and music", "Science and philosophy", "Morality and religion"],
+    "answer": "Culture as a study of perfection"
+  },
+  {
+    "question": "Arnold’s most famous critical essay is:",
+    "options": ["The Study of Poetry", "Culture and Anarchy", "Literature and Dogma", "Function of Criticism"],
+    "answer": "The Study of Poetry"
+  },
+  {
+    "question": "Arnold’s 'Touchstone Method' is a technique for:",
+    "options": ["Evaluating literature", "Writing poetry", "Historical research", "Philosophical analysis"],
+    "answer": "Evaluating literature"
+  },
+  {
+    "question": "Arnold used the term 'Archi-Tectonic' in reference to:",
+    "options": ["Unity and wholeness of a work of art", "Architectural design", "Structuralism", "Rhythmic patterns"],
+    "answer": "Unity and wholeness of a work of art"
+  },
+  {
+    "question": "Arnold described the best poetry as that which:",
+    "options": ["Forms, sustains, and delights us", "Follows strict rules", "Is historically accurate", "Uses ornate language"],
+    "answer": "Forms, sustains, and delights us"
+  },
+  {
+    "question": "Arnold’s inaugural lecture at Oxford emphasized:",
+    "options": ["Greek literature as a model for English poets", "Romantic poets as superior", "Modernism in literature", "Medieval poetry"],
+    "answer": "Greek literature as a model for English poets"
+  },
+  {
+    "question": "Arnold called Shelley:",
+    "options": ["A beautiful and ineffectual angel", "The greatest poet", "A master of prose", "A Romantic rebel"],
+    "answer": "A beautiful and ineffectual angel"
+  },
+  {
+    "question": "Arnold’s opinion of Coleridge was:",
+    "options": ["A poet and philosopher wrecked in the mist of opium", "A genius ahead of his time", "A great Romantic poet", "An overrated writer"],
+    "answer": "A poet and philosopher wrecked in the mist of opium"
+  },
+  {
+    "question": "Arnold believed for good literature to flourish, two powers are necessary:",
+    "options": ["Creative and critical", "Imaginative and narrative", "Romantic and classical", "Mimetic and expressive"],
+    "answer": "Creative and critical"
+  },
+  {
+    "question": "Arnold’s famous phrase about literature is:",
+    "options": ["Literature is a criticism of life", "Literature is imitation", "Literature is pure emotion", "Literature is a mirror of society"],
+    "answer": "Literature is a criticism of life"
+  },
+  {
+    "question": "Arnold’s concept of 'Disinterestedness' means:",
+    "options": ["Freedom from provincial bias and open to fresh ideas", "Complete objectivity", "No personal opinion", "Ignoring emotions"],
+    "answer": "Freedom from provincial bias and open to fresh ideas"
+  },
+  {
+    "question": "Arnold classified society into three classes:",
+    "options": ["Barbarian, Philistine, and Populace", "Upper, Middle, and Lower", "Aristocrats, Bourgeois, and Workers", "Kings, Nobles, and Peasants"],
+    "answer": "Barbarian, Philistine, and Populace"
+  },
+  {
+    "question": "In Arnold’s classification, 'Barbarian' represents:",
+    "options": ["Aristocratic class", "Middle class", "Working class", "Peasantry"],
+    "answer": "Aristocratic class"
+  },
+  {
+    "question": "Arnold associated 'Hellenism' with:",
+    "options": ["Spontaneity of consciousness and knowledge", "Strict moral conscience", "Religious faith", "Practical action"],
+    "answer": "Spontaneity of consciousness and knowledge"
+  },
+  {
+    "question": "Arnold described 'Hebraism' as:",
+    "options": ["Strictness of conscience and moral sense", "Love of beauty", "Creative imagination", "Philosophical inquiry"],
+    "answer": "Strictness of conscience and moral sense"
+  },
+  {
+    "question": "Arnold’s view on 18th-century literature was that it was:",
+    "options": ["Provincial", "Innovative", "Romantic", "Experimental"],
+    "answer": "Provincial"
+  },
+  {
+    "question": "Arnold criticized his contemporaries, calling Carlyle:",
+    "options": ["A moral desperado", "A great leader", "An idealist", "A pessimist"],
+    "answer": "A moral desperado"
+  },
+  {
+    "question": "Arnold’s opinion of Tennyson’s 'Maud' was:",
+    "options": ["Lamentable production", "A masterpiece", "A great achievement", "A Romantic epic"],
+    "answer": "Lamentable production"
+  },
+  {
+    "question": "Arnold termed Dryden and Pope as:",
+    "options": ["Classics of prose", "Romantic poets", "Modern critics", "Imitators"],
+    "answer": "Classics of prose"
+  },
+  {
+    "question": "Arnold referred to Oxford as:",
+    "options": ["That sweet city with her dreaming spires", "The city of learning", "The home of poets", "The ancient university"],
+    "answer": "That sweet city with her dreaming spires"
+  },
+  {
+    "question": "Arnold believed the future of poetry is:",
+    "options": ["Immense and a surer stay for our race", "Fading and limited", "Bound to classical forms", "Focused only on emotion"],
+    "answer": "Immense and a surer stay for our race"
+  },
+  {
+    "question": "Thomas Bowdler is best known for:",
+    "options": [
+      "Publishing The Family Shakespeare",
+      "Writing original plays",
+      "Translating Shakespeare",
+      "Criticizing Shakespeare"
+    ],
+    "answer": "Publishing The Family Shakespeare"
+  },
+  {
+    "question": "The Family Shakespeare published by Bowdler was:",
+    "options": [
+      "An expurgated edition edited by his sister",
+      "A complete unedited edition",
+      "A translation into modern English",
+      "A collection of essays"
+    ],
+    "answer": "An expurgated edition edited by his sister"
+  },
+  {
+    "question": "How many plays were included in The Family Shakespeare?",
+    "options": [
+      "24",
+      "38",
+      "12",
+      "10"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "The term 'Bowdlerise' means:",
+    "options": [
+      "Expurgation of indelicate language",
+      "Adding new content",
+      "Criticizing literary style",
+      "Translating classical works"
+    ],
+    "answer": "Expurgation of indelicate language"
+  },
+  {
+    "question": "Stuart Hall’s article 'New Ethnicities' focuses on:",
+    "options": [
+      "Black experiences in Britain",
+      "Ancient ethnic groups",
+      "European colonialism",
+      "Multicultural education"
+    ],
+    "answer": "Black experiences in Britain"
+  },
+  {
+    "question": "According to 'New Ethnicities', the term 'Black' in Britain:",
+    "options": [
+      "Groups all non-white people together",
+      "Refers to biological race",
+      "Is limited to African heritage",
+      "Includes only immigrants"
+    ],
+    "answer": "Groups all non-white people together"
+  },
+  {
+    "question": "'Blackness' is described as:",
+    "options": [
+      "A politically and socially constructed category",
+      "A biological fact",
+      "A fixed ethnic identity",
+      "A cultural tradition"
+    ],
+    "answer": "A politically and socially constructed category"
+  },
+  {
+    "question": "Ethnicity acknowledges:",
+    "options": [
+      "History, language, and culture",
+      "Skin colour only",
+      "Biological traits",
+      "Geographical origin alone"
+    ],
+    "answer": "History, language, and culture"
+  },
+  {
+    "question": "Hellenism is related to:",
+    "options": [
+      "Knowing and Greek culture",
+      "Doing and morality",
+      "Faith and obedience",
+      "Religious rituals"
+    ],
+    "answer": "Knowing and Greek culture"
+  },
+  {
+    "question": "Hebraism is related to:",
+    "options": [
+      "Doing and the Bible",
+      "Knowing and philosophy",
+      "Art and beauty",
+      "Science and reason"
+    ],
+    "answer": "Doing and the Bible"
+  },
+  {
+    "question": "The final aim of both Hellenism and Hebraism is:",
+    "options": [
+      "Man’s perfection and salvation",
+      "Scientific advancement",
+      "Political power",
+      "Economic success"
+    ],
+    "answer": "Man’s perfection and salvation"
+  },
+  {
+    "question": "The simple idea of Hellenism is to:",
+    "options": [
+      "Get rid of ignorance and see things as they are",
+      "Follow strict religious laws",
+      "Accept fate without question",
+      "Focus on moral obedience"
+    ],
+    "answer": "Get rid of ignorance and see things as they are"
+  },
+  {
+    "question": "John Keats is regarded as:",
+    "options": [
+      "A Hellenistic poet",
+      "A Hebraistic poet",
+      "A Romantic critic",
+      "A classical dramatist"
+    ],
+    "answer": "A Hellenistic poet"
+  },
+  {
+    "question": "Bowdler’s censorship is mainly associated with:",
+    "options": [
+      "Literature, motion pictures, and television",
+      "Political speeches",
+      "Scientific journals",
+      "Philosophical treatises"
+    ],
+    "answer": "Literature, motion pictures, and television"
+  },
+  {
+    "question": "The term 'Bowdlerise' originated from:",
+    "options": [
+      "Thomas Bowdler’s name",
+      "A Shakespearean character",
+      "An ancient Greek philosopher",
+      "A literary critic"
+    ],
+    "answer": "Thomas Bowdler’s name"
+  }
+]
+
+
