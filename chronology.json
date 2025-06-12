@@ -13,7 +13,7 @@
       "C, A, D, B",
       "D, A, B, C"
     ],
-    "answer": "A, C, B, D"
+    "answer": "A, B, C, D"
   },
   {
     "question": "Arrange the following in chronological order of publication:",
@@ -269,7 +269,7 @@
       "B, A, D, C",
       "C, B, A, D"
     ],
-    "answer": "A, B, C, D"
+    "answer": "A, C, B, D"
   },
   {
     "question": "Arrange the following in chronological order of publication:",
