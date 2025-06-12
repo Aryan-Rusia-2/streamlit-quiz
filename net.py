@@ -6,21 +6,29 @@ import random
 QUIZ_SIZE = 20
 
 # Title
-st.title("📘 UGC-NET English Literature Quiz")
-st.subheader("Choose Quiz Type:")
+st.title("📘 UGC-NET English Quiz App")
+st.subheader("Choose Paper:")
 
-# Updated quiz type selector
-quiz_type = st.selectbox("Quiz Type", ["Indian Literature", "Cultural Studies", "Chronology", "Literary Theory"])
+# Step 1: Paper selector
+paper_choice = st.radio("Select UGC-NET Paper:", ["Paper 1", "Paper 2"])
 
-# Load the appropriate JSON file
-if quiz_type == "Indian Literature":
-    json_file = "chapterOne.json"
-elif quiz_type == "Cultural Studies":
-    json_file = "chapterTwo.json"
-elif quiz_type == "Literary Theory":
-    json_file = "chapterThree.json"
+# Step 2: Logic based on Paper selection
+if paper_choice == "Paper 1":
+    st.subheader("Paper 1 – General Aptitude")
+    chapter = st.selectbox("Choose Chapter", ["Research Aptitude"])  # Add more later
+    json_file = "ResearchAptitude.json"
+
 else:
-    json_file = "chronology.json"
+    st.subheader("Paper 2 – English Literature")
+    quiz_type = st.selectbox("Quiz Type", ["Indian Literature", "Cultural Studies", "Chronology", "Literary Theory"])
+    if quiz_type == "Indian Literature":
+        json_file = "chapterOne.json"
+    elif quiz_type == "Cultural Studies":
+        json_file = "chapterTwo.json"
+    elif quiz_type == "Literary Theory":
+        json_file = "chapterThree.json"
+    else:
+        json_file = "chronology.json"
 
 # Load questions
 with open(json_file, "r", encoding="utf-8") as f:
@@ -34,30 +42,29 @@ total_quizzes = len(quiz_sets)
 quiz_index = st.selectbox(f"Choose a Quiz Set (Total: {total_quizzes})", list(range(1, total_quizzes + 1)))
 selected_questions = quiz_sets[quiz_index - 1]
 
-# Shuffle options once
-quiz_key = f"{quiz_type}_quiz{quiz_index}"
+# Shuffle options once per session and quiz
+quiz_key = f"{json_file}_quiz{quiz_index}"
 if "shuffled_options" not in st.session_state or st.session_state.get("quiz_id") != quiz_key:
     st.session_state.shuffled_options = []
     for q in selected_questions:
-        opts = q['options'][:]
+        opts = q['options'][:] if 'options' in q else q['works'][:]
         random.shuffle(opts)
         st.session_state.shuffled_options.append(opts)
     st.session_state.quiz_id = quiz_key
 
 # Render quiz
-st.subheader(f"{quiz_type} — Quiz {quiz_index}")
+st.subheader(f"📝 Quiz {quiz_index}")
+
 user_answers = []
 
-# Chronology-based rendering
-if quiz_type == "Chronology":
+# Chronology-style rendering
+if paper_choice == "Paper 2" and quiz_type == "Chronology":
     for idx, q in enumerate(selected_questions):
         st.markdown(f"---\n### Q{idx + 1}: {q['question']}")
         st.markdown(f"A. {q['works'][0]}")
         st.markdown(f"B. {q['works'][1]}")
         st.markdown(f"C. {q['works'][2]}")
         st.markdown(f"D. {q['works'][3]}")
-        st.markdown("")
-
         options = st.session_state.shuffled_options[idx]
         user_ans = st.radio("Choose the correct order:", options, key=f"chrono_q{idx}")
 
@@ -68,7 +75,7 @@ if quiz_type == "Chronology":
             else:
                 st.error(f"❌ Incorrect. Your answer: {user_ans} | Correct: {correct}")
 
-# MCQ-based rendering (Indian Lit / Cultural Studies)
+# Regular MCQ rendering
 else:
     with st.form("quiz_form"):
         for idx, q in enumerate(selected_questions):

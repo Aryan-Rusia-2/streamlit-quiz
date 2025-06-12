@@ -1,0 +1,757 @@
+[
+  {
+    "question": "Which of the following is NOT one of the five fundamental methods that evolve into research-oriented approaches?",
+    "options": ["Intuition", "Authority", "Speculation", "Empiricism"],
+    "answer": "Speculation"
+  },
+  {
+    "question": "Who is associated with the quote: 'All progress is born out of inquiry'?",
+    "options": ["Fredrick Ferrier", "John Locke", "Hudson Maxim", "René Descartes"],
+    "answer": "Hudson Maxim"
+  },
+  {
+    "question": "What is the scientific method primarily concerned with?",
+    "options": ["Evaluating emotions", "Systematic observation, classification, and interpretation of data", "Creating beliefs", "Accepting traditions"],
+    "answer": "Systematic observation, classification, and interpretation of data"
+  },
+  {
+    "question": "Which research method involves accepting new ideas based on the endorsement of authoritative figures?",
+    "options": ["Intuition", "Authority", "Empiricism", "Scientific Method"],
+    "answer": "Authority"
+  },
+  {
+    "question": "Which approach emphasizes observation and personal experience to acquire knowledge?",
+    "options": ["Rationalism", "Authority", "Empiricism", "Scientific Method"],
+    "answer": "Empiricism"
+  },
+  {
+    "question": "Which term means the act of finding out through a meticulous inquiry?",
+    "options": ["Res", "Search", "Research", "Intuition"],
+    "answer": "Search"
+  },
+  {
+    "question": "Which component in Cook’s breakdown of research stands for 'Honesty and hard work'?",
+    "options": ["R", "C", "H", "E"],
+    "answer": "H"
+  },
+  {
+    "question": "What do research paradigms NOT typically include?",
+    "options": ["Philosophies", "Values", "Beliefs", "Experiments"],
+    "answer": "Experiments"
+  },
+  {
+    "question": "Which research paradigm seeks to gather information from external sources?",
+    "options": ["Pragmatism", "Constructivism", "Realism", "Positivism"],
+    "answer": "Realism"
+  },
+  {
+    "question": "Which research paradigm focuses on unique individual experiences?",
+    "options": ["Positivism", "Constructivism", "Realism", "Empiricism"],
+    "answer": "Constructivism"
+  },
+  {
+    "question": "Which approach combines both realism and constructivism to understand the world?",
+    "options": ["Positivism", "Pragmatism", "Empiricism", "Ontology"],
+    "answer": "Pragmatism"
+  },
+  {
+    "question": "Who introduced the term 'Epistemology'?",
+    "options": ["John Locke", "René Descartes", "Fredrick Ferrier", "Auguste Comte"],
+    "answer": "Fredrick Ferrier"
+  },
+  {
+    "question": "Which branch of philosophy explores the nature, limits, and validity of knowledge?",
+    "options": ["Ontology", "Epistemology", "Axiology", "Metaphysics"],
+    "answer": "Epistemology"
+  },
+  {
+    "question": "According to René Descartes, what is the source of knowledge?",
+    "options": ["Experience", "Observation", "Logic and reason", "Emotions"],
+    "answer": "Logic and reason"
+  },
+  {
+    "question": "Who believed that all knowledge comes from sensory experience?",
+    "options": ["Descartes", "Fredrick Ferrier", "John Locke", "Hudson Maxim"],
+    "answer": "John Locke"
+  },
+  {
+    "question": "Which philosophy is associated with the idea of 'learning from experience'?",
+    "options": ["Rationalism", "Empiricism", "Pragmatism", "Axiology"],
+    "answer": "Empiricism"
+  },
+  {
+    "question": "What does Metaphysics explore?",
+    "options": ["Data interpretation", "Sensory perception", "Ultimate nature of reality", "Language theory"],
+    "answer": "Ultimate nature of reality"
+  },
+  {
+    "question": "Ontology is mainly concerned with:",
+    "options": ["Moral values", "Nature of knowledge", "Data interpretation", "Fundamental nature of being"],
+    "answer": "Fundamental nature of being"
+  },
+  {
+    "question": "Which philosophy deals with questions about values, ethics, and aesthetics?",
+    "options": ["Ontology", "Metaphysics", "Epistemology", "Axiology"],
+    "answer": "Axiology"
+  },
+  {
+    "question": "A theory is best described as:",
+    "options": ["A belief system", "A religious perspective", "A systematic and coherent set of principles", "A statistical method"],
+    "answer": "A systematic and coherent set of principles"
+  },
+  {
+    "question": "Who is considered the first person to apply positivist principles to society?",
+    "options": ["René Descartes", "John Locke", "Auguste Comte", "Leonardo da Vinci"],
+    "answer": "Auguste Comte"
+  },
+  {
+    "question": "What does the concept of positivism reject?",
+    "options": ["Systematic data collection", "Empirical observation", "Divine or supernatural forces", "Logical reasoning"],
+    "answer": "Divine or supernatural forces"
+  },
+  {
+    "question": "Which period emphasized systematic observation and experimentation?",
+    "options": ["Medieval", "Renaissance", "Industrial", "Modern"],
+    "answer": "Renaissance"
+  },
+  {
+    "question": "Which two philosophers were prominent during the Enlightenment and influenced positivism?",
+    "options": ["Hudson Maxim and John Locke", "Galileo and Descartes", "Francis Bacon and John Locke", "Plato and Aristotle"],
+    "answer": "Francis Bacon and John Locke"
+  },
+  {
+    "question": "Which paradigm includes values, beliefs, and assumptions about a field?",
+    "options": ["Ontology", "Research Paradigm", "Axiology", "Positivism"],
+    "answer": "Research Paradigm"
+  },
+  {
+    "question": "According to the diagram in the text, 'Ontology' is concerned with:",
+    "options": ["Values and ethics", "Nature of reality and being", "Theories and practices", "Scientific methods"],
+    "answer": "Nature of reality and being"
+  },
+  {
+    "question": "According to the same diagram, 'Epistemology' focuses on:",
+    "options": ["Ethics and values", "Experience and senses", "Theoretical framework and research practice", "Religion"],
+    "answer": "Theoretical framework and research practice"
+  },
+  {
+    "question": "The role of 'Axiology' in research is related to:",
+    "options": ["Data types", "Value systems and ethical principles", "Natural laws", "Scientific paradigms"],
+    "answer": "Value systems and ethical principles"
+  },
+  {
+    "question": "Which type of knowledge acquisition relies on logic and reasoning without prior experience?",
+    "options": ["Empirical", "Scientific", "Authoritative", "Rational"],
+    "answer": "Rational"
+  },
+  {
+    "question": "Who emphasized 'systematic observation and experimentation' during the Renaissance?",
+    "options": ["Galileo and Descartes", "Bacon and Comte", "Leonardo da Vinci and Galileo", "Newton and Locke"],
+    "answer": "Leonardo da Vinci and Galileo"
+  },
+  {
+    "question": "Which design is considered the 'gold standard' for establishing cause-and-effect relationships?",
+    "options": ["Pre-experiments", "True experiments", "Quasi-experiments", "Observational studies"],
+    "answer": "True experiments"
+  },
+  {
+    "question": "Which of the following is NOT a key aspect of a true experiment?",
+    "options": ["Manipulation", "Random assignment", "Exploration", "Control group"],
+    "answer": "Exploration"
+  },
+  {
+    "question": "Which type of true experiment design involves testing subjects both before and after a treatment?",
+    "options": ["Post-test Only", "Solomon Four-Group", "Pretest-Posttest", "Time Series"],
+    "answer": "Pretest-Posttest"
+  },
+  {
+    "question": "Which true experiment design combines the pretest-posttest and posttest-only methods?",
+    "options": ["Pretest Control Group", "Quasi-Experimental", "Solomon Four-Group", "One-Shot Case Study"],
+    "answer": "Solomon Four-Group"
+  },
+  {
+    "question": "In which experimental design are participants not randomly assigned?",
+    "options": ["True experiment", "Quasi-experiment", "Solomon design", "Pretest-posttest"],
+    "answer": "Quasi-experiment"
+  },
+  {
+    "question": "Which design measures something over time, both before and after treatment?",
+    "options": ["Time Series", "Post-test only", "Solomon", "One-shot"],
+    "answer": "Time Series"
+  },
+  {
+    "question": "Which of the following helps reduce the influence of bias in research?",
+    "options": ["Peer review", "Random guessing", "Late-stage observation", "Non-standard data"],
+    "answer": "Peer review"
+  },
+  {
+    "question": "Which technique involves using the same procedures and formats in all phases of data collection?",
+    "options": ["Triangulation", "Validation", "Standardization", "Cross-verification"],
+    "answer": "Standardization"
+  },
+  {
+    "question": "What does the concept of triangulation in research refer to?",
+    "options": ["Using three research questions", "Employing multiple methods or data sources", "Comparing three different studies", "Analyzing results thrice"],
+    "answer": "Employing multiple methods or data sources"
+  },
+  {
+    "question": "What does 'reliability' in research primarily concern?",
+    "options": ["Ethics", "Consistency of results", "Measurement of bias", "Accuracy of scales"],
+    "answer": "Consistency of results"
+  },
+  {
+    "question": "Which type of reliability checks if results are consistent over time?",
+    "options": ["Parallel-forms", "Stability", "Internal consistency", "Face validity"],
+    "answer": "Stability"
+  },
+  {
+    "question": "Which reliability type checks if the same test administered twice gives similar results?",
+    "options": ["Test-retest", "Split-half", "Face", "Construct"],
+    "answer": "Test-retest"
+  },
+  {
+    "question": "Which type of reliability is measured by splitting items into two halves?",
+    "options": ["Inter-rater", "Face", "Split-half", "Parallel-forms"],
+    "answer": "Split-half"
+  },
+  {
+    "question": "Which of the following is NOT a type of measurement error?",
+    "options": ["Systematic error", "Cyclical error", "Construct error", "Random error"],
+    "answer": "Construct error"
+  },
+  {
+    "question": "Which type of error is caused by unpredictable factors like background noise?",
+    "options": ["Random error", "Systematic error", "Construct error", "Cyclical error"],
+    "answer": "Random error"
+  },
+  {
+    "question": "Which validity ensures the test covers all aspects of the concept being studied?",
+    "options": ["Face validity", "Content validity", "Internal validity", "Construct validity"],
+    "answer": "Content validity"
+  },
+  {
+    "question": "If a test yields similar results across different versions, it demonstrates:",
+    "options": ["Criterion validity", "Concurrent validity", "Parallel-forms reliability", "Internal consistency"],
+    "answer": "Parallel-forms reliability"
+  },
+  {
+    "question": "What does 'generalizability' in research refer to?",
+    "options": ["Applying findings to wider populations", "Standardizing data", "Focusing on a case study", "Improving sampling bias"],
+    "answer": "Applying findings to wider populations"
+  },
+  {
+    "question": "Which type of research is used to describe characteristics of a group without manipulating variables?",
+    "options": ["Experimental", "Descriptive", "Correlational", "Explanatory"],
+    "answer": "Descriptive"
+  },
+  {
+    "question": "Which type of descriptive research collects data at a single point in time?",
+    "options": ["Cross-sectional", "Longitudinal", "Survey", "Explanatory"],
+    "answer": "Cross-sectional"
+  },
+  {
+    "question": "Which type of validity checks if test results remain consistent when the same test is administered multiple times?",
+    "options": ["Internal validity", "External validity", "Test-retest validity", "Concurrent validity"],
+    "answer": "Test-retest validity"
+  },
+  {
+    "question": "What does 'face validity' assess?",
+    "options": ["Statistical consistency", "How well test items appear to measure the concept", "Generalizability", "Construct alignment"],
+    "answer": "How well test items appear to measure the concept"
+  },
+  {
+    "question": "Which type of validity evaluates how well a test predicts future performance?",
+    "options": ["Concurrent validity", "Predictive validity", "Face validity", "Internal validity"],
+    "answer": "Predictive validity"
+  },
+  {
+    "question": "Which validity is assessed by comparing a new test with an established test measuring the same construct?",
+    "options": ["Content validity", "Face validity", "Concurrent validity", "Criterion validity"],
+    "answer": "Concurrent validity"
+  },
+  {
+    "question": "Construct validity focuses on:",
+    "options": ["Surface-level appearance", "Measuring the entire domain", "Accuracy in future prediction", "How well the test measures the intended trait"],
+    "answer": "How well the test measures the intended trait"
+  },
+  {
+    "question": "Which of the following best defines accuracy in research?",
+    "options": ["Consistency across raters", "Measurement precision and correctness", "Repeated observations", "General findings"],
+    "answer": "Measurement precision and correctness"
+  },
+  {
+    "question": "Credibility in research can be enhanced through:",
+    "options": ["Random sampling", "Peer-reviewed sources", "Triangulation only", "Standard error minimization"],
+    "answer": "Peer-reviewed sources"
+  },
+  {
+    "question": "Which term refers to the ability to repeat a study and obtain similar findings?",
+    "options": ["Reliability", "Credibility", "Replicability", "Accuracy"],
+    "answer": "Replicability"
+  },
+  {
+    "question": "Which research classification is based on objectives such as descriptive or exploratory?",
+    "options": ["Process", "Logic", "Outcome", "Objectives"],
+    "answer": "Objectives"
+  },
+  {
+    "question": "Which classification uses terms like deductive or inductive?",
+    "options": ["Process", "Logic", "Outcome", "Inquiry mode"],
+    "answer": "Logic"
+  },
+  {
+    "question": "Which type of research focuses on describing characteristics without establishing causal relationships?",
+    "options": ["Analytical", "Experimental", "Descriptive", "Exploratory"],
+    "answer": "Descriptive"
+  },
+  {
+    "question": "Which descriptive research method involves collecting data multiple times from the same individuals?",
+    "options": ["Cross-sectional", "Longitudinal", "Observational", "Correlational"],
+    "answer": "Longitudinal"
+  },
+  {
+    "question": "Which method involves direct observation of behaviors, often in natural settings?",
+    "options": ["Survey", "Experimental", "Observational", "Analytical"],
+    "answer": "Observational"
+  },
+  {
+    "question": "Which descriptive method collects participants' responses through forms or interviews?",
+    "options": ["Observation", "Longitudinal", "Survey", "Cross-sectional"],
+    "answer": "Survey"
+  },
+  {
+    "question": "Which method deeply investigates a single case using multiple data sources?",
+    "options": ["Case study", "Content analysis", "Historical research", "Correlational research"],
+    "answer": "Case study"
+  },
+  {
+    "question": "Which method involves examining text, media, or historical content for themes and patterns?",
+    "options": ["Survey", "Case study", "Content analysis", "Quasi-experiment"],
+    "answer": "Content analysis"
+  },
+  {
+    "question": "Causal-comparative research is also known as:",
+    "options": ["Correlational", "Post-positivist", "Ex post facto", "Descriptive"],
+    "answer": "Ex post facto"
+  },
+  {
+    "question": "Which causal research method looks at causes after the effect has already occurred?",
+    "options": ["Prospective", "Cross-sectional", "Retrospective", "Experimental"],
+    "answer": "Retrospective"
+  },
+  {
+    "question": "Which type of research compares groups to explore similarities and differences in causes?",
+    "options": ["Case study", "Correlational", "Causal-comparative", "Experimental"],
+    "answer": "Causal-comparative"
+  },
+  {
+    "question": "What does correlational research primarily study?",
+    "options": ["Cause-effect", "Group comparison", "Association between variables", "Historical context"],
+    "answer": "Association between variables"
+  },
+  {
+    "question": "Which type of research investigates the past to understand present outcomes?",
+    "options": ["Ex post facto", "Prospective", "Cross-sectional", "Case study"],
+    "answer": "Ex post facto"
+  },
+  {
+    "question": "Which research focuses on the critical analysis of existing facts and data?",
+    "options": ["Analytical research", "Exploratory research", "Correlational research", "Experimental research"],
+    "answer": "Analytical research"
+  },
+  {
+    "question": "Which research is conducted when little prior knowledge exists about a phenomenon?",
+    "options": ["Descriptive research", "Experimental research", "Exploratory research", "Historical research"],
+    "answer": "Exploratory research"
+  },
+  {
+    "question": "Which type of research aims to identify the nature of relationships between variables?",
+    "options": ["Analytical research", "Correlational research", "Historical research", "Causal research"],
+    "answer": "Correlational research"
+  },
+  {
+    "question": "Which type of research uses qualitative methods such as interviews and focus groups?",
+    "options": ["Post-positivist", "Positivist", "Experimental", "Descriptive"],
+    "answer": "Post-positivist"
+  },
+  {
+    "question": "Which paradigm focuses on objectivity, measurement, and empirical observation?",
+    "options": ["Constructivism", "Critical theory", "Positivism", "Post-positivism"],
+    "answer": "Positivism"
+  },
+  {
+    "question": "Which philosophy acknowledges subjectivity in research and values context?",
+    "options": ["Post-positivism", "Realism", "Empiricism", "Reductionism"],
+    "answer": "Post-positivism"
+  },
+  {
+    "question": "What does reductionism in positivist research emphasize?",
+    "options": ["Study of personal narratives", "Combining all data types", "Breaking down complex phenomena", "Studying spiritual influences"],
+    "answer": "Breaking down complex phenomena"
+  },
+  {
+    "question": "Which feature is central to positivist research?",
+    "options": ["Subjective reflection", "Value neutrality", "Contextual richness", "Exploration of feelings"],
+    "answer": "Value neutrality"
+  },
+  {
+    "question": "What is the goal of using critical theory in post-positivist research?",
+    "options": ["Form hypothesis", "Generalize findings", "Challenge social injustices", "Quantify variables"],
+    "answer": "Challenge social injustices"
+  },
+  {
+    "question": "Which method is used in post-positivist research to explore personal experiences?",
+    "options": ["Systematic sampling", "Quantitative modeling", "Qualitative interviews", "Deductive reasoning"],
+    "answer": "Qualitative interviews"
+  },
+  {
+    "question": "What is the purpose of replication in experimental research?",
+    "options": ["To increase speed", "To ensure reliability and validity", "To test multiple variables at once", "To use smaller samples"],
+    "answer": "To ensure reliability and validity"
+  },
+  {
+    "question": "Which research involves manipulating variables in a controlled environment?",
+    "options": ["Survey research", "Experimental research", "Historical research", "Content analysis"],
+    "answer": "Experimental research"
+  },
+  {
+    "question": "What is the main feature of randomization in experimental research?",
+    "options": ["Assigning subjects by choice", "Choosing based on gender", "Randomly assigning subjects to groups", "Using only one group"],
+    "answer": "Randomly assigning subjects to groups"
+  },
+  {
+    "question": "Which design lacks randomization and control group, making it less rigorous?",
+    "options": ["True experiment", "Quasi-experiment", "Pre-experiment", "Solomon design"],
+    "answer": "Pre-experiment"
+  },
+  {
+    "question": "Which pre-experiment design studies a group only after a treatment?",
+    "options": ["Pretest-posttest", "Solomon design", "One-shot case study", "Static group comparison"],
+    "answer": "One-shot case study"
+  },
+  {
+    "question": "Which pre-experiment design compares results between a treated and untreated group?",
+    "options": ["Static group comparison", "Posttest-only", "Solomon design", "Time series"],
+    "answer": "Static group comparison"
+  },
+  {
+    "question": "Which quasi-experimental design tests outcomes before and after an intervention across time?",
+    "options": ["Solomon design", "Time series", "Case study", "Correlational design"],
+    "answer": "Time series"
+  },
+  {
+    "question": "What is the advantage of quasi-experimental designs?",
+    "options": ["They avoid real-world situations", "They require random assignment", "They are practical when randomization isn't possible", "They only use surveys"],
+    "answer": "They are practical when randomization isn't possible"
+  },
+  {
+    "question": "Which experimental design uses four groups to combine multiple methods?",
+    "options": ["Time series", "Pretest-posttest", "Solomon four-group", "Static comparison"],
+    "answer": "Solomon four-group"
+  },
+  {
+    "question": "Which type of validity ensures that the instrument fully represents the concept being studied?",
+    "options": ["Face validity", "Content validity", "Predictive validity", "Concurrent validity"],
+    "answer": "Content validity"
+  },
+  {
+    "question": "Which validity type reflects the extent to which a test relates to an outcome in the future?",
+    "options": ["Construct validity", "Predictive validity", "Concurrent validity", "Face validity"],
+    "answer": "Predictive validity"
+  },
+  {
+    "question": "Which reliability method measures internal consistency by comparing scores of two halves of a test?",
+    "options": ["Test-retest", "Split-half", "Parallel forms", "Item-total correlation"],
+    "answer": "Split-half"
+  },
+  {
+    "question": "Which of the following ensures ethical standards are maintained in research involving humans?",
+    "options": ["Standard deviation", "IRB approval", "Content validity", "Pilot testing"],
+    "answer": "IRB approval"
+  },
+  {
+    "question": "Which error is due to unpredictable fluctuations in measurements?",
+    "options": ["Systematic error", "Random error", "Measurement bias", "Construct error"],
+    "answer": "Random error"
+  },
+  {
+    "question": "What does 'standardization' refer to in research procedures?",
+    "options": ["Ethical compliance", "Uniformity in data collection methods", "Changing variables", "Collecting random data"],
+    "answer": "Uniformity in data collection methods"
+  },
+  {
+    "question": "Which type of data is typically collected using Likert scales?",
+    "options": ["Nominal", "Ordinal", "Interval", "Ratio"],
+    "answer": "Ordinal"
+  },
+  {
+    "question": "What does a p-value less than 0.05 generally indicate?",
+    "options": ["High variability", "Statistical significance", "Null hypothesis accepted", "Weak reliability"],
+    "answer": "Statistical significance"
+  },
+  {
+    "question": "Which scale of measurement includes a true zero point?",
+    "options": ["Nominal", "Ordinal", "Interval", "Ratio"],
+    "answer": "Ratio"
+  },
+  {
+    "question": "Which term refers to the extent to which research findings can be generalized?",
+    "options": ["Credibility", "Transferability", "Generalizability", "Reliability"],
+    "answer": "Generalizability"
+  },
+  {
+    "question": "Which of the following is an example of non-probability sampling?",
+    "options": ["Simple random sampling", "Stratified sampling", "Snowball sampling", "Systematic sampling"],
+    "answer": "Snowball sampling"
+  },
+  {
+    "question": "What is the primary goal of using a pilot study?",
+    "options": ["To finalize sample size", "To ensure ethical clearance", "To test feasibility of instruments and procedures", "To generalize findings"],
+    "answer": "To test feasibility of instruments and procedures"
+  },
+  {
+    "question": "Which of the following is a qualitative data collection technique?",
+    "options": ["Survey", "Structured observation", "Unstructured interview", "Experiment"],
+    "answer": "Unstructured interview"
+  },
+  {
+    "question": "Which technique ensures that the same measurement procedure is repeated under identical conditions?",
+    "options": ["Reliability", "Validity", "Standardization", "Sensitivity"],
+    "answer": "Standardization"
+  },
+  {
+    "question": "Which term refers to the degree to which results are stable and consistent over time?",
+    "options": ["Credibility", "Transferability", "Reliability", "Validity"],
+    "answer": "Reliability"
+  },
+  {
+    "question": "Which variable is manipulated in experimental research?",
+    "options": ["Dependent variable", "Independent variable", "Extraneous variable", "Control variable"],
+    "answer": "Independent variable"
+  },
+  {
+    "question": "Which variable is measured to observe the effects of the manipulation?",
+    "options": ["Dependent variable", "Moderator variable", "Control variable", "Manipulated variable"],
+    "answer": "Dependent variable"
+  },
+  {
+    "question": "Which variable can interfere with the relationship between the independent and dependent variables?",
+    "options": ["Extraneous variable", "Moderator", "Mediating variable", "Criterion variable"],
+    "answer": "Extraneous variable"
+  },
+  {
+    "question": "Which term is used for a measurable characteristic that can vary across individuals?",
+    "options": ["Hypothesis", "Construct", "Variable", "Parameter"],
+    "answer": "Variable"
+  },
+  {
+    "question": "What is the role of operational definition in research?",
+    "options": ["State hypothesis", "Define sample", "Specify how a variable will be measured", "Summarize findings"],
+    "answer": "Specify how a variable will be measured"
+  },
+  {
+    "question": "What is a hypothesis?",
+    "options": ["A proven fact", "An assumption to be tested", "A statistical result", "A measurement technique"],
+    "answer": "An assumption to be tested"
+  },
+  {
+    "question": "Which hypothesis states that there is no relationship between variables?",
+    "options": ["Alternative hypothesis", "Directional hypothesis", "Null hypothesis", "Correlational hypothesis"],
+    "answer": "Null hypothesis"
+  },
+  {
+    "question": "What is the role of the alternative hypothesis?",
+    "options": ["To describe expected values", "To reject variables", "To propose a relationship between variables", "To eliminate bias"],
+    "answer": "To propose a relationship between variables"
+  },
+  {
+    "question": "Which of the following is a feature of a good hypothesis?",
+    "options": ["Ambiguity", "Generalization", "Testability", "Bias"],
+    "answer": "Testability"
+  },
+  {
+    "question": "Which term describes variables not included in the study but which influence results?",
+    "options": ["Moderator", "Control variable", "Extraneous variable", "Criterion variable"],
+    "answer": "Extraneous variable"
+  },
+  {
+    "question": "In research, what does 'population' refer to?",
+    "options": ["All data collected", "The control group", "The total group under study", "Sample results"],
+    "answer": "The total group under study"
+  },
+  {
+    "question": "Which of the following refers to a subset of the population selected for a study?",
+    "options": ["Parameter", "Sample", "Cohort", "Statistic"],
+    "answer": "Sample"
+  },
+  {
+    "question": "What is the term for the list from which a sample is drawn?",
+    "options": ["Sample size", "Population frame", "Sampling frame", "Reference group"],
+    "answer": "Sampling frame"
+  },
+  {
+    "question": "Which sampling method ensures every member has an equal chance of selection?",
+    "options": ["Purposive sampling", "Snowball sampling", "Simple random sampling", "Quota sampling"],
+    "answer": "Simple random sampling"
+  },
+  {
+    "question": "Which sampling method selects participants based on specific characteristics?",
+    "options": ["Stratified sampling", "Random sampling", "Cluster sampling", "Systematic sampling"],
+    "answer": "Stratified sampling"
+  },
+  {
+    "question": "Which sampling technique selects every nth person from a list?",
+    "options": ["Snowball sampling", "Cluster sampling", "Systematic sampling", "Quota sampling"],
+    "answer": "Systematic sampling"
+  },
+  {
+    "question": "Which non-probability sampling method involves selecting whoever is available?",
+    "options": ["Snowball sampling", "Judgment sampling", "Convenience sampling", "Stratified sampling"],
+    "answer": "Convenience sampling"
+  },
+  {
+    "question": "Which method uses referrals from existing participants to find more subjects?",
+    "options": ["Quota sampling", "Snowball sampling", "Cluster sampling", "Random sampling"],
+    "answer": "Snowball sampling"
+  },
+  {
+    "question": "Which error occurs due to flaws in study design or measurement instruments?",
+    "options": ["Random error", "Systematic error", "Sampling error", "Frame error"],
+    "answer": "Systematic error"
+  },
+  {
+    "question": "What is the main aim of descriptive statistics?",
+    "options": ["Draw conclusions", "Summarize data", "Prove hypothesis", "Develop variables"],
+    "answer": "Summarize data"
+  },
+  {
+    "question": "Which of the following is NOT a measure of central tendency?",
+    "options": ["Mean", "Median", "Mode", "Standard deviation"],
+    "answer": "Standard deviation"
+  },
+  {
+    "question": "Which measure of dispersion indicates the average distance from the mean?",
+    "options": ["Mean", "Range", "Mode", "Standard deviation"],
+    "answer": "Standard deviation"
+  },
+  {
+    "question": "Which software is commonly used for statistical analysis in research?",
+    "options": ["Photoshop", "SPSS", "Illustrator", "AutoCAD"],
+    "answer": "SPSS"
+  },
+  {
+    "question": "Which graph is most suitable for showing frequency distribution?",
+    "options": ["Line graph", "Histogram", "Pie chart", "Scatter plot"],
+    "answer": "Histogram"
+  },
+  {
+    "question": "Which test is used to compare means between two groups?",
+    "options": ["Chi-square test", "T-test", "ANOVA", "Regression"],
+    "answer": "T-test"
+  },
+  {
+    "question": "What is the main goal of inferential statistics?",
+    "options": ["Describe raw data", "Summarize charts", "Make predictions or generalizations about a population", "Display variance"],
+    "answer": "Make predictions or generalizations about a population"
+  },
+  {
+    "question": "What does the Chi-square test measure?",
+    "options": ["Mean difference", "Variance between groups", "Association between categorical variables", "Standard deviation"],
+    "answer": "Association between categorical variables"
+  },
+  {
+    "question": "Which test is used to compare means among more than two groups?",
+    "options": ["T-test", "Z-test", "Chi-square", "ANOVA"],
+    "answer": "ANOVA"
+  },
+  {
+    "question": "In which condition is the Z-test preferred over the T-test?",
+    "options": ["Small sample size", "Unknown population variance", "Population variance is known", "Paired sample analysis"],
+    "answer": "Population variance is known"
+  },
+  {
+    "question": "Which visual tool is most effective for showing parts of a whole?",
+    "options": ["Histogram", "Pie chart", "Bar graph", "Box plot"],
+    "answer": "Pie chart"
+  },
+  {
+    "question": "What is the dependent variable also known as?",
+    "options": ["Manipulated variable", "Control variable", "Outcome variable", "Random variable"],
+    "answer": "Outcome variable"
+  },
+  {
+    "question": "Which variable is used to control for external influences in an experiment?",
+    "options": ["Control variable", "Independent variable", "Confounding variable", "Random variable"],
+    "answer": "Control variable"
+  },
+  {
+    "question": "Which term describes the consistency of a measurement over time?",
+    "options": ["Validity", "Reliability", "Transferability", "Objectivity"],
+    "answer": "Reliability"
+  },
+  {
+    "question": "Which validity type is concerned with whether the results of a study can be generalized?",
+    "options": ["Internal validity", "Construct validity", "External validity", "Face validity"],
+    "answer": "External validity"
+  },
+  {
+    "question": "Which test checks for relationships between two continuous variables?",
+    "options": ["Chi-square", "T-test", "Pearson correlation", "ANOVA"],
+    "answer": "Pearson correlation"
+  },
+  {
+    "question": "Which document ensures participants are aware of research procedures and risks?",
+    "options": ["Ethical clearance", "Sampling report", "Informed consent form", "Debriefing statement"],
+    "answer": "Informed consent form"
+  },
+  {
+    "question": "What is an operational definition?",
+    "options": ["Definition from dictionary", "Definition given by a researcher", "Definition based on measurable terms", "Assumed idea"],
+    "answer": "Definition based on measurable terms"
+  },
+  {
+    "question": "What is 'randomization' primarily used for in experiments?",
+    "options": ["Minimize sample size", "Control variables", "Ensure objectivity", "Eliminate bias in group allocation"],
+    "answer": "Eliminate bias in group allocation"
+  },
+  {
+    "question": "Which of the following is an example of qualitative data?",
+    "options": ["Weight", "Temperature", "Gender", "Age"],
+    "answer": "Gender"
+  },
+  {
+    "question": "Which term refers to a characteristic that assumes different values among subjects?",
+    "options": ["Construct", "Variable", "Criterion", "Population"],
+    "answer": "Variable"
+  },
+  {
+    "question": "What is the purpose of a research design?",
+    "options": ["Analyze data", "Interpret findings", "Plan data collection and analysis", "Select hypotheses"],
+    "answer": "Plan data collection and analysis"
+  },
+  {
+    "question": "Which measure is affected the most by extreme values?",
+    "options": ["Mean", "Median", "Mode", "Standard deviation"],
+    "answer": "Mean"
+  },
+  {
+    "question": "Which research method involves manipulating one variable to determine its effect on another?",
+    "options": ["Descriptive", "Correlational", "Experimental", "Ex post facto"],
+    "answer": "Experimental"
+  },
+  {
+    "question": "What is meant by 'sampling bias'?",
+    "options": ["Data entry error", "Non-random selection of sample", "Misinterpretation of hypothesis", "Use of complex tools"],
+    "answer": "Non-random selection of sample"
+  },
+  {
+    "question": "Which research approach is primarily used in grounded theory?",
+    "options": ["Quantitative", "Mixed methods", "Theoretical", "Qualitative"],
+    "answer": "Qualitative"
+  }
+]
+
+
+
+
+
