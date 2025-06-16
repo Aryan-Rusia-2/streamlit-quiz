@@ -20,7 +20,7 @@ if paper_choice == "Paper 1":
 
 else:
     st.subheader("Paper 2 – English Literature")
-    quiz_type = st.selectbox("Quiz Type", ["Indian Literature", "Cultural Studies", "Chronology", "Literary Theory", "Linguistics"])
+    quiz_type = st.selectbox("Quiz Type", ["Indian Literature", "Cultural Studies", "Chronology", "Literary Theory", "Linguistics", "African Literature"])
     if quiz_type == "Indian Literature":
         json_file = "chapterOne.json"
     elif quiz_type == "Cultural Studies":
@@ -29,6 +29,8 @@ else:
         json_file = "chapterThree.json"
     elif quiz_type == "Linguistics":
         json_file = "linguistics.json"
+    elif quiz_type == "African Literature":
+        json_file = "african.json"
     else:
         json_file = "chronology.json"
 

@@ -1,0 +1,647 @@
+[
+  {
+    "question": "Which year did J.M. Coetzee win the Nobel Prize in Literature?",
+    "options": ["2002", "2003", "2004", "2005"],
+    "answer": "2003"
+  },
+  {
+    "question": "Which novel by Coetzee won the Booker Prize in 1983?",
+    "options": ["Disgrace", "Foe", "Life and Times of Michael K", "Waiting for the Barbarians"],
+    "answer": "Life and Times of Michael K"
+  },
+  {
+    "question": "What is the genre of 'Youth: Scenes from Provincial Life II'?",
+    "options": ["Historical fiction", "Fantasy", "Semi-fictional autobiography", "Memoir"],
+    "answer": "Semi-fictional autobiography"
+  },
+  {
+    "question": "Where was Coetzee living when he began his first novel 'Dusklands'?",
+    "options": ["South Africa", "England", "Australia", "New York"],
+    "answer": "New York"
+  },
+  {
+    "question": "Which two stories are included in 'Dusklands'?",
+    "options": ["The House and The War", "The Vietnam Project and The Narrative of Tacobus Coetzee", "Boyhood and Youth", "Elizabeth and Friday"],
+    "answer": "The Vietnam Project and The Narrative of Tacobus Coetzee"
+  },
+  {
+    "question": "Which novel by Coetzee is narrated in 266 numbered paragraphs?",
+    "options": ["Disgrace", "In the Heart of the Country", "Foe", "Elizabeth Costello"],
+    "answer": "In the Heart of the Country"
+  },
+  {
+    "question": "What is the source of the title for 'Waiting for the Barbarians'?",
+    "options": ["A historical event", "A political speech", "A Greek poem", "A Bible verse"],
+    "answer": "A Greek poem"
+  },
+  {
+    "question": "Which real-life Russian author is the protagonist in 'The Master of Petersburg'?",
+    "options": ["Tolstoy", "Dostoyevsky", "Turgenev", "Pushkin"],
+    "answer": "Dostoyevsky"
+  },
+  {
+    "question": "Which Coetzee novel deals with the journey of Michael K. during a civil war?",
+    "options": ["Age of Iron", "Disgrace", "Life and Times of Michael K", "Dusklands"],
+    "answer": "Life and Times of Michael K"
+  },
+  {
+    "question": "What is the theme of the novel 'Foe'?",
+    "options": ["Post-apartheid life", "Academic life", "Retelling of Robinson Crusoe", "Terrorism"],
+    "answer": "Retelling of Robinson Crusoe"
+  },
+  {
+    "question": "In which novel is the character Mrs. Lurren featured?",
+    "options": ["Diary of a Bad Year", "Elizabeth Costello", "Age of Iron", "Slowman"],
+    "answer": "Age of Iron"
+  },
+  {
+    "question": "Which Coetzee novel features a lecture-giving character discussing animal rights?",
+    "options": ["Slowman", "Elizabeth Costello", "Boyhood", "The Childhood of Jesus"],
+    "answer": "Elizabeth Costello"
+  },
+  {
+    "question": "What is the name of Coetzee’s Nobel Prize acceptance speech?",
+    "options": ["Scenes from Provincial Life", "He and His Man", "In the Heart of the Country", "Lives of Animals"],
+    "answer": "He and His Man"
+  },
+  {
+    "question": "Which novel was Coetzee’s first after receiving the Nobel Prize?",
+    "options": ["Diary of a Bad Year", "Slowman", "Disgrace", "Elizabeth Costello"],
+    "answer": "Slowman"
+  },
+  {
+    "question": "What is the central incident in 'Disgrace'?",
+    "options": ["An academic scandal", "A journey through apartheid", "A daughter’s gang rape", "A political assassination"],
+    "answer": "A daughter’s gang rape"
+  },
+  {
+    "question": "Which novel is the final in Coetzee’s fictionalized memoir trilogy?",
+    "options": ["Boyhood", "Youth", "Summertime", "Slowman"],
+    "answer": "Summertime"
+  },
+  {
+    "question": "Who are the other two authors besides Coetzee to win the Booker Prize twice?",
+    "options": ["Nadine Gordimer and Doris Lessing", "Peter Carey and Hilary Mantel", "Chinua Achebe and Ben Okri", "Salman Rushdie and Arundhati Roy"],
+    "answer": "Peter Carey and Hilary Mantel"
+  },
+  {
+    "question": "Which novel by Coetzee critiques colonial narratives through a female narrator?",
+    "options": ["Disgrace", "Foe", "Age of Iron", "Boyhood"],
+    "answer": "Foe"
+  },
+  {
+    "question": "Which work by Coetzee involves a dying classics professor?",
+    "options": ["Youth", "Age of Iron", "Elizabeth Costello", "Slowman"],
+    "answer": "Age of Iron"
+  },
+  {
+    "question": "Which Coetzee work features the character Elizabeth Costello in multiple novels?",
+    "options": ["Diary of a Bad Year", "Foe", "Lives of Animals", "Disgrace"],
+    "answer": "Lives of Animals"
+  },
+  {
+    "question": "What was Chinua Achebe’s full birth name?",
+    "options": ["Chinualumogu Achebe", "Albert Chinualumogu Achebe", "Albert Achebe", "Chukwuemeka Achebe"],
+    "answer": "Albert Chinualumogu Achebe"
+  },
+  {
+    "question": "Which town was Chinua Achebe raised in?",
+    "options": ["Umuofia", "Ogidi", "Kangan", "Nsukka"],
+    "answer": "Ogidi"
+  },
+  {
+    "question": "Which of the following is considered Achebe’s magnum opus?",
+    "options": ["Arrow of God", "No Longer at Ease", "Things Fall Apart", "A Man of the People"],
+    "answer": "Things Fall Apart"
+  },
+  {
+    "question": "Which year was 'Things Fall Apart' published?",
+    "options": ["1957", "1958", "1959", "1960"],
+    "answer": "1958"
+  },
+  {
+    "question": "Who is the protagonist of 'Things Fall Apart'?",
+    "options": ["Obi", "Ezeulu", "Nanga", "Okonkwo"],
+    "answer": "Okonkwo"
+  },
+  {
+    "question": "From which poem is the title 'Things Fall Apart' taken?",
+    "options": ["The Waste Land", "The Second Coming", "Journey of the Magi", "Sailing to Byzantium"],
+    "answer": "The Second Coming"
+  },
+  {
+    "question": "Who is Okonkwo's son in 'Things Fall Apart'?",
+    "options": ["Ezeulu", "Nwoye", "Obi", "Ikemefuna"],
+    "answer": "Nwoye"
+  },
+  {
+    "question": "What is the fate of Okonkwo in 'Things Fall Apart'?",
+    "options": ["He becomes a missionary", "He becomes a chief", "He is hanged by the British", "He hangs himself"],
+    "answer": "He hangs himself"
+  },
+  {
+    "question": "Who is the protagonist of 'No Longer at Ease'?",
+    "options": ["Obi Okonkwo", "Ezeulu", "Nanga", "Okonkwo"],
+    "answer": "Obi Okonkwo"
+  },
+  {
+    "question": "What is the profession of Obi in 'No Longer at Ease'?",
+    "options": ["Teacher", "Doctor", "Civil servant", "Priest"],
+    "answer": "Civil servant"
+  },
+  {
+    "question": "From which poet is the title 'No Longer at Ease' derived?",
+    "options": ["W.B. Yeats", "T.S. Eliot", "Derek Walcott", "Sylvia Plath"],
+    "answer": "T.S. Eliot"
+  },
+  {
+    "question": "Which novel features Ezeulu, the priest?",
+    "options": ["Things Fall Apart", "Anthills of the Savannah", "Arrow of God", "Girls at War"],
+    "answer": "Arrow of God"
+  },
+  {
+    "question": "Which imaginary country is featured in 'Anthills of the Savannah'?",
+    "options": ["Kangan", "Ogidi", "Umuofia", "Nsukka"],
+    "answer": "Kangan"
+  },
+  {
+    "question": "Who is the protagonist in 'A Man of the People'?",
+    "options": ["Okonkwo", "Nanga", "Obi", "Ezeulu"],
+    "answer": "Nanga"
+  },
+  {
+    "question": "Which of Achebe’s essays harshly critiques Joseph Conrad?",
+    "options": ["On the Writer and His Craft", "An Image of Africa", "The Empire Writes Back", "The Lives of Animals"],
+    "answer": "An Image of Africa"
+  },
+  {
+    "question": "Which poem by Achebe is titled after a scavenger bird?",
+    "options": ["Soul Brother", "Beware", "Vultures", "Chrismas in Biafra"],
+    "answer": "Vultures"
+  },
+  {
+    "question": "Which Achebe story begins with the marriage conflict in Lagos?",
+    "options": ["Marriage is a Private Affair", "Dead Men’s Path", "Civil Peace", "Girls at War"],
+    "answer": "Marriage is a Private Affair"
+  },
+  {
+    "question": "Which short story by Achebe involves reopening a traditional path?",
+    "options": ["Dead Men’s Path", "Civil Peace", "Vultures", "Marriage is a Private Affair"],
+    "answer": "Dead Men’s Path"
+  },
+  {
+    "question": "Which Achebe children’s book is about a boy and a river?",
+    "options": ["The Drum", "The Flute", "Chike and the River", "How the Leopard Got his Claws"],
+    "answer": "Chike and the River"
+  },
+  {
+    "question": "What is the significance of the 'evil forest' in 'Things Fall Apart'?",
+    "options": ["Burial ground", "Refuge for criminals", "Land for Christian church", "Haunted battlefield"],
+    "answer": "Land for Christian church"
+  },
+  {
+    "question": "Who is Ikemefuna in 'Things Fall Apart'?",
+    "options": ["Okonkwo’s brother", "A captive boy", "Okonkwo’s rival", "A missionary"],
+    "answer": "A captive boy"
+  },
+  {
+    "question": "Which Achebe work was published in 1987?",
+    "options": ["Arrow of God", "Anthills of the Savannah", "A Man of the People", "The Drum"],
+    "answer": "Anthills of the Savannah"
+  },
+  {
+    "question": "In which year did Achebe win the Man Booker International Prize?",
+    "options": ["2005", "2006", "2007", "2008"],
+    "answer": "2007"
+  },
+  {
+    "question": "Which character said ‘I am half spirit and half man’?",
+    "options": ["Okonkwo", "Obi", "Ezeulu", "Nanga"],
+    "answer": "Ezeulu"
+  },
+  {
+    "question": "Who called Achebe ‘a magical writer’?",
+    "options": ["Wole Soyinka", "Toni Morrison", "Margaret Atwood", "Ngũgĩ wa Thiong'o"],
+    "answer": "Margaret Atwood"
+  },
+  {
+    "question": "Which of the following is NOT a poem by Achebe?",
+    "options": ["Chrismas in Biafra", "Vultures", "Soul Brother", "Journey of the Magi"],
+    "answer": "Journey of the Magi"
+  },
+  {
+    "question": "In which year did Wole Soyinka win the Nobel Prize in Literature?",
+    "options": ["1984", "1985", "1986", "1987"],
+    "answer": "1986"
+  },
+  {
+    "question": "Wole Soyinka was the first African to win which prestigious award?",
+    "options": ["Pulitzer Prize", "Nobel Prize in Literature", "Booker Prize", "Commonwealth Writers’ Prize"],
+    "answer": "Nobel Prize in Literature"
+  },
+  {
+    "question": "Which memoir recounts Soyinka’s early life?",
+    "options": ["The Man Died", "Ake: The Years of Childhood", "Season of Anomy", "Myth, Literature and the African World"],
+    "answer": "Ake: The Years of Childhood"
+  },
+  {
+    "question": "What is Soyinka’s first produced work?",
+    "options": ["The Lion and the Jewel", "A Dance of the Forests", "The Invention", "The Swamp Dwellers"],
+    "answer": "The Invention"
+  },
+  {
+    "question": "Which Soyinka play was presented at Nigeria’s Independence in 1960?",
+    "options": ["Death and the King's Horseman", "The Road", "The Lion and the Jewel", "A Dance of the Forests"],
+    "answer": "A Dance of the Forests"
+  },
+  {
+    "question": "What is the name of the girl referred to as 'the Jewel' in 'The Lion and the Jewel'?",
+    "options": ["Sidi", "Sadiku", "Lakunle", "Elesin"],
+    "answer": "Sidi"
+  },
+  {
+    "question": "Who is the elderly man referred to as 'the Lion' in 'The Lion and the Jewel'?",
+    "options": ["Elesin", "Baroka", "Lakunle", "Kongi"],
+    "answer": "Baroka"
+  },
+  {
+    "question": "Which of Soyinka’s plays critiques Nigeria's political elite?",
+    "options": ["The Swamp Dwellers", "The Road", "A Dance of the Forests", "Season of Anomy"],
+    "answer": "A Dance of the Forests"
+  },
+  {
+    "question": "Which play is considered a political satire featuring President Kongi?",
+    "options": ["The Strong Breed", "Kongi’s Harvest", "Madmen and Specialists", "The Road"],
+    "answer": "Kongi’s Harvest"
+  },
+  {
+    "question": "What is the central theme of 'The Road'?",
+    "options": ["Revenge", "Education", "Spiritual journey and death", "Love triangle"],
+    "answer": "Spiritual journey and death"
+  },
+  {
+    "question": "Which real event inspired 'Death and the King’s Horseman'?",
+    "options": ["Biafran war", "Nigerian independence", "Ritual suicide blocked by British", "Political coup"],
+    "answer": "Ritual suicide blocked by British"
+  },
+  {
+    "question": "What is the name of the British officer in 'Death and the King’s Horseman'?",
+    "options": ["Elesin", "Olunde", "Simon Pilkings", "Lakunle"],
+    "answer": "Simon Pilkings"
+  },
+  {
+    "question": "Which character performs ritual suicide in place of Elesin?",
+    "options": ["Baroka", "Simon", "Lakunle", "Olunde"],
+    "answer": "Olunde"
+  },
+  {
+    "question": "What type of character is Brother Jero in Soyinka’s plays?",
+    "options": ["Traditional king", "Spiritual prophet", "Warrior", "Villager"],
+    "answer": "Spiritual prophet"
+  },
+  {
+    "question": "Which essay by Soyinka argues for a distinct African theatrical tradition?",
+    "options": ["Towards a True Theatre", "Myth and Meaning", "Culture and Truth", "On African Drama"],
+    "answer": "Towards a True Theatre"
+  },
+  {
+    "question": "Which year was Soyinka released from prison after the civil war?",
+    "options": ["1968", "1969", "1970", "1971"],
+    "answer": "1969"
+  },
+  {
+    "question": "What is the name of the poem that opens 'The Road'?",
+    "options": ["Alagemo", "Ogun Abibiman", "Myth and Meaning", "Death in the Dawn"],
+    "answer": "Alagemo"
+  },
+  {
+    "question": "What is Soyinka’s response to the Negritude movement?",
+    "options": ["Strong support", "Cultural fusion", "Satirical rejection", "Total adoption"],
+    "answer": "Satirical rejection"
+  },
+  {
+    "question": "Which Soyinka quote mocks self-proclaimed racial pride?",
+    "options": ["Africa must rise", "I am a child of Ogun", "A tiger does not proclaim its tigritude before it strikes", "The world is my stage"],
+    "answer": "A tiger does not proclaim its tigritude before it strikes"
+  },
+  {
+    "question": "Which novel was written by Wole Soyinka?",
+    "options": ["The Interpreters", "Season of Migration", "Things Fall Apart", "A Grain of Wheat"],
+    "answer": "The Interpreters"
+  },
+  {
+    "question": "What is the theme of the play 'Jero’s Metamorphosis'?",
+    "options": ["Colonial rule", "Political corruption", "Religious hypocrisy", "Rural love"],
+    "answer": "Religious hypocrisy"
+  },
+  {
+    "question": "Which Soyinka work was published in 1976 as a major essay collection?",
+    "options": ["Myth, Literature and the African World", "Ogun Abibiman", "The Man Died", "Towards a True Theatre"],
+    "answer": "Myth, Literature and the African World"
+  },
+  {
+    "question": "Which play features a corrupt dictator trying to modernize a nation?",
+    "options": ["The Road", "The Lion and the Jewel", "Kongi’s Harvest", "The Strong Breed"],
+    "answer": "Kongi’s Harvest"
+  },
+  {
+    "question": "What is the title of Soyinka’s prison memoir?",
+    "options": ["Ake", "The Road", "The Man Died", "Myth and Literature"],
+    "answer": "The Man Died"
+  },
+  {
+    "question": "Which award did Soyinka receive in 2014?",
+    "options": ["International Humanist Award", "Booker Prize", "Commonwealth Literature Award", "Pulitzer Prize"],
+    "answer": "International Humanist Award"
+  },
+  {
+    "question": "What was the profession of Ken Saro Wiwa?",
+    "options": ["Politician", "Soldier", "Writer and Environmental Activist", "Teacher"],
+    "answer": "Writer and Environmental Activist"
+  },
+  {
+    "question": "Ken Saro Wiwa belonged to which ethnic group?",
+    "options": ["Igbo", "Yoruba", "Ogoni", "Hausa"],
+    "answer": "Ogoni"
+  },
+  {
+    "question": "What is the subtitle of 'Sozaboy'?",
+    "options": ["A War Memoir", "A Nigerian Tragedy", "A Novel in Rotten English", "A Soldier’s Tale"],
+    "answer": "A Novel in Rotten English"
+  },
+  {
+    "question": "Who is the protagonist of 'Sozaboy'?",
+    "options": ["Azaro", "Mene", "Obi", "Elesin"],
+    "answer": "Mene"
+  },
+  {
+    "question": "What is the theme of Ken Saro Wiwa’s novel 'Sozaboy'?",
+    "options": ["Urban romance", "Military corruption and naivety in war", "Religious struggle", "Political elections"],
+    "answer": "Military corruption and naivety in war"
+  },
+  {
+    "question": "What is the name of Ken Saro Wiwa’s war diary?",
+    "options": ["A Month and Day", "On a Darkling Plain", "The Man Died", "Sozaboy"],
+    "answer": "On a Darkling Plain"
+  },
+  {
+    "question": "Which work by Wiwa is a collection of short stories?",
+    "options": ["Lemona’s Tale", "Sozaboy", "A Forest of Flowers", "On a Darkling Plain"],
+    "answer": "A Forest of Flowers"
+  },
+  {
+    "question": "What is 'A Month and Day' by Wiwa?",
+    "options": ["A love story", "A war account", "A detention diary", "A children’s book"],
+    "answer": "A detention diary"
+  },
+  {
+    "question": "Who is the author of 'The Famished Road'?",
+    "options": ["Ken Saro Wiwa", "Wole Soyinka", "Ben Okri", "Ngugi wa Thiong'o"],
+    "answer": "Ben Okri"
+  },
+  {
+    "question": "Which award did Ben Okri win in 1991?",
+    "options": ["Nobel Prize", "Commonwealth Prize", "Booker Prize", "Pulitzer Prize"],
+    "answer": "Booker Prize"
+  },
+  {
+    "question": "What is the name of the narrator in 'The Famished Road'?",
+    "options": ["Obi", "Azaro", "Mene", "Baroka"],
+    "answer": "Azaro"
+  },
+  {
+    "question": "Which of these novels is part of Ben Okri’s trilogy?",
+    "options": ["Sozaboy", "Second Class Citizen", "Songs of Enchantment", "The Joys of Motherhood"],
+    "answer": "Songs of Enchantment"
+  },
+  {
+    "question": "What is the theme of Ben Okri's 'Dangerous Love'?",
+    "options": ["British immigration", "Village warfare", "Lagos in 1970s", "Postcolonial farming"],
+    "answer": "Lagos in 1970s"
+  },
+  {
+    "question": "Which collection of poems was written by Ben Okri?",
+    "options": ["An African Elegy", "A Forest of Flowers", "Ogun Abibiman", "Chrismas in Biafra"],
+    "answer": "An African Elegy"
+  },
+  {
+    "question": "Who wrote 'Second Class Citizen'?",
+    "options": ["Ben Okri", "Buchi Emecheta", "Ken Saro Wiwa", "Wole Soyinka"],
+    "answer": "Buchi Emecheta"
+  },
+  {
+    "question": "Which novel by Buchi Emecheta deals with issues of poverty and oppression of women?",
+    "options": ["The Famished Road", "The Slave Girl", "Sozaboy", "Season of Anomy"],
+    "answer": "The Slave Girl"
+  },
+  {
+    "question": "What is the name of Buchi Emecheta’s autobiography?",
+    "options": ["Adah Story", "In the Ditch", "Head Above Water", "The Bride Price"],
+    "answer": "Head Above Water"
+  },
+  {
+    "question": "Which of these books is a combined volume by Buchi Emecheta?",
+    "options": ["Dangerous Love", "Adah Story", "Lemona’s Tale", "On a Darkling Plain"],
+    "answer": "Adah Story"
+  },
+  {
+    "question": "Who is Buchi Emecheta’s husband?",
+    "options": ["Simon Pilkings", "Sylvester Onwordi", "Kongi", "Obi Nwoye"],
+    "answer": "Sylvester Onwordi"
+  },
+  {
+    "question": "In which British magazine did Buchi Emecheta first publish her column?",
+    "options": ["The Times", "The Guardian", "The New Statesman", "The Observer"],
+    "answer": "The New Statesman"
+  },
+  {
+    "question": "What was Ngũgĩ wa Thiong’o’s birth name?",
+    "options": ["James Ngũgĩ", "John Ngũgĩ", "Joseph Ngũgĩ", "Julius Ngũgĩ"],
+    "answer": "James Ngũgĩ"
+  },
+  {
+    "question": "Ngũgĩ wa Thiong’o is originally from which country?",
+    "options": ["Nigeria", "Ghana", "Kenya", "Uganda"],
+    "answer": "Kenya"
+  },
+  {
+    "question": "Which journal did Ngũgĩ wa Thiong’o found?",
+    "options": ["Mũtĩiri", "Biafra", "Uhuru", "Kikuyu Voice"],
+    "answer": "Mũtĩiri"
+  },
+  {
+    "question": "What was Ngũgĩ’s first play?",
+    "options": ["The Trial of Dedan Kimathi", "The Black Hermit", "Ngaahika Ndeenda", "Matigari"],
+    "answer": "The Black Hermit"
+  },
+  {
+    "question": "Why was Ngũgĩ’s play 'Ngaahika Ndeenda' shut down?",
+    "options": ["It failed commercially", "It offended the British", "It provoked the Kenyan government", "It was a religious play"],
+    "answer": "It provoked the Kenyan government"
+  },
+  {
+    "question": "Ngũgĩ wa Thiong’o was imprisoned for how long after 'Ngaahika Ndeenda'?",
+    "options": ["6 months", "1 year", "2 years", "5 years"],
+    "answer": "1 year"
+  },
+  {
+    "question": "Which war was Ngũgĩ’s family caught up in?",
+    "options": ["Nigerian Civil War", "Rwandan Genocide", "Mau Mau War", "Zulu Rebellion"],
+    "answer": "Mau Mau War"
+  },
+  {
+    "question": "Which was Ngũgĩ wa Thiong’o’s first published novel?",
+    "options": ["The River Between", "A Grain of Wheat", "Weep Not, Child", "Wizard of the Crow"],
+    "answer": "Weep Not, Child"
+  },
+  {
+    "question": "What is the central theme of 'Weep Not, Child'?",
+    "options": ["Religious conflict", "Mau Mau uprising and colonial dispossession", "Romantic tragedy", "Economic downfall"],
+    "answer": "Mau Mau uprising and colonial dispossession"
+  },
+  {
+    "question": "Who is the protagonist of 'Weep Not, Child'?",
+    "options": ["Mugo", "Gikonyo", "Njoroge", "Karanja"],
+    "answer": "Njoroge"
+  },
+  {
+    "question": "What does Njoroge aspire to do in 'Weep Not, Child'?",
+    "options": ["Become a priest", "Start a rebellion", "Attend university", "Join the army"],
+    "answer": "Attend university"
+  },
+  {
+    "question": "What is the name of Njoroge’s father?",
+    "options": ["Kihika", "Ngotho", "Mugo", "Karanja"],
+    "answer": "Ngotho"
+  },
+  {
+    "question": "Which novel marked Ngũgĩ’s embrace of Fanonist Marxism?",
+    "options": ["The River Between", "Matigari", "Weep Not, Child", "A Grain of Wheat"],
+    "answer": "A Grain of Wheat"
+  },
+  {
+    "question": "From where is the title of 'A Grain of Wheat' taken?",
+    "options": ["Quran", "Bible", "African folklore", "Mau Mau slogans"],
+    "answer": "Bible"
+  },
+  {
+    "question": "Who is the central mysterious character in 'A Grain of Wheat'?",
+    "options": ["Kihika", "Gikonyo", "Mugo", "Karanja"],
+    "answer": "Mugo"
+  },
+  {
+    "question": "Which character is a resistance fighter in 'A Grain of Wheat'?",
+    "options": ["Mumbi", "Gikonyo", "General R", "Ngotho"],
+    "answer": "General R"
+  },
+  {
+    "question": "Which essay by Ngũgĩ argues for writing in native languages?",
+    "options": ["The Trial of Dedan Kimathi", "Detained", "Decolonising the Mind", "Something Torn and New"],
+    "answer": "Decolonising the Mind"
+  },
+  {
+    "question": "Which novel is a satire based on a Gikuyu folktale?",
+    "options": ["The River Between", "Matigari", "Wizard of the Crow", "A Grain of Wheat"],
+    "answer": "Matigari"
+  },
+  {
+    "question": "What was Ngũgĩ’s first novel after two decades, published in 2006?",
+    "options": ["Detained", "The River Between", "Wizard of the Crow", "Dreams in a Time of War"],
+    "answer": "Wizard of the Crow"
+  },
+  {
+    "question": "What is the theme of Ngũgĩ’s memoir 'Dreams in a Time of War'?",
+    "options": ["His time in exile", "His childhood", "His teaching years", "His political campaigns"],
+    "answer": "His childhood"
+  },
+  {
+    "question": "Derek Walcott received the Nobel Prize in Literature in which year?",
+    "options": ["1987", "1990", "1992", "1995"],
+    "answer": "1992"
+  },
+  {
+    "question": "Which Caribbean island was Derek Walcott born on?",
+    "options": ["Jamaica", "Saint Lucia", "Barbados", "Trinidad"],
+    "answer": "Saint Lucia"
+  },
+  {
+    "question": "What is the title of Derek Walcott’s famous poem based on Homer’s epics?",
+    "options": ["The Castaway", "Dream on Monkey Mountain", "Omeros", "In the Virgins"],
+    "answer": "Omeros"
+  },
+  {
+    "question": "‘Omeros’ is set on which island?",
+    "options": ["Barbados", "Jamaica", "Saint Lucia", "Grenada"],
+    "answer": "Saint Lucia"
+  },
+  {
+    "question": "Which one of Derek Walcott’s plays won major recognition in 1967?",
+    "options": ["The Sea at Dauphin", "Dream on Monkey Mountain", "Drums and Colors", "Walker and the Ghost Dance"],
+    "answer": "Dream on Monkey Mountain"
+  },
+  {
+    "question": "Which modernist poets influenced Derek Walcott?",
+    "options": ["T.S. Eliot and Ezra Pound", "W.B. Yeats and Seamus Heaney", "Sylvia Plath and Robert Lowell", "Langston Hughes and Pablo Neruda"],
+    "answer": "T.S. Eliot and Ezra Pound"
+  },
+  {
+    "question": "Which poem by Walcott includes themes of exile and shipwreck?",
+    "options": ["O Babylon!", "The Castaway", "The Muse of History", "In the Virgins"],
+    "answer": "The Castaway"
+  },
+  {
+    "question": "Which element is prominent in Walcott's poetry?",
+    "options": ["Religious chants", "Mathematical logic", "Folk music and drumming", "Political manifestos"],
+    "answer": "Folk music and drumming"
+  },
+  {
+    "question": "Which play by Walcott is a one-act play?",
+    "options": ["The Sea at Dauphin", "Omeros", "Dream on Monkey Mountain", "Walker and the Ghost Dance"],
+    "answer": "The Sea at Dauphin"
+  },
+  {
+    "question": "George Lamming’s first novel is titled?",
+    "options": ["The Emigrants", "Of Age and Innocence", "In the Castle of My Skin", "Season of Adventure"],
+    "answer": "In the Castle of My Skin"
+  },
+  {
+    "question": "What is the name of the autobiographical character in 'In the Castle of My Skin'?",
+    "options": ["Caliban", "G.", "George", "Barlow"],
+    "answer": "G."
+  },
+  {
+    "question": "The novel 'In the Castle of My Skin' is set during which decade?",
+    "options": ["1920s", "1930s", "1940s", "1950s"],
+    "answer": "1930s"
+  },
+  {
+    "question": "Which of the following is a theme of George Lamming’s novel 'In the Castle of My Skin'?",
+    "options": ["Scientific exploration", "Colonial oppression and identity", "Space travel", "Mythology"],
+    "answer": "Colonial oppression and identity"
+  },
+  {
+    "question": "What is the title of George Lamming’s 1960 essay collection?",
+    "options": ["In the Castle of My Skin", "The Pleasure of Exile", "Season of Adventure", "Western Education and the Caribbean Intellectual"],
+    "answer": "The Pleasure of Exile"
+  },
+  {
+    "question": "Which Shakespeare play is re-interpreted in 'The Pleasure of Exile'?",
+    "options": ["Othello", "Macbeth", "The Tempest", "King Lear"],
+    "answer": "The Tempest"
+  },
+  {
+    "question": "George Lamming’s essays explore the Caribbean identity using which character from The Tempest?",
+    "options": ["Hamlet", "Caliban", "Prospero", "Both Caliban and Prospero"],
+    "answer": "Both Caliban and Prospero"
+  },
+  {
+    "question": "Which novel by George Lamming was published in 1954?",
+    "options": ["Season of Adventure", "The Emigrants", "Water with Berries", "Natives of My Person"],
+    "answer": "The Emigrants"
+  },
+  {
+    "question": "In 'In the Castle of My Skin', narration is done from how many perspectives?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Three"
+  }
+]
