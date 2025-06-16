@@ -1,0 +1,759 @@
+[
+  {
+    "question": "Which method of language teaching originated from teaching Greek and Latin?",
+    "options": ["Direct Method", "Grammar Translation Method", "Audio Lingual Method", "Silent Way"],
+    "answer": "Grammar Translation Method"
+  },
+  {
+    "question": "What is the key feature of the Direct Method?",
+    "options": ["Use of native language", "Focus on reading skills", "Use of only target language", "Use of translation"],
+    "answer": "Use of only target language"
+  },
+  {
+    "question": "Which method is associated with behaviorist theory and reinforcement?",
+    "options": ["Desuggestopedia", "Grammar Translation Method", "Audio Lingual Method", "Silent Way"],
+    "answer": "Audio Lingual Method"
+  },
+  {
+    "question": "Who developed the Silent Way of language teaching?",
+    "options": ["B.F. Skinner", "Georgi Lozanov", "Caleb Gattegno", "Charles Fries"],
+    "answer": "Caleb Gattegno"
+  },
+  {
+    "question": "Which method is known for emphasizing learner autonomy through silence?",
+    "options": ["Desuggestopedia", "The Silent Way", "Total Physical Response", "Direct Method"],
+    "answer": "The Silent Way"
+  },
+  {
+    "question": "What is the order of skills taught in the Audio Lingual Method?",
+    "options": ["Speaking, Listening, Reading, Writing", "Listening, Speaking, Reading, Writing", "Reading, Writing, Speaking, Listening", "Writing, Reading, Speaking, Listening"],
+    "answer": "Listening, Speaking, Reading, Writing"
+  },
+  {
+    "question": "Which method emphasizes positive suggestion in teaching?",
+    "options": ["Community Language Learning", "Silent Way", "Desuggestopedia", "Direct Method"],
+    "answer": "Desuggestopedia"
+  },
+  {
+    "question": "Who developed Desuggestopedia?",
+    "options": ["James Asher", "Georgi Lozanov", "Charles Fries", "Caleb Gattegno"],
+    "answer": "Georgi Lozanov"
+  },
+  {
+    "question": "What is the role of the teacher in Community Language Learning?",
+    "options": ["Instructor", "Lecturer", "Counselor", "Examiner"],
+    "answer": "Counselor"
+  },
+  {
+    "question": "Which method involves students responding with physical actions?",
+    "options": ["Audio Lingual Method", "Total Physical Response", "Desuggestopedia", "Grammar Translation Method"],
+    "answer": "Total Physical Response"
+  },
+  {
+    "question": "Total Physical Response is based on the coordination of:",
+    "options": ["Reading and Writing", "Speech and Grammar", "Language and Movement", "Listening and Speaking"],
+    "answer": "Language and Movement"
+  },
+  {
+    "question": "Which method is also called the 'Army Method'?",
+    "options": ["Grammar Translation Method", "Direct Method", "Audio Lingual Method", "Silent Way"],
+    "answer": "Audio Lingual Method"
+  },
+  {
+    "question": "In Communicative Language Teaching, the emphasis is on:",
+    "options": ["Grammar drills", "Vocabulary memorization", "Translation", "Interaction"],
+    "answer": "Interaction"
+  },
+  {
+    "question": "Which of these is NOT a classroom activity in Communicative Language Teaching?",
+    "options": ["Dictation", "Role-play", "Pair-work", "Surveys"],
+    "answer": "Dictation"
+  },
+  {
+    "question": "The Direct Method was established in which countries?",
+    "options": ["USA and UK", "France and Germany", "India and China", "Russia and Spain"],
+    "answer": "France and Germany"
+  },
+  {
+    "question": "Who applied behaviorist psychology to the Audio Lingual Method?",
+    "options": ["James Asher", "Caleb Gattegno", "Charles C. Fries", "Georgi Lozanov"],
+    "answer": "Charles C. Fries"
+  },
+  {
+    "question": "The teacher in the Silent Way primarily uses:",
+    "options": ["Lectures", "Translation", "Silence and gestures", "Multimedia tools"],
+    "answer": "Silence and gestures"
+  },
+  {
+    "question": "Which method does NOT allow the use of learner’s native language?",
+    "options": ["Grammar Translation", "Direct Method", "CLL", "TPR"],
+    "answer": "Direct Method"
+  },
+  {
+    "question": "Which method is based on the Counseling Approach?",
+    "options": ["Audio Lingual Method", "Grammar Translation Method", "Community Language Learning", "Desuggestopedia"],
+    "answer": "Community Language Learning"
+  },
+  {
+    "question": "Which method was introduced in 1963 in a book?",
+    "options": ["Total Physical Response", "Audio Lingual Method", "Silent Way", "Direct Method"],
+    "answer": "Silent Way"
+  },
+  {
+    "question": "Which ELT method uses pantomime, real-life objects, and visual materials?",
+    "options": ["Grammar Translation Method", "Direct Method", "TPR", "Desuggestopedia"],
+    "answer": "Direct Method"
+  },
+  {
+    "question": "Which method avoids teaching vocabulary and focuses on structures and drills?",
+    "options": ["Audio Lingual Method", "Direct Method", "Grammar Translation", "CLL"],
+    "answer": "Audio Lingual Method"
+  },
+  {
+    "question": "In which method is pronunciation considered fundamental?",
+    "options": ["Desuggestopedia", "Grammar Translation Method", "Silent Way", "Direct Method"],
+    "answer": "Silent Way"
+  },
+  {
+    "question": "Which teaching method is based on comprehension and physical response?",
+    "options": ["Direct Method", "Grammar Translation Method", "TPR", "Audio Lingual Method"],
+    "answer": "TPR"
+  },
+  {
+    "question": "Which method encourages learners to discover grammar rules through examples?",
+    "options": ["Grammar Translation Method", "Direct Method", "TPR", "CLL"],
+    "answer": "Direct Method"
+  },
+  {
+    "question": "Who is the founder of Total Physical Response?",
+    "options": ["Georgi Lozanov", "Charles Fries", "James Asher", "Caleb Gattegno"],
+    "answer": "James Asher"
+  },
+  {
+    "question": "Which ELT method is also known as 'de-suggestive learning'?",
+    "options": ["Silent Way", "TPR", "Desuggestopedia", "CLL"],
+    "answer": "Desuggestopedia"
+  },
+  {
+    "question": "In CLL, the learner is seen as:",
+    "options": ["A passive listener", "A client and collaborator", "An observer", "An imitator"],
+    "answer": "A client and collaborator"
+  },
+  {
+    "question": "Which method was originally used in teaching Latin?",
+    "options": ["Direct Method", "Audio Lingual Method", "Grammar Translation Method", "Silent Way"],
+    "answer": "Grammar Translation Method"
+  },
+  {
+    "question": "Which ELT method rejects formal tests and emphasizes observation?",
+    "options": ["TPR", "Grammar Translation Method", "Desuggestopedia", "Silent Way"],
+    "answer": "Silent Way"
+  },
+  {
+    "question": "Who is described as the 'Father of Modern Linguistics'?",
+    "options": ["Ferdinand de Saussure", "Noam Chomsky", "Leonard Bloomfield", "John Searle"],
+    "answer": "Noam Chomsky"
+  },
+  {
+    "question": "Which sentence did Chomsky use to show grammatical correctness with semantic nonsense?",
+    "options": ["Colorless green ideas sleep furiously", "The sky runs through logic gates", "Linguistics speaks syntax aloud", "Silent grammar walks upright"],
+    "answer": "Colorless green ideas sleep furiously"
+  },
+  {
+    "question": "What year did Chomsky introduce the Chomsky Hierarchy?",
+    "options": ["1956", "1958", "1965", "1993"],
+    "answer": "1956"
+  },
+  {
+    "question": "Which of the following is the most restricted class in the Chomsky Hierarchy?",
+    "options": ["Type-0", "Type-1", "Type-2", "Type-3"],
+    "answer": "Type-3"
+  },
+  {
+    "question": "Which type of grammar in the Chomsky Hierarchy generates regular languages?",
+    "options": ["Type-3", "Type-2", "Type-1", "Type-0"],
+    "answer": "Type-3"
+  },
+  {
+    "question": "What concept explains that a limited set of sound units can create infinite expressions?",
+    "options": ["E-Language", "Generative Grammar", "Transformational Grammar", "Digital Infinity"],
+    "answer": "Digital Infinity"
+  },
+  {
+    "question": "Which branch of philosophy is Chomsky associated with?",
+    "options": ["Existentialism", "Idealism", "Analytic Philosophy", "Phenomenology"],
+    "answer": "Analytic Philosophy"
+  },
+  {
+    "question": "What is 'Plato’s Problem' according to Chomsky?",
+    "options": ["The difficulty of learning formal grammar", "How humans know so much from limited input", "Distinguishing syntax from semantics", "The acquisition of phonetics"],
+    "answer": "How humans know so much from limited input"
+  },
+  {
+    "question": "Which paper initiated the Minimalist Program in 1993?",
+    "options": ["Aspects of the Theory of Syntax", "Syntactic Structures", "A Minimalist Program for Linguistic Theory", "Plato’s Problem"],
+    "answer": "A Minimalist Program for Linguistic Theory"
+  },
+  {
+    "question": "What is the primary goal of Generative Grammar?",
+    "options": ["To eliminate all syntax rules", "To describe all spoken accents", "To generate all grammatical sentences of a language", "To promote spoken over written language"],
+    "answer": "To generate all grammatical sentences of a language"
+  },
+  {
+    "question": "What does I-Language refer to?",
+    "options": ["Internalized system of linguistic knowledge", "Internet Language", "Industrial Language", "Imagined Language"],
+    "answer": "Internalized system of linguistic knowledge"
+  },
+  {
+    "question": "Which type of grammar generates context-sensitive languages?",
+    "options": ["Type-3", "Type-2", "Type-1", "Type-0"],
+    "answer": "Type-1"
+  },
+  {
+    "question": "Which linguistic theory is Chomsky most associated with?",
+    "options": ["Structuralism", "Transformational-Generative Grammar", "Post-structuralism", "Descriptive Grammar"],
+    "answer": "Transformational-Generative Grammar"
+  },
+  {
+    "question": "Which of the following is a set of production rules for forming strings in a formal language?",
+    "options": ["Digital Infinity", "Formal Grammar", "Syntax Tree", "Minimalist Program"],
+    "answer": "Formal Grammar"
+  },
+  {
+    "question": "Chomsky’s distinction between I-Language and E-Language was introduced in:",
+    "options": ["1956", "1986", "1970", "1993"],
+    "answer": "1986"
+  },
+  {
+    "question": "What does E-Language refer to?",
+    "options": ["Externalized linguistic output", "Encrypted Language", "Extended grammar rules", "Eastern dialects"],
+    "answer": "Externalized linguistic output"
+  },
+  {
+    "question": "Which type of grammar in Chomsky’s Hierarchy includes all formal grammars?",
+    "options": ["Type-0", "Type-1", "Type-2", "Type-3"],
+    "answer": "Type-0"
+  },
+  {
+    "question": "What academic field did Chomsky help to found along with linguistics?",
+    "options": ["Anthropology", "Semiotics", "Cognitive Science", "Psychoanalysis"],
+    "answer": "Cognitive Science"
+  },
+  {
+    "question": "What is Scansion primarily used for?",
+    "options": ["Analyzing sentence syntax", "Breaking down dialects", "Determining metrical pattern in verse", "Correcting grammatical errors"],
+    "answer": "Determining metrical pattern in verse"
+  },
+  {
+    "question": "Which of the following books did Chomsky publish in 1958?",
+    "options": ["Syntactic Structures", "The Minimalist Program", "Knowledge of Language", "Language and Mind"],
+    "answer": "Syntactic Structures"
+  },
+  {
+    "question": "Who is regarded as the 'Father of Modern Linguistics' alongside Chomsky?",
+    "options": ["Leonard Bloomfield", "Ferdinand de Saussure", "Roman Jakobson", "Edward Sapir"],
+    "answer": "Ferdinand de Saussure"
+  },
+  {
+    "question": "Which of the following is Saussure best known for?",
+    "options": ["Generative Grammar", "Transformational Grammar", "Structuralism", "Minimalist Program"],
+    "answer": "Structuralism"
+  },
+  {
+    "question": "What are the two fundamental concepts introduced by Saussure?",
+    "options": ["Langue and Parole", "Syntax and Semantics", "Competence and Performance", "Deep and Surface Structure"],
+    "answer": "Langue and Parole"
+  },
+  {
+    "question": "Which of the following terms refers to the system of language in Saussure’s theory?",
+    "options": ["Parole", "Langue", "Syntax", "Phoneme"],
+    "answer": "Langue"
+  },
+  {
+    "question": "Parole refers to:",
+    "options": ["The social structure of language", "Individual speech acts", "Written grammar rules", "Universal grammar"],
+    "answer": "Individual speech acts"
+  },
+  {
+    "question": "Saussure’s ideas laid the foundation for which movement in language and culture?",
+    "options": ["Deconstruction", "Postmodernism", "Structuralism", "Romanticism"],
+    "answer": "Structuralism"
+  },
+  {
+    "question": "Which is NOT a pair from Saussure’s linguistic theory?",
+    "options": ["Signifier and Signified", "Langue and Parole", "Denotation and Connotation", "Synchrony and Diachrony"],
+    "answer": "Denotation and Connotation"
+  },
+  {
+    "question": "The concept of 'Synchrony' refers to:",
+    "options": ["Study of language over time", "Study of language at a fixed point in time", "Spoken language only", "The origin of language"],
+    "answer": "Study of language at a fixed point in time"
+  },
+  {
+    "question": "Which of the following refers to the historical development of language?",
+    "options": ["Synchrony", "Langue", "Diachrony", "Phonetics"],
+    "answer": "Diachrony"
+  },
+  {
+    "question": "The arbitrary nature of the linguistic sign was proposed by:",
+    "options": ["Chomsky", "Sapir", "Saussure", "Gattegno"],
+    "answer": "Saussure"
+  },
+  {
+    "question": "In Saussure’s model, a 'sign' consists of:",
+    "options": ["Syntax and Grammar", "Phoneme and Morpheme", "Signifier and Signified", "Langue and Parole"],
+    "answer": "Signifier and Signified"
+  },
+  {
+    "question": "Which of these is an example of the 'Signifier'?",
+    "options": ["The mental image of a tree", "The spoken or written word 'tree'", "The biological function of a tree", "The memory of trees"],
+    "answer": "The spoken or written word 'tree'"
+  },
+  {
+    "question": "What term did Saussure use for individual use of language?",
+    "options": ["Langue", "Signifier", "Parole", "Phoneme"],
+    "answer": "Parole"
+  },
+  {
+    "question": "Saussure emphasized that meaning in language is based on:",
+    "options": ["Historical context", "Fixed universal logic", "Difference between signs", "Cultural myth"],
+    "answer": "Difference between signs"
+  },
+  {
+    "question": "Which of the following fields was strongly influenced by Saussure’s structural linguistics?",
+    "options": ["Biology", "Psychology", "Anthropology", "Physics"],
+    "answer": "Anthropology"
+  },
+  {
+    "question": "Saussure taught at which university?",
+    "options": ["University of Paris", "University of Berlin", "University of Geneva", "University of Vienna"],
+    "answer": "University of Geneva"
+  },
+  {
+    "question": "Which of these books is associated with Saussure’s students after his death?",
+    "options": ["Syntactic Structures", "Course in General Linguistics", "The Language Instinct", "Speech Acts"],
+    "answer": "Course in General Linguistics"
+  },
+  {
+    "question": "Saussure viewed language as a system of:",
+    "options": ["Prescriptive rules", "Auditory signals", "Interdependent signs", "Innate structures"],
+    "answer": "Interdependent signs"
+  },
+  {
+    "question": "The linguistic model that emphasizes structure over function is called:",
+    "options": ["Behaviorism", "Constructivism", "Structuralism", "Pragmatism"],
+    "answer": "Structuralism"
+  },
+  {
+    "question": "Saussure's concept that language has no natural link to meaning is known as:",
+    "options": ["Structural difference", "Arbitrariness of the sign", "Speech variation", "Semantic drift"],
+    "answer": "Arbitrariness of the sign"
+  },
+  {
+    "question": "Who is the author of *Practical Criticism: A Study of Literary Judgement*?",
+    "options": ["William Empson", "W. K. Wimsatt", "Cleanth Brooks", "I. A. Richards"],
+    "answer": "I. A. Richards"
+  },
+  {
+    "question": "In which year was *Practical Criticism* by I. A. Richards published?",
+    "options": ["1925", "1929", "1930", "1941"],
+    "answer": "1929"
+  },
+  {
+    "question": "Which of the following was a student of I. A. Richards and author of *Seven Types of Ambiguity*?",
+    "options": ["Monroe Beardsley", "W. K. Wimsatt", "William Empson", "Cleanth Brooks"],
+    "answer": "William Empson"
+  },
+  {
+    "question": "How many types of ambiguities did William Empson propose?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "Which of the following best defines Practical Criticism?",
+    "options": ["Criticism based on biography", "Analysis using only the text", "Criticism through history", "Evaluating reader's emotions"],
+    "answer": "Analysis using only the text"
+  },
+  {
+    "question": "Which of the following is NOT part of Empson’s types of ambiguity?",
+    "options": ["Metaphor", "Historical context", "Opposing meanings", "Simile between ideas"],
+    "answer": "Historical context"
+  },
+  {
+    "question": "Which ambiguity refers to the author discovering meaning while writing?",
+    "options": ["Simultaneous meanings", "Opposing words", "Author's discovery", "Contradiction of statement"],
+    "answer": "Author's discovery"
+  },
+  {
+    "question": "What does Practical Criticism reject in literary analysis?",
+    "options": ["Close reading", "Textual analysis", "Biographical information", "Word choice"],
+    "answer": "Biographical information"
+  },
+  {
+    "question": "What is the main principle of Practical Criticism according to I. A. Richards?",
+    "options": ["Focus on emotional response", "Focus on author’s life", "Focus on words and structure alone", "Focus on historical setting"],
+    "answer": "Focus on words and structure alone"
+  },
+  {
+    "question": "*Seven Types of Ambiguity* was published in which year?",
+    "options": ["1925", "1929", "1930", "1946"],
+    "answer": "1930"
+  },
+  {
+    "question": "Who developed the concept of the 'Intentional Fallacy'?",
+    "options": ["William Empson", "I. A. Richards", "W. K. Wimsatt and Monroe Beardsley", "Cleanth Brooks"],
+    "answer": "W. K. Wimsatt and Monroe Beardsley"
+  },
+  {
+    "question": "*The Verbal Icon* was written by Wimsatt with:",
+    "options": ["Cleanth Brooks", "William Empson", "I. A. Richards", "Monroe Beardsley"],
+    "answer": "Monroe Beardsley"
+  },
+  {
+    "question": "Which fallacy involves interpreting a poem based on author’s intention?",
+    "options": ["Affective Fallacy", "Formal Fallacy", "Biographical Fallacy", "Intentional Fallacy"],
+    "answer": "Intentional Fallacy"
+  },
+  {
+    "question": "In which journal was *The Intentional Fallacy* first published?",
+    "options": ["The Sewanee Review", "The Times Literary Supplement", "Poetry Magazine", "The Critical Inquiry"],
+    "answer": "The Sewanee Review"
+  },
+  {
+    "question": "Which fallacy focuses on the emotional effect a poem has on the reader?",
+    "options": ["Critical Fallacy", "Intentional Fallacy", "Reader Response Fallacy", "Affective Fallacy"],
+    "answer": "Affective Fallacy"
+  },
+  {
+    "question": "Which work defines the Affective Fallacy?",
+    "options": ["The Verbal Icon", "Seven Types of Ambiguity", "The Well Wrought Urn", "Literary Criticism: A Short History"],
+    "answer": "The Verbal Icon"
+  },
+  {
+    "question": "According to Wimsatt, what is the result of the Affective Fallacy?",
+    "options": ["Deeper understanding of the poem", "Subjective impressionism", "Stronger author connection", "Structural clarity"],
+    "answer": "Subjective impressionism"
+  },
+  {
+    "question": "Which of these is a key work by Wimsatt co-authored with Cleanth Brooks?",
+    "options": ["The Well Wrought Urn", "Seven Types of Ambiguity", "Literary Criticism: A Short History", "Practical Criticism"],
+    "answer": "Literary Criticism: A Short History"
+  },
+  {
+    "question": "According to Wimsatt, what should criticism focus on?",
+    "options": ["Reader’s reaction", "Author’s biography", "The text itself", "Historical background"],
+    "answer": "The text itself"
+  },
+  {
+    "question": "Fallacy is defined as:",
+    "options": ["A poetic device", "An emotional reaction", "A mistake in thinking", "A type of metaphor"],
+    "answer": "A mistake in thinking"
+  },
+  {
+    "question": "Which of the following best defines 'Research'?",
+    "options": ["A spontaneous search for truth", "A systematic and organized method to find answers", "A creative activity only", "A type of storytelling"],
+    "answer": "A systematic and organized method to find answers"
+  },
+  {
+    "question": "What is considered the starting point of all research?",
+    "options": ["Answers", "Data", "Questions", "Hypothesis"],
+    "answer": "Questions"
+  },
+  {
+    "question": "Which of the following is NOT a step in conducting research?",
+    "options": ["Literature review", "Conducting a survey", "Specifying a conceptual framework", "Reporting findings"],
+    "answer": "Conducting a survey"
+  },
+  {
+    "question": "A hypothesis must contain:",
+    "options": ["Only a question", "Only a conclusion", "Independent and dependent variables", "Only past data"],
+    "answer": "Independent and dependent variables"
+  },
+  {
+    "question": "Which variable is considered the cause in a hypothesis?",
+    "options": ["Dependent variable", "Statistical variable", "Controlled variable", "Independent variable"],
+    "answer": "Independent variable"
+  },
+  {
+    "question": "What is the primary purpose of research?",
+    "options": ["To collect books", "To find answers", "To analyze grammar", "To teach others"],
+    "answer": "To find answers"
+  },
+  {
+    "question": "What is 'Data' in research?",
+    "options": ["Personal opinions", "Unrelated facts", "Collection of facts and figures", "A hypothesis"],
+    "answer": "Collection of facts and figures"
+  },
+  {
+    "question": "Which of the following is a primary data collection method?",
+    "options": ["Newspaper reports", "Government reports", "Observation", "Archived journal articles"],
+    "answer": "Observation"
+  },
+  {
+    "question": "Which data collection method uses structured questions filled by respondents?",
+    "options": ["Interview", "Experimentation", "Questionnaire and Schedule", "Observation"],
+    "answer": "Questionnaire and Schedule"
+  },
+  {
+    "question": "What is the main purpose of experimentation in research?",
+    "options": ["To publish results", "To explore cultural norms", "To test hypotheses in controlled conditions", "To collect emotional data"],
+    "answer": "To test hypotheses in controlled conditions"
+  },
+  {
+    "question": "Which of the following is an example of secondary data?",
+    "options": ["Data from your own survey", "First-hand interviews", "Historical statistics from a published book", "Direct observation"],
+    "answer": "Historical statistics from a published book"
+  },
+  {
+    "question": "Stimulation in research is used to:",
+    "options": ["Predict future markets", "Imitate processes for clarity", "Collect emotional responses", "Interview respondents indirectly"],
+    "answer": "Imitate processes for clarity"
+  },
+  {
+    "question": "What is a key drawback of the direct method of data collection?",
+    "options": ["Too much paperwork", "Unreliable questionnaires", "Respondent may not give honest answers", "Requires software"],
+    "answer": "Respondent may not give honest answers"
+  },
+  {
+    "question": "Which source is considered 'first-hand' and used in primary data?",
+    "options": ["Library archives", "Census reports", "Personal observation", "Textbooks"],
+    "answer": "Personal observation"
+  },
+  {
+    "question": "A hypothesis should be:",
+    "options": ["Vague and speculative", "Unmeasurable", "Testable and clear", "Only theoretical"],
+    "answer": "Testable and clear"
+  },
+  {
+    "question": "Secondary data is usually:",
+    "options": ["Collected by the researcher", "Always current", "Controlled by the researcher", "Already compiled by someone else"],
+    "answer": "Already compiled by someone else"
+  },
+  {
+    "question": "What is the final stage of the research process?",
+    "options": ["Identifying the problem", "Literature review", "Data collection", "Communicating research findings"],
+    "answer": "Communicating research findings"
+  },
+  {
+    "question": "Which method involves structured conversations to gather data?",
+    "options": ["Experimentation", "Observation", "Interview", "Stimulation"],
+    "answer": "Interview"
+  },
+  {
+    "question": "What does the term 'Conceptual Framework' refer to in research?",
+    "options": ["The physical layout of your lab", "A set of rules for grammar", "A theoretical model guiding the study", "A summary of chapter titles"],
+    "answer": "A theoretical model guiding the study"
+  },
+  {
+    "question": "Primary data collection is best when:",
+    "options": ["Information is needed quickly", "You want original and first-hand data", "There’s no budget", "You rely only on government reports"],
+    "answer": "You want original and first-hand data"
+  },
+  {
+    "question": "What does Practical Research primarily involve?",
+    "options": ["Reading academic journals", "Theoretical exploration", "First-hand methods like surveys and interviews", "Analyzing literary devices"],
+    "answer": "First-hand methods like surveys and interviews"
+  },
+  {
+    "question": "Theoretical Research typically relies on:",
+    "options": ["Questionnaires and observations", "Focus groups", "Published works and archives", "Telephone interviews"],
+    "answer": "Published works and archives"
+  },
+  {
+    "question": "Which of the following is NOT a tool of practical research?",
+    "options": ["Surveys", "Observation", "Academic journals", "Interviews"],
+    "answer": "Academic journals"
+  },
+  {
+    "question": "Which research method is primarily exploratory and descriptive?",
+    "options": ["Quantitative", "Practical", "Theoretical", "Qualitative"],
+    "answer": "Qualitative"
+  },
+  {
+    "question": "What is the main purpose of Qualitative Research?",
+    "options": ["To quantify attitudes and behaviors", "To explore underlying opinions and motivations", "To generate statistics", "To calculate research variables"],
+    "answer": "To explore underlying opinions and motivations"
+  },
+  {
+    "question": "What is commonly used in Qualitative Research for data collection?",
+    "options": ["Random sampling", "Online polls", "Focus groups and interviews", "Statistical formulas"],
+    "answer": "Focus groups and interviews"
+  },
+  {
+    "question": "Which of the following is a feature of Quantitative Research?",
+    "options": ["Flexible methods", "Narrative analysis", "Numerical data", "Open-ended questions"],
+    "answer": "Numerical data"
+  },
+  {
+    "question": "Which method aims to uncover patterns using structured surveys?",
+    "options": ["Qualitative", "Quantitative", "Sociological", "Textual"],
+    "answer": "Quantitative"
+  },
+  {
+    "question": "Textual analysis often leads researchers to theories of:",
+    "options": ["Marxism", "Structuralism and Formalism", "Reader-response", "Phenomenology"],
+    "answer": "Structuralism and Formalism"
+  },
+  {
+    "question": "Studying figures of speech and structure in a text refers to:",
+    "options": ["Sociological analysis", "Quantitative analysis", "Psychological analysis", "Textual analysis"],
+    "answer": "Textual analysis"
+  },
+  {
+    "question": "Which approach studies the author’s or character’s psychological traits?",
+    "options": ["Formalism", "Sociological", "Psychological", "Textual"],
+    "answer": "Psychological"
+  },
+  {
+    "question": "Freud and Jung are associated with which literary approach?",
+    "options": ["Formalism", "Phenomenology", "Psychoanalysis", "Structuralism"],
+    "answer": "Psychoanalysis"
+  },
+  {
+    "question": "Which theory studies how the text affects readers emotionally and mentally?",
+    "options": ["Reception theory", "Reader response theory", "Phenomenology", "Feminism"],
+    "answer": "Reader response theory"
+  },
+  {
+    "question": "Which of the following is NOT part of Sociological analysis?",
+    "options": ["Feminism", "Neo-Marxism", "Freudian theory", "Reception theory"],
+    "answer": "Freudian theory"
+  },
+  {
+    "question": "What does sociological analysis focus on in literature?",
+    "options": ["Textual form", "Historical figures", "Society and its representation in the text", "Wordplay"],
+    "answer": "Society and its representation in the text"
+  },
+  {
+    "question": "Which method uses structured tools like paper and mobile surveys?",
+    "options": ["Qualitative", "Sociological", "Quantitative", "Psychological"],
+    "answer": "Quantitative"
+  },
+  {
+    "question": "What is the sample size like in qualitative research?",
+    "options": ["Always large", "Non-existent", "Typically small", "Statistically fixed"],
+    "answer": "Typically small"
+  },
+  {
+    "question": "Which analysis includes concepts like 'intertextuality' and 'transtextuality'?",
+    "options": ["Reader response", "Textual analysis", "Psychological analysis", "Quantitative analysis"],
+    "answer": "Textual analysis"
+  },
+  {
+    "question": "Which research type helps generate hypotheses for further study?",
+    "options": ["Quantitative", "Theoretical", "Qualitative", "Descriptive"],
+    "answer": "Qualitative"
+  },
+  {
+    "question": "Which data collection method includes website interceptors and online polls?",
+    "options": ["Qualitative", "Sociological", "Quantitative", "Psychological"],
+    "answer": "Quantitative"
+  },
+
+  {
+    "question": "What is the primary focus of Linguistics?",
+    "options": ["History of literature", "Cultural interpretation", "Structure and use of language", "Creative writing"],
+    "answer": "Structure and use of language"
+  },
+  {
+    "question": "Which subfield studies the sounds of human languages?",
+    "options": ["Syntax", "Phonetics and Phonology", "Morphology", "Stylistics"],
+    "answer": "Phonetics and Phonology"
+  },
+  {
+    "question": "What does morphology examine?",
+    "options": ["The structure of sentences", "Social functions of language", "Internal structure of words", "Mental processing of language"],
+    "answer": "Internal structure of words"
+  },
+  {
+    "question": "Classroom-Based Research focuses on:",
+    "options": ["Publishing theories", "Creative writing", "Language use in classrooms", "Author biographies"],
+    "answer": "Language use in classrooms"
+  },
+  {
+    "question": "Which school treats language as part of general cognition?",
+    "options": ["Corpus Linguistics", "Cognitive Linguistics", "Stylistics", "Psycholinguistics"],
+    "answer": "Cognitive Linguistics"
+  },
+  {
+    "question": "Cognitive Linguistics emphasizes:",
+    "options": ["Language laws", "Interviews", "Item-based learning", "Syntax rules only"],
+    "answer": "Item-based learning"
+  },
+  {
+    "question": "Corpus Linguistics involves the study of:",
+    "options": ["Imaginative literature", "Authentic spoken or written texts", "Language from television", "Only poetry"],
+    "answer": "Authentic spoken or written texts"
+  },
+  {
+    "question": "Discourse Analysis focuses on:",
+    "options": ["Phonemes only", "Language laws", "Language in use", "Mathematical modeling"],
+    "answer": "Language in use"
+  },
+  {
+    "question": "What does learner autonomy explore?",
+    "options": ["Historical linguistics", "Grammar rules", "How learners manage and control their learning", "Machine learning"],
+    "answer": "How learners manage and control their learning"
+  },
+  {
+    "question": "Prosody relates to:",
+    "options": ["Written language", "Grammatical structures", "Rhythm and tune of speech", "Quantitative data"],
+    "answer": "Rhythm and tune of speech"
+  },
+  {
+    "question": "Which field studies mental processes in language production and comprehension?",
+    "options": ["Sociolinguistics", "Corpus Linguistics", "Psycholinguistics", "Textual Analysis"],
+    "answer": "Psycholinguistics"
+  },
+  {
+    "question": "Second Language Acquisition (SLA) does NOT include:",
+    "options": ["Task-based interaction", "Focus on form", "Stylistic variation", "Intercultural competence"],
+    "answer": "Stylistic variation"
+  },
+  {
+    "question": "Sociolinguistics examines:",
+    "options": ["Only grammar", "Language use in social contexts", "Neural networks", "Literary aesthetics"],
+    "answer": "Language use in social contexts"
+  },
+  {
+    "question": "Stylistics focuses on:",
+    "options": ["Metaphysical poetry only", "Language laws in different styles", "Spoken grammar", "Syntax and morphology"],
+    "answer": "Language laws in different styles"
+  },
+  {
+    "question": "What does 'stylometrics' refer to?",
+    "options": ["Prosodic analysis", "Textbook grammar", "Statistical analysis of poetic styles", "Syntax in novels"],
+    "answer": "Statistical analysis of poetic styles"
+  },
+  {
+    "question": "Qualitative research in linguistics helps uncover:",
+    "options": ["Exact grammar structures", "Literary forms", "Detailed language phenomena", "Spelling patterns"],
+    "answer": "Detailed language phenomena"
+  },
+  {
+    "question": "Quantitative Linguistics is a branch of:",
+    "options": ["Formal grammar", "Mathematical linguistics", "Comparative literature", "Textual criticism"],
+    "answer": "Mathematical linguistics"
+  },
+  {
+    "question": "Which method uses statistics to understand language patterns?",
+    "options": ["Qualitative", "Historical", "Quantitative", "Phenomenological"],
+    "answer": "Quantitative"
+  },
+  {
+    "question": "Corpus linguistics provides empirical data for:",
+    "options": ["Music theory", "Language laws", "Theatrical reviews", "Spiritual interpretation"],
+    "answer": "Language laws"
+  },
+  {
+    "question": "Which analysis focuses on intertextuality and figures of speech?",
+    "options": ["Sociolinguistics", "Textual Analysis", "Psycholinguistics", "Quantitative Linguistics"],
+    "answer": "Textual Analysis"
+  }
+]
+
+
+
+
+
+
