@@ -1,0 +1,843 @@
+[
+  {
+    "question": "Who is known as the 'Father of Humanism'?",
+    "options": ["Dante", "Boccaccio", "Petrarch", "Virgil"],
+    "answer": "Petrarch"
+  },
+  {
+    "question": "What is the Latinized form of Francesco Petraca?",
+    "options": ["Petronius", "Petrarch", "Patricius", "Petrarca"],
+    "answer": "Petrarch"
+  },
+  {
+    "question": "Petrarch is credited with first developing which historical concept?",
+    "options": ["Renaissance", "Middle Ages", "Dark Ages", "Modernism"],
+    "answer": "Dark Ages"
+  },
+  {
+    "question": "Which of the following was Petrarch's epic written in Latin?",
+    "options": ["Canzoniere", "Africa", "The Divine Comedy", "Trionfi"],
+    "answer": "Africa"
+  },
+  {
+    "question": "Which Roman general is the subject of Petrarch's epic 'Africa'?",
+    "options": ["Julius Caesar", "Augustus", "Scipio Africanus", "Hannibal"],
+    "answer": "Scipio Africanus"
+  },
+  {
+    "question": "When did Petrarch become the first poet laureate since antiquity?",
+    "options": ["1325", "1341", "1374", "1304"],
+    "answer": "1341"
+  },
+  {
+    "question": "Petrarch is referred to as 'The First Tourist' because he:",
+    "options": [
+      "Collected maps of Europe",
+      "Wrote travel literature",
+      "Travelled widely in Europe",
+      "Promoted tourism in Italy"
+    ],
+    "answer": "Travelled widely in Europe"
+  },
+  {
+    "question": "Which of the following is Petrarch's collection of Italian poems?",
+    "options": ["Epistolae Familiares", "Trionfi", "Canzoniere", "Seniles"],
+    "answer": "Canzoniere"
+  },
+  {
+    "question": "What is the theme of Petrarch's 'Trionfi'?",
+    "options": ["Historical battles", "Triumphs of abstract forces", "Religious doctrine", "Courtly politics"],
+    "answer": "Triumphs of abstract forces"
+  },
+  {
+    "question": "To whom did Petrarch dedicate many of his love sonnets?",
+    "options": ["Beatrice", "Laura", "Livia", "Lucia"],
+    "answer": "Laura"
+  },
+  {
+    "question": "Which novel features Petrarch and his love for Laura?",
+    "options": ["Muse", "Sonnet for Laura", "The Humanist", "Epistle"],
+    "answer": "Muse"
+  },
+  {
+    "question": "Who was a friend of Petrarch’s father?",
+    "options": ["Virgil", "Ovid", "Dante", "Horace"],
+    "answer": "Dante"
+  },
+  {
+    "question": "What is the rhyme scheme of the Petrarchan sonnet?",
+    "options": [
+      "abba abba cdc cdc or cde cde",
+      "abab cdcd efef gg",
+      "aabb ccdd eeff gg",
+      "abba abba abba abba"
+    ],
+    "answer": "abba abba cdc cdc or cde cde"
+  },
+  {
+    "question": "What are 'Epistolae Familiares' and 'Seniles'?",
+    "options": [
+      "Philosophical essays",
+      "Latin tragedies",
+      "Collections of letters",
+      "Travel journals"
+    ],
+    "answer": "Collections of letters"
+  },
+  {
+    "question": "Which of the following is NOT a known work of Petrarch?",
+    "options": ["Canzoniere", "Africa", "Decameron", "Trionfi"],
+    "answer": "Decameron"
+  },
+  {
+    "question": "Which language did Petrarch primarily use in his poetry?",
+    "options": ["French", "Italian", "Greek", "German"],
+    "answer": "Italian"
+  },
+  {
+    "question": "What role did Petrarch play in diplomacy?",
+    "options": [
+      "Papal secretary",
+      "Court historian",
+      "Ambassador",
+      "Monastery head"
+    ],
+    "answer": "Ambassador"
+  },
+  {
+    "question": "What is the main subject of 'Canzoniere'?",
+    "options": [
+      "Political treatises",
+      "Devotional hymns",
+      "Love for Laura",
+      "Biography of Scipio"
+    ],
+    "answer": "Love for Laura"
+  },
+  {
+    "question": "When was Petrarch born?",
+    "options": ["1304", "1320", "1374", "1299"],
+    "answer": "1304"
+  },
+  {
+    "question": "In which year did Petrarch die?",
+    "options": ["1341", "1400", "1374", "1355"],
+    "answer": "1374"
+  },
+  {
+    "question": "Who is considered 'the father of the Italian language'?",
+    "options": ["Petrarch", "Virgil", "Dante Alighieri", "Boccaccio"],
+    "answer": "Dante Alighieri"
+  },
+  {
+    "question": "Which major work of Dante is considered a masterpiece of world literature?",
+    "options": ["Il Convivio", "The Banquet", "Divine Comedy", "Le Rime"],
+    "answer": "Divine Comedy"
+  },
+  {
+    "question": "Who gave the title 'Divine' to Dante's Comedia?",
+    "options": ["Virgil", "Petrarch", "Boccaccio", "Beatrice"],
+    "answer": "Boccaccio"
+  },
+  {
+    "question": "Dante, Petrarch, and Boccaccio are collectively known as:",
+    "options": ["The Three Masters", "The Three Crowns", "The Triumvirate", "The Renaissance Fathers"],
+    "answer": "The Three Crowns"
+  },
+  {
+    "question": "Who was Dante's love interest and spiritual guide in the Divine Comedy?",
+    "options": ["Laura", "Lucia", "Beatrice", "Viola"],
+    "answer": "Beatrice"
+  },
+  {
+    "question": "How many cantos are there in Dante’s Divine Comedy?",
+    "options": ["99", "100", "90", "110"],
+    "answer": "100"
+  },
+  {
+    "question": "Which poetic form is used in Divine Comedy?",
+    "options": ["Sonnet", "Ottava Rima", "Blank Verse", "Terza Rima"],
+    "answer": "Terza Rima"
+  },
+  {
+    "question": "Who guides Dante through Inferno and Purgatorio?",
+    "options": ["Horace", "Beatrice", "Virgil", "Ovid"],
+    "answer": "Virgil"
+  },
+  {
+    "question": "Which of the following is NOT one of the nine circles of hell in Inferno?",
+    "options": ["Limbo", "Envy", "Violence", "Greed"],
+    "answer": "Envy"
+  },
+  {
+    "question": "In which part of Divine Comedy does Dante arrive at the Throne of God?",
+    "options": ["Inferno", "Purgatorio", "Paradiso", "Il Convivio"],
+    "answer": "Paradiso"
+  },
+  {
+    "question": "What is the main theme of Divine Comedy?",
+    "options": ["Love and betrayal", "Life after death", "Rise of empires", "Rebellion"],
+    "answer": "Life after death"
+  },
+  {
+    "question": "What is the name of Dante’s early autobiographical work?",
+    "options": ["Le Rime", "Il Convivio", "Vita Nuova", "Eclogues"],
+    "answer": "Vita Nuova"
+  },
+  {
+    "question": "What political-philosophical work did Dante write?",
+    "options": ["Monarchia", "Comedia", "La Vita Nuova", "De Civitate Dei"],
+    "answer": "Monarchia"
+  },
+  {
+    "question": "Which essay by Dante discusses the use of vernacular language?",
+    "options": ["Il Convivio", "De Vulgari Eloquentia", "Le Rime", "Eclogues"],
+    "answer": "De Vulgari Eloquentia"
+  },
+  {
+    "question": "Which English poet parodied Divine Comedy in his work 'The House of Fame'?",
+    "options": ["Milton", "Chaucer", "Blake", "Donne"],
+    "answer": "Chaucer"
+  },
+  {
+    "question": "Miguel de Cervantes is famously known as the author of:",
+    "options": ["La Nouvelle Heloise", "The Divine Comedy", "Don Quixote", "Madame Bovary"],
+    "answer": "Don Quixote"
+  },
+  {
+    "question": "Which phrase is attributed to Cervantes?",
+    "options": ["To be or not to be", "The proof is in the pudding", "All the world’s a stage", "I think, therefore I am"],
+    "answer": "The proof is in the pudding"
+  },
+  {
+    "question": "Don Quixote is often considered the first:",
+    "options": ["Tragedy", "Satirical poem", "Modern European novel", "Autobiography"],
+    "answer": "Modern European novel"
+  },
+  {
+    "question": "What is Cervantes commonly referred to as?",
+    "options": ["The King of Satire", "The Prince of Wits", "The Father of Tragedy", "The Modern Socrates"],
+    "answer": "The Prince of Wits"
+  },
+  {
+    "question": "Which of the following was Cervantes' first published work?",
+    "options": ["Don Quixote", "La Galatea", "Journey to Parnassus", "Novelas Ejemplares"],
+    "answer": "La Galatea"
+  },
+  {
+    "question": "Which character serves as Don Quixote’s squire?",
+    "options": ["Leon Dupuis", "Charles Bovary", "Sancho Panza", "Monsieur Homais"],
+    "answer": "Sancho Panza"
+  },
+  {
+    "question": "Which literary term is derived from the character of Don Quixote?",
+    "options": ["Romanticism", "Naturalism", "Quixotic", "Gothic"],
+    "answer": "Quixotic"
+  },
+  {
+    "question": "Which of the following was NOT written by Cervantes?",
+    "options": ["Don Quixote", "Novelas Ejemplares", "Sentimental Education", "Journey to Parnassus"],
+    "answer": "Sentimental Education"
+  },
+  {
+    "question": "What is the full title of Don Quixote?",
+    "options": [
+      "The Noble Knight of Spain",
+      "The Ingenious Gentleman Don Quixote of La Mancha",
+      "The Great Quixote of La Mancha",
+      "The Story of Don Quixote and Sancho"
+    ],
+    "answer": "The Ingenious Gentleman Don Quixote of La Mancha"
+  },
+  {
+    "question": "What year was Volume I of Don Quixote published?",
+    "options": ["1585", "1605", "1615", "1617"],
+    "answer": "1605"
+  },
+  {
+    "question": "What type of novel is 'Los Trabajos de Persiles y Sigismunda'?",
+    "options": ["Satirical", "Romance", "Lyric", "Epistolary"],
+    "answer": "Romance"
+  },
+  {
+    "question": "Which philosopher listed Don Quixote among the four greatest novels ever written?",
+    "options": ["Kant", "Nietzsche", "Schopenhauer", "Voltaire"],
+    "answer": "Schopenhauer"
+  },
+  {
+    "question": "Who was influenced by Don Quixote and referenced it in his novel 'The Three Musketeers'?",
+    "options": ["Chaucer", "Mark Twain", "Alexandre Dumas", "Victor Hugo"],
+    "answer": "Alexandre Dumas"
+  },
+  {
+    "question": "Gustave Flaubert is most famous for which novel?",
+    "options": ["Sentimental Education", "Dictionary of Received Ideas", "Madame Bovary", "Memoirs of a Madman"],
+    "answer": "Madame Bovary"
+  },
+  {
+    "question": "What literary movement is Flaubert most associated with?",
+    "options": ["Romanticism", "Symbolism", "Realism", "Naturalism"],
+    "answer": "Realism"
+  },
+  {
+    "question": "Who was a protégée of Flaubert?",
+    "options": ["Victor Hugo", "Guy de Maupassant", "Zola", "Balzac"],
+    "answer": "Guy de Maupassant"
+  },
+  {
+    "question": "Which of the following novels by Flaubert was banned for obscenity in 1857?",
+    "options": ["Sentimental Education", "Madame Bovary", "The Temptation of Saint Anthony", "Memoirs of a Madman"],
+    "answer": "Madame Bovary"
+  },
+  {
+    "question": "What does Emma Bovary use to commit suicide?",
+    "options": ["Dagger", "Pistol", "Poison", "Arsenic"],
+    "answer": "Arsenic"
+  },
+  {
+    "question": "What is the name of Emma’s husband in 'Madame Bovary'?",
+    "options": ["Rodolphe", "Leon", "Charles", "Victor"],
+    "answer": "Charles"
+  },
+  {
+    "question": "Which lover abandoned Emma after losing interest in her?",
+    "options": ["Leon Dupuis", "Charles Bovary", "Monsieur Homais", "Rodolphe Boulanger"],
+    "answer": "Rodolphe Boulanger"
+  },
+  {
+    "question": "Emma Bovary’s first affair was with:",
+    "options": ["Leon Dupuis", "Rodolphe Boulanger", "Charles Bovary", "Hyppolyte"],
+    "answer": "Leon Dupuis"
+  },
+  {
+    "question": "Which critic said Flaubert ‘established what most think of as modern realist narration’?",
+    "options": ["Harold Bloom", "T.S. Eliot", "James Wood", "Roland Barthes"],
+    "answer": "James Wood"
+  },
+  {
+    "question": "What genre best describes 'Madame Bovary'?",
+    "options": ["Romantic", "Epic", "Realist", "Gothic"],
+    "answer": "Realist"
+  },
+  {
+    "question": "Who gives Emma full financial control, leading to their ruin?",
+    "options": ["Leon", "Monsieur Lheureux", "Charles", "Homais"],
+    "answer": "Charles"
+  },
+  {
+    "question": "Which minor character is a chemist in 'Madame Bovary'?",
+    "options": ["Leon", "Monsieur Homais", "Monsieur Binet", "Hyppolyte"],
+    "answer": "Monsieur Homais"
+  },
+  {
+    "question": "Which Turkish author won the Nobel Prize in Literature in 2006?",
+    "options": ["Yasar Kemal", "Orhan Pamuk", "Elif Shafak", "Naguib Mahfouz"],
+    "answer": "Orhan Pamuk"
+  },
+  {
+    "question": "What is the title of Orhan Pamuk's novel that brought him international fame?",
+    "options": ["Snow", "The Silent House", "My Name is Red", "Istanbul"],
+    "answer": "My Name is Red"
+  },
+  {
+    "question": "Orhan Pamuk’s novel 'Snow' is set in which Turkish city?",
+    "options": ["Istanbul", "Ankara", "Kars", "Izmir"],
+    "answer": "Kars"
+  },
+  {
+    "question": "Which novel by Pamuk blends mystery, romance, and philosophical puzzles in a 16th-century setting?",
+    "options": ["The White Castle", "My Name is Red", "The Red-Haired Woman", "The Museum of Innocence"],
+    "answer": "My Name is Red"
+  },
+  {
+    "question": "Which of these novels by Pamuk was expanded into a documentary?",
+    "options": ["The New Life", "Snow", "The Museum of Innocence", "The Silent House"],
+    "answer": "The Museum of Innocence"
+  },
+  {
+    "question": "What is the theme of Pamuk's novel 'The Red-Haired Woman'?",
+    "options": [
+      "Life in Istanbul during Ottoman times",
+      "A father-son myth retelling through a well-digging journey",
+      "Cultural revolution in Europe",
+      "Conflict of religion in Turkey"
+    ],
+    "answer": "A father-son myth retelling through a well-digging journey"
+  },
+  {
+    "question": "Which is Orhan Pamuk's autobiographical work?",
+    "options": ["Istanbul", "Snow", "The Silent House", "Other Colours"],
+    "answer": "Istanbul"
+  },
+  {
+    "question": "Which of these is NOT a novel by Orhan Pamuk?",
+    "options": ["The White Castle", "Darkness and Light", "The Silent House", "The Black Tulip"],
+    "answer": "The Black Tulip"
+  },
+  {
+    "question": "Pamuk's debut novel, also published as 'Mr. Cevdet and His Sons', was originally titled:",
+    "options": ["The Silent House", "The New Life", "Darkness and Light", "Snow"],
+    "answer": "Darkness and Light"
+  },
+  {
+    "question": "Which work by Orhan Pamuk is a collection of non-fiction and a story?",
+    "options": ["The Black Book", "Other Colours", "The White Castle", "The New Life"],
+    "answer": "Other Colours"
+  },
+  {
+    "question": "Boccaccio’s famous prose work ‘The Decameron’ consists of how many stories?",
+    "options": ["50", "100", "75", "70"],
+    "answer": "100"
+  },
+  {
+    "question": "What is the subtitle of Boccaccio's 'The Decameron'?",
+    "options": ["Ten Days of Storytelling", "Prince Galehaut", "Tales of Florence", "Escape from the Plague"],
+    "answer": "Prince Galehaut"
+  },
+  {
+    "question": "What is the setting of Boccaccio’s ‘The Decameron’?",
+    "options": ["Renaissance Rome", "Medieval Naples", "Florence during the Black Death", "Venice under siege"],
+    "answer": "Florence during the Black Death"
+  },
+  {
+    "question": "Which poetic form is Boccaccio credited with inventing?",
+    "options": ["Terza Rima", "Ottava Rima", "Spenserian Stanza", "Blank Verse"],
+    "answer": "Ottava Rima"
+  },
+  {
+    "question": "Boccaccio’s 'Filostrato' inspired which English work?",
+    "options": ["The Faerie Queene", "The Canterbury Tales", "Troilus and Criseyde", "The Rape of the Lock"],
+    "answer": "Troilus and Criseyde"
+  },
+  {
+    "question": "Who was Boccaccio’s mentor and correspondent?",
+    "options": ["Dante", "Virgil", "Petrarch", "Horace"],
+    "answer": "Petrarch"
+  },
+  {
+    "question": "What is the first Italian prose romance written by Boccaccio?",
+    "options": ["Filostrato", "The Decameron", "The Filocolo", "Corbaccio"],
+    "answer": "The Filocolo"
+  },
+  {
+    "question": "In 'The Decameron', how many people flee Florence to escape the plague?",
+    "options": ["10 women", "7 women and 3 men", "5 men and 5 women", "8 men and 2 women"],
+    "answer": "7 women and 3 men"
+  },
+  {
+    "question": "Who determines the theme of stories for each day in 'The Decameron'?",
+    "options": [
+      "The oldest storyteller",
+      "The youngest member",
+      "A selected King or Queen",
+      "Boccaccio himself"
+    ],
+    "answer": "A selected King or Queen"
+  },
+  {
+    "question": "Which of the following is a prose biography written by Boccaccio?",
+    "options": ["Life of Dante", "Filostrato", "Amorosa Visione", "Bucolicum Carmen"],
+    "answer": "Life of Dante"
+  },
+  {
+    "question": "Boccaccio worked on 'Teseida', a poem about which mythological figures?",
+    "options": ["Achilles and Hector", "Theseus, Palamon and Arcite", "Aeneas and Dido", "Orpheus and Eurydice"],
+    "answer": "Theseus, Palamon and Arcite"
+  },
+  {
+    "question": "Which of Boccaccio’s works is a collection of pastoral poems?",
+    "options": ["Corbaccio", "Bucolicum Carmen", "Amorosa Visione", "The Filocolo"],
+    "answer": "Bucolicum Carmen"
+  },
+  {
+    "question": "Which work by Boccaccio contains themes of love, intelligence, and wit told in a plague context?",
+    "options": ["Filostrato", "Corbaccio", "The Decameron", "On Famous Women"],
+    "answer": "The Decameron"
+  },
+  {
+    "question": "Which of these is NOT a work of Boccaccio?",
+    "options": ["Amorosa Visione", "The Silent House", "Corbaccio", "Filostrato"],
+    "answer": "The Silent House"
+  },
+  {
+    "question": "Boccaccio’s 'Filostrato' inspired not only Chaucer but also:",
+    "options": ["Milton", "Shakespeare", "Shelley", "Wordsworth"],
+    "answer": "Shakespeare"
+  },
+  {
+    "question": "Which French author is considered the leading figure of the Naturalism literary school?",
+    "options": ["Victor Hugo", "Albert Camus", "Emile Zola", "Jean-Paul Sartre"],
+    "answer": "Emile Zola"
+  },
+  {
+    "question": "Which series of 20 novels by Emile Zola follows the Rougon Macquart family?",
+    "options": ["The Human Comedy", "Rougon-Macquart", "Les Misérables", "Germinal"],
+    "answer": "Rougon-Macquart"
+  },
+  {
+    "question": "What is the first novel in Zola's Rougon-Macquart series?",
+    "options": ["Nana", "Germinal", "Thérèse Raquin", "The Fortune of the Rougons"],
+    "answer": "The Fortune of the Rougons"
+  },
+  {
+    "question": "Which Emile Zola novel is considered his first major success?",
+    "options": ["Nana", "Thérèse Raquin", "Germinal", "La Confession de Daude"],
+    "answer": "Thérèse Raquin"
+  },
+  {
+    "question": "What are the 'Four Gospels' of Zola?",
+    "options": ["Love, Honor, Faith, Courage", "Fertility, Work, Truth, Justice", "Peace, Unity, Labor, Progress", "Hope, Reason, Justice, Freedom"],
+    "answer": "Fertility, Work, Truth, Justice"
+  },
+  {
+    "question": "Which Zola novel deals with a coal miner’s strike?",
+    "options": ["Pot-Bouille", "Nana", "Germinal", "Dr. Pascal"],
+    "answer": "Germinal"
+  },
+  {
+    "question": "Jean-Paul Sartre declined which major honor in 1964?",
+    "options": ["Pulitzer Prize", "Order of the Legion of Honour", "Nobel Prize in Literature", "Prix Goncourt"],
+    "answer": "Nobel Prize in Literature"
+  },
+  {
+    "question": "Which famous line comes from Sartre’s play 'Huis-clos' (No Exit)?",
+    "options": ["To be is to do", "Hell is other people", "Existence precedes essence", "Life is absurd"],
+    "answer": "Hell is other people"
+  },
+  {
+    "question": "Who was Sartre’s lifelong partner and fellow intellectual?",
+    "options": ["Hannah Arendt", "Gertrude Stein", "Simone de Beauvoir", "Virginia Woolf"],
+    "answer": "Simone de Beauvoir"
+  },
+  {
+    "question": "Which work by Sartre is a trilogy on World War II France?",
+    "options": ["Being and Nothingness", "The Wall", "The Roads to Freedom", "The Age of Absurdity"],
+    "answer": "The Roads to Freedom"
+  },
+  {
+    "question": "What is the first novel in Sartre’s 'Roads to Freedom' trilogy?",
+    "options": ["Nausea", "The Reprieve", "The Age of Reason", "Troubled Sleep"],
+    "answer": "The Age of Reason"
+  },
+  {
+    "question": "Which of these is NOT a novel by Sartre?",
+    "options": ["Nausea", "The Flies", "The Myth of Sisyphus", "The Wall"],
+    "answer": "The Myth of Sisyphus"
+  },
+  {
+    "question": "Which essay by Sartre promotes existentialist values to the public?",
+    "options": ["Existentialism is Humanism", "Being and Nothingness", "The Words", "Sketches for a Theory of the Emotions"],
+    "answer": "Existentialism is Humanism"
+  },
+  {
+    "question": "Which autobiographical work was written by Sartre in 1964?",
+    "options": ["Nausea", "The Words", "The Flies", "The Wall"],
+    "answer": "The Words"
+  },
+  {
+    "question": "Albert Camus is most commonly associated with which philosophical concept?",
+    "options": ["Existentialism", "Phenomenology", "Absurdism", "Transcendentalism"],
+    "answer": "Absurdism"
+  },
+  {
+    "question": "Which Camus novel features the character Meursault and explores the absurd?",
+    "options": ["The Plague", "The Fall", "The First Man", "The Stranger"],
+    "answer": "The Stranger"
+  },
+  {
+    "question": "Which of these is NOT a novel by Albert Camus?",
+    "options": ["The Fall", "The Wall", "A Happy Death", "The Plague"],
+    "answer": "The Wall"
+  },
+  {
+    "question": "Camus was born in which region?",
+    "options": ["France", "Tunisia", "Algeria", "Morocco"],
+    "answer": "Algeria"
+  },
+  {
+    "question": "What philosophical essay introduces Camus’s concept of the Absurd?",
+    "options": ["The Fall", "The Myth of Sisyphus", "The Rebel", "Being and Nothingness"],
+    "answer": "The Myth of Sisyphus"
+  },
+  {
+    "question": "Which of Camus’s works was published posthumously and is autobiographical?",
+    "options": ["The Fall", "A Happy Death", "The First Man", "The Guest"],
+    "answer": "The First Man"
+  },
+  {
+    "question": "Which Camus story collection includes 'The Guest' and 'The Silent Men'?",
+    "options": ["A Happy Death", "The Stranger", "Exile and the Kingdom", "The Fall"],
+    "answer": "Exile and the Kingdom"
+  },
+  {
+    "question": "Which play by Camus is based on Dostoevsky’s novel *Demons*?",
+    "options": ["The Misunderstanding", "The Possessed", "The Just Assassins", "The State of Siege"],
+    "answer": "The Possessed"
+  },
+  {
+    "question": "In what year did Camus receive the Nobel Prize in Literature?",
+    "options": ["1954", "1957", "1960", "1947"],
+    "answer": "1957"
+  },
+  {
+    "question": "Which Camus novel portrays the impact of a deadly disease on a town?",
+    "options": ["The Plague", "The Stranger", "The Fall", "The Misunderstanding"],
+    "answer": "The Plague"
+  },
+  {
+    "question": "Which story in 'Exile and the Kingdom' features an artist named Jonas?",
+    "options": ["The Guest", "The Silent Men", "Jonas or The Artist at Work", "The Growing Stone"],
+    "answer": "Jonas or The Artist at Work"
+  },
+  {
+    "question": "Milan Kundera was originally from which country?",
+    "options": ["France", "Austria", "Hungary", "Czechoslovakia"],
+    "answer": "Czechoslovakia"
+  },
+  {
+    "question": "Kundera’s novel 'The Unbearable Lightness of Being' is set during which historical event?",
+    "options": ["World War I", "Cuban Revolution", "Prague Spring", "Fall of Berlin Wall"],
+    "answer": "Prague Spring"
+  },
+  {
+    "question": "Which language did Milan Kundera start writing in after 1993?",
+    "options": ["Czech", "English", "German", "French"],
+    "answer": "French"
+  },
+  {
+    "question": "What is the profession of Tomas in 'The Unbearable Lightness of Being'?",
+    "options": ["Painter", "Professor", "Surgeon", "Journalist"],
+    "answer": "Surgeon"
+  },
+  {
+    "question": "Which of these is NOT a work by Milan Kundera?",
+    "options": ["The Joke", "Immortality", "Life is Elsewhere", "No Exit"],
+    "answer": "No Exit"
+  },
+  {
+    "question": "Which Milan Kundera novel explores themes of memory and forgetting?",
+    "options": ["The Joke", "The Book of Laughter and Forgetting", "Immortality", "Life is Elsewhere"],
+    "answer": "The Book of Laughter and Forgetting"
+  },
+  {
+    "question": "Which essay by Kundera explores his thoughts on fiction and writing?",
+    "options": ["Immortality", "The Art of the Novel", "The Joke", "The Book of Laughter and Forgetting"],
+    "answer": "The Art of the Novel"
+  },
+  {
+    "question": "Henrik Ibsen is regarded as the ‘Father of’ which theatrical tradition?",
+    "options": ["Absurdism", "Realism", "Romanticism", "Expressionism"],
+    "answer": "Realism"
+  },
+  {
+    "question": "Which Henrik Ibsen play features the character Nora Helmer?",
+    "options": ["The Wild Duck", "Ghosts", "A Doll’s House", "Rosmersholm"],
+    "answer": "A Doll’s House"
+  },
+  {
+    "question": "Which play by Ibsen sparked major controversy for its portrayal of marriage and gender roles?",
+    "options": ["Ghosts", "The Master Builder", "A Doll’s House", "The Pretenders"],
+    "answer": "A Doll’s House"
+  },
+  {
+    "question": "In 'A Doll’s House', what does Nora forge to save her husband’s life?",
+    "options": ["Doctor’s prescription", "Torvald's signature", "Loan document", "Marriage certificate"],
+    "answer": "Torvald's signature"
+  },
+  {
+    "question": "Who blackmails Nora in Ibsen’s 'A Doll’s House'?",
+    "options": ["Dr. Rank", "Mrs. Linde", "Krogstad", "Helene"],
+    "answer": "Krogstad"
+  },
+  {
+    "question": "In 'A Doll’s House', what holiday forms the backdrop of the events?",
+    "options": ["New Year’s Day", "Christmas", "Easter", "Thanksgiving"],
+    "answer": "Christmas"
+  },
+  {
+    "question": "Who is Dr. Rank in 'A Doll’s House'?",
+    "options": ["Krogstad's son", "Torvald's friend", "A bank manager", "Nora’s cousin"],
+    "answer": "Torvald's friend"
+  },
+  {
+    "question": "What does Torvald call Nora as a nickname?",
+    "options": ["Peaches", "Little dove", "Songbird", "Peach"],
+    "answer": "Peaches"
+  },
+  {
+    "question": "Which play by Ibsen depicts the life of the Roman Emperor Julian the Apostate?",
+    "options": ["Brand", "Emperor and Galilean", "An Enemy of the People", "Catiline"],
+    "answer": "Emperor and Galilean"
+  },
+  {
+    "question": "What decision does Nora make at the end of 'A Doll’s House'?",
+    "options": ["She returns the money", "She kills herself", "She confesses everything", "She leaves her husband and children"],
+    "answer": "She leaves her husband and children"
+  },
+  {
+    "question": "What is the occupation of Mrs. Linde in 'A Doll’s House'?",
+    "options": ["Nurse", "Widow seeking employment", "Maid", "Schoolteacher"],
+    "answer": "Widow seeking employment"
+  },
+  {
+    "question": "Which play by Ibsen contains the line: 'A woman cannot be herself in modern society'?",
+    "options": ["The Master Builder", "Ghosts", "A Doll’s House", "Rosmersholm"],
+    "answer": "A Doll’s House"
+  },
+  {
+    "question": "Ibsen’s first play, published under a pseudonym, was titled:",
+    "options": ["Brand", "Catiline", "Peer Gynt", "The Pretenders"],
+    "answer": "Catiline"
+  },
+  {
+    "question": "Which language did Henrik Ibsen write his plays in?",
+    "options": ["Norwegian", "Danish", "French", "German"],
+    "answer": "Danish"
+  },
+  {
+    "question": "Who was the father of Norwegian Prime Minister Sigurd Ibsen?",
+    "options": ["Johan Sverdrup", "Henrik Ibsen", "Ludvig Holberg", "Niels Bohr"],
+    "answer": "Henrik Ibsen"
+  },
+  {
+    "question": "What does Krogstad initially want from Nora in exchange for not revealing her secret?",
+    "options": ["Money", "Her house", "A better job position", "A public apology"],
+    "answer": "A better job position"
+  },
+  {
+    "question": "Which play by Ibsen features the fantasy character Peer and uses verse?",
+    "options": ["Brand", "Peer Gynt", "The League of Youth", "The Lady from the Sea"],
+    "answer": "Peer Gynt"
+  },
+  {
+    "question": "Why does Nora dance wildly during the party in Act II?",
+    "options": ["To impress Torvald", "To delay him from opening the letter", "To distract Krogstad", "To win a prize"],
+    "answer": "To delay him from opening the letter"
+  },
+  {
+    "question": "Gabriel Garcia Marquez was awarded the Nobel Prize in Literature in which year?",
+    "options": ["1971", "1982", "1990", "1967"],
+    "answer": "1982"
+  },
+  {
+    "question": "Which literary style is Gabriel Garcia Marquez most associated with?",
+    "options": ["Realism", "Modernism", "Magic Realism", "Naturalism"],
+    "answer": "Magic Realism"
+  },
+  {
+    "question": "Which fictional village appears in many of Garcia Marquez's novels?",
+    "options": ["Miramar", "Bogota", "Macondo", "Cordoba"],
+    "answer": "Macondo"
+  },
+  {
+    "question": "What is the central theme in most of Garcia Marquez’s novels?",
+    "options": ["Love", "Politics", "Solitude", "War"],
+    "answer": "Solitude"
+  },
+  {
+    "question": "Which novel by Garcia Marquez is described as a 'Poem on the Solitude of Power'?",
+    "options": ["Love in the Time of Cholera", "Chronicle of a Death Foretold", "The Autumn of the Patriarch", "The General in His Labyrinth"],
+    "answer": "The Autumn of the Patriarch"
+  },
+  {
+    "question": "Who called *One Hundred Years of Solitude* 'the first piece of literature since the Book of Genesis that should be required reading for the entire human race'?",
+    "options": ["William Kennedy", "Mario Vargas Llosa", "Jorge Luis Borges", "Pablo Neruda"],
+    "answer": "William Kennedy"
+  },
+  {
+    "question": "Which novel by Garcia Marquez is a non-traditional love story set in old age?",
+    "options": ["The General in His Labyrinth", "Love in the Time of Cholera", "Leaf Storm", "Of Love and Other Demons"],
+    "answer": "Love in the Time of Cholera"
+  },
+  {
+    "question": "In which novel is the character Santiago Nasar based on a real-life friend of Garcia?",
+    "options": ["Chronicle of a Death Foretold", "Leaf Storm", "One Hundred Years of Solitude", "The Plague"],
+    "answer": "Chronicle of a Death Foretold"
+  },
+  {
+    "question": "Which novella by Garcia Marquez was his first published work?",
+    "options": ["Leaf Storm", "Memories of My Melancholy Whores", "The Autumn of the Patriarch", "In Evil Hour"],
+    "answer": "Leaf Storm"
+  },
+  {
+    "question": "The fictional town of Macondo is founded by which character?",
+    "options": ["Santiago Nasar", "Florentino Ariza", "Jose Arcadio Buendia", "Simon"],
+    "answer": "Jose Arcadio Buendia"
+  },
+  {
+    "question": "What natural disaster destroys the town of Macondo in *One Hundred Years of Solitude*?",
+    "options": ["Flood", "Fire", "Earthquake", "Hurricane"],
+    "answer": "Hurricane"
+  },
+  {
+    "question": "What genre does *News of a Kidnapping* belong to?",
+    "options": ["Autobiography", "Fiction", "Non-fiction", "Memoir"],
+    "answer": "Non-fiction"
+  },
+  {
+    "question": "What does the novella *Memories of My Melancholy Whores* explore?",
+    "options": ["Political exile", "Youth romance", "Old-age love and obsession", "Religious symbolism"],
+    "answer": "Old-age love and obsession"
+  },
+  {
+    "question": "*One Hundred Years of Solitude* was dedicated to whom?",
+    "options": ["His wife and son", "Gabriel Mistral", "Jomi Garcia Ascot and Maria Luisa Elio", "Fermina Daza"],
+    "answer": "Jomi Garcia Ascot and Maria Luisa Elio"
+  },
+  {
+    "question": "Which Garcia Marquez work explores the last days of Simon Bolivar?",
+    "options": ["The General in His Labyrinth", "The Autumn of the Patriarch", "Chronicle of a Death Foretold", "In Evil Hour"],
+    "answer": "The General in His Labyrinth"
+  },
+  {
+    "question": "*Love in the Time of Cholera* is based on the love story of whose relationship?",
+    "options": ["Jose Arcadio and Ursula", "The Buendia family", "Garcia’s parents", "Garcia’s own affair"],
+    "answer": "Garcia’s parents"
+  },
+  {
+    "question": "In *One Hundred Years of Solitude*, where do Jose Arcadio Buendia and Ursula Iguaran originate from?",
+    "options": ["Bogotá", "Cartagena", "Riohacha", "Barranquilla"],
+    "answer": "Riohacha"
+  },
+  {
+    "question": "In which year was *Chronicle of a Death Foretold* published?",
+    "options": ["1979", "1981", "1985", "1975"],
+    "answer": "1981"
+  },
+  {
+    "question": "Which controversial novel by Garcia Marquez was banned in Iran?",
+    "options": ["In Evil Hour", "Memories of My Melancholy Whores", "The Plague", "Of Love and Other Demons"],
+    "answer": "Memories of My Melancholy Whores"
+  },
+  {
+    "question": "What is the central character trait of Santiago Nasar in *Chronicle of a Death Foretold*?",
+    "options": ["Cynicism", "Arrogance", "Innocence", "Religious devotion"],
+    "answer": "Innocence"
+  },
+  {
+    "question": "Which book by Garcia Marquez is described as 'a flowing tract of the life of an eternal dictator'?",
+    "options": ["In Evil Hour", "The General in His Labyrinth", "The Autumn of the Patriarch", "Of Love and Other Demons"],
+    "answer": "The Autumn of the Patriarch"
+  },
+  {
+    "question": "What theme connects many of Garcia Marquez’s works?",
+    "options": ["Urban decay", "Violent revolution", "Exile", "Solitude"],
+    "answer": "Solitude"
+  },
+  {
+    "question": "What was the original (censored) title of *In Evil Hour*?",
+    "options": ["The Fall of Macondo", "This Town of Shit", "Solitude’s End", "The Nameless Town"],
+    "answer": "This Town of Shit"
+  },
+  {
+    "question": "Which novel by Garcia Marquez describes seven generations of a family?",
+    "options": ["The General in His Labyrinth", "One Hundred Years of Solitude", "Love in the Time of Cholera", "Chronicle of a Death Foretold"],
+    "answer": "One Hundred Years of Solitude"
+  },
+  {
+    "question": "Which book by Garcia Marquez documents kidnappings by the Medellin Cartel?",
+    "options": ["The Solitude of Latin America", "News of a Kidnapping", "In Evil Hour", "The Autumn of the Patriarch"],
+    "answer": "News of a Kidnapping"
+  }
+]
+

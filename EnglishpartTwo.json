@@ -1,0 +1,807 @@
+[
+  {
+    "question": "Who coined the term 'University Wits'?",
+    "options": ["F.R. Leavis", "George Saintsbury", "Ben Jonson", "Francis Meres"],
+    "answer": "George Saintsbury"
+  },
+  {
+    "question": "Which University did Christopher Marlowe attend?",
+    "options": ["Oxford", "Cambridge", "London", "Durham"],
+    "answer": "Cambridge"
+  },
+  {
+    "question": "Which play by John Lyly is considered the origin of the phrase 'All is fair in love and war'?",
+    "options": ["Compaspe", "Euphues", "Endymion", "Gallathea"],
+    "answer": "Euphues"
+  },
+  {
+    "question": "What is Euphuism?",
+    "options": ["A tragic style of playwriting", "A heroic narrative style", "An ornate and artificial style of prose", "A type of lyric poetry"],
+    "answer": "An ornate and artificial style of prose"
+  },
+  {
+    "question": "Who is known as the 'First notorious professional writer'?",
+    "options": ["Thomas Lodge", "Robert Greene", "John Lyly", "Thomas Nashe"],
+    "answer": "Robert Greene"
+  },
+  {
+    "question": "Which of these was *not* a confirmed university graduate among the University Wits?",
+    "options": ["Thomas Kyd", "Christopher Marlowe", "Thomas Lodge", "Robert Greene"],
+    "answer": "Thomas Kyd"
+  },
+  {
+    "question": "Which of Lyly’s plays is set before the earth was created?",
+    "options": ["Mother Bombie", "Gallathea", "The Woman in the Moon", "Compaspe"],
+    "answer": "The Woman in the Moon"
+  },
+  {
+    "question": "Who painted the portrait of Compaspe in Lyly’s play?",
+    "options": ["Zeuxis", "Apelles", "Da Vinci", "Pliny"],
+    "answer": "Apelles"
+  },
+  {
+    "question": "Which character falls in love with Cynthia, the goddess of moon, in 'Endymion'?",
+    "options": ["Phao", "Apelles", "Endymion", "Stesias"],
+    "answer": "Endymion"
+  },
+  {
+    "question": "Which of these comedies by Lyly is a satire on women?",
+    "options": ["Gallathea", "Midas", "The Woman in the Moon", "Mother Bombie"],
+    "answer": "The Woman in the Moon"
+  },
+  {
+    "question": "Which play by Lyly shows influence on Shakespeare's 'Love's Labour Lost'?",
+    "options": ["Love’s Metamorphosis", "Midas", "Sappho and Phao", "Endymion"],
+    "answer": "Love’s Metamorphosis"
+  },
+  {
+    "question": "Which pamphlet by Robert Greene contains the term 'upstart crow' possibly referring to Shakespeare?",
+    "options": ["The Schoolmaster", "Groats-Worth of Wit", "Euphues and his England", "Toxophilus"],
+    "answer": "Groats-Worth of Wit"
+  },
+  {
+    "question": "Which drama group frequently performed John Lyly's plays?",
+    "options": ["The Lord Chamberlain's Men", "Children of Paul", "King’s Men", "Blackfriars Men"],
+    "answer": "Children of Paul"
+  },
+  {
+    "question": "Which Lyly play is based on Ovid's Metamorphoses?",
+    "options": ["Compaspe", "Midas", "Gallathea", "Sappho and Phao"],
+    "answer": "Midas"
+  },
+  {
+    "question": "Which play by Lyly features the flattery of Queen Elizabeth I through the character of Cynthia?",
+    "options": ["Midas", "Gallathea", "Endymion", "Compaspe"],
+    "answer": "Endymion"
+  },
+  {
+    "question": "In Lyly’s ‘The Woman in the Moon’, who is punished in the end?",
+    "options": ["Pandora", "Luna", "Stesias", "Nature"],
+    "answer": "Stesias"
+  },
+  {
+    "question": "Which University Wit was known for writing controversial pamphlets?",
+    "options": ["Thomas Kyd", "Robert Greene", "George Peele", "Thomas Lodge"],
+    "answer": "Robert Greene"
+  },
+  {
+    "question": "What is the meaning of the word ‘Euphues’?",
+    "options": ["Clever and cruel", "Witty and graceful", "Strong and wise", "Elegant and rude"],
+    "answer": "Witty and graceful"
+  },
+  {
+    "question": "Which genre best describes the work 'Euphues'?",
+    "options": ["Epic", "Pamphlet", "Prose romance", "Tragedy"],
+    "answer": "Prose romance"
+  },
+  {
+    "question": "Who called Lyly’s 'Endymion' the most beautiful of all his plays?",
+    "options": ["Ben Jonson", "T.S. Eliot", "Saintsbury", "Francis Meres"],
+    "answer": "Saintsbury"
+  },
+  {
+    "question": "Which of Lyly’s works is known to have influenced Shakespeare’s 'Midsummer Night’s Dream'?",
+    "options": ["Gallathea", "Compaspe", "Sappho and Phao", "Midas"],
+    "answer": "Gallathea"
+  },
+  {
+    "question": "What literary style is characterized by excessive use of antithesis and alliteration, popularized by Lyly?",
+    "options": ["Euphuism", "Satirism", "Humanism", "Romanticism"],
+    "answer": "Euphuism"
+  },
+  {
+    "question": "Which group performed Lyly’s plays at court before Elizabeth I?",
+    "options": ["Children of the Chapel", "The King’s Men", "The Admiral’s Men", "Queen’s Servants"],
+    "answer": "Children of the Chapel"
+  },
+  {
+    "question": "Who among the University Wits was most closely associated with developing blank verse tragedy?",
+    "options": ["Thomas Nashe", "George Peele", "Christopher Marlowe", "John Lyly"],
+    "answer": "Christopher Marlowe"
+  },
+  {
+    "question": "Which play by Lyly is set in the city of Syracuse and features a queen and a ferryman?",
+    "options": ["Gallathea", "Sappho and Phao", "Midas", "Mother Bombie"],
+    "answer": "Sappho and Phao"
+  },
+  {
+    "question": "Who called Marlowe's blank verse 'Marlowe's Mighty Lines'?",
+    "options": ["Shakespeare", "Ben Jonson", "Robert Greene", "George Peele"],
+    "answer": "Ben Jonson"
+  },
+  {
+    "question": "Which play by Marlowe features the character Zenocrate?",
+    "options": ["Doctor Faustus", "The Jew of Malta", "Tamburlaine the Great", "Edward II"],
+    "answer": "Tamburlaine the Great"
+  },
+  {
+    "question": "Which novella recounts the last days of Marlowe?",
+    "options": ["Dead Kit", "Tamburlaine Must Die", "Poor Marlowe", "The Fallen Muse"],
+    "answer": "Tamburlaine Must Die"
+  },
+  {
+    "question": "Which poem by Marlowe was later completed by George Chapman?",
+    "options": ["Hero and Leander", "The Passionate Shepherd", "Ovid’s Amores", "The First Book of Lucan"],
+    "answer": "Hero and Leander"
+  },
+  {
+    "question": "What was the cause of Barabas’s revenge in 'The Jew of Malta'?",
+    "options": ["His daughter’s betrayal", "Loss of wealth by Governor", "Religious persecution", "Love triangle"],
+    "answer": "Loss of wealth by Governor"
+  },
+  {
+    "question": "In which play does Marlowe portray the burning of the Qur’an?",
+    "options": ["Edward II", "Doctor Faustus", "Tamburlaine Part II", "The Massacre at Paris"],
+    "answer": "Tamburlaine Part II"
+  },
+  {
+    "question": "Who is the servant of Dr. Faustus?",
+    "options": ["Lucifer", "Valdes", "Wagner", "Mephistopheles"],
+    "answer": "Wagner"
+  },
+  {
+    "question": "What is the full title of Doctor Faustus?",
+    "options": ["Life and Death of Dr. Faustus", "The Tragical History of Doctor Faustus", "History of the Damned Scholar", "Doctor Faustus of Rhodes"],
+    "answer": "The Tragical History of Doctor Faustus"
+  },
+  {
+    "question": "Which character says 'Was this the face that launched a thousand ships'?",
+    "options": ["Helen", "Mephistopheles", "Faustus", "Lucifer"],
+    "answer": "Faustus"
+  },
+  {
+    "question": "Which work by Marlowe is based on Virgil’s Aeneid?",
+    "options": ["Edward II", "Dido, Queen of Carthage", "Doctor Faustus", "The Jew of Malta"],
+    "answer": "Dido, Queen of Carthage"
+  },
+  {
+    "question": "Who compared Faustus to Icarus in the prologue?",
+    "options": ["Lucifer", "Chorus", "Wagner", "Mephistopheles"],
+    "answer": "Chorus"
+  },
+  {
+    "question": "Which play opens in Persepolis?",
+    "options": ["Edward II", "Doctor Faustus", "The Jew of Malta", "Tamburlaine the Great"],
+    "answer": "Tamburlaine the Great"
+  },
+  {
+    "question": "Who kills Edward II in Marlowe’s play?",
+    "options": ["Mortimer", "Lightborn", "Lancester", "Gurney"],
+    "answer": "Lightborn"
+  },
+  {
+    "question": "What is the name of Barabas’s daughter in 'The Jew of Malta'?",
+    "options": ["Zenocrate", "Helen", "Abigail", "Anna"],
+    "answer": "Abigail"
+  },
+  {
+    "question": "In 'Hero and Leander', who blows out the guiding lamp?",
+    "options": ["Hero", "Leander", "The breeze", "Neptune"],
+    "answer": "The breeze"
+  },
+  {
+    "question": "Which play includes the quote 'I count religion but a childish toy'?",
+    "options": ["Doctor Faustus", "Edward II", "The Jew of Malta", "Tamburlaine"],
+    "answer": "The Jew of Malta"
+  },
+  {
+    "question": "Which unfinished play depicts the massacre of Huguenots?",
+    "options": ["The Jew of Malta", "The Massacre at Paris", "Edward II", "Dido, Queen of Carthage"],
+    "answer": "The Massacre at Paris"
+  },
+  {
+    "question": "Who tries to warn Faustus to repent?",
+    "options": ["Lucifer", "Benvolio", "Old Man", "Wagner"],
+    "answer": "Old Man"
+  },
+  {
+    "question": "Which king is central to Marlowe’s 'Edward II'?",
+    "options": ["Edward I", "Edward II", "Edward III", "Richard II"],
+    "answer": "Edward II"
+  },
+  {
+    "question": "What is the nationality of the character Ithamore?",
+    "options": ["Arabian", "Jewish", "Turkish", "Maltese"],
+    "answer": "Arabian"
+  },
+  {
+    "question": "What does Faustus ask Mephistopheles to appear as?",
+    "options": ["A soldier", "A Greek god", "A Franciscan Friar", "A knight"],
+    "answer": "A Franciscan Friar"
+  },
+  {
+    "question": "What symbol appears on Faustus’s arm after signing the pact?",
+    "options": ["Homo fuge", "Ego sum", "Pax infernum", "Dies irae"],
+    "answer": "Homo fuge"
+  },
+  {
+    "question": "Who influenced Shakespeare’s 'Merchant of Venice' according to critics?",
+    "options": ["Doctor Faustus", "The Jew of Malta", "Hero and Leander", "Dido"],
+    "answer": "The Jew of Malta"
+  },
+  {
+    "question": "Which Marlowe play portrays the rise of a Scythian shepherd?",
+    "options": ["Dido", "Edward II", "Doctor Faustus", "Tamburlaine"],
+    "answer": "Tamburlaine"
+  },
+  {
+    "question": "Which mythological figure does Aeneas meet in Dido?",
+    "options": ["Venus", "Helen", "Jupiter", "Ganymede"],
+    "answer": "Venus"
+  },
+  {
+    "question": "Which pamphlet by Robert Greene contains the phrase 'an upstart crow beautified with our feathers'?",
+    "options": ["Mamillia", "Pandosto", "Groats-Worth of Wit", "Menaphon"],
+    "answer": "Groats-Worth of Wit"
+  },
+  {
+    "question": "Robert Greene referred to Shakespeare as:",
+    "options": ["A noble actor", "A picaresque playwright", "An upstart crow", "A romantic tragedian"],
+    "answer": "An upstart crow"
+  },
+  {
+    "question": "Which of the following is a play co-written by Robert Greene and Thomas Lodge?",
+    "options": ["Rosalynde", "A Looking Glass for London and England", "The Battle of Alcazar", "The Old Wives Tale"],
+    "answer": "A Looking Glass for London and England"
+  },
+  {
+    "question": "Which work by Greene was reprinted in 1596 and denied by Thomas Nashe?",
+    "options": ["Friar Bacon and Friar Bungay", "Pandosto", "Groats-Worth of Wit", "Alphonsus"],
+    "answer": "Groats-Worth of Wit"
+  },
+  {
+    "question": "Who is referred to as 'young Juvenal' in Greene's work?",
+    "options": ["Thomas Nashe", "George Peele", "William Shakespeare", "Thomas Lodge"],
+    "answer": "Thomas Lodge"
+  },
+  {
+    "question": "Which verse by Robert Greene is dedicated to Lady Elizabeth Hatton?",
+    "options": ["Pandosto", "A Maiden’s Dream", "Mamillia", "Menaphon"],
+    "answer": "A Maiden’s Dream"
+  },
+  {
+    "question": "What is the sequel to 'Friar Bacon and Friar Bungay'?",
+    "options": ["Orlando Furioso", "John of Bordeaux", "Groats-Worth of Wit", "The Comical History of Alphonsus"],
+    "answer": "John of Bordeaux"
+  },
+  {
+    "question": "Which work by Thomas Lodge was the source of Shakespeare’s 'As You Like It'?",
+    "options": ["Rosalynde", "A Margarite of America", "A Fig for Momus", "Scillaes Metamorphasis"],
+    "answer": "Rosalynde"
+  },
+  {
+    "question": "Which play by George Peele uses the 'play within a play' device?",
+    "options": ["Edward I", "The Old Wives Tale", "The Battle of Alcazar", "Sir Clyomon and Sir Clamydes"],
+    "answer": "The Old Wives Tale"
+  },
+  {
+    "question": "Which of the following was NOT written by Robert Greene?",
+    "options": ["The Scottish History of James IV", "Orlando Furioso", "Scillaes Metamorphasis", "Alphonsus"],
+    "answer": "Scillaes Metamorphasis"
+  },
+  {
+    "question": "Which of these plays recounts the Biblical story of Jonah and Nineveh?",
+    "options": ["The Comical History of Alphonsus", "The Scottish History of James IV", "A Looking Glass for London and England", "The History of Orlando Furioso"],
+    "answer": "A Looking Glass for London and England"
+  },
+  {
+    "question": "Who co-authored 'Dido, Queen of Carthage' with Thomas Nashe?",
+    "options": ["George Peele", "Robert Greene", "Christopher Marlowe", "Thomas Lodge"],
+    "answer": "Christopher Marlowe"
+  },
+  {
+    "question": "The earliest English satirical work on romantic drama is considered to be:",
+    "options": ["The Arraignment of Paris", "The Old Wives Tale", "Edward I", "The Love of King David and Fair Bethsabe"],
+    "answer": "The Old Wives Tale"
+  },
+  {
+    "question": "‘A Fig for Momus’ by Thomas Lodge is significant because it:",
+    "options": ["Is a biblical tragedy", "Introduced classical satires and verse epistles", "Is a verse romance", "Is a satire on Shakespeare"],
+    "answer": "Introduced classical satires and verse epistles"
+  },
+  {
+    "question": "Which of these is NOT a play by George Peele?",
+    "options": ["Sir Clyomon and Sir Clamydes", "The Battle of Alcazar", "Edward I", "The Wounds of Civil War"],
+    "answer": "The Wounds of Civil War"
+  },
+  {
+    "question": "Who wrote ‘The Anatomy of Absurdity’?",
+    "options": ["Robert Greene", "Thomas Nashe", "George Peele", "Thomas Lodge"],
+    "answer": "Thomas Nashe"
+  },
+  {
+    "question": "‘Scillaes Metamorphasis’ is an Ovidian verse fable by:",
+    "options": ["Thomas Lodge", "Robert Greene", "George Peele", "Thomas Nashe"],
+    "answer": "Thomas Lodge"
+  },
+  {
+    "question": "The play 'The Love of King David and Fair Bethsabe' is a:",
+    "options": ["Romantic comedy", "Morality play", "Biblical tragedy", "Historical drama"],
+    "answer": "Biblical tragedy"
+  },
+  {
+    "question": "What genre is Thomas Nashe's 'The Unfortunate Traveller' considered to be?",
+    "options": ["Epic romance", "Tragicomedy", "Picaresque novel", "Historical chronicle"],
+    "answer": "Picaresque novel"
+  },
+  {
+    "question": "Which Shakespeare play contains the line echoed by Greene: 'O tiger’s heart wrapped in a woman’s hide'?",
+    "options": ["King John", "Henry IV", "Henry VI, Part III", "Macbeth"],
+    "answer": "Henry VI, Part III"
+  },
+  {
+    "question": "The Arraignment of Paris was presented by:",
+    "options": ["Lord Chamberlain's Men", "Children of the Chapel Royal", "Admiral’s Men", "Queen’s Men"],
+    "answer": "Children of the Chapel Royal"
+  },
+  {
+    "question": "Who wrote ‘Farewell to Folly’?",
+    "options": ["George Peele", "Thomas Lodge", "Thomas Nashe", "Robert Greene"],
+    "answer": "Robert Greene"
+  },
+  {
+    "question": "Who collaborated with Greene on 'A Looking Glass for London and England'?",
+    "options": ["Christopher Marlowe", "George Peele", "Thomas Lodge", "Thomas Nashe"],
+    "answer": "Thomas Lodge"
+  },
+  {
+    "question": "Who is the main character in 'The Unfortunate Traveller'?",
+    "options": ["Henry Howard", "Cutwolfe", "Jack Wilton", "Geraldine"],
+    "answer": "Jack Wilton"
+  },
+  {
+    "question": "Which of the following is a romance by Thomas Lodge?",
+    "options": ["Rosalynde", "Groats-Worth of Wit", "Pandosto", "Euphues"],
+    "answer": "Rosalynde"
+  },
+  {
+    "question": "Who is the author of 'The Spanish Tragedy'?",
+    "options": ["Ben Jonson", "Thomas Kyd", "Thomas Nashe", "George Peele"],
+    "answer": "Thomas Kyd"
+  },
+  {
+    "question": "Which of the following plays is known for including the first 'play within a play'?",
+    "options": ["Hamlet", "Doctor Faustus", "The Spanish Tragedy", "Everyman"],
+    "answer": "The Spanish Tragedy"
+  },
+  {
+    "question": "What is the full title of 'The Spanish Tragedy'?",
+    "options": [
+      "Hieronimo is Mad Again",
+      "The Tragedy of Bel-Imperia",
+      "Spanish tragedies, containing the lamentable end of Don Horatio and Bel-Imperia",
+      "The Death of Horatio and the Madness of Hieronimo"
+    ],
+    "answer": "Spanish tragedies, containing the lamentable end of Don Horatio and Bel-Imperia"
+  },
+  {
+    "question": "Which lost play is often attributed to Thomas Kyd and considered a precursor to Hamlet?",
+    "options": ["Cornelia", "Edward III", "Ur-Hamlet", "Soliman and Perseda"],
+    "answer": "Ur-Hamlet"
+  },
+  {
+    "question": "Which of the following characters is the ghost that narrates and seeks revenge in 'The Spanish Tragedy'?",
+    "options": ["Don Horatio", "Don Andrea", "Hieronimo", "Balthazar"],
+    "answer": "Don Andrea"
+  },
+  {
+    "question": "Which of the following authors mentioned or quoted from 'The Spanish Tragedy'?",
+    "options": ["T.S. Eliot", "Francis Bacon", "John Milton", "William Blake"],
+    "answer": "T.S. Eliot"
+  },
+  {
+    "question": "Who murders Don Horatio in 'The Spanish Tragedy'?",
+    "options": ["Don Andrea and the King", "Lorenzo and Balthazar", "Hieronimo and Isabella", "Viceroy of Portugal and Lorenzo"],
+    "answer": "Lorenzo and Balthazar"
+  },
+  {
+    "question": "Which character writes a letter in her own blood to reveal the murderers of Horatio?",
+    "options": ["Isabella", "Bel-Imperia", "Cornelia", "Revenge"],
+    "answer": "Bel-Imperia"
+  },
+  {
+    "question": "Which of the following is a known translation work by Thomas Kyd?",
+    "options": ["The Householder’s Philosophy", "Pierce Penniless", "A Fig for Momus", "Anatomy of Absurdity"],
+    "answer": "The Householder’s Philosophy"
+  },
+  {
+    "question": "What does Hieronimo do after killing Lorenzo and Balthazar during the play?",
+    "options": ["Commits suicide by poison", "Bites off his tongue and kills the Duke and himself", "Flees to Portugal", "Is crowned king by the Spanish court"],
+    "answer": "Bites off his tongue and kills the Duke and himself"
+  },
+  {
+    "question": "Who called Edmund Spenser the 'poet's poet'?",
+    "options": ["Charles Lamb", "Dryden", "Ben Jonson", "Alexander Pope"],
+    "answer": "Charles Lamb"
+  },
+  {
+    "question": "What form is used in Spenser's 'Faerie Queene'?",
+    "options": ["Ottava Rima", "Blank Verse", "Spenserian Stanza", "Heroic Couplet"],
+    "answer": "Spenserian Stanza"
+  },
+  {
+    "question": "'Amoretti' is a sequence of how many sonnets?",
+    "options": ["89", "108", "100", "72"],
+    "answer": "89"
+  },
+  {
+    "question": "Which of Spenser’s works is addressed to Elizabeth Boyle and contains 365 lines?",
+    "options": ["Prothalamion", "Amoretti", "Epithalamion", "Mother Hubbard’s Tale"],
+    "answer": "Epithalamion"
+  },
+  {
+    "question": "Who is the central figure in Book I of 'Faerie Queene'?",
+    "options": ["Sir Guyon", "Britomart", "Redcrosse Knight", "Sir Artegall"],
+    "answer": "Redcrosse Knight"
+  },
+  {
+    "question": "Who praised Spenser as 'The embodiment of nobility, purity and sweetness'?",
+    "options": ["Wordsworth", "Milton", "Pope", "Yeats"],
+    "answer": "Wordsworth"
+  },
+  {
+    "question": "'A View of the Present State of Ireland' is written in the form of a:",
+    "options": ["Monologue", "Sonnet", "Elegy", "Dialogue"],
+    "answer": "Dialogue"
+  },
+  {
+    "question": "What was Spenser’s pseudonym in 'The Shepherd’s Calendar'?",
+    "options": ["Calidore", "Immerito", "Clout", "Hobbinol"],
+    "answer": "Immerito"
+  },
+  {
+    "question": "Which poem by Spenser begins with 'Sweet Thames, run softly till I end my song'?",
+    "options": ["Epithalamion", "Amoretti", "Prothalamion", "Mother Hubbard’s Tale"],
+    "answer": "Prothalamion"
+  },
+  {
+    "question": "Which book of 'Faerie Queene' focuses on the virtue of Temperance?",
+    "options": ["Book I", "Book II", "Book IV", "Book VI"],
+    "answer": "Book II"
+  },
+  {
+    "question": "'Artegall' represents which virtue in 'Faerie Queene'?",
+    "options": ["Holiness", "Justice", "Courtesy", "Chastity"],
+    "answer": "Justice"
+  },
+  {
+    "question": "What is the rhyme scheme of a Spenserian sonnet?",
+    "options": ["abba abba cde cde", "abab cdcd efef gg", "abab bcbc cdcd ee", "abab bcbc c"],
+    "answer": "abab bcbc cdcd ee"
+  },
+  {
+    "question": "In which year were the first three books of 'Faerie Queene' published?",
+    "options": ["1596", "1589", "1590", "1594"],
+    "answer": "1590"
+  },
+  {
+    "question": "Which knight in 'Faerie Queene' represents the virtue of Courtesy?",
+    "options": ["Sir Guyon", "Sir Calidore", "Sir Artegall", "Triamond"],
+    "answer": "Sir Calidore"
+  },
+  {
+    "question": "Which poem was written on the twin marriage of the Earl of Worcester’s daughters?",
+    "options": ["Amoretti", "Epithalamion", "Prothalamion", "Astrophel"],
+    "answer": "Prothalamion"
+  },
+  {
+    "question": "'Astrophel' is an elegy on the death of which figure?",
+    "options": ["Walter Raleigh", "Philip Sidney", "Robert Boyle", "Ben Jonson"],
+    "answer": "Philip Sidney"
+  },
+  {
+    "question": "Which figure appears in 'The Shepherd’s Calendar' as a symbol of Spenser?",
+    "options": ["Colin Clout", "Cuddie", "Theonot", "Rosalind"],
+    "answer": "Colin Clout"
+  },
+  {
+    "question": "What does Spenser refer to 'Faerie Queene' as in his letter to Raleigh?",
+    "options": ["A perfect poem", "A historical narrative", "A dark conceit", "An Irish chronicle"],
+    "answer": "A dark conceit"
+  },
+  {
+    "question": "Who said 'Spenser writ no language'?",
+    "options": ["Milton", "Dryden", "Ben Jonson", "Wordsworth"],
+    "answer": "Ben Jonson"
+  },
+  {
+    "question": "'Mother Hubbard’s Tale' resulted in Spenser being removed from:",
+    "options": ["The Irish post", "Cambridge", "Elizabeth’s court", "The Royal Company"],
+    "answer": "Elizabeth’s court"
+  },
+  {
+    "question": "Which stanza form ends with an Alexandrine line?",
+    "options": ["Spenserian", "Shakespearean", "Blank Verse", "Terza Rima"],
+    "answer": "Spenserian"
+  },
+  {
+    "question": "Who is the author of 'Collin Clouts Come Home Again'?",
+    "options": ["Philip Sidney", "John Skelton", "Ben Jonson", "Edmund Spenser"],
+    "answer": "Edmund Spenser"
+  },
+  {
+    "question": "Which book of 'Faerie Queene' deals with the theme of Chastity?",
+    "options": ["Book II", "Book III", "Book IV", "Book V"],
+    "answer": "Book III"
+  },
+  {
+    "question": "What genre is 'The Shepherd’s Calendar'?",
+    "options": ["Epic", "Elegy", "Pastoral", "Satire"],
+    "answer": "Pastoral"
+  },
+  {
+    "question": "'The Ruins of Time' belongs to which collection?",
+    "options": ["Complaint", "Epithalamion", "Amoretti", "Hymns"],
+    "answer": "Complaint"
+  },
+  {
+    "question": "Who was the inspiration behind Sidney's sonnet sequence 'Astrophel and Stella'?",
+    "options": ["Mary Herbert", "Frances Sidney", "Penelope Devereux", "Elizabeth Boyle"],
+    "answer": "Penelope Devereux"
+  },
+  {
+    "question": "What does 'Astrophel and Stella' literally mean?",
+    "options": ["Star and Night", "Lover and Star", "Sun and Moon", "Poet and Muse"],
+    "answer": "Lover and Star"
+  },
+  {
+    "question": "What was the name of Sidney’s sister to whom 'Arcadia' was dedicated?",
+    "options": ["Elizabeth", "Frances", "Mary Herbert", "Anne Clifford"],
+    "answer": "Mary Herbert"
+  },
+  {
+    "question": "Which work by Sidney is considered the first English sonnet sequence?",
+    "options": ["Arcadia", "Defense of Poesie", "Astrophel and Stella", "The Lady of May"],
+    "answer": "Astrophel and Stella"
+  },
+  {
+    "question": "In what year did Philip Sidney die?",
+    "options": ["1586", "1583", "1591", "1595"],
+    "answer": "1586"
+  },
+  {
+    "question": "Who wrote 'Poems on Sir Philip Sidney' in 1591?",
+    "options": ["Ben Jonson", "Edmund Spenser", "Sir Walter Raleigh", "George Gascoigne"],
+    "answer": "Sir Walter Raleigh"
+  },
+  {
+    "question": "Which battle led to the death of Sir Philip Sidney?",
+    "options": ["Battle of Zutphen", "Battle of Agincourt", "Spanish Armada", "Battle of Naseby"],
+    "answer": "Battle of Zutphen"
+  },
+  {
+    "question": "Which pastoral elegy was written by Spenser on Sidney’s death?",
+    "options": ["The Ruins of Time", "Daphnaida", "Astrophel", "Colin Clout"],
+    "answer": "Astrophel"
+  },
+  {
+    "question": "Who edited and published 'The Countess of Pembroke’s Arcadia' after Sidney’s death?",
+    "options": ["Fulke Greville", "Mary Herbert", "John Florio", "Thomas Nashe"],
+    "answer": "Mary Herbert"
+  },
+  {
+    "question": "Which play by Sidney was performed before Queen Elizabeth?",
+    "options": ["Gorboduc", "The Lady of May", "The Countess of Pembroke’s Arcadia", "Astrophel and Stella"],
+    "answer": "The Lady of May"
+  },
+  {
+    "question": "Which work by Sidney was a response to Stephen Gosson’s 'School of Abuse'?",
+    "options": ["The Lady of May", "Defense of Poesie", "Arcadia", "Astrophel and Stella"],
+    "answer": "Defense of Poesie"
+  },
+  {
+    "question": "Which genre best describes 'Arcadia' by Sidney?",
+    "options": ["Masque", "Tragicomedy in prose", "Epic", "Elegy"],
+    "answer": "Tragicomedy in prose"
+  },
+  {
+    "question": "How many sonnets and songs are in 'Astrophel and Stella'?",
+    "options": ["108 sonnets and 11 songs", "89 sonnets and 6 songs", "100 sonnets and 10 songs", "77 sonnets and 13 songs"],
+    "answer": "108 sonnets and 11 songs"
+  },
+  {
+    "question": "Which tragic play did Sidney praise as the only true English tragedy?",
+    "options": ["Gorboduc", "Doctor Faustus", "The Spanish Tragedy", "Tamburlaine"],
+    "answer": "Gorboduc"
+  },
+  {
+    "question": "What poetic theme does Sidney defend in 'Defense of Poesie'?",
+    "options": ["Moral superiority of prose", "Immorality of theatre", "Imitative and didactic power of poetry", "Superiority of rhyme"],
+    "answer": "Imitative and didactic power of poetry"
+  },
+  {
+    "question": "What poetic device does Sidney declare is desirable, but not essential to poetry?",
+    "options": ["Alliteration", "Blank verse", "Rhyme", "Imagery"],
+    "answer": "Rhyme"
+  },
+  {
+    "question": "Which writer was influenced by Sidney’s 'Defense of Poesie' and wrote 'A Defence of Poetry'?",
+    "options": ["Ben Jonson", "Wordsworth", "Shelley", "Coleridge"],
+    "answer": "Shelley"
+  },
+  {
+    "question": "According to Sidney, which genre is the 'most accomplished kind of poetry'?",
+    "options": ["Lyric", "Epic", "Pastoral", "Elegy"],
+    "answer": "Epic"
+  },
+  {
+    "question": "Which image does Sidney use for poets in 'Defense of Poesie'?",
+    "options": ["Prophets of truth", "Architects of imagination", "Makers of new nature", "Keepers of tradition"],
+    "answer": "Makers of new nature"
+  },
+  {
+    "question": "In 'Astrophel and Stella', Stella’s hair is described as:",
+    "options": ["Black", "Brown", "Golden", "Blonde"],
+    "answer": "Blonde"
+  },
+  {
+    "question": "Who is regarded as the 'Father of English Essays'?",
+    "options": ["John Milton", "Francis Bacon", "Thomas Hobbes", "Ben Jonson"],
+    "answer": "Francis Bacon"
+  },
+  {
+    "question": "Which of Bacon’s essays is considered a personal essay?",
+    "options": ["Of Truth", "Of Gardens", "Of Studies", "Of Beauty"],
+    "answer": "Of Gardens"
+  },
+  {
+    "question": "What is the full title of Bacon’s 'Advancement of Learning'?",
+    "options": ["On Learning and Wisdom", "The Art of Knowledge", "Of the Proficience and Advancement of Learning, Divine and Human", "The Great Advancement of Knowledge"],
+    "answer": "Of the Proficience and Advancement of Learning, Divine and Human"
+  },
+  {
+    "question": "Who called Bacon 'The wisest, brightest, meanest of mankind'?",
+    "options": ["Voltaire", "T.S. Eliot", "Alexander Pope", "Ben Jonson"],
+    "answer": "Alexander Pope"
+  },
+  {
+    "question": "Which of Bacon’s works is considered a Utopian vision and features 'Bensalem'?",
+    "options": ["Essays", "The Wisdom of the Ancients", "New Atlantis", "History of Henry VII"],
+    "answer": "New Atlantis"
+  },
+  {
+    "question": "In which year was Bacon knighted?",
+    "options": ["1597", "1603", "1607", "1613"],
+    "answer": "1603"
+  },
+  {
+    "question": "What logical method is Bacon most associated with?",
+    "options": ["Deduction", "Dialectics", "Induction", "Hypothetico-deduction"],
+    "answer": "Induction"
+  },
+  {
+    "question": "Which Latin work of Bacon is considered the second part of 'Instauratio Magna'?",
+    "options": ["Meditationes Sacrae", "Novum Organum", "The Wisdom of the Ancients", "De Augmentis Scientiarum"],
+    "answer": "Novum Organum"
+  },
+  {
+    "question": "Which work of Bacon is considered to have influenced the foundation of the Royal Society?",
+    "options": ["Advancement of Learning", "Essays", "Instauratio Magna", "New Atlantis"],
+    "answer": "New Atlantis"
+  },
+  {
+    "question": "What is the name of the Utopian city in 'New Atlantis'?",
+    "options": ["Atlantica", "Eureka", "Bensalem", "Aurora"],
+    "answer": "Bensalem"
+  },
+  {
+    "question": "Which essay contains the line: 'Studies serve for delight, for ornament and for ability'?",
+    "options": ["Of Truth", "Of Studies", "Of Learning", "Of Wisdom"],
+    "answer": "Of Studies"
+  },
+  {
+    "question": "What are the obstacles to reason, according to Bacon, called?",
+    "options": ["Axioms", "Errors", "Idols", "Fallacies"],
+    "answer": "Idols"
+  },
+  {
+    "question": "Which of the following is NOT an edition year of Bacon’s essays?",
+    "options": ["1595", "1602", "1612", "1625"],
+    "answer": "1602"
+  },
+  {
+    "question": "Bacon’s 'Instauratio Magna' was written in how many parts?",
+    "options": ["3", "5", "6", "7"],
+    "answer": "6"
+  },
+  {
+    "question": "Which essay has the line: 'Some books are to be tasted, others to be swallowed and some few to be chewed and digested'?",
+    "options": ["Of Truth", "Of Studies", "Of Friendship", "Of Learning"],
+    "answer": "Of Studies"
+  },
+  {
+    "question": "Which historical work did Bacon publish in 1622?",
+    "options": ["History of Henry VII", "Annals of Rome", "De Augmentis Scientiarum", "Chronicles of Kings"],
+    "answer": "History of Henry VII"
+  },
+  {
+    "question": "Who parodied Bacon's 'New Atlantis' in 'Gulliver’s Travels'?",
+    "options": ["Jonathan Swift", "Ben Jonson", "Samuel Butler", "Daniel Defoe"],
+    "answer": "Jonathan Swift"
+  },
+  {
+    "question": "Which concept refers to true statements based on natural phenomena, as per Bacon?",
+    "options": ["Conjectures", "Axioms", "Postulates", "Essays"],
+    "answer": "Axioms"
+  },
+  {
+    "question": "Who called Bacon 'Father of Empiricism'?",
+    "options": ["Rousseau", "Voltaire", "Descartes", "Hobbes"],
+    "answer": "Voltaire"
+  },
+  {
+    "question": "Which essay contains the quote: 'Reading maketh a full man, Conference a ready man and writing an exact man'?",
+    "options": ["Of Truth", "Of Learning", "Of Studies", "Of Education"],
+    "answer": "Of Studies"
+  },
+  {
+    "question": "Which treatise by Bacon is concerned with medicine and prolonging life?",
+    "options": ["Meditationes Sacrae", "The Wisdom of the Ancients", "History of Life and Death", "New Atlantis"],
+    "answer": "History of Life and Death"
+  },
+  {
+    "question": "What is the Latin title of 'The Wisdom of the Ancients'?",
+    "options": ["De Vita", "De Scientia", "De Sapientia Veterum", "De Natura Rerum"],
+    "answer": "De Sapientia Veterum"
+  },
+  {
+    "question": "Which philosopher did Bacon famously oppose?",
+    "options": ["Plato", "Socrates", "Aristotle", "Epicurus"],
+    "answer": "Aristotle"
+  },
+  {
+    "question": "Which poetic device is most commonly used in Metaphysical poetry?",
+    "options": ["Alliteration", "Conceit", "Enjambment", "Hyperbole"],
+    "answer": "Conceit"
+  },
+  {
+    "question": "Who coined the phrase 'unification of sensibility' about metaphysical poets?",
+    "options": ["Dr. Johnson", "T.S. Eliot", "Dryden", "Coleridge"],
+    "answer": "T.S. Eliot"
+  },
+  {
+    "question": "Which poet is associated with the line 'Donne affects the metaphysics'?",
+    "options": ["Ben Jonson", "Dryden", "Dr. Johnson", "Milton"],
+    "answer": "Dryden"
+  },
+  {
+    "question": "Who is considered the first to use the term 'metaphysical' in literature?",
+    "options": ["John Donne", "William Drummond", "Dr. Johnson", "Abraham Cowley"],
+    "answer": "William Drummond"
+  },
+  {
+    "question": "Which poem by John Donne uses a compass as a metaphor for love?",
+    "options": ["The Sun Rising", "A Valediction: Forbidding Mourning", "The Good Morrow", "The Canonization"],
+    "answer": "A Valediction: Forbidding Mourning"
+  },
+  {
+    "question": "Who wrote 'Lives of the Most Eminent English Poets' and popularized 'Metaphysical Poets'?",
+    "options": ["Dryden", "T.S. Eliot", "Dr. Johnson", "Wordsworth"],
+    "answer": "Dr. Johnson"
+  },
+  {
+    "question": "Which metaphysical poet authored 'The Pulley' and 'The Collar'?",
+    "options": ["Richard Crashaw", "Andrew Marvell", "George Herbert", "Henry Vaughan"],
+    "answer": "George Herbert"
+  }
+]

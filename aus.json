@@ -1,0 +1,528 @@
+[
+  {
+    "question": "Which novel by David Malouf was shortlisted for the Booker Prize?",
+    "options": ["Johnno", "Ransom", "Remembering Babylon", "The Great World"],
+    "answer": "Remembering Babylon"
+  },
+  {
+    "question": "What is the setting of Malouf's novel 'Remembering Babylon'?",
+    "options": ["Western Front, WWI", "Northern Australia, 1850s", "Brisbane, WWII", "Queensland coast, 1970s"],
+    "answer": "Northern Australia, 1850s"
+  },
+  {
+    "question": "Who is the protagonist of 'Fly Away Peter'?",
+    "options": ["Gemmy Fairley", "Dante", "Tim Saddler", "Ovid"],
+    "answer": "Tim Saddler"
+  },
+  {
+    "question": "Which of the following is Malouf's semi-autobiographical novel?",
+    "options": ["Johnno", "An Imaginary Life", "The Great World", "Ransom"],
+    "answer": "Johnno"
+  },
+  {
+    "question": "Which work by Malouf tells the story of Ovid during his exile?",
+    "options": ["Dream Stuff", "An Imaginary Life", "Every Move You Make", "The Conversations at Curlow Creek"],
+    "answer": "An Imaginary Life"
+  },
+  {
+    "question": "Which novel by Malouf is inspired by Homer’s Iliad and focuses on Books 22–24?",
+    "options": ["Fly Away Peter", "The Great World", "Ransom", "Johnno"],
+    "answer": "Ransom"
+  },
+  {
+    "question": "What award did Malouf win for his novella 'Fly Away Peter'?",
+    "options": ["Commonwealth Writers Prize", "Booker Prize", "The Age Book of the Year", "IMPAC Dublin Award"],
+    "answer": "The Age Book of the Year"
+  },
+  {
+    "question": "Which story collection by Malouf won both The Age Book of the Year and the Queensland Premier Literary Award in 2007?",
+    "options": ["Antipodes", "Every Move You Make", "Dream Stuff", "Untold Tales"],
+    "answer": "Every Move You Make"
+  },
+  {
+    "question": "David Malouf’s libretto 'Baa Baa Black Sheep' is based on the work of which writer?",
+    "options": ["T.S. Eliot", "Rudyard Kipling", "Oscar Wilde", "Virginia Woolf"],
+    "answer": "Rudyard Kipling"
+  },
+  {
+    "question": "Which novel by David Malouf won the Commonwealth Writers Prize and the French Prix Femina Étranger?",
+    "options": ["The Great World", "Johnno", "Ransom", "Fly Away Peter"],
+    "answer": "The Great World"
+  },
+  {
+    "question": "Which of the following is considered Henry Lawson's finest short story?",
+    "options": ["Golden Gully", "The Drover’s Wife", "On the Edge of a Plain", "A Song of the Republic"],
+    "answer": "The Drover’s Wife"
+  },
+  {
+    "question": "Henry Lawson’s writing primarily focused on which theme?",
+    "options": ["Urban decadence", "Romanticism", "Australian Bush life", "Colonial governance"],
+    "answer": "Australian Bush life"
+  },
+  {
+    "question": "Who was Henry Lawson’s mother?",
+    "options": ["Mary Gilmore", "Elizabeth Paterson", "Louisa Lawson", "Clara Paterson"],
+    "answer": "Louisa Lawson"
+  },
+  {
+    "question": "Which Henry Lawson story is regarded as a prime example of the sketch story?",
+    "options": ["Golden Gully", "The Drover’s Wife", "On the Edge of a Plain", "The Wreck of the Derry Castle"],
+    "answer": "On the Edge of a Plain"
+  },
+  {
+    "question": "Lawson's first published poem was:",
+    "options": ["Golden Gully", "A Song of the Republic", "The Wreck of the Derry Castle", "In the Days When the World was Wide"],
+    "answer": "A Song of the Republic"
+  },
+  {
+    "question": "Henry Lawson’s most successful prose collection is:",
+    "options": ["Golden Gully", "In the Days When the World was Wide", "While the Billy Boils", "Sketches of Bush Life"],
+    "answer": "While the Billy Boils"
+  },
+  {
+    "question": "What year did Henry Lawson receive a state funeral in New South Wales?",
+    "options": ["1920", "1922", "1949", "1931"],
+    "answer": "1922"
+  },
+  {
+    "question": "Which poet is known for replying to Lawson’s 'Up the Country' with 'In Defence of the Bush'?",
+    "options": ["Rolf Boldrewood", "Mary Gilmore", "Banjo Paterson", "James Tyson"],
+    "answer": "Banjo Paterson"
+  },
+  {
+    "question": "Which poem by Banjo Paterson is considered the unofficial national anthem of Australia?",
+    "options": ["The Man from Snowy River", "Clancy of the Overflow", "Waltzing Matilda", "Mulga Bill’s Bicycle"],
+    "answer": "Waltzing Matilda"
+  },
+  {
+    "question": "Banjo Paterson served as a war correspondent during which conflict?",
+    "options": ["World War I", "Second Boer War", "Gallipoli Campaign", "Crimean War"],
+    "answer": "Second Boer War"
+  },
+  {
+    "question": "Who was described by Lawson as a 'City Bushman'?",
+    "options": ["Mary Gilmore", "Banjo Paterson", "James Tyson", "Andrew Marvell"],
+    "answer": "Banjo Paterson"
+  },
+  {
+    "question": "Which Banjo Paterson poem ends with the famous line: 'For the bush will never suit you and you will never suit the bush'?",
+    "options": ["The Man from Ironbark", "Saltbush Bill", "In Defence of the Bush", "The Shearer's Colt"],
+    "answer": "In Defence of the Bush"
+  },
+  {
+    "question": "Banjo Paterson’s most famous poetry collection is:",
+    "options": ["Saltbush Bill, J.P.", "Ric Grande’s Last Race", "The Man from Snowy River and Other Verses", "Happy Dispatches"],
+    "answer": "The Man from Snowy River and Other Verses"
+  },
+  {
+    "question": "Who was Lawson’s literary rival and frequent poetic opponent?",
+    "options": ["Mary Gilmore", "A.B. 'Banjo' Paterson", "Adam Lindsay Gordon", "C.J. Dennis"],
+    "answer": "A.B. 'Banjo' Paterson"
+  },
+  {
+    "question": "Which animal is central to the narrative of 'Waltzing Matilda'?",
+    "options": ["Horse", "Dog", "Jumbuck (sheep)", "Kangaroo"],
+    "answer": "Jumbuck (sheep)"
+  },
+  {
+    "question": "What is the title of Paterson’s 1933 autobiographical war correspondence collection?",
+    "options": ["The Animals Noah Forgot", "The Shearer’s Colt", "Happy Dispatches", "Bush Ballads"],
+    "answer": "Happy Dispatches"
+  },
+  {
+    "question": "Who described 'The Man from Snowy River' as 'the best bush ballad since Lindsay Gordon'?",
+    "options": ["Henry Lawson", "Rolf Boldrewood", "Mary Gilmore", "T.S. Eliot"],
+    "answer": "Rolf Boldrewood"
+  },
+  {
+    "question": "Which Paterson poem features a character trying and failing to ride a bicycle?",
+    "options": ["Saltbush Bill", "Mulga Bill’s Bicycle", "The Man from Ironbark", "T.Y.S.O.N."],
+    "answer": "Mulga Bill’s Bicycle"
+  },
+  {
+    "question": "Banjo Paterson’s children's book is titled:",
+    "options": ["The Shearer’s Colt", "The Animals Noah Forgot", "Outback Marriage", "Bushland Rhymes"],
+    "answer": "The Animals Noah Forgot"
+  },
+  {
+    "question": "Lawson’s first poetry collection was titled:",
+    "options": ["While the Billy Boils", "The Drover’s Wife", "In the Days When the World Was Wide", "Songs of the Bush"],
+    "answer": "In the Days When the World Was Wide"
+  },
+  {
+    "question": "Who was the first Australian to win the Nobel Prize in Literature?",
+    "options": ["David Malouf", "Henry Lawson", "Patrick White", "Banjo Paterson"],
+    "answer": "Patrick White"
+  },
+  {
+    "question": "Which Patrick White novel won the inaugural Miles Franklin Literary Award?",
+    "options": ["The Tree of Man", "Voss", "The Aunt’s Story", "Riders in the Chariot"],
+    "answer": "Voss"
+  },
+  {
+    "question": "What is the central character’s profession in 'The Vivisector'?",
+    "options": ["Doctor", "Painter", "Lawyer", "Novelist"],
+    "answer": "Painter"
+  },
+  {
+    "question": "Which novel by Patrick White is based on German explorer Ludwig Leichhardt?",
+    "options": ["The Tree of Man", "Riders in the Chariot", "Voss", "The Aunt’s Story"],
+    "answer": "Voss"
+  },
+  {
+    "question": "Patrick White dedicated 'Happy Valley' to which artist?",
+    "options": ["David Malouf", "Richard Meele", "Roy De Maistre", "Arthur Boyd"],
+    "answer": "Roy De Maistre"
+  },
+  {
+    "question": "Which Patrick White novel tells the story of Theodora Goodman?",
+    "options": ["The Aunt’s Story", "The Tree of Man", "Voss", "Riders in the Chariot"],
+    "answer": "The Aunt’s Story"
+  },
+  {
+    "question": "Which of these novels by Patrick White deals with the Holocaust survivor Mordecai Hinmelfarb?",
+    "options": ["The Eye of the Storm", "Voss", "Riders in the Chariot", "The Tree of Man"],
+    "answer": "Riders in the Chariot"
+  },
+  {
+    "question": "What is the title of Patrick White's autobiography?",
+    "options": ["Memoirs of Many in One", "Flaws in the Glass", "The Hanging Garden", "My Life in Fiction"],
+    "answer": "Flaws in the Glass"
+  },
+  {
+    "question": "Which of the following novels was Patrick White’s last and was published under a pseudonym?",
+    "options": ["Twyborn Affair", "The Eye of the Storm", "Memoirs of Many in One", "The Hanging Garden"],
+    "answer": "Memoirs of Many in One"
+  },
+  {
+    "question": "What style or technique is frequently used in Patrick White’s fiction?",
+    "options": ["Blank verse", "Minimalism", "Stream of consciousness", "Epistolary"],
+    "answer": "Stream of consciousness"
+  },
+  {
+    "question": "Which Patrick White novel includes the characters Waldo and Arthur Brown?",
+    "options": ["The Solid Mandala", "The Aunt’s Story", "The Eye of the Storm", "Voss"],
+    "answer": "The Solid Mandala"
+  },
+  {
+    "question": "What is the main setting of 'The Tree of Man'?",
+    "options": ["The Outback", "Urban Sydney", "London", "Rural Australia over decades"],
+    "answer": "Rural Australia over decades"
+  },
+  {
+    "question": "Which unfinished novel by Patrick White was published posthumously?",
+    "options": ["The Hanging Garden", "The Aunt’s Story", "Happy Valley", "Twyborn Affair"],
+    "answer": "The Hanging Garden"
+  },
+  {
+    "question": "What was the name of the opera based on Patrick White’s novel 'Voss'?",
+    "options": ["Voss: The Opera", "Explorer's Fate", "Voss and Laura", "Wanderer’s Soul"],
+    "answer": "Voss"
+  },
+  {
+    "question": "Who adapted 'Voss' into an opera libretto?",
+    "options": ["Patrick White", "David Malouf", "Thomas Keneally", "Les Murray"],
+    "answer": "David Malouf"
+  },
+  {
+    "question": "Which novel of Patrick White was set in a villa on the French Riviera before WWI?",
+    "options": ["The Tree of Man", "The Twyborn Affair", "Memoirs of Many in One", "Flaws in the Glass"],
+    "answer": "The Twyborn Affair"
+  },
+  {
+    "question": "What is the theme of 'A Fringe of Leaves'?",
+    "options": ["Colonial Australia", "Mythic identity", "Cornish woman’s survival in early Australia", "Painter’s journey"],
+    "answer": "Cornish woman’s survival in early Australia"
+  },
+  {
+    "question": "Who is the main character in 'The Eye of the Storm'?",
+    "options": ["Laura", "Elizabeth Hunter", "Mordecai", "Theodora Goodman"],
+    "answer": "Elizabeth Hunter"
+  },
+  {
+    "question": "Patrick White’s play 'Bread and Butter Women' was first performed in which year?",
+    "options": ["1935", "1947", "1979", "1981"],
+    "answer": "1935"
+  },
+  {
+    "question": "What was Patrick White’s first novel?",
+    "options": ["Happy Valley", "The Tree of Man", "The Aunt’s Story", "Voss"],
+    "answer": "Happy Valley"
+  },
+  {
+    "question": "Which 1978 screenplay was written by Patrick White?",
+    "options": ["The Ham Funeral", "The Night the Prowler", "Big Toys", "Bread and Butter Women"],
+    "answer": "The Night the Prowler"
+  },
+  {
+    "question": "Which Patrick White short story collection was published in 1964?",
+    "options": ["The Cockatoos", "The Burnt Ones", "Three Uneasy Pieces", "Early Fictions"],
+    "answer": "The Burnt Ones"
+  },
+  {
+    "question": "Which short story collection by Patrick White includes novellas and was published in 1974?",
+    "options": ["The Burnt Ones", "Three Uneasy Pieces", "The Cockatoos", "The Hanging Garden"],
+    "answer": "The Cockatoos"
+  },
+  {
+    "question": "In which year did Patrick White win the Nobel Prize?",
+    "options": ["1970", "1973", "1975", "1981"],
+    "answer": "1973"
+  },
+  {
+    "question": "Who is the protagonist in 'The Living and the Dead'?",
+    "options": ["Theodora", "Laura", "The Parker Family", "Set in 1930 London, with multiple characters"],
+    "answer": "Set in 1930 London, with multiple characters"
+  },
+  {
+    "question": "Which pseudonym did Patrick White use for his final novel?",
+    "options": ["John Bayley", "Alex Xenophon Demir Jian Fray", "William Morley", "Thomas K"],
+    "answer": "Alex Xenophon Demir Jian Fray"
+  },
+  {
+    "question": "John Flanagan’s 'Ranger’s Apprentice' series was originally written for:",
+    "options": ["A book contest", "His son", "An educational publisher", "A fantasy magazine"],
+    "answer": "His son"
+  },
+  {
+    "question": "Who is the protagonist of the Ranger’s Apprentice series?",
+    "options": ["Morgarath", "Will", "Halt", "Crowley"],
+    "answer": "Will"
+  },
+  {
+    "question": "Which John Flanagan book won the Australian Book of the Year for Older Children in 2008?",
+    "options": ["Halt’s Peril", "Erak’s Ransom", "The Burning Bridge", "The Icebound Land"],
+    "answer": "Erak’s Ransom"
+  },
+  {
+    "question": "What is the title of John Flanagan’s 2015 prequel book in Ranger’s Apprentice: The Early Years?",
+    "options": ["Oakleaf Bearers", "The Tournament at Horlain", "The Outcasts", "Storm Peak"],
+    "answer": "The Tournament at Horlain"
+  },
+  {
+    "question": "Which novel by Thomas Keneally won the Booker Prize in 1982?",
+    "options": ["Gossip from the Forest", "The Chant of Jimmie Blacksmith", "Schindler’s Ark", "Blood Red, Sister Rose"],
+    "answer": "Schindler’s Ark"
+  },
+  {
+    "question": "Schindler’s Ark was adapted into which Academy Award winning film?",
+    "options": ["The Pianist", "Schindler’s List", "The Holocaust", "Life is Beautiful"],
+    "answer": "Schindler’s List"
+  },
+  {
+    "question": "Which Keneally novel is based on the life of Joan of Arc?",
+    "options": ["Blood Red, Sister Rose", "The Fear", "Act of Grace", "The People’s Train"],
+    "answer": "Blood Red, Sister Rose"
+  },
+  {
+    "question": "Keneally’s novel 'The Chant of Jimmie Blacksmith' is based on:",
+    "options": ["A convict’s diary", "An Aboriginal uprising", "WWII soldier’s memoir", "A migrant’s journey"],
+    "answer": "An Aboriginal uprising"
+  },
+  {
+    "question": "Which was Thomas Keneally’s debut novel?",
+    "options": ["Bring Larks and Heroes", "The Place at Whitton", "The Fear", "The Survivor"],
+    "answer": "The Place at Whitton"
+  },
+  {
+    "question": "What advice led Thomas Keneally to start using his real first name?",
+    "options": ["Advice from a friend", "Publisher’s suggestion", "Religious reason", "Legal obligation"],
+    "answer": "Publisher’s suggestion"
+  },
+  {
+    "question": "Which Keneally novel is about a doubting priest?",
+    "options": ["A Dutiful Daughter", "Three Cheers for the Paraclete", "The Fear", "The Survivor"],
+    "answer": "Three Cheers for the Paraclete"
+  },
+  {
+    "question": "Which novel by Keneally won the Miles Franklin Award in 1967?",
+    "options": ["The Fear", "Bring Larks and Heroes", "Schindler’s Ark", "The People’s Train"],
+    "answer": "Bring Larks and Heroes"
+  },
+  {
+    "question": "What role did Keneally play in the film 'The Devil’s Playground'?",
+    "options": ["Father Marshall", "Abbot Thomas", "Self cameo", "Narrator"],
+    "answer": "Father Marshall"
+  },
+  {
+    "question": "Who was Schindler’s Ark dedicated to?",
+    "options": ["Steven Spielberg", "Oscar Schindler", "Poldek Pfefferberg", "Elie Wiesel"],
+    "answer": "Poldek Pfefferberg"
+  },
+  {
+    "question": "Peter Carey is one of the few writers to win the Booker Prize:",
+    "options": ["Once", "Twice", "Three times", "Never"],
+    "answer": "Twice"
+  },
+  {
+    "question": "Which novel earned Peter Carey his first Booker Prize?",
+    "options": ["Bliss", "Illywhacker", "Oscar and Lucinda", "True History of the Kelly Gang"],
+    "answer": "Oscar and Lucinda"
+  },
+  {
+    "question": "The protagonist of 'Oscar and Lucinda' is:",
+    "options": ["Lucinda Blake", "Oscar Hopkins", "Henry Phipps", "Herbert Badgery"],
+    "answer": "Oscar Hopkins"
+  },
+  {
+    "question": "Which of Carey’s novels is inspired by 'Great Expectations'?",
+    "options": ["Jack Maggs", "Illywhacker", "Amnesia", "The Chemistry of Tears"],
+    "answer": "Jack Maggs"
+  },
+  {
+    "question": "Which Peter Carey novel features the character Harry Joy?",
+    "options": ["Oscar and Lucinda", "Illywhacker", "Bliss", "Parrot and Oliver in America"],
+    "answer": "Bliss"
+  },
+  {
+    "question": "Which novel won Carey his second Booker Prize?",
+    "options": ["Oscar and Lucinda", "Jack Maggs", "True History of the Kelly Gang", "The Tax Inspector"],
+    "answer": "True History of the Kelly Gang"
+  },
+  {
+    "question": "What is the name of the character equivalent to Magwitch in Jack Maggs?",
+    "options": ["Henry Phipps", "Tristan Smith", "Jack Maggs", "Oscar Hopkins"],
+    "answer": "Jack Maggs"
+  },
+  {
+    "question": "In which novel does Carey fictionalize Alexis de Tocqueville’s visit to America?",
+    "options": ["Amnesia", "Parrot and Oliver in America", "The Chemistry of Tears", "Bliss"],
+    "answer": "Parrot and Oliver in America"
+  },
+  {
+    "question": "Which Carey novel was shortlisted for the Booker Prize in 1985?",
+    "options": ["Illywhacker", "Oscar and Lucinda", "Jack Maggs", "My Life as a Fake"],
+    "answer": "Illywhacker"
+  },
+  {
+    "question": "Peter Carey collaborated on the screenplay of which film?",
+    "options": ["Jack Maggs", "Until the End of the World", "The Final Winter", "Bliss"],
+    "answer": "Until the End of the World"
+  },
+  {
+    "question": "Which novel by Carey explores the Australia-America dynamic via fictional nations?",
+    "options": ["The Chemistry of Tears", "The Tax Inspector", "The Unusual Life of Tristan Smith", "Jack Maggs"],
+    "answer": "The Unusual Life of Tristan Smith"
+  },
+  {
+    "question": "Carey declined to meet which British monarch after winning a prize?",
+    "options": ["Queen Victoria", "King Charles III", "Queen Elizabeth II", "King George VI"],
+    "answer": "Queen Elizabeth II"
+  },
+  {
+    "question": "Peter Carey’s ‘Illywhacker’ is considered an example of which style?",
+    "options": ["Magic realism", "Metafiction", "Gothic fiction", "Bildungsroman"],
+    "answer": "Metafiction"
+  },
+  {
+    "question": "Who is the protagonist in Carey’s novel 'True History of the Kelly Gang'?",
+    "options": ["Jack Maggs", "Oscar Hopkins", "Ned Kelly", "Henry Phipps"],
+    "answer": "Ned Kelly"
+  },
+  {
+    "question": "Which Peter Carey novel includes the subtitle: A Wildly Distorted Account?",
+    "options": ["Wrong About Japan", "30 Days in Sydney", "My Life as a Fake", "Jack Maggs"],
+    "answer": "30 Days in Sydney"
+  },
+  {
+    "question": "Which novel by Geraldine Brooks won the Pulitzer Prize for Fiction in 2006?",
+    "options": ["People of the Book", "March", "Year of Wonders", "Caleb’s Crossing"],
+    "answer": "March"
+  },
+  {
+    "question": "Geraldine Brooks worked as a foreign correspondent for which publication?",
+    "options": ["The Guardian", "New York Times", "The Wall Street Journal", "The Washington Post"],
+    "answer": "The Wall Street Journal"
+  },
+  {
+    "question": "Geraldine Brooks' book 'Nine Parts of Desire' is based on:",
+    "options": ["Jewish rituals", "Native American history", "Islamic women in the Middle East", "Biblical characters"],
+    "answer": "Islamic women in the Middle East"
+  },
+  {
+    "question": "Which Geraldine Brooks novel is set during the Bubonic Plague in 1666?",
+    "options": ["Caleb’s Crossing", "Year of Wonders", "March", "People of the Book"],
+    "answer": "Year of Wonders"
+  },
+  {
+    "question": "The protagonist of 'Year of Wonders' is:",
+    "options": ["Louisa May Alcott", "Anna Frith", "Hanna Heath", "Caleb Cheishahteamauk"],
+    "answer": "Anna Frith"
+  },
+  {
+    "question": "‘People of the Book’ by Geraldine Brooks is inspired by:",
+    "options": ["The Dead Sea Scrolls", "The Sarajevo Haggadah", "The Torah", "The Bible"],
+    "answer": "The Sarajevo Haggadah"
+  },
+  {
+    "question": "What is the profession of Hanna Heath in 'People of the Book'?",
+    "options": ["Historian", "Archaeologist", "Book Conservator", "War Correspondent"],
+    "answer": "Book Conservator"
+  },
+  {
+    "question": "Which Geraldine Brooks novel is about a Native American graduate from Harvard?",
+    "options": ["The Secret Chord", "Caleb’s Crossing", "March", "Foreign Correspondence"],
+    "answer": "Caleb’s Crossing"
+  },
+  {
+    "question": "Geraldine Brooks' novel 'The Secret Chord' is based on the life of:",
+    "options": ["Jesus", "King Solomon", "King David", "Prophet Samuel"],
+    "answer": "King David"
+  },
+  {
+    "question": "Which Leonard Cohen song inspired the title of Brooks’ novel 'The Secret Chord'?",
+    "options": ["Suzanne", "Famous Blue Raincoat", "Hallelujah", "Dance Me to the End of Love"],
+    "answer": "Hallelujah"
+  },
+  {
+    "question": "Geraldine Brooks' 'Foreign Correspondence' is a:",
+    "options": ["Novel", "Travelogue", "Memoir", "Historical fiction"],
+    "answer": "Memoir"
+  },
+  {
+    "question": "Paul Jennings is best known for writing:",
+    "options": ["War novels", "Children’s short stories", "Historical fiction", "Detective thrillers"],
+    "answer": "Children’s short stories"
+  },
+  {
+    "question": "What is the title of Paul Jennings’ first book of short stories?",
+    "options": ["Unreal!", "Unbelievable!", "Uncanny!", "Quirky Tails!"],
+    "answer": "Unreal!"
+  },
+  {
+    "question": "Paul Jennings' stories were adapted into which children’s television series?",
+    "options": ["Round the Twist", "Bluey", "Deadly", "Twist and Shout"],
+    "answer": "Round the Twist"
+  },
+  {
+    "question": "Paul Jennings co-wrote the 'Deadly' and 'Wicked' series with:",
+    "options": ["Geraldine Brooks", "Morris Gleitzman", "Andy Griffiths", "Mem Fox"],
+    "answer": "Morris Gleitzman"
+  },
+  {
+    "question": "In which year did Paul Jennings publish 'Unreal!'?",
+    "options": ["1983", "1985", "1988", "1990"],
+    "answer": "1985"
+  },
+  {
+    "question": "Which of the following is NOT written by Paul Jennings?",
+    "options": ["Unseen!", "Tongue Tied", "The Secret Chord", "Uncanny!"],
+    "answer": "The Secret Chord"
+  },
+  {
+    "question": "What genre best describes Jennings’ short stories?",
+    "options": ["Historical realism", "Magical realism", "Quirky fantasy and humor", "Science fiction"],
+    "answer": "Quirky fantasy and humor"
+  },
+  {
+    "question": "Paul Jennings migrated to Australia in which year?",
+    "options": ["1943", "1945", "1949", "1952"],
+    "answer": "1949"
+  },
+  {
+    "question": "Which of these Paul Jennings books was published in 1993?",
+    "options": ["Unseen!", "Undone!", "Unbelievable!", "Uncovered!"],
+    "answer": "Undone!"
+  }
+]
+

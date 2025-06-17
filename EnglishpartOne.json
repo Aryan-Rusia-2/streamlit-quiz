@@ -1,0 +1,837 @@
+[
+  {
+    "question": "Who was Geoffrey Chaucer's patron and brother-in-law by marriage?",
+    "options": ["Edward III", "Richard II", "John of Gaunt", "Henry IV"],
+    "answer": "John of Gaunt"
+  },
+  {
+    "question": "Which poetic form did Chaucer first use in 'The Book of the Duchess'?",
+    "options": ["Heroic Couplet", "Ottava Rima", "Rhyme Royal", "Blank Verse"],
+    "answer": "Ottava Rima"
+  },
+  {
+    "question": "What is the stanza form of Rhyme Royal?",
+    "options": ["ABAB", "AABBCC", "ABAB BCC", "ABBA CDD"],
+    "answer": "ABAB BCC"
+  },
+  {
+    "question": "Who called Chaucer the 'morning star of Renaissance'?",
+    "options": ["Dryden", "Matthew Arnold", "Albert", "Lowes"],
+    "answer": "Albert"
+  },
+  {
+    "question": "Which tale of Chaucer is based on Boccaccio’s 'Teseida'?",
+    "options": ["The Wife of Bath’s Tale", "The Knight’s Tale", "The Pardoner’s Tale", "The Clerk’s Tale"],
+    "answer": "The Knight’s Tale"
+  },
+  {
+    "question": "How many tales did Chaucer plan in 'The Canterbury Tales'?",
+    "options": ["24", "32", "120", "58"],
+    "answer": "120"
+  },
+  {
+    "question": "Who wrote 'The Regiment of Princes' on Chaucer's death?",
+    "options": ["W.J. Long", "Hoccleve", "Langland", "Lydgate"],
+    "answer": "Hoccleve"
+  },
+  {
+    "question": "Which of the following characters is NOT criticized in 'The Canterbury Tales'?",
+    "options": ["Knight", "Wife of Bath", "Parson", "Plowman"],
+    "answer": "Knight"
+  },
+  {
+    "question": "Which tale features the character 'Griselde'?",
+    "options": ["The Clerk’s Tale", "The Merchant’s Tale", "The Pardoner’s Tale", "The Man of Law’s Tale"],
+    "answer": "The Clerk’s Tale"
+  },
+  {
+    "question": "Which of the following tales remains unfinished?",
+    "options": ["The Cook’s Tale", "The Knight’s Tale", "The Merchant’s Tale", "The Reeve’s Tale"],
+    "answer": "The Cook’s Tale"
+  },
+  {
+    "question": "What poetic form is used in 'Troilus and Criseyde'?",
+    "options": ["Heroic Couplet", "Rhyme Royal", "Ottava Rima", "Terza Rima"],
+    "answer": "Rhyme Royal"
+  },
+  {
+    "question": "Which poem by Chaucer is modeled on Dante’s 'Divine Comedy'?",
+    "options": ["The House of Fame", "The Book of the Duchess", "The Parliament of Foules", "Troilus and Criseyde"],
+    "answer": "The House of Fame"
+  },
+  {
+    "question": "Who called Chaucer the 'father of English poetry'?",
+    "options": ["Dryden", "Arnold", "W.J. Long", "G.K. Chesterton"],
+    "answer": "Dryden"
+  },
+  {
+    "question": "Which tale satirizes courtly love through a debate among birds?",
+    "options": ["The Parliament of Foules", "The House of Fame", "The Squire’s Tale", "The Franklin’s Tale"],
+    "answer": "The Parliament of Foules"
+  },
+  {
+    "question": "Which character from 'The Canterbury Tales' is a cloth-maker and has had five husbands?",
+    "options": ["Wife of Bath", "Prioress", "Merchant’s Wife", "Franklin’s Wife"],
+    "answer": "Wife of Bath"
+  },
+  {
+    "question": "Who joins the pilgrims later in the journey in 'The Canterbury Tales'?",
+    "options": ["The Summoner", "The Cook", "The Canon’s Yeoman", "The Friar"],
+    "answer": "The Canon’s Yeoman"
+  },
+  {
+    "question": "In which tale is a knight sent on a quest to find what women want most?",
+    "options": ["The Knight’s Tale", "The Wife of Bath’s Tale", "The Merchant’s Tale", "The Clerk’s Tale"],
+    "answer": "The Wife of Bath’s Tale"
+  },
+  {
+    "question": "Which character is the host of the pilgrimage in 'The Canterbury Tales'?",
+    "options": ["Geoffrey Chaucer", "Harry Bailey", "The Monk", "The Reeve"],
+    "answer": "Harry Bailey"
+  },
+  {
+    "question": "In which tale does a magic ring give a character the ability to talk to birds?",
+    "options": ["The Squire’s Tale", "The Clerk’s Tale", "The Man of Law’s Tale", "The Franklin’s Tale"],
+    "answer": "The Squire’s Tale"
+  },
+  {
+    "question": "Who is Chaucer said to have met on his diplomatic missions?",
+    "options": ["Shakespeare and Marlowe", "Boethius and Cicero", "Petrarch and Boccaccio", "Dante and Virgil"],
+    "answer": "Petrarch and Boccaccio"
+  },
+  {
+    "question": "Who referred to Chaucer as 'Chaucer, well of English undefiled'?",
+    "options": ["Edmund Spenser", "John Dryden", "Arnold", "Chesterton"],
+    "answer": "Edmund Spenser"
+  },
+  {
+    "question": "How many pilgrims are originally mentioned in the General Prologue?",
+    "options": ["29", "30", "32", "27"],
+    "answer": "29"
+  },
+  {
+    "question": "Which character is described as gap-toothed and partially deaf?",
+    "options": ["Prioress", "Wife of Bath", "Summoner", "Cook"],
+    "answer": "Wife of Bath"
+  },
+  {
+    "question": "Who said Chaucer lacked the 'high seriousness' of Dante?",
+    "options": ["Lowes", "Matthew Arnold", "Dryden", "Chesterton"],
+    "answer": "Matthew Arnold"
+  },
+  {
+    "question": "What is the name of the host at the Tabard Inn?",
+    "options": ["Chaucer", "Bailey", "Roger", "Harry Bailey"],
+    "answer": "Harry Bailey"
+  },
+  {
+    "question": "What poetic form did Chaucer use in 'The Legend of Good Women'?",
+    "options": ["Blank Verse", "Rhyme Royal", "Heroic Couplet", "Ottava Rima"],
+    "answer": "Heroic Couplet"
+  },
+  {
+    "question": "Which tale features the characters Palamon and Arcite?",
+    "options": ["The Knight’s Tale", "The Reeve’s Tale", "The Squire’s Tale", "The Pardoner’s Tale"],
+    "answer": "The Knight’s Tale"
+  },
+  {
+    "question": "What is the name of Chaucer's tale parodying bad poetry?",
+    "options": ["Melibee", "Sir Thopas", "Parson’s Tale", "Man of Law’s Tale"],
+    "answer": "Sir Thopas"
+  },
+  {
+    "question": "What did Dryden say Chaucer left the English language as?",
+    "options": ["A dialect", "A masterpiece", "A language", "A fiction"],
+    "answer": "A language"
+  },
+  {
+    "question": "Which tale includes an angel helping Valerian convert to Christianity?",
+    "options": ["Second Nun’s Tale", "Man of Law’s Tale", "Clerk’s Tale", "Franklin’s Tale"],
+    "answer": "Second Nun’s Tale"
+  },
+  {
+    "question": "Who is the author of 'World Literature in Your Fist'?",
+    "options": ["Matthew Arnold", "Dryden", "Not mentioned", "Langland"],
+    "answer": "Not mentioned"
+  },
+  {
+    "question": "Which tale ends with a character named Mauricius becoming emperor?",
+    "options": ["The Clerk’s Tale", "The Man of Law’s Tale", "The Prioress’ Tale", "The Merchant’s Tale"],
+    "answer": "The Man of Law’s Tale"
+  },
+  {
+    "question": "In which tale does a fox flatter a rooster named Chanticleer?",
+    "options": ["The Squire’s Tale", "The Nun’s Priest Tale", "The Cook’s Tale", "The Monk’s Tale"],
+    "answer": "The Nun’s Priest Tale"
+  },
+  {
+    "question": "What is the occupation of the character Huberd?",
+    "options": ["Merchant", "Reeve", "Friar", "Summoner"],
+    "answer": "Friar"
+  },
+  {
+    "question": "Who calls Chaucer 'God’s plenty' and 'rough diamond'?",
+    "options": ["Arnold", "Dryden", "Spenser", "Lowes"],
+    "answer": "Dryden"
+  },
+  {
+    "question": "Which character loved garlic, onions, and strong wine?",
+    "options": ["Summoner", "Reeve", "Friar", "Cook"],
+    "answer": "Summoner"
+  },
+  {
+    "question": "Who is described as the 'morning star of song'?",
+    "options": ["Langland", "Arnold", "Chaucer", "Boccaccio"],
+    "answer": "Chaucer"
+  },
+  {
+    "question": "Who called Chaucer 'the grandfather of English novel'?",
+    "options": ["Dryden", "Chesterton", "Arnold", "Coghill"],
+    "answer": "Chesterton"
+  },
+  {
+    "question": "Which character’s tale is known for satirizing unequal marriages?",
+    "options": ["Franklin", "Wife of Bath", "Merchant", "Pardoner"],
+    "answer": "Merchant"
+  },
+  {
+    "question": "What is the only known work of William Langland?",
+    "options": ["The Complaint of the Black Knight", "The Visions of Piers the Plowman", "Troy Book", "The King's Quair"],
+    "answer": "The Visions of Piers the Plowman"
+  },
+  {
+    "question": "What form is 'Piers the Plowman' written in?",
+    "options": ["Blank verse", "Heroic couplet", "Alliterative verse", "Ottava Rima"],
+    "answer": "Alliterative verse"
+  },
+  {
+    "question": "What is the famous quote from Passus V of 'Piers the Plowman'?",
+    "options": ["Prepare ye the way of the Lord", "Whose right hand is full of gifts", "Love conquers all", "Sing for the love of Christ"],
+    "answer": "Whose right hand is full of gifts"
+  },
+  {
+    "question": "What are the allegorical figures in 'Piers the Plowman'?",
+    "options": ["Truth, Mercy, Justice", "Dowel, Dobet, Dobest", "Faith, Hope, Charity", "Pride, Envy, Greed"],
+    "answer": "Dowel, Dobet, Dobest"
+  },
+  {
+    "question": "What is the opening line of 'Piers the Plowman'?",
+    "options": ["Prepare ye the way of the Lord", "In a somer seson", "Whan that Aprille with his shoures", "Of man’s first disobedience"],
+    "answer": "Prepare ye the way of the Lord"
+  },
+  {
+    "question": "How many deadly sins appear in Langland’s vision?",
+    "options": ["5", "6", "7", "10"],
+    "answer": "7"
+  },
+  {
+    "question": "John Wycliffe is known as the:",
+    "options": ["Father of English Poetry", "Morning Star of Reformation", "Founder of Ballads", "Father of English Renaissance"],
+    "answer": "Morning Star of Reformation"
+  },
+  {
+    "question": "Which language did Wycliffe translate the Bible from?",
+    "options": ["Hebrew", "Greek", "Latin (Vulgate)", "Old English"],
+    "answer": "Latin (Vulgate)"
+  },
+  {
+    "question": "Who were the followers of John Wycliffe called?",
+    "options": ["Reformers", "Heretics", "Lollards", "Monks"],
+    "answer": "Lollards"
+  },
+  {
+    "question": "Which movement opposed corruption in the Church alongside Langland and Wycliffe?",
+    "options": ["Renaissance", "Lollard Movement", "Humanism", "Puritanism"],
+    "answer": "Lollard Movement"
+  },
+  {
+    "question": "What was John Mandeville famous for?",
+    "options": ["Historical poems", "Ballads", "Travel writings", "Philosophy"],
+    "answer": "Travel writings"
+  },
+  {
+    "question": "Which language was the earliest surviving version of Mandeville’s Travels in?",
+    "options": ["Latin", "English", "French", "German"],
+    "answer": "French"
+  },
+  {
+    "question": "Who translated Mandeville’s Travels into English?",
+    "options": ["John Wycliffe", "Jean de Bourgogne", "Langland", "Hoccleve"],
+    "answer": "Jean de Bourgogne"
+  },
+  {
+    "question": "Which poem of Hoccleve is autobiographical?",
+    "options": ["The Complaint", "The Temple of Glass", "The Dialogue", "La Male Regle de Thomas Hoccleve"],
+    "answer": "La Male Regle de Thomas Hoccleve"
+  },
+  {
+    "question": "Who is praised by Hoccleve in 'The Regiment of Princess'?",
+    "options": ["Wycliffe", "Langland", "Chaucer", "Gower"],
+    "answer": "Chaucer"
+  },
+  {
+    "question": "Which French poet did Hoccleve translate?",
+    "options": ["Christine de Pisan", "Jean de Meun", "Guillaume de Machaut", "Villon"],
+    "answer": "Christine de Pisan"
+  },
+  {
+    "question": "Which work of Lydgate is based on Chaucer's 'Book of the Duchess'?",
+    "options": ["The Complaint of the Black Knight", "Troy Book", "Fall of Princes", "The Temple of Glass"],
+    "answer": "The Complaint of the Black Knight"
+  },
+  {
+    "question": "Which of Lydgate’s work is based on Guido delle Colonne’s myth?",
+    "options": ["The Temple of Glass", "Troy Book", "Fall of Princes", "The Story of Thebes"],
+    "answer": "Troy Book"
+  },
+  {
+    "question": "Which 15th century conflict is known as the War of Roses?",
+    "options": ["Lancaster vs York", "Britain vs France", "Rome vs Gaul", "Normans vs Saxons"],
+    "answer": "Lancaster vs York"
+  },
+  {
+    "question": "What symbol represented the House of York?",
+    "options": ["Red Rose", "White Rose", "Lily", "Thistle"],
+    "answer": "White Rose"
+  },
+  {
+    "question": "Who introduced the printing press to England?",
+    "options": ["John Wycliffe", "William Caxton", "Thomas Percy", "Langland"],
+    "answer": "William Caxton"
+  },
+  {
+    "question": "In what year did Caxton introduce printing in England?",
+    "options": ["1382", "1453", "1476", "1485"],
+    "answer": "1476"
+  },
+  {
+    "question": "Who led the Reformation in Europe?",
+    "options": ["Wycliffe", "Martin Luther", "Langland", "Henry VIII"],
+    "answer": "Martin Luther"
+  },
+  {
+    "question": "Who led the English army at Agincourt?",
+    "options": ["Henry IV", "Henry V", "Henry VI", "Edward IV"],
+    "answer": "Henry V"
+  },
+  {
+    "question": "What is 'Everyman'?",
+    "options": ["Epic", "Ballad", "Morality play", "Allegory"],
+    "answer": "Morality play"
+  },
+  {
+    "question": "Who wrote 'Dance of the Seven Deadly Sins'?",
+    "options": ["Dunbar", "Langland", "Gower", "Skelton"],
+    "answer": "Dunbar"
+  },
+  {
+    "question": "What was the first morality play of the 15th century?",
+    "options": ["Everyman", "The Castle of Perseverance", "Piers the Plowman", "The Pardoner's Tale"],
+    "answer": "The Castle of Perseverance"
+  },
+  {
+    "question": "What was James I's poem called?",
+    "options": ["King’s Quair", "The Complaint", "The Temple of Glass", "Thistle and the Rose"],
+    "answer": "King’s Quair"
+  },
+  {
+    "question": "What did W.H. Auden call the 15th century?",
+    "options": ["Golden Age", "Barren Period", "Dark Times", "Age of Revolution"],
+    "answer": "Barren Period"
+  },
+  {
+    "question": "Which battle made Henry V a national hero?",
+    "options": ["Bosworth", "Agincourt", "Tewkesbury", "Hastings"],
+    "answer": "Agincourt"
+  },
+  {
+    "question": "Which genre became prominent in the 15th century?",
+    "options": ["Ballad", "Sonnet", "Novel", "Epic"],
+    "answer": "Ballad"
+  },
+  {
+    "question": "What work was modeled on 'Piers the Plowman' in the Percy Folio?",
+    "options": ["Scottish Field", "Death and Life", "Fall of Princes", "La Male Regle"],
+    "answer": "Death and Life"
+  },
+  {
+    "question": "Who is the author of 'Reliques of Ancient English Poetry'?",
+    "options": ["Thomas Percy", "William Caxton", "Dunbar", "James Halliwell"],
+    "answer": "Thomas Percy"
+  },
+  {
+    "question": "Who composed 'The Thistle and the Rose'?",
+    "options": ["Langland", "James I", "William Dunbar", "John Skelton"],
+    "answer": "William Dunbar"
+  },
+  {
+    "question": "What is the Percy Folio?",
+    "options": ["Ballad collection", "Sermon book", "Royal decree", "Drama"],
+    "answer": "Ballad collection"
+  },
+  {
+    "question": "Who founded the Percy Society?",
+    "options": ["Thomas Percy", "Crofton Croker", "W.H. Auden", "James Halliwell"],
+    "answer": "Crofton Croker"
+  },
+  {
+    "question": "What was the goal of the Percy Society?",
+    "options": ["Promoting reformation", "Publishing old English lyrics", "Printing political texts", "Translating Greek works"],
+    "answer": "Publishing old English lyrics"
+  },
+  {
+    "question": "Who succeeded Henry IV?",
+    "options": ["Henry V", "Edward III", "Richard III", "Edward IV"],
+    "answer": "Henry V"
+  },
+  {
+    "question": "Which French heroine helped turn the tide against England?",
+    "options": ["Christine de Pisan", "Joan of Arc", "Margaret of Anjou", "Cecily Neville"],
+    "answer": "Joan of Arc"
+  },
+  {
+    "question": "Which poet is associated with the phrase 'gospel of work'?",
+    "options": ["Wycliffe", "Langland", "Lydgate", "Gower"],
+    "answer": "Langland"
+  },
+  {
+    "question": "Who wrote 'Le Morte d'Arthur'?",
+    "options": ["William Caxton", "Thomas Malory", "John Skelton", "Stephen Hawes"],
+    "answer": "Thomas Malory"
+  },
+  {
+    "question": "Who published 'Le Morte d'Arthur' in 1485?",
+    "options": ["Wynkyn de Worde", "William Caxton", "John Skelton", "Thomas More"],
+    "answer": "William Caxton"
+  },
+  {
+    "question": "How many books did Caxton divide 'Le Morte d'Arthur' into?",
+    "options": ["8", "10", "21", "12"],
+    "answer": "21"
+  },
+  {
+    "question": "Which of the following is NOT a book in Malory’s 'Le Morte d'Arthur'?",
+    "options": ["The Tale of Sir Gareth", "The Tale of Sir Gawain", "The Book of Sir Tristram", "The Noble Tale of the Sangreal"],
+    "answer": "The Tale of Sir Gawain"
+  },
+  {
+    "question": "Which writer introduced printing to England?",
+    "options": ["William Tyndale", "William Caxton", "John Skelton", "Stephen Hawes"],
+    "answer": "William Caxton"
+  },
+  {
+    "question": "Where did Caxton learn printing?",
+    "options": ["London", "Paris", "Cologne", "Bruges"],
+    "answer": "Cologne"
+  },
+  {
+    "question": "Who succeeded William Caxton in the printing business?",
+    "options": ["Wynkyn de Worde", "John Day", "Thomas Percy", "Stephen Hawes"],
+    "answer": "Wynkyn de Worde"
+  },
+  {
+    "question": "Who translated 'Recuyell of the Historyes of Troy'?",
+    "options": ["Malory", "Caxton", "Chaucer", "Erasmus"],
+    "answer": "Caxton"
+  },
+  {
+    "question": "What was the name of Caxton’s printing press?",
+    "options": ["The Red Rose", "The Red Pale", "The Black Ink", "The White Tower"],
+    "answer": "The Red Pale"
+  },
+  {
+    "question": "Who is considered the first Poet Laureate by universities?",
+    "options": ["Chaucer", "Skelton", "Caxton", "Barclay"],
+    "answer": "Skelton"
+  },
+  {
+    "question": "What verse form did John Skelton pioneer?",
+    "options": ["Heroic Couplet", "Blank Verse", "Skeltonic Verse", "Terza Rima"],
+    "answer": "Skeltonic Verse"
+  },
+  {
+    "question": "Which satirical poem by Skelton targets Cardinal Wolsey?",
+    "options": ["Collyn Clout", "Phyllyp Sparowe", "Speke, Parrot", "Magnificence"],
+    "answer": "Speke, Parrot"
+  },
+  {
+    "question": "Which of the following is a morality play by Skelton?",
+    "options": ["Everyman", "Magnificence", "The Castle of Perseverance", "Mankind"],
+    "answer": "Magnificence"
+  },
+  {
+    "question": "Who wrote 'The Praise of Folly'?",
+    "options": ["Thomas More", "Stephen Hawes", "Erasmus", "Skelton"],
+    "answer": "Erasmus"
+  },
+  {
+    "question": "Who is the narrator in Erasmus’s 'The Praise of Folly'?",
+    "options": ["Erasmus", "Folly", "Wisdom", "Reason"],
+    "answer": "Folly"
+  },
+  {
+    "question": "Which is the most famous work of Stephen Hawes?",
+    "options": ["Example of Virtue", "The Comfort of Lovers", "The Conversion of Swearness", "Passetyme of Pleasure"],
+    "answer": "Passetyme of Pleasure"
+  },
+  {
+    "question": "Who translated and printed 'Example of Virtue'?",
+    "options": ["Caxton", "Wynkyn de Worde", "Tyndale", "Skelton"],
+    "answer": "Wynkyn de Worde"
+  },
+  {
+    "question": "What was the name of the protagonist in Thomas More's 'Utopia'?",
+    "options": ["Hythlodaeus", "Caxton", "More", "Erasmus"],
+    "answer": "Hythlodaeus"
+  },
+  {
+    "question": "What is the opposite of Utopia?",
+    "options": ["Dystopia", "Republic", "Idealism", "Socialism"],
+    "answer": "Dystopia"
+  },
+  {
+    "question": "Who translated 'Utopia' into English in 1551?",
+    "options": ["William Caxton", "Ralph Robinson", "Thomas More", "John Day"],
+    "answer": "Ralph Robinson"
+  },
+  {
+    "question": "Which term refers to elected representatives in Utopia?",
+    "options": ["Traniborus", "Syphograntus", "Bailiffs", "Senators"],
+    "answer": "Syphograntus"
+  },
+  {
+    "question": "Who was known as the 'Captain of the Army of Reformers'?",
+    "options": ["Erasmus", "Wycliffe", "William Tyndale", "Thomas More"],
+    "answer": "William Tyndale"
+  },
+  {
+    "question": "Which of these coined modern English Bible translation in 1526?",
+    "options": ["Tyndale", "Caxton", "Wycliffe", "Barclay"],
+    "answer": "Tyndale"
+  },
+  {
+    "question": "What printing method did Tyndale use?",
+    "options": ["Woodblock", "Movable type", "Lithography", "Copperplate"],
+    "answer": "Movable type"
+  },
+  {
+    "question": "Who was burned in 1536 for heresy?",
+    "options": ["Tyndale", "More", "Skelton", "Hawes"],
+    "answer": "Tyndale"
+  },
+  {
+    "question": "Which satirical poem is a eulogy to a pet bird?",
+    "options": ["Magnificence", "The Book of Philip Sparrow", "Collyn Clout", "Phyllyp Sparowe"],
+    "answer": "Phyllyp Sparowe"
+  },
+  {
+    "question": "Which poet translated 'Narrenschiff' as 'The Ship of Fools'?",
+    "options": ["Hawes", "Skelton", "Barclay", "Tyndale"],
+    "answer": "Barclay"
+  },
+  {
+    "question": "Who wrote the earliest English eclogues?",
+    "options": ["Barclay", "Skelton", "Chaucer", "Erasmus"],
+    "answer": "Barclay"
+  },
+  {
+    "question": "Which poem by Skelton influenced Edmund Spenser?",
+    "options": ["Speke, Parrot", "Collyn Clout", "Phyllyp Sparowe", "Magnificence"],
+    "answer": "Collyn Clout"
+  },
+  {
+    "question": "Which poem celebrates the defeat at the battle of Flodden Field?",
+    "options": ["Speke, Parrot", "Ballade of the Scottysshe Kynge", "Dirge on Edward IV", "Collyn Clout"],
+    "answer": "Ballade of the Scottysshe Kynge"
+  },
+  {
+    "question": "Who edited 'Magnificence' in 1980?",
+    "options": ["Wynkyn de Worde", "Ralph Robinson", "Paula Neuss", "Thomas Percy"],
+    "answer": "Paula Neuss"
+  },
+  {
+    "question": "Which poem by Skelton ridicules Thomas Bilney?",
+    "options": ["Replycacion", "Speke, Parrot", "Why Come Ye nat to Courte?", "Bowge of Court"],
+    "answer": "Replycacion"
+  },
+  {
+    "question": "Which early book by Caxton was a translation from French?",
+    "options": ["History of Troy", "Le Morte d’Arthur", "Boethius", "Ovid’s Metamorphoses"],
+    "answer": "History of Troy"
+  },
+  {
+    "question": "Who translated Ovid’s Metamorphoses into English for the first time?",
+    "options": ["Skelton", "Caxton", "Tyndale", "More"],
+    "answer": "Caxton"
+  },
+  {
+    "question": "Who is known as the 'Architect of the English Language'?",
+    "options": ["Chaucer", "Tyndale", "Skelton", "Caxton"],
+    "answer": "Tyndale"
+  },
+  {
+    "question": "What language did Erasmus write 'Praise of Folly' in?",
+    "options": ["French", "Latin", "English", "Dutch"],
+    "answer": "Latin"
+  },
+  {
+    "question": "Which type of society is depicted in More’s 'Utopia'?",
+    "options": ["Capitalist", "Communist", "Egalitarian", "Feudal"],
+    "answer": "Egalitarian"
+  },
+  {
+    "question": "What does 'Utopia' literally mean?",
+    "options": ["Happy Land", "Perfect Society", "Nowhere Land", "Peaceful Island"],
+    "answer": "Nowhere Land"
+  },
+  {
+    "question": "Who introduced the Petrarchan sonnet into English?",
+    "options": ["Earl of Surrey", "Thomas Wyatt", "Shakespeare", "John Skelton"],
+    "answer": "Thomas Wyatt"
+  },
+  {
+    "question": "Which poetry collection first included Thomas Wyatt’s poems?",
+    "options": ["Songs and Sonnets", "The Faerie Queene", "Tottel’s Miscellany", "The Temple of Glass"],
+    "answer": "Tottel’s Miscellany"
+  },
+  {
+    "question": "What poem by Wyatt begins with 'They flee from me, that sometime did me seek...'?",
+    "options": ["Forget Not Yet", "My Lute Awake", "They Flee from Me", "Whoso List to Hunt"],
+    "answer": "They Flee from Me"
+  },
+  {
+    "question": "What poetic structure did Thomas Wyatt use in his sonnets?",
+    "options": ["abab cdcd efef gg", "abba abba + cdc dcd", "aaaa bbbb cccc dddd", "aabb ccdd eeff gg"],
+    "answer": "abba abba + cdc dcd"
+  },
+  {
+    "question": "Which poet is called the 'father of the drab age' by C.S. Lewis?",
+    "options": ["Surrey", "Wyatt", "Sackville", "Ascham"],
+    "answer": "Wyatt"
+  },
+  {
+    "question": "Who developed the English or Shakespearean sonnet structure?",
+    "options": ["Wyatt", "Chaucer", "Surrey", "Tottel"],
+    "answer": "Surrey"
+  },
+  {
+    "question": "What is the rhyme scheme of a Shakespearean sonnet?",
+    "options": ["abba abba cdc dcd", "abab cdcd efef gg", "aabb ccdd eeff gg", "aaaa bbbb cccc dddd"],
+    "answer": "abab cdcd efef gg"
+  },
+  {
+    "question": "Who was beheaded in 1547 on suspicion of plotting against Edward VI?",
+    "options": ["Thomas More", "Thomas Wyatt", "Henry Howard (Surrey)", "Roger Ascham"],
+    "answer": "Henry Howard (Surrey)"
+  },
+  {
+    "question": "Who co-wrote the first English tragedy 'Gorboduc'?",
+    "options": ["Wyatt and Surrey", "Tyndale and More", "Norton and Sackville", "Ascham and Barclay"],
+    "answer": "Norton and Sackville"
+  },
+  {
+    "question": "What was the alternate title of 'Gorboduc'?",
+    "options": ["Ferrex and Porrex", "Duke of Norfolk", "Utopia", "Faithful Shepherdess"],
+    "answer": "Ferrex and Porrex"
+  },
+  {
+    "question": "Who tutored Queen Elizabeth I in Greek and Latin?",
+    "options": ["Thomas More", "Thomas Sackville", "Roger Ascham", "Francis Beaumont"],
+    "answer": "Roger Ascham"
+  },
+  {
+    "question": "What was the first English book on archery?",
+    "options": ["The Schoolmaster", "Toxophilus", "The Boke of the Courtier", "The Pastime of Pleasure"],
+    "answer": "Toxophilus"
+  },
+  {
+    "question": "What is the genre of Roger Ascham's 'The Schoolmaster'?",
+    "options": ["Allegory", "Drama", "Didactic prose", "Elegy"],
+    "answer": "Didactic prose"
+  },
+  {
+    "question": "Which work by Beaumont and Fletcher is a domestic comedy?",
+    "options": ["The Maid’s Tragedy", "The Scornful Lady", "Faithful Shepherdess", "A King and No King"],
+    "answer": "The Scornful Lady"
+  },
+  {
+    "question": "Which play by Beaumont and Fletcher is about incestuous love that ends happily?",
+    "options": ["A King and No King", "The Maid’s Tragedy", "Faithful Shepherdess", "Cardenio"],
+    "answer": "A King and No King"
+  },
+  {
+    "question": "Who co-authored 'The Two Noble Kinsmen' with Shakespeare?",
+    "options": ["Fletcher", "Beaumont", "Surrey", "Sackville"],
+    "answer": "Fletcher"
+  },
+  {
+    "question": "Who wrote 'The Knight of the Burning Pestle'?",
+    "options": ["Wyatt and Surrey", "Beaumont and Fletcher", "Ascham", "Norton and Sackville"],
+    "answer": "Beaumont and Fletcher"
+  },
+  {
+    "question": "Which play by Fletcher and Beaumont parodies chivalric romance?",
+    "options": ["Cardenio", "Knight of the Burning Pestle", "Faithful Shepherdess", "A King and No King"],
+    "answer": "Knight of the Burning Pestle"
+  },
+  {
+    "question": "What verse form did 'Gorboduc' first introduce in English drama?",
+    "options": ["Heroic couplet", "Blank verse", "Free verse", "Skeltonic verse"],
+    "answer": "Blank verse"
+  },
+  {
+    "question": "Who is the protagonist in Ascham’s 'Toxophilus'?",
+    "options": ["Philologus", "Toxophilus", "Hythlodaeus", "Porrex"],
+    "answer": "Toxophilus"
+  },
+  {
+    "question": "Which Ben Jonson play made him a celebrity?",
+    "options": ["Volpone", "The Alchemist", "Every Man in His Humour", "Epicene"],
+    "answer": "Every Man in His Humour"
+  },
+  {
+    "question": "What character from 'Every Man in His Humour' was played by Shakespeare?",
+    "options": ["Brainworm", "Edward Knowell", "Captain Bobadill", "Mathew"],
+    "answer": "Edward Knowell"
+  },
+  {
+    "question": "Who is the boastful coward soldier in 'Every Man in His Humour'?",
+    "options": ["Kitely", "Captain Bobadill", "Brainworm", "Cob"],
+    "answer": "Captain Bobadill"
+  },
+  {
+    "question": "What epitaph is engraved on Ben Jonson’s grave?",
+    "options": ["Here lies a poet", "O rare Ben Jonson", "Jonson the Comic", "True Humourist"],
+    "answer": "O rare Ben Jonson"
+  },
+  {
+    "question": "What technique of characterization did Ben Jonson popularize?",
+    "options": ["Comedy of Manners", "Tragic Irony", "Comedy of Humours", "Comedy of Errors"],
+    "answer": "Comedy of Humours"
+  },
+  {
+    "question": "In 'Volpone', who is described as the 'Parasite'?",
+    "options": ["Corbaccio", "Mosca", "Corvino", "Voltore"],
+    "answer": "Mosca"
+  },
+  {
+    "question": "What is the meaning of 'Volpone' in Italian?",
+    "options": ["Sly Fox", "Greedy Man", "Wealthy Liar", "Parasite"],
+    "answer": "Sly Fox"
+  },
+  {
+    "question": "Which of the following is NOT a character in 'Volpone'?",
+    "options": ["Celia", "Voltore", "Mosca", "Epicene"],
+    "answer": "Epicene"
+  },
+  {
+    "question": "Who wrote the poem 'Song to Celia'?",
+    "options": ["John Donne", "Shakespeare", "Ben Jonson", "George Herbert"],
+    "answer": "Ben Jonson"
+  },
+  {
+    "question": "What is the opening line of 'Song to Celia'?",
+    "options": ["Love is a smoke made with the fume of sighs", "Drink to me only with thine eyes", "Shall I compare thee to a summer's day", "Gather ye rosebuds while ye may"],
+    "answer": "Drink to me only with thine eyes"
+  },
+  {
+    "question": "Which Ben Jonson play ends with the reveal that the bride Epicene is actually a boy?",
+    "options": ["Epicene", "Volpone", "The Alchemist", "Bartholomew Fair"],
+    "answer": "Epicene"
+  },
+  {
+    "question": "In 'The Alchemist', who is the servant left in charge?",
+    "options": ["Dol Common", "Face", "Subtle", "Dapper"],
+    "answer": "Face"
+  },
+  {
+    "question": "What annual event is the setting of 'Bartholomew Fair'?",
+    "options": ["Christmas", "May Day", "St. Bartholomew's Day", "Harvest Festival"],
+    "answer": "St. Bartholomew's Day"
+  },
+  {
+    "question": "Who were the co-writers of 'Eastward Ho' along with Ben Jonson?",
+    "options": ["Shakespeare and Marlowe", "Marlowe and Greene", "Marston and Chapman", "Dekker and Beaumont"],
+    "answer": "Marston and Chapman"
+  },
+  {
+    "question": "Which work of Jonson’s appeared in folio format in 1616?",
+    "options": ["The Alchemist", "His collected 'Workes'", "Volpone", "Underwood"],
+    "answer": "His collected 'Workes'"
+  },
+  {
+    "question": "What is the central theme of 'Volpone'?",
+    "options": ["Love and betrayal", "Greed and lust", "Revenge", "War and peace"],
+    "answer": "Greed and lust"
+  },
+  {
+    "question": "According to Dryden, how did Ben Jonson compare to Shakespeare?",
+    "options": ["Shakespeare was more learned", "Jonson was more popular", "Jonson was more correct", "Jonson was funnier"],
+    "answer": "Jonson was more correct"
+  },
+  {
+    "question": "What dramatic genre is 'Sejanus His Fall'?",
+    "options": ["Comedy", "Tragedy", "Satire", "Romance"],
+    "answer": "Tragedy"
+  },
+  {
+    "question": "What group of poets admired Jonson and were influenced by him?",
+    "options": ["Cavalier Poets", "Sons of Shakespeare", "Tribe of Ben", "Metaphysical Poets"],
+    "answer": "Tribe of Ben"
+  },
+  {
+    "question": "What literary war did Jonson engage in with Dekker and Marston?",
+    "options": ["War of the Quills", "War of the Verses", "War of the Theatres", "Comic Rivalry"],
+    "answer": "War of the Theatres"
+  },
+  {
+    "question": "Who played the character Captain Bobadill in a performance of 'Every Man in His Humour' in 1845?",
+    "options": ["T.S. Eliot", "Charles Dickens", "Richard Burbage", "William Cartwright"],
+    "answer": "Charles Dickens"
+  },
+  {
+    "question": "Which Ben Jonson tragedy had Shakespeare in its original cast?",
+    "options": ["Sejanus His Fall", "Catiline His Conspiracy", "Volpone", "The Alchemist"],
+    "answer": "Sejanus His Fall"
+  },
+  {
+    "question": "What literary form did Jonson use for court entertainment under King James?",
+    "options": ["Tragedies", "Pastorals", "Masques", "Ballads"],
+    "answer": "Masques"
+  },
+  {
+    "question": "Which masque by Ben Jonson was performed in 1605?",
+    "options": ["The Masque of Queens", "The Masque of Beauty", "The Masque of Blackness", "The Masque of the Red Death"],
+    "answer": "The Masque of Blackness"
+  },
+  {
+    "question": "What is the main plot twist in 'Epicene'?",
+    "options": ["The main character dies", "Epicene is actually a boy", "Everyone becomes silent", "Epicene is a ghost"],
+    "answer": "Epicene is actually a boy"
+  },
+  {
+    "question": "What are the four classical humours used by Jonson in his characterization?",
+    "options": ["Joy, Anger, Sadness, Fear", "Blood, Phlegm, Yellow Bile, Black Bile", "Air, Fire, Water, Earth", "Melody, Rhythm, Harmony, Dissonance"],
+    "answer": "Blood, Phlegm, Yellow Bile, Black Bile"
+  },
+  {
+    "question": "In 'Volpone', which character disinherits his son?",
+    "options": ["Voltore", "Corvino", "Corbaccio", "Mosca"],
+    "answer": "Corbaccio"
+  },
+  {
+    "question": "Who were the 'Sons of Ben'?",
+    "options": ["A royal family", "Jonson’s biological children", "Followers of Jonson’s literary ideals", "Actors trained by Jonson"],
+    "answer": "Followers of Jonson’s literary ideals"
+  },
+  {
+    "question": "Which play includes the character Sir Epicure Mammon?",
+    "options": ["Volpone", "The Alchemist", "Epicene", "Bartholomew Fair"],
+    "answer": "The Alchemist"
+  },
+  {
+    "question": "Who called Jonson 'the most correct poet' in comparison to Shakespeare?",
+    "options": ["T.S. Eliot", "Alexander Pope", "Dryden", "Arnold"],
+    "answer": "Dryden"
+  }
+]
