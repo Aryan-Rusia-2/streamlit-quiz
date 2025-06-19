@@ -1,0 +1,927 @@
+[
+  {
+    "question": "Who was the first writer to use the term 'metaphysics'?",
+    "options": ["John Dryden", "William Drummond", "John Donne", "Samuel Johnson"],
+    "answer": "William Drummond"
+  },
+  {
+    "question": "Who used the term 'Metaphysical School of Poetry' in English literary criticism?",
+    "options": ["John Dryden", "William Drummond", "T. S. Eliot", "Samuel Johnson"],
+    "answer": "Samuel Johnson"
+  },
+  {
+    "question": "What does Dr. Johnson criticize about the Metaphysical poets?",
+    "options": [
+      "They lacked imagination",
+      "They imitated classical poets too closely",
+      "They copied neither nature nor life and only aimed to show learning",
+      "They wrote only for aristocrats"
+    ],
+    "answer": "They copied neither nature nor life and only aimed to show learning"
+  },
+  {
+    "question": "Which poet said, 'Donne must be a great poet but he is not a good writer'?",
+    "options": ["Samuel Johnson", "T. S. Eliot", "John Dryden", "George Herbert"],
+    "answer": "John Dryden"
+  },
+  {
+    "question": "Who wrote the essay 'The Metaphysical Poets'?",
+    "options": ["F. R. Leavis", "Cleanth Brooks", "T. S. Eliot", "I. A. Richards"],
+    "answer": "T. S. Eliot"
+  },
+  {
+    "question": "What literary device is frequently used in Metaphysical poetry?",
+    "options": ["Simile", "Conceit", "Alliteration", "Paradox"],
+    "answer": "Conceit"
+  },
+  {
+    "question": "Which of the following is a well-known example of Metaphysical conceit used by John Donne?",
+    "options": ["A nightingale’s song", "The spinning wheel", "A compass", "A rosebud"],
+    "answer": "A compass"
+  },
+  {
+    "question": "Which of these poets is NOT considered a Metaphysical poet?",
+    "options": ["Henry Vaughan", "Abraham Cowley", "Andrew Marvell", "Edmund Spenser"],
+    "answer": "Edmund Spenser"
+  },
+  {
+    "question": "What theme is most common in Metaphysical poetry?",
+    "options": ["War and heroism", "Nature and pastoral life", "Love and its complexities", "Religious dogma"],
+    "answer": "Love and its complexities"
+  },
+  {
+    "question": "Which statement best defines 'unification of sensibility' as used by T. S. Eliot?",
+    "options": [
+      "Merging of emotional and intellectual experience in poetry",
+      "Strict adherence to classical meter and rhyme",
+      "Romantic imagination in natural settings",
+      "Use of simple language for abstract ideas"
+    ],
+    "answer": "Merging of emotional and intellectual experience in poetry"
+  },
+  {
+    "question": "Who was John Donne's patron for whom he wrote two anniversary poems?",
+    "options": ["Ben Jonson", "Sir Robert Drury", "King James I", "Thomas Carew"],
+    "answer": "Sir Robert Drury"
+  },
+  {
+    "question": "Which position did John Donne hold at St. Paul's Church?",
+    "options": ["Vicar", "Archbishop", "Dean", "Canon"],
+    "answer": "Dean"
+  },
+  {
+    "question": "What was the name of Donne's wife, who died giving birth to their 12th child?",
+    "options": ["Elizabeth Drury", "Lucy Donn", "Anne More", "Lady Bedford"],
+    "answer": "Anne More"
+  },
+  {
+    "question": "Which metaphysical poem compares lovers to the two legs of a compass?",
+    "options": ["The Canonization", "A Nocturnal upon St. Lucy's Day", "The Flea", "A Valediction: Forbidding Mourning"],
+    "answer": "A Valediction: Forbidding Mourning"
+  },
+  {
+    "question": "Who wrote the biography of John Donne?",
+    "options": ["Thomas Carew", "Izaak Walton", "T. S. Eliot", "Ben Jonson"],
+    "answer": "Izaak Walton"
+  },
+  {
+    "question": "What is the famous line from Donne's Holy Sonnet X?",
+    "options": [
+      "'O my America, my new found land'",
+      "'Batter my heart, three person’d God'",
+      "'Death be not proud, though some have called thee'",
+      "'Go and catch a falling star'"
+    ],
+    "answer": "'Death be not proud, though some have called thee'"
+  },
+  {
+    "question": "Which of the following phrases comes from 'Devotions upon Emergent Occasions'?",
+    "options": ["'One short sleep past'", "'No man is an island'", "'Batter my heart'", "'Mark but this flea'"],
+    "answer": "'No man is an island'"
+  },
+  {
+    "question": "Which poem inspired the title of Hemingway’s 'For Whom the Bell Tolls'?",
+    "options": ["Pseudo Martyr", "Holy Sonnets XVII", "Elegy XIX", "The Good-Morrow"],
+    "answer": "Holy Sonnets XVII"
+  },
+  {
+    "question": "Which work by Donne is a defense of suicide using Biblical examples?",
+    "options": ["Pseudo Martyr", "Biathanatos", "Ignatius His Conclave", "The Progress of the Soul"],
+    "answer": "Biathanatos"
+  },
+  {
+    "question": "Which of these is NOT one of John Donne’s elegies?",
+    "options": ["The Anagram", "The Expostulation", "A Valediction of Weeping", "His Parting from Her"],
+    "answer": "A Valediction of Weeping"
+  },
+  {
+    "question": "In which year did Donne become an Anglican priest?",
+    "options": ["1601", "1615", "1621", "1633"],
+    "answer": "1615"
+  },
+  {
+    "question": "Donne’s poem 'The Canonization' argues that...",
+    "options": [
+      "Love is a disease",
+      "Love should be hidden",
+      "Love makes the speaker a saint",
+      "Love is futile"
+    ],
+    "answer": "Love makes the speaker a saint"
+  },
+  {
+    "question": "What poetic style are Donne’s 'Holy Sonnets' mostly written in?",
+    "options": ["Shakespearean", "Spenserian", "Petrarchan", "Blank verse"],
+    "answer": "Petrarchan"
+  },
+  {
+    "question": "Who said 'Donne, for not keeping of accent, deserves hanging'?",
+    "options": ["Ben Jonson", "T. S. Eliot", "Robert Drury", "Thomas Carew"],
+    "answer": "Ben Jonson"
+  },
+  {
+    "question": "Donne’s 'Ignatius His Conclave' satirizes which religious order?",
+    "options": ["Jesuits", "Anglicans", "Calvinists", "Puritans"],
+    "answer": "Jesuits"
+  },
+  {
+    "question": "Which of the following is NOT part of Donne’s 'Songs and Sonnets' collection?",
+    "options": ["The Good Morrow", "The Flea", "A Nocturnal upon St. Lucy’s Day", "Go and Catch a Falling Star"],
+    "answer": "A Nocturnal upon St. Lucy’s Day"
+  },
+  {
+    "question": "Which poem was written before Donne left for continental Europe?",
+    "options": [
+      "A Valediction: Forbidding Mourning",
+      "The Dream",
+      "Break of Day",
+      "The Undertaking"
+    ],
+    "answer": "A Valediction: Forbidding Mourning"
+  },
+  {
+    "question": "What is the structure of a typical Donne Holy Sonnet?",
+    "options": ["Two sestets", "Three quatrains and a couplet", "Two quatrains and a sestet", "Free verse"],
+    "answer": "Two quatrains and a sestet"
+  },
+  {
+    "question": "Which poet wrote an elegy for John Donne?",
+    "options": ["George Herbert", "T. S. Eliot", "Thomas Carew", "Andrew Marvell"],
+    "answer": "Thomas Carew"
+  },
+  {
+    "question": "Donne’s 'A Nocturnal upon St. Lucy’s Day' was written in memory of:",
+    "options": ["His daughter and Countess of Bedford", "His wife", "Elizabeth Drury", "Anne Hathaway"],
+    "answer": "His daughter and Countess of Bedford"
+  },
+  {
+    "question": "In which poem does Donne use the metaphor 'O my America, my new found land'?",
+    "options": ["The Canonization", "To His Mistress Going to Bed", "The Good-Morrow", "The Flea"],
+    "answer": "To His Mistress Going to Bed"
+  },
+  {
+    "question": "Donne’s 'Pseudo-Martyr' argues that:",
+    "options": [
+      "Suicide is biblically justified",
+      "Catholics should take the oath of allegiance",
+      "Love is fleeting",
+      "Faith cannot be reasoned"
+    ],
+    "answer": "Catholics should take the oath of allegiance"
+  },
+  {
+    "question": "Which famous critic acknowledged three strains in Donne’s love poetry?",
+    "options": ["Grierson", "Ben Jonson", "Dryden", "T. S. Eliot"],
+    "answer": "Grierson"
+  },
+  {
+    "question": "Which of these poems reflects on death and salvation with a three-part structure?",
+    "options": [
+      "Holy Sonnets",
+      "Devotions upon Emergent Occasions",
+      "Songs and Sonnets",
+      "Ignatius His Conclave"
+    ],
+    "answer": "Devotions upon Emergent Occasions"
+  },
+  {
+    "question": "Which Donne poem includes the line 'Mark but this flea, and mark in this'?",
+    "options": ["The Flea", "The Good-Morrow", "The Canonization", "Love's Alchemy"],
+    "answer": "The Flea"
+  },
+  {
+    "question": "Which poem of Donne’s shows a deeply cynical attitude toward women’s faithfulness?",
+    "options": ["Go and Catch a Falling Star", "A Fever", "The Sun-rising", "Love’s Exchange"],
+    "answer": "Go and Catch a Falling Star"
+  },
+  {
+    "question": "Which scientific figures are referenced in 'Ignatius His Conclave'?",
+    "options": ["Aristotle and Newton", "Kepler and Galileo", "Descartes and Pascal", "Darwin and Copernicus"],
+    "answer": "Kepler and Galileo"
+  },
+  {
+    "question": "Which of Donne’s poems was written after the death of his wife?",
+    "options": [
+      "The Dream",
+      "The Sun-Rising",
+      "Since she whom I loved hath paid her last debt",
+      "The Legacy"
+    ],
+    "answer": "Since she whom I loved hath paid her last debt"
+  },
+  {
+    "question": "Donne’s 'Satires' include all EXCEPT:",
+    "options": ["Of Religion", "To Sir Nicolas Smyth", "The Sun Rising", "Well; I may now Receive, and Die"],
+    "answer": "The Sun Rising"
+  },
+  {
+    "question": "Which poem features Donne's metaphor of tears compared to wine?",
+    "options": ["Twickenham Garden", "The Dream", "Love’s Growth", "The Dissolution"],
+    "answer": "Twickenham Garden"
+  },
+  {
+    "question": "What is the most famous epic poem written by John Milton?",
+    "options": ["Samson Agonistes", "Paradise Regained", "Lycidas", "Paradise Lost"],
+    "answer": "Paradise Lost"
+  },
+  {
+    "question": "Milton’s 'Aeropagitica' is a defense of what principle?",
+    "options": ["Monarchy", "Divine right", "Free speech and press", "Academic reform"],
+    "answer": "Free speech and press"
+  },
+  {
+    "question": "Who described Milton as 'the greatest English author' in a 1796 biography?",
+    "options": ["William Blake", "John Dryden", "William Hayley", "Samuel Johnson"],
+    "answer": "William Hayley"
+  },
+  {
+    "question": "What term did John Dryden use to describe Milton?",
+    "options": ["Poet of Nature", "Poet of Harmony", "Poet of Sublime", "Poet of Romance"],
+    "answer": "Poet of Sublime"
+  },
+  {
+    "question": "Which of Milton's works was influenced by Ben Jonson's masques?",
+    "options": ["Paradise Lost", "Arcades and Comus", "Lycidas", "Il Penseroso"],
+    "answer": "Arcades and Comus"
+  },
+  {
+    "question": "Which poem did Milton write on the death of Edward King?",
+    "options": ["Lycidas", "Comus", "On the Morning of Christ’s Nativity", "Il Penseroso"],
+    "answer": "Lycidas"
+  },
+  {
+    "question": "What genre is Milton's 'Samson Agonistes'?",
+    "options": ["Epic", "Masque", "Tragedy", "Sermon"],
+    "answer": "Tragedy"
+  },
+  {
+    "question": "Which of Milton's sonnets deals with his blindness?",
+    "options": ["On His Blindness", "On Time", "The Passion", "To Mr. Cyriack Skinner"],
+    "answer": "On His Blindness"
+  },
+  {
+    "question": "What are L’Allegro and Il Penseroso about?",
+    "options": ["Religion and politics", "Happiness and melancholy", "Time and space", "Sin and redemption"],
+    "answer": "Happiness and melancholy"
+  },
+  {
+    "question": "What is the structure of Milton’s sonnets?",
+    "options": ["Shakespearean", "Spenserian", "Petrarchan", "Free verse"],
+    "answer": "Petrarchan"
+  },
+  {
+    "question": "Which musical composer worked on Milton’s 'Comus'?",
+    "options": ["Henry Lawes", "Handel", "Purcell", "Dowland"],
+    "answer": "Henry Lawes"
+  },
+  {
+    "question": "How many books does the 1674 edition of Paradise Lost contain?",
+    "options": ["10", "11", "12", "14"],
+    "answer": "12"
+  },
+  {
+    "question": "What is the central theme of 'Paradise Lost'?",
+    "options": ["Nature’s beauty", "Human love", "Justifying the ways of God to man", "Philosophy"],
+    "answer": "Justifying the ways of God to man"
+  },
+  {
+    "question": "Who guards the gates of Hell in 'Paradise Lost'?",
+    "options": ["Michael and Raphael", "Sin and Death", "Beelzebub and Moloch", "Satan and Belial"],
+    "answer": "Sin and Death"
+  },
+  {
+    "question": "What is the name of the great temple built in Hell in Paradise Lost?",
+    "options": ["Babylon", "Pandemonium", "Inferno", "Tartarus"],
+    "answer": "Pandemonium"
+  },
+  {
+    "question": "In Paradise Lost, Satan transforms into which creature to deceive Eve?",
+    "options": ["Cherub", "Toad", "Serpent", "Beast"],
+    "answer": "Serpent"
+  },
+  {
+    "question": "Who warns Adam and Eve about Satan in Paradise Lost?",
+    "options": ["Gabriel", "Michael", "Raphael", "Uriel"],
+    "answer": "Raphael"
+  },
+  {
+    "question": "Who is the first man shown to commit murder in Milton's vision to Adam?",
+    "options": ["Cain", "Abel", "Nimrod", "Shem"],
+    "answer": "Cain"
+  },
+  {
+    "question": "What book by Milton outlines his support for polygamy?",
+    "options": ["De Doctrina Christiana", "Of Divorce", "Eikonoklastes", "The Tenure of Kings"],
+    "answer": "De Doctrina Christiana"
+  },
+  {
+    "question": "Which prose work of Milton is seen as influencing the U.S. Constitution?",
+    "options": ["The Tenure of Kings", "Aeropagitica", "Of Education", "De Doctrina Christiana"],
+    "answer": "Aeropagitica"
+  },
+  {
+    "question": "Which work of Milton opens with the line 'Milton! Thou should’st be living at this hour' as a tribute?",
+    "options": ["London, 1802 by Wordsworth", "The Prelude", "Milton: A Poem", "Biographia Literaria"],
+    "answer": "London, 1802 by Wordsworth"
+  },
+  {
+    "question": "In 'Paradise Regained', what is Jesus tempted with first?",
+    "options": ["Power", "Food", "Women", "Music"],
+    "answer": "Food"
+  },
+  {
+    "question": "In Paradise Lost, what city does Satan see from the mountain and reject?",
+    "options": ["Babylon", "Jerusalem", "Rome", "Athens"],
+    "answer": "Rome"
+  },
+  {
+    "question": "Who described Milton's style as the 'Grand Style'?",
+    "options": ["Matthew Arnold", "Dryden", "Tennyson", "Hazlitt"],
+    "answer": "Matthew Arnold"
+  },
+  {
+    "question": "What are the two contrasting themes in L’Allegro and Il Penseroso?",
+    "options": ["Love and Hate", "Light and Dark", "Joy and Melancholy", "Faith and Doubt"],
+    "answer": "Joy and Melancholy"
+  },
+  {
+    "question": "Who said, 'Milton was a true poet and of the devil’s party without knowing it'?",
+    "options": ["William Wordsworth", "William Hazlitt", "William Blake", "John Dryden"],
+    "answer": "William Blake"
+  },
+  {
+    "question": "What poetic meter is 'Lycidas' written in?",
+    "options": ["Iambic pentameter", "Blank verse", "Irregular meter and rhyme", "Free verse"],
+    "answer": "Irregular meter and rhyme"
+  },
+  {
+    "question": "In Paradise Lost, who says 'Better to reign in Hell than serve in Heaven'?",
+    "options": ["Beelzebub", "God", "Satan", "Michael"],
+    "answer": "Satan"
+  },
+  {
+    "question": "Which of Milton’s works was published posthumously in 1823?",
+    "options": ["De Doctrina Christiana", "Samson Agonistes", "Comus", "Lycidas"],
+    "answer": "De Doctrina Christiana"
+  },
+  {
+    "question": "Which author modeled his epic 'The Prelude' on Milton’s 'Paradise Lost'?",
+    "options": ["Keats", "Shelley", "Wordsworth", "Blake"],
+    "answer": "Wordsworth"
+  },
+  {
+    "question": "Which event marked the beginning of the Restoration Period in 1660?",
+    "options": ["Glorious Revolution", "Coronation of William III", "Restoration of Charles II", "Union of England and Scotland"],
+    "answer": "Restoration of Charles II"
+  },
+  {
+    "question": "What is the name of the public holiday celebrated on 29 May 1660?",
+    "options": ["Royal Restoration Day", "Oak Apple Day", "Crown Day", "King's Return Day"],
+    "answer": "Oak Apple Day"
+  },
+  {
+    "question": "Who led the Venner Rebellion in 1661?",
+    "options": ["Titus Oates", "Thomas Venner", "William Davenant", "Charles II"],
+    "answer": "Thomas Venner"
+  },
+  {
+    "question": "Which monarch was overthrown in 1688?",
+    "options": ["Charles II", "James II", "George I", "William III"],
+    "answer": "James II"
+  },
+  {
+    "question": "Who became monarchs after the Glorious Revolution of 1688?",
+    "options": ["Charles II and Anne", "James II and Mary", "William III and Mary", "George I and Sophia"],
+    "answer": "William III and Mary"
+  },
+  {
+    "question": "Which writer is known for attempting the first Restoration epic?",
+    "options": ["John Dryden", "George Etherege", "Sir William Davenant", "William Congreve"],
+    "answer": "Sir William Davenant"
+  },
+  {
+    "question": "What is the significance of Margaret Hughes in Restoration theatre?",
+    "options": ["First female playwright", "First woman to direct a play", "First woman to perform on English stage", "First female theatre manager"],
+    "answer": "First woman to perform on English stage"
+  },
+  {
+    "question": "What was the 'Popish Plot'?",
+    "options": ["A Protestant revolt", "A failed Catholic rebellion", "A fictitious Catholic conspiracy invented by Titus Oates", "A royal scandal"],
+    "answer": "A fictitious Catholic conspiracy invented by Titus Oates"
+  },
+  {
+    "question": "Which act in 1707 led to the formation of the United Kingdom?",
+    "options": ["Act of Settlement", "Treaty of Windsor", "Union of Act", "British Constitution Act"],
+    "answer": "Union of Act"
+  },
+  {
+    "question": "Who granted royal patents to Thomas Killigrew and William Davenant?",
+    "options": ["William III", "George I", "James II", "Charles II"],
+    "answer": "Charles II"
+  },
+  {
+    "question": "Which of the following was William Congreve’s only tragedy?",
+    "options": ["The Way of the World", "Love for Love", "The Mourning Bride", "The Double Dealer"],
+    "answer": "The Mourning Bride"
+  },
+  {
+    "question": "What is the famous quote from 'The Mourning Bride'?",
+    "options": [
+      "One's cruelty is one's power",
+      "O fie, miss, you must not kiss and tell",
+      "Music has charms to soothe a savage breast",
+      "To be, or not to be"
+    ],
+    "answer": "Music has charms to soothe a savage breast"
+  },
+  {
+    "question": "Who criticized the English stage prompting Congreve's reply?",
+    "options": ["John Dryden", "Jeremy Collier", "Alexander Pope", "Samuel Johnson"],
+    "answer": "Jeremy Collier"
+  },
+  {
+    "question": "Which play features the character Heartwell, the old bachelor?",
+    "options": ["The Mourning Bride", "Love for Love", "The Double Dealer", "The Old Bachelor"],
+    "answer": "The Old Bachelor"
+  },
+  {
+    "question": "What is the name of Congreve’s only novel?",
+    "options": ["Love and Duty", "Incognita", "Love for Love", "Epistle to Lord Halifax"],
+    "answer": "Incognita"
+  },
+  {
+    "question": "Who is the male servant that disguises as Sir Rowland in 'The Way of the World'?",
+    "options": ["Fainall", "Waitwell", "Witwoud", "Petulant"],
+    "answer": "Waitwell"
+  },
+  {
+    "question": "Which play ends with Angelica tearing the bond and declaring her love for Valentine?",
+    "options": ["The Way of the World", "Love for Love", "The Old Bachelor", "The Double Dealer"],
+    "answer": "Love for Love"
+  },
+  {
+    "question": "What club was Congreve a member of?",
+    "options": ["The Scriblerus Club", "The Kit-Kat Club", "The Hellfire Club", "The Literary Club"],
+    "answer": "The Kit-Kat Club"
+  },
+  {
+    "question": "What genre did William Congreve specialize in?",
+    "options": ["Pastoral Poetry", "Blank Verse Tragedy", "Comedy of Manners", "Historical Epic"],
+    "answer": "Comedy of Manners"
+  },
+  {
+    "question": "Which of Congreve’s plays involves a scheme to trick Lady Wishfort using a false marriage proposal?",
+    "options": ["The Double Dealer", "Love for Love", "The Mourning Bride", "The Way of the World"],
+    "answer": "The Way of the World"
+  },
+  {
+    "question": "In which play is the quote 'Heaven has no rage like love to hatred turned, nor hell a fury like a woman scorned' found?",
+    "options": ["The Way of the World", "Love for Love", "The Mourning Bride", "The Double Dealer"],
+    "answer": "The Mourning Bride"
+  },
+  {
+    "question": "Who is Millament’s aunt in 'The Way of the World'?",
+    "options": ["Mrs. Fainall", "Lady Plyant", "Lady Wishfort", "Zara"],
+    "answer": "Lady Wishfort"
+  },
+  {
+    "question": "Which character in 'The Double Dealer' is a double-crossing friend?",
+    "options": ["Mellefont", "Maskwell", "Sir Paul", "Lord Touchwood"],
+    "answer": "Maskwell"
+  },
+  {
+    "question": "What happens to Maskwell’s plan at the end of 'The Double Dealer'?",
+    "options": ["He marries Cynthia", "He becomes rich", "His plan is foiled", "He kills Lord Touchwood"],
+    "answer": "His plan is foiled"
+  },
+  {
+    "question": "Which play features Valentine pretending to be mad?",
+    "options": ["The Old Bachelor", "Love for Love", "The Double Dealer", "The Way of the World"],
+    "answer": "Love for Love"
+  },
+  {
+    "question": "Who said, “One’s cruelty is one’s power…” in 'The Way of the World'?",
+    "options": ["Millament", "Mirabell", "Mrs. Marwood", "Lady Wishfort"],
+    "answer": "Millament"
+  },
+  {
+    "question": "In 'The Way of the World', who is Sir Wilfull Witwoud?",
+    "options": ["Millament's suitor", "Lady Wishfort’s nephew", "Mirabell’s uncle", "Angelica’s cousin"],
+    "answer": "Lady Wishfort’s nephew"
+  },
+  {
+    "question": "In which year was 'The Way of the World' published?",
+    "options": ["1693", "1695", "1697", "1700"],
+    "answer": "1700"
+  },
+  {
+    "question": "Who secretly marries Alphonso in 'The Mourning Bride'?",
+    "options": ["Queen Zara", "Lady Plyant", "Almeria", "Millament"],
+    "answer": "Almeria"
+  },
+  {
+    "question": "What incident led to Congreve’s death in 1729?",
+    "options": ["A war injury", "A duel", "A carriage accident", "A fire"],
+    "answer": "A carriage accident"
+  },
+  {
+    "question": "Where is William Congreve buried?",
+    "options": ["St. Paul's Cathedral", "Westminster Abbey", "Poet’s Corner", "Canterbury Cathedral"],
+    "answer": "Poet’s Corner"
+  },
+  {
+    "question": "Who was Congreve’s lifelong friend from Kilkenny College?",
+    "options": ["Alexander Pope", "John Dryden", "Jonathan Swift", "Jeremy Collier"],
+    "answer": "Jonathan Swift"
+  },
+  {
+    "question": "Which play of Congreve includes the character Sir Joseph Wittol?",
+    "options": ["The Double Dealer", "The Old Bachelor", "Love for Love", "The Way of the World"],
+    "answer": "The Old Bachelor"
+  },
+  {
+    "question": "What does Mirabell use to restore Mrs. Fainall’s property?",
+    "options": ["A deed of trust", "A marriage certificate", "A legal contract signed before her marriage", "A bribe to Fainall"],
+    "answer": "A legal contract signed before her marriage"
+  },
+  {
+    "question": "Which character in 'The Way of the World' is having an affair with Fainall?",
+    "options": ["Mrs. Marwood", "Foible", "Mrs. Fainall", "Lady Wishfort"],
+    "answer": "Mrs. Marwood"
+  },
+  {
+    "question": "Which work is John Bunyan best remembered for?",
+    "options": ["The Holy War", "Grace Abounding", "The Pilgrim’s Progress", "The Life and Death of Mr. Badman"],
+    "answer": "The Pilgrim’s Progress"
+  },
+  {
+    "question": "What kind of work is 'The Pilgrim’s Progress'?",
+    "options": ["Historical fiction", "Christian allegory", "Romantic satire", "Philosophical treatise"],
+    "answer": "Christian allegory"
+  },
+  {
+    "question": "What was John Bunyan’s profession before becoming a preacher?",
+    "options": ["Baker", "Tinker", "Blacksmith", "Carpenter"],
+    "answer": "Tinker"
+  },
+  {
+    "question": "Where did Bunyan write most of his works, including 'Grace Abounding'?",
+    "options": ["In exile", "At university", "In jail", "While traveling"],
+    "answer": "In jail"
+  },
+  {
+    "question": "What is the name of the spiritual guide in 'The Pilgrim’s Progress'?",
+    "options": ["Interpreter", "Evangelist", "Hopeful", "Faithful"],
+    "answer": "Evangelist"
+  },
+  {
+    "question": "What is the full title of 'The Pilgrim’s Progress'?",
+    "options": [
+      "The Pilgrim’s Progress from This World to That which is to Come Delivered under the Similitude of a Dream",
+      "The Story of Christian’s Journey to Salvation",
+      "The Celestial Journey of Faithful",
+      "Travels of a Christian Soul to the Holy Land"
+    ],
+    "answer": "The Pilgrim’s Progress from This World to That which is to Come Delivered under the Similitude of a Dream"
+  },
+  {
+    "question": "In 'The Pilgrim’s Progress', who is Christian’s companion after Faithful dies?",
+    "options": ["Hopeful", "Talkative", "Evangelist", "By-Ends"],
+    "answer": "Hopeful"
+  },
+  {
+    "question": "What is the significance of the ‘Slough of Despond’ in 'The Pilgrim’s Progress'?",
+    "options": ["A place of healing", "A swamp of despair and sin", "A heavenly resting place", "A city of knowledge"],
+    "answer": "A swamp of despair and sin"
+  },
+  {
+    "question": "Which character uses religion for worldly gain in 'The Pilgrim’s Progress'?",
+    "options": ["Faithful", "By-Ends", "Hopeful", "Ignorance"],
+    "answer": "By-Ends"
+  },
+  {
+    "question": "Where does Christian fight Apollyon?",
+    "options": ["Hill Difficulty", "Valley of Humiliation", "Wicket Gate", "House Beautiful"],
+    "answer": "Valley of Humiliation"
+  },
+  {
+    "question": "What is the final destination in 'The Pilgrim’s Progress'?",
+    "options": ["City of Destruction", "Land of Beulah", "The Celestial City", "Interpreter's House"],
+    "answer": "The Celestial City"
+  },
+  {
+    "question": "Who accompanies Christiana in Part II of 'The Pilgrim’s Progress'?",
+    "options": ["Valiant-for-Truth", "Mercy", "Hopeful", "Great Heart"],
+    "answer": "Mercy"
+  },
+  {
+    "question": "What is the main format of 'The Life and Death of Mr. Badman'?",
+    "options": ["Narrative monologue", "Epistolary", "Allegorical dream", "Familiar dialogue"],
+    "answer": "Familiar dialogue"
+  },
+  {
+    "question": "What is the name of Christian's hometown?",
+    "options": ["City of Salvation", "City of Sin", "City of Destruction", "Celestial City"],
+    "answer": "City of Destruction"
+  },
+  {
+    "question": "What place symbolizes earthly temptations in 'The Pilgrim’s Progress'?",
+    "options": ["The Celestial City", "Interpreter's House", "Vanity Fair", "Valley of Humiliation"],
+    "answer": "Vanity Fair"
+  },
+  {
+    "question": "Which of the following is NOT a book written by Bunyan?",
+    "options": ["The Jerusalem Sinner Saved", "The Pilgrim’s Regress", "The Holy War", "Grace Abounding"],
+    "answer": "The Pilgrim’s Regress"
+  },
+  {
+    "question": "What river must be crossed to enter the Celestial City?",
+    "options": ["River Jordan", "River of Life", "River of Death", "A river without a bridge"],
+    "answer": "A river without a bridge"
+  },
+  {
+    "question": "What ailment led to Bunyan's death?",
+    "options": ["Tuberculosis", "Fever after journey", "Plague", "Wound infection"],
+    "answer": "Fever after journey"
+  },
+  {
+    "question": "In 'The Pilgrim’s Progress', what does Christian lose and later recover?",
+    "options": ["His sword", "His faith", "His certificate", "His burden"],
+    "answer": "His certificate"
+  },
+  {
+    "question": "Who is the narrator of 'The Pilgrim’s Progress'?",
+    "options": ["Christian", "Faithful", "John Bunyan", "Interpreter"],
+    "answer": "John Bunyan"
+  },
+  {
+    "question": "What is considered George Etherege’s best comedy of manners?",
+    "options": ["She Would if She Could", "The Comical Revenge", "The Man of Mode", "The Plain Dealer"],
+    "answer": "The Man of Mode"
+  },
+  {
+    "question": "Which play by George Etherege includes the character Dorimant?",
+    "options": ["The Comical Revenge", "She Would if She Could", "The Man of Mode", "The Rover"],
+    "answer": "The Man of Mode"
+  },
+  {
+    "question": "Aphra Behn was famously remembered as which spy code name?",
+    "options": ["Agent 400", "Agent 160", "Agent 007", "Agent B"],
+    "answer": "Agent 160"
+  },
+  {
+    "question": "Which of the following works was written by Aphra Behn?",
+    "options": ["The Plain Dealer", "Oroonoko", "The Relapse", "The Country Wife"],
+    "answer": "Oroonoko"
+  },
+  {
+    "question": "What genre is 'Oroonoko' best categorized as?",
+    "options": ["Satirical comedy", "Short prose fiction", "Tragedy", "Historical account"],
+    "answer": "Short prose fiction"
+  },
+  {
+    "question": "What are the Christian names of Oroonoko and Imoinda after they are enslaved?",
+    "options": ["Caesar and Julia", "Adam and Eve", "Caesar and Clemene", "John and Mary"],
+    "answer": "Caesar and Clemene"
+  },
+  {
+    "question": "Who is the protagonist of 'The Country Wife'?",
+    "options": ["Sir Fopling Flutter", "Captain Manly", "Harry Horner", "Dorimant"],
+    "answer": "Harry Horner"
+  },
+  {
+    "question": "Why was 'The Country Wife' banned between 1753–1924?",
+    "options": ["Religious themes", "Anti-monarchy plot", "Sexual explicitness", "Political satire"],
+    "answer": "Sexual explicitness"
+  },
+  {
+    "question": "Which play by Wycherley was based on Moliere’s 'Le Misanthrope'?",
+    "options": ["The Country Wife", "The Plain Dealer", "Love in a Wood", "The Gentleman Dancing Master"],
+    "answer": "The Plain Dealer"
+  },
+  {
+    "question": "What is the name of the sailor protagonist in 'The Plain Dealer'?",
+    "options": ["Sir Fopling Flutter", "Captain Manly", "Harry Horner", "Dorimant"],
+    "answer": "Captain Manly"
+  },
+  {
+    "question": "Who exposed Horner’s lie in 'The Country Wife'?",
+    "options": ["Lady Fidget", "Mrs. Squeamish", "Margery Pinchwife", "Olivia"],
+    "answer": "Margery Pinchwife"
+  },
+  {
+    "question": "Who wrote 'The Relapse' and 'The Provoked Wife'?",
+    "options": ["William Wycherley", "Aphra Behn", "John Vanbrugh", "George Etherege"],
+    "answer": "John Vanbrugh"
+  },
+  {
+    "question": "What did Samuel Pepys famously write?",
+    "options": ["The Relapse", "A Journey to London", "Diary", "Love in a Wood"],
+    "answer": "Diary"
+  },
+  {
+    "question": "Why did Samuel Pepys stop writing his diary?",
+    "options": ["Arrested", "Death", "Blindness", "Political pressure"],
+    "answer": "Blindness"
+  },
+  {
+    "question": "Where is Aphra Behn buried?",
+    "options": ["Poet's Corner", "St. Paul's Cathedral", "Westminster Abbey", "East Cloister"],
+    "answer": "East Cloister"
+  },
+  {
+    "question": "What is the setting of 'Love in a Wood' by Wycherley?",
+    "options": ["St. James Park", "City of London", "Surinam", "Antwerp"],
+    "answer": "St. James Park"
+  },
+  {
+    "question": "Who accompanied Christiana in Part II of 'The Pilgrim’s Progress'?",
+    "options": ["Faithful", "Evangelist", "Mercy", "Hopeful"],
+    "answer": "Mercy"
+  },
+  {
+    "question": "What is the name of the rich widow Wycherley secretly married?",
+    "options": ["Imoinda", "Margery", "Countess of Drogheda", "Lady Fidget"],
+    "answer": "Countess of Drogheda"
+  },
+  {
+    "question": "Which work by Aphra Behn features the protagonist Hellena?",
+    "options": ["The Dutch Lover", "The Rover", "Abdelazer", "The Roundheads"],
+    "answer": "The Rover"
+  },
+  {
+    "question": "Which play by Aphra Behn is about incestuous love letters?",
+    "options": ["The Amorous Prince", "The Forced Marriage", "Love-Letters Between a Nobleman and His Sister", "The Dutch Lover"],
+    "answer": "Love-Letters Between a Nobleman and His Sister"
+  },
+  {
+    "question": "What happens to Oroonoko at the end of the story?",
+    "options": ["He escapes", "He becomes king", "He is executed", "He marries Imoinda"],
+    "answer": "He is executed"
+  },
+  {
+    "question": "Which of the following characters pretends to be impotent?",
+    "options": ["Captain Manly", "Sir Fopling Flutter", "Harry Horner", "Dorimant"],
+    "answer": "Harry Horner"
+  },
+  {
+    "question": "What does Oroonoko do before his execution?",
+    "options": ["Prays", "Cries", "Smokes a pipe", "Sings"],
+    "answer": "Smokes a pipe"
+  },
+  {
+    "question": "Which critic targeted Vanbrugh’s plays for being profane?",
+    "options": ["John Dryden", "Jeremy Collier", "Alexander Pope", "Jonathan Swift"],
+    "answer": "Jeremy Collier"
+  },
+  {
+    "question": "What is the theme of Vanbrugh’s unfinished play 'A Journey to London'?",
+    "options": ["Spiritual transformation", "Slave rebellion", "Marriage roles", "Religious satire"],
+    "answer": "Marriage roles"
+  },
+  {
+    "question": "Which of the following plays was written by George Farquhar?",
+    "options": ["The Country Wife", "The Recruiting Officer", "The Rover", "The Relapse"],
+    "answer": "The Recruiting Officer"
+  },
+  {
+    "question": "What is the sequel to George Farquhar’s 'The Recruiting Officer'?",
+    "options": ["The Relapse", "The Beaux Stratagem", "Love and a Bottle", "She Would if She Could"],
+    "answer": "The Beaux Stratagem"
+  },
+  {
+    "question": "Who are the recruiting officers in 'The Recruiting Officer'?",
+    "options": ["Captain Manly and Sir Wilfull", "Captain Plume and Captain Brazen", "Captain Manly and Captain Plume", "Sir Fopling and Horner"],
+    "answer": "Captain Plume and Captain Brazen"
+  },
+  {
+    "question": "What was George Farquhar’s first comedy?",
+    "options": ["Love and a Bottle", "The Recruiting Officer", "The Beaux Stratagem", "The Relapse"],
+    "answer": "Love and a Bottle"
+  },
+  {
+    "question": "Samuel Butler is best known for which long satirical poem?",
+    "options": ["The Hind and the Panther", "Hudibras", "Absalom and Achitophel", "The Rape of the Lock"],
+    "answer": "Hudibras"
+  },
+  {
+    "question": "What is the name of Sir Hudibras’s squire?",
+    "options": ["Will", "Ralpho", "Robin", "Sancho"],
+    "answer": "Ralpho"
+  },
+  {
+    "question": "Which famous quote originates from Butler’s 'Hudibras'?",
+    "options": ["True wit is nature to advantage dressed", "Spare the rod and spoil the child", "To err is human, to forgive divine", "A little learning is a dangerous thing"],
+    "answer": "Spare the rod and spoil the child"
+  },
+  {
+    "question": "Voltaire praised which English book for its wit?",
+    "options": ["Gulliver’s Travels", "Hudibras", "The Pilgrim’s Progress", "Paradise Lost"],
+    "answer": "Hudibras"
+  },
+  {
+    "question": "Which age is also referred to as the Augustan Age?",
+    "options": ["Victorian Age", "Neo-Classical Period", "Romantic Age", "Renaissance"],
+    "answer": "Neo-Classical Period"
+  },
+  {
+    "question": "Alexander Pope followed which classical writers?",
+    "options": ["Socrates and Plato", "Cicero and Seneca", "Virgil, Horace and Ovid", "Plato, Aristotle and Homer"],
+    "answer": "Virgil, Horace and Ovid"
+  },
+  {
+    "question": "Which author coined the term 'age of prose' for the 18th century?",
+    "options": ["Alexander Pope", "T. S. Eliot", "Matthew Arnold", "Samuel Johnson"],
+    "answer": "Matthew Arnold"
+  },
+  {
+    "question": "The term ‘closed couplet’ is used to describe:",
+    "options": ["A narrative stanza", "A pair of lines with end-stopped rhymes", "Free verse couplets", "Lines without rhyme"],
+    "answer": "A pair of lines with end-stopped rhymes"
+  },
+  {
+    "question": "Which of the following is written in Hudibrastic verse?",
+    "options": ["The Beaux Stratagem", "Hudibras", "The Rape of the Lock", "The Relapse"],
+    "answer": "Hudibras"
+  },
+  {
+    "question": "The quote 'What oft was thought, but ne'er so well express'd' is from:",
+    "options": ["Hudibras", "Essay on Criticism", "The Hind and the Panther", "Gulliver’s Travels"],
+    "answer": "Essay on Criticism"
+  },
+  {
+    "question": "The Jacobite Rebellion took place in which year?",
+    "options": ["1700", "1715", "1745", "1688"],
+    "answer": "1715"
+  },
+  {
+    "question": "The Stuart Dynasty in England began with which monarch?",
+    "options": ["Queen Elizabeth I", "Henry VIII", "James I", "George I"],
+    "answer": "James I"
+  },
+  {
+    "question": "Who was the last monarch of the Stuart Dynasty?",
+    "options": ["Queen Mary", "Queen Anne", "George I", "James II"],
+    "answer": "Queen Anne"
+  },
+  {
+    "question": "The Hanoverian Period began in which year?",
+    "options": ["1603", "1688", "1714", "1760"],
+    "answer": "1714"
+  },
+  {
+    "question": "Which monarch ruled during the Regency Era?",
+    "options": ["George II", "George III", "George IV", "William IV"],
+    "answer": "George IV"
+  },
+  {
+    "question": "During the Regency Era, who was declared unfit to rule?",
+    "options": ["George II", "George III", "George IV", "Queen Anne"],
+    "answer": "George III"
+  },
+  {
+    "question": "Which monarch followed the Stuart Dynasty?",
+    "options": ["George I", "Queen Victoria", "Edward VII", "Charles II"],
+    "answer": "George I"
+  },
+  {
+    "question": "Which period directly followed the Hanoverian?",
+    "options": ["Augustan", "Romantic", "Victorian", "Georgian"],
+    "answer": "Victorian"
+  },
+  {
+    "question": "Hudibras is primarily a satire on which group?",
+    "options": ["Anglicans", "Puritans", "Royalists", "Catholics"],
+    "answer": "Puritans"
+  },
+  {
+    "question": "The poem 'The Elephant on the Moon' is by:",
+    "options": ["Pope", "Dryden", "Samuel Butler", "George Farquhar"],
+    "answer": "Samuel Butler"
+  },
+  {
+    "question": "Hudibras borrows its characterization from which Spanish novel?",
+    "options": ["The Alchemist", "Don Quixote", "Lazarillo de Tormes", "Celestina"],
+    "answer": "Don Quixote"
+  }
+]
