@@ -1,0 +1,939 @@
+[
+  {
+    "question": "Which poetic form is Alexander Pope most known for using?",
+    "options": ["Blank verse", "Free verse", "Heroic couplets", "Terza rima"],
+    "answer": "Heroic couplets"
+  },
+  {
+    "question": "Which of the following is Pope's first major published work?",
+    "options": ["The Rape of the Lock", "Essay on Man", "The Pastorals", "Essay on Criticism"],
+    "answer": "The Pastorals"
+  },
+  {
+    "question": "What club did Pope co-found to satirize ignorance?",
+    "options": ["The Dunciad Club", "The Tatler Society", "Scriblerus Club", "The Grub Street Club"],
+    "answer": "Scriblerus Club"
+  },
+  {
+    "question": "What is the name of the fictional scholar created by the Scriblerus Club?",
+    "options": ["Doctor Arbuthnot", "John Bull", "Martinus Scriblerus", "Sir Fopling"],
+    "answer": "Martinus Scriblerus"
+  },
+  {
+    "question": "Which epic poet's works did Pope famously translate?",
+    "options": ["Virgil", "Homer", "Ovid", "Horace"],
+    "answer": "Homer"
+  },
+  {
+    "question": "The quote 'To err is human, to forgive divine' appears in which of Pope’s works?",
+    "options": ["Essay on Man", "The Rape of the Lock", "Essay on Criticism", "The Dunciad"],
+    "answer": "Essay on Criticism"
+  },
+  {
+    "question": "In 'The Rape of the Lock', what is the name of Belinda's dog?",
+    "options": ["Buddy", "Fluff", "Shock", "Snuff"],
+    "answer": "Shock"
+  },
+  {
+    "question": "Who inspired the supernatural machinery in 'The Rape of the Lock'?",
+    "options": ["John Milton", "Horace", "Abbe de Villars", "Boileau"],
+    "answer": "Abbe de Villars"
+  },
+  {
+    "question": "Which of Pope’s poems was expanded to five cantos in 1714?",
+    "options": ["Essay on Criticism", "The Dunciad", "The Rape of the Lock", "Windsor Forest"],
+    "answer": "The Rape of the Lock"
+  },
+  {
+    "question": "What game does Belinda play in 'The Rape of the Lock'?",
+    "options": ["Whist", "Chess", "Ombre", "Backgammon"],
+    "answer": "Ombre"
+  },
+  {
+    "question": "Who delivers a bag of sighs and sobs in 'The Rape of the Lock'?",
+    "options": ["Ariel", "Shock", "Umbriel", "Clarissa"],
+    "answer": "Umbriel"
+  },
+  {
+    "question": "Which of these is NOT a quote from 'Essay on Criticism'?",
+    "options": ["Fools rush in where angels fear to tread", "A little learning is a dangerous thing", "To err is human, to forgive divine", "Heaven has no rage like love to hatred turned"],
+    "answer": "Heaven has no rage like love to hatred turned"
+  },
+  {
+    "question": "In 'Essay on Man', Pope tries to vindicate:",
+    "options": ["The role of satire", "The rights of women", "The ways of God to man", "The role of monarchy"],
+    "answer": "The ways of God to man"
+  },
+  {
+    "question": "'The Dunciad' is a satire on:",
+    "options": ["Nature", "Politics", "Dullness", "Love"],
+    "answer": "Dullness"
+  },
+  {
+    "question": "What phrase did Pope introduce in 'Peri Bathous'?",
+    "options": ["Bathos", "Pathos", "Logos", "Ethos"],
+    "answer": "Bathos"
+  },
+  {
+    "question": "Which poem did Pope dedicate to John Caryll?",
+    "options": ["The Rape of the Lock", "Essay on Man", "The Dunciad", "Windsor Forest"],
+    "answer": "The Rape of the Lock"
+  },
+  {
+    "question": "What does Pope compare Belinda’s hair to?",
+    "options": ["The moon", "The stars", "Sun", "Gold"],
+    "answer": "Sun"
+  },
+  {
+    "question": "Who is the female protagonist of 'The Rape of the Lock'?",
+    "options": ["Clarissa", "Betty", "Belinda", "Imoinda"],
+    "answer": "Belinda"
+  },
+  {
+    "question": "'The Epistle to Doctor Arbuthnot' is composed in:",
+    "options": ["Blank verse", "Rhymed quatrains", "Heroic couplets", "Free verse"],
+    "answer": "Heroic couplets"
+  },
+  {
+    "question": "Which poem is Pope’s autobiographical defense of satire?",
+    "options": ["Essay on Man", "Peri Bathous", "Epistle to Dr. Arbuthnot", "The Dunciad"],
+    "answer": "Epistle to Dr. Arbuthnot"
+  },
+  {
+    "question": "Who did Pope mock as 'Sporus' in 'Epistle to Arbuthnot'?",
+    "options": ["Addison", "Theobald", "Lord Hervey", "Dennis"],
+    "answer": "Lord Hervey"
+  },
+  {
+    "question": "Which Pope work was considered a philosophical poem?",
+    "options": ["Essay on Criticism", "Essay on Man", "Windsor Forest", "The Dunciad"],
+    "answer": "Essay on Man"
+  },
+  {
+    "question": "Who called Pope 'The best poet of England'?",
+    "options": ["Johnson", "Voltaire", "Addison", "Swift"],
+    "answer": "Voltaire"
+  },
+  {
+    "question": "'Windsor Forest' was written in praise of:",
+    "options": ["London’s architecture", "Queen Anne’s peace", "Roman poets", "Arbuthnot’s wit"],
+    "answer": "Queen Anne’s peace"
+  },
+  {
+    "question": "Pope’s 'Messiah' is based on which Latin poet?",
+    "options": ["Ovid", "Horace", "Virgil", "Lucan"],
+    "answer": "Virgil"
+  },
+  {
+    "question": "Who is compared to 'Atticus' by Pope?",
+    "options": ["Lord Hervey", "Colley Cibber", "Addison", "Dryden"],
+    "answer": "Addison"
+  },
+  {
+    "question": "The 'Wasp of Twickenham' refers to:",
+    "options": ["Jonathan Swift", "John Arbuthnot", "Alexander Pope", "George Farquhar"],
+    "answer": "Alexander Pope"
+  },
+  {
+    "question": "How many lines are in 'The Rape of the Lock'?",
+    "options": ["844", "794", "684", "604"],
+    "answer": "794"
+  },
+  {
+    "question": "'True wit is nature to advantage dressed' is from:",
+    "options": ["The Dunciad", "Essay on Criticism", "The Rape of the Lock", "Essay on Man"],
+    "answer": "Essay on Criticism"
+  },
+  {
+    "question": "'Fools rush in where angels fear to tread' is from:",
+    "options": ["Essay on Criticism", "Essay on Man", "The Dunciad", "Peri Bathous"],
+    "answer": "Essay on Criticism"
+  },
+  {
+    "question": "What are the two primary styles of satire mastered by Jonathan Swift?",
+    "options": ["Juvenalian and Augustan", "Horatian and Juvenalian", "Classical and Romantic", "Dramatic and Comic"],
+    "answer": "Horatian and Juvenalian"
+  },
+  {
+    "question": "Which pseudonym did Swift use in the Drapier’s Letters?",
+    "options": ["Isaac Bickerstaff", "Lemuel Gulliver", "M. B. Drapier", "Peter"],
+    "answer": "M. B. Drapier"
+  },
+  {
+    "question": "Who were the three brothers in 'A Tale of a Tub' representing?",
+    "options": ["Greek philosophers", "Branches of Christianity", "European monarchs", "Colonial governors"],
+    "answer": "Branches of Christianity"
+  },
+  {
+    "question": "In 'Gulliver’s Travels', what do Lilliput and Blefuscu symbolically represent?",
+    "options": ["Spain and Italy", "France and Germany", "England and France", "Russia and China"],
+    "answer": "England and France"
+  },
+  {
+    "question": "Which Swift character is nicknamed ‘Vanessa’?",
+    "options": ["Esther Johnson", "Esther Vanhomrigh", "Clarissa", "Arabella Fermor"],
+    "answer": "Esther Vanhomrigh"
+  },
+  {
+    "question": "What is the central satire in 'A Modest Proposal'?",
+    "options": ["Selling children as food", "Establishing universal education", "Forming a new religion", "Converting to Catholicism"],
+    "answer": "Selling children as food"
+  },
+  {
+    "question": "Who is Gulliver’s caretaker in Brobdingnag?",
+    "options": ["Glumdalclitch", "Clarissa", "Shock", "Belinda"],
+    "answer": "Glumdalclitch"
+  },
+  {
+    "question": "What term did Swift use to describe the immortals in Luggnagg?",
+    "options": ["Glubbs", "Yahoos", "Struldbrugs", "Laputians"],
+    "answer": "Struldbrugs"
+  },
+  {
+    "question": "Which city is the capital of Lilliput?",
+    "options": ["Balnibarbi", "Lagado", "Mildendo", "Laputa"],
+    "answer": "Mildendo"
+  },
+  {
+    "question": "Which voyage in 'Gulliver’s Travels' satirizes scientific absurdities?",
+    "options": ["Lilliput", "Brobdingnag", "Laputa", "Houyhnhnms"],
+    "answer": "Laputa"
+  },
+  {
+    "question": "Which creature represents degraded humans in the land of Houyhnhnms?",
+    "options": ["Yahoos", "Glumdalclitch", "Sylphs", "Houyhnhnms"],
+    "answer": "Yahoos"
+  },
+  {
+    "question": "Swift’s 'Battle of the Books' addresses which literary controversy?",
+    "options": ["Classical vs Modern literature", "Feminism vs Patriarchy", "Fiction vs Non-fiction", "Satire vs Drama"],
+    "answer": "Classical vs Modern literature"
+  },
+  {
+    "question": "Which fictional persona did Swift create to predict events and satirize astrology?",
+    "options": ["M. B. Drapier", "Peter", "Isaac Bickerstaff", "Martin"],
+    "answer": "Isaac Bickerstaff"
+  },
+  {
+    "question": "What does the character Peter represent in 'A Tale of a Tub'?",
+    "options": ["Catholic Church", "Anglican Church", "Protestants", "Parliament"],
+    "answer": "Catholic Church"
+  },
+  {
+    "question": "Where does Gulliver speak with ghosts like Homer and Aristotle?",
+    "options": ["Laputa", "Glubbdubdrib", "Balnibarbi", "Lagado"],
+    "answer": "Glubbdubdrib"
+  },
+  {
+    "question": "What is the satirical target in 'The Drapier's Letters'?",
+    "options": ["British literature", "Child exploitation", "Inferior Irish coinage", "Bad poetry"],
+    "answer": "Inferior Irish coinage"
+  },
+  {
+    "question": "Which Swift work contains the phrase 'sweetness and light'?",
+    "options": ["A Tale of a Tub", "Battle of the Books", "Gulliver’s Travels", "The Drapier’s Letters"],
+    "answer": "Battle of the Books"
+  },
+  {
+    "question": "Who is Lemuel Gulliver by profession before his travels?",
+    "options": ["Blacksmith", "Surgeon", "Scholar", "Sailor"],
+    "answer": "Surgeon"
+  },
+  {
+    "question": "What form of satire is primarily used in 'A Modest Proposal'?",
+    "options": ["Romantic satire", "Horatian satire", "Juvenalian satire", "Picaresque"],
+    "answer": "Juvenalian satire"
+  },
+  {
+    "question": "What does Swift parody through the flying island of Laputa?",
+    "options": ["Political monarchy", "Scientific rationalism", "Literary criticism", "Christianity"],
+    "answer": "Scientific rationalism"
+  },
+  {
+    "question": "What is John Gay’s most famous work?",
+    "options": ["Polly", "Trivia", "The Beggar’s Opera", "Achilles"],
+    "answer": "The Beggar’s Opera"
+  },
+  {
+    "question": "Who arranged the music for The Beggar’s Opera?",
+    "options": ["John Rich", "Johann Christoph Pepusch", "Alexander Pope", "Handel"],
+    "answer": "Johann Christoph Pepusch"
+  },
+  {
+    "question": "What role does the beggar play in The Beggar’s Opera?",
+    "options": ["Lawyer", "Protagonist", "Narrator", "Polly's father"],
+    "answer": "Narrator"
+  },
+  {
+    "question": "Who is the highwayman that marries Polly in The Beggar’s Opera?",
+    "options": ["Peachum", "Lockit", "Macheath", "Ducat"],
+    "answer": "Macheath"
+  },
+  {
+    "question": "Which character in The Beggar’s Opera is based on Robert Walpole?",
+    "options": ["Macheath", "Bob Booty", "Lockit", "Dr. Fossil"],
+    "answer": "Bob Booty"
+  },
+  {
+    "question": "Who helped Macheath escape from Newgate Prison?",
+    "options": ["Peachum", "Jenny Diver", "Lucy", "Polly"],
+    "answer": "Lucy"
+  },
+  {
+    "question": "What is the name of the sequel to The Beggar’s Opera?",
+    "options": ["Achilles", "Polly", "Trivia", "The Rural Sports"],
+    "answer": "Polly"
+  },
+  {
+    "question": "Why was the play Polly banned from performance?",
+    "options": ["Too violent", "Too erotic", "Political satire on Walpole", "Religious criticism"],
+    "answer": "Political satire on Walpole"
+  },
+  {
+    "question": "In The Beggar’s Opera, who is modeled on the real-life Jonathan Wild?",
+    "options": ["Lockit", "Macheath", "Peachum", "Ducat"],
+    "answer": "Peachum"
+  },
+  {
+    "question": "Where does Polly eventually marry the son of a chief in the sequel Polly?",
+    "options": ["Jamaica", "Lilliput", "West Indies", "Ireland"],
+    "answer": "West Indies"
+  },
+  {
+    "question": "What was John Gay’s satirical poem on navigating city life called?",
+    "options": ["Fables", "Polly", "The Rural Sports", "Trivia"],
+    "answer": "Trivia"
+  },
+  {
+    "question": "Which Scriblerus Club member urged Gay to write pastorals?",
+    "options": ["Jonathan Swift", "John Arbuthnot", "Alexander Pope", "John Dryden"],
+    "answer": "Alexander Pope"
+  },
+  {
+    "question": "Who is the central figure in Gay’s ‘Fables’?",
+    "options": ["Macheath", "Dr. Fossil", "Animals", "Esther Johnson"],
+    "answer": "Animals"
+  },
+  {
+    "question": "Which work did Pope contribute to along with Gay and Arbuthnot?",
+    "options": ["The Shepherd’s Week", "The Beggar’s Opera", "Three Hours After Marriage", "Trivia"],
+    "answer": "Three Hours After Marriage"
+  },
+  {
+    "question": "Which quote appears on Pope’s epitaph for John Gay?",
+    "options": ["“Sweetness and light”", "“Life is a jest…”", "“Damn with faint praise…”", "“Who breaks a butterfly…”"],
+    "answer": "“Life is a jest…”"
+  },
+  {
+    "question": "Which satirical character was created by John Arbuthnot?",
+    "options": ["Isaac Bickerstaff", "Sir Roger", "John Bull", "Jack Boot"],
+    "answer": "John Bull"
+  },
+  {
+    "question": "Where did the Scriblerus Club usually meet?",
+    "options": ["Alexander Pope’s house", "John Gay’s library", "Jonathan Swift’s chamber", "John Arbuthnot’s home"],
+    "answer": "John Arbuthnot’s home"
+  },
+  {
+    "question": "Which political pamphlet did John Arbuthnot write in 1712?",
+    "options": ["Law Is a Bottomless Pit", "The Dunciad", "A Modest Proposal", "Polly"],
+    "answer": "Law Is a Bottomless Pit"
+  },
+  {
+    "question": "Who replaced Lewis Theobald as the hero of Pope’s revised Dunciad?",
+    "options": ["Colley Cibber", "John Gay", "John Arbuthnot", "Daniel Defoe"],
+    "answer": "Colley Cibber"
+  },
+  {
+    "question": "Which play by Cibber is considered his best and praised for its comedy?",
+    "options": ["The Lady’s Last Stake", "Love’s Last Shift", "The Careless Husband", "The Provoked Husband"],
+    "answer": "The Careless Husband"
+  },
+  {
+    "question": "Who played Lord Touchwood in Congreve’s 'The Double Dealer'?",
+    "options": ["Colley Cibber", "John Dryden", "Alexander Pope", "John Gay"],
+    "answer": "Colley Cibber"
+  },
+  {
+    "question": "Which of the following supported Robert Walpole's government through a political periodical?",
+    "options": ["Daniel Defoe", "Colley Cibber", "Lady Mary Wortley Montagu", "John Arbuthnot"],
+    "answer": "Lady Mary Wortley Montagu"
+  },
+  {
+    "question": "What was the title of Lady Mary Wortley Montagu’s famous travel letters?",
+    "options": ["Court Poems", "Letters from Turkey", "Letters to Stella", "A Journey to London"],
+    "answer": "Letters from Turkey"
+  },
+  {
+    "question": "What satirical work by Daniel Defoe led to his prosecution?",
+    "options": ["A Journal of the Plague Year", "The Family Instructor", "The Shortest-Way with Dissenters", "Robinson Crusoe"],
+    "answer": "The Shortest-Way with Dissenters"
+  },
+  {
+    "question": "What is the real name of Daniel Defoe?",
+    "options": ["John Daniel", "Daniel Foe", "David Defoe", "Daniel Dufferin"],
+    "answer": "Daniel Foe"
+  },
+  {
+    "question": "Which novel by Defoe features a female protagonist who commits incest and theft?",
+    "options": ["Roxana", "Moll Flanders", "Colonel Jack", "Captain Singleton"],
+    "answer": "Moll Flanders"
+  },
+  {
+    "question": "Which of the following is considered a proto-feminist novel by Defoe?",
+    "options": ["Captain Singleton", "Colonel Jack", "Roxana", "The Family Instructor"],
+    "answer": "Roxana"
+  },
+  {
+    "question": "What was the inspiration for Robinson Crusoe’s island setting?",
+    "options": ["Falkland Islands", "Robben Island", "Mas a Tierra", "Barbados"],
+    "answer": "Mas a Tierra"
+  },
+  {
+    "question": "Who is Crusoe’s companion on the island?",
+    "options": ["Xury", "Captain Singleton", "Friday", "Colonel Jack"],
+    "answer": "Friday"
+  },
+  {
+    "question": "What is the full title of 'Robinson Crusoe' primarily meant to emphasize?",
+    "options": ["Spiritual enlightenment", "Commercial trade", "Autobiographical realism", "Poetic reflection"],
+    "answer": "Autobiographical realism"
+  },
+  {
+    "question": "Which periodical was edited by Daniel Defoe from 1704 to 1713?",
+    "options": ["The Examiner", "The Spectator", "The Review", "The Tatler"],
+    "answer": "The Review"
+  },
+  {
+    "question": "Which Defoe novel is based on a historical plague?",
+    "options": ["Roxana", "Moll Flanders", "A Journal of the Plague Year", "Colonel Jack"],
+    "answer": "A Journal of the Plague Year"
+  },
+  {
+    "question": "Which Defoe work includes a scene where a woman is married to her own brother?",
+    "options": ["Moll Flanders", "Roxana", "Colonel Jack", "Polly"],
+    "answer": "Moll Flanders"
+  },
+  {
+    "question": "How many years does Robinson Crusoe survive on the island?",
+    "options": ["20", "28", "30", "25"],
+    "answer": "28"
+  },
+  {
+    "question": "Which novel by Defoe is about a criminal turned merchant and soldier?",
+    "options": ["Colonel Jack", "Roxana", "Captain Singleton", "Polly"],
+    "answer": "Colonel Jack"
+  },
+  {
+    "question": "Which poem established Joseph Addison’s early fame after the Battle of Blenheim?",
+    "options": ["The Spectator", "The Campaign", "Cato", "The Freeholder"],
+    "answer": "The Campaign"
+  },
+  {
+    "question": "Which tragedy by Addison was staged in 1713 and had a prologue by Pope?",
+    "options": ["Cato", "The Drummer", "Libretto", "Venice Preserved"],
+    "answer": "Cato"
+  },
+  {
+    "question": "In The Spectator, how many essays did Joseph Addison contribute?",
+    "options": ["236", "274", "42", "188"],
+    "answer": "274"
+  },
+  {
+    "question": "Who referred to Addison as \"Atticus\" in The Dunciad?",
+    "options": ["Dryden", "Swift", "Pope", "Steele"],
+    "answer": "Pope"
+  },
+  {
+    "question": "What was the name of the political paper Addison wrote in 1715–16?",
+    "options": ["The Guardian", "The Spectator", "The Tatler", "The Freeholder"],
+    "answer": "The Freeholder"
+  },
+  {
+    "question": "Richard Steele’s most popular play was:",
+    "options": ["The Christian Hero", "The Funeral", "The Tender Husband", "The Conscious Lovers"],
+    "answer": "The Conscious Lovers"
+  },
+  {
+    "question": "What was Steele’s pseudonym for writing in The Tatler?",
+    "options": ["Lemuel Gulliver", "Isaac Bickerstaff", "Martin Scriblerus", "John Bull"],
+    "answer": "Isaac Bickerstaff"
+  },
+  {
+    "question": "Which poem by Nahum Tate gives a happy ending to Shakespeare’s play?",
+    "options": ["Brutus of Alba", "The History of King Lear", "Panacea", "Injured Love"],
+    "answer": "The History of King Lear"
+  },
+  {
+    "question": "Who collaborated with Dryden on the second part of Absalom and Achitophel?",
+    "options": ["Nahum Tate", "Nicholas Rowe", "Edward Young", "Joseph Addison"],
+    "answer": "Nahum Tate"
+  },
+  {
+    "question": "Which poet edited Shakespeare’s works in 1709 and wrote Jane Shore?",
+    "options": ["John Dennis", "Nicholas Rowe", "Nahum Tate", "Richard Steele"],
+    "answer": "Nicholas Rowe"
+  },
+  {
+    "question": "Who wrote \"The Hermit\" and contributed to Pope’s Iliad translation?",
+    "options": ["Thomas Gray", "Thomas Parnell", "Edward Young", "John Gay"],
+    "answer": "Thomas Parnell"
+  },
+  {
+    "question": "Which poem by Parnell is considered part of the Graveyard Poets tradition?",
+    "options": ["The Hermit", "Battle of the Frog and Mice", "Night Piece on Death", "The Spectator"],
+    "answer": "Night Piece on Death"
+  },
+  {
+    "question": "Which long poem by Edward Young reflects on life, death, and immortality?",
+    "options": ["The Complaint", "Narcissa", "Virtue’s Apology", "Night Thoughts"],
+    "answer": "Night Thoughts"
+  },
+  {
+    "question": "How many parts does Edward Young’s Night Thoughts consist of?",
+    "options": ["7", "9", "12", "5"],
+    "answer": "9"
+  },
+  {
+    "question": "Who authored \"Epistle to Joseph Addison\" and \"The Universal Passion\"?",
+    "options": ["Edward Young", "Joseph Addison", "Thomas Parnell", "Nicholas Rowe"],
+    "answer": "Edward Young"
+  },
+  {
+    "question": "What was Joseph Addison’s contribution in the periodical \"The Guardian\"?",
+    "options": ["Founder", "Main writer", "Assistant to Steele", "Critic"],
+    "answer": "Assistant to Steele"
+  },
+  {
+    "question": "Which play by Steele included Addison’s contributions?",
+    "options": ["The Tender Husband", "The Christian Hero", "The Conscious Lovers", "The Funeral"],
+    "answer": "The Tender Husband"
+  },
+  {
+    "question": "Who wrote \"The History of King Lear\" with a happy ending?",
+    "options": ["Nicholas Rowe", "Nahum Tate", "Joseph Addison", "John Dryden"],
+    "answer": "Nahum Tate"
+  },
+  {
+    "question": "Which poet authored \"Busiris\" and \"Revenge\"?",
+    "options": ["Nahum Tate", "Nicholas Rowe", "Edward Young", "Joseph Addison"],
+    "answer": "Edward Young"
+  },
+  {
+    "question": "Which of the following was Addison’s first published play?",
+    "options": ["Cato", "Libretto", "The Drummer", "The Campaign"],
+    "answer": "Libretto"
+  },
+  {
+    "question": "Which play by Rowe was modeled after Shakespeare’s style and based on historical tragedy?",
+    "options": ["The Biter", "Tamerlane", "Lady Jane Grey", "Jane Shore"],
+    "answer": "Jane Shore"
+  },
+  {
+    "question": "Which political paper of Addison was much criticized by Pope in The Dunciad?",
+    "options": ["The Spectator", "The Tatler", "The Guardian", "The Freeholder"],
+    "answer": "The Freeholder"
+  },
+  {
+    "question": "Who authored \"Panacea, a poem on Tea\"?",
+    "options": ["Joseph Addison", "Edward Young", "Nahum Tate", "Nicholas Rowe"],
+    "answer": "Nahum Tate"
+  },
+  {
+    "question": "\"The Complaint or, Night-Thoughts on Life, Death, & Immortality\" was written in:",
+    "options": ["Blank verse", "Heroic couplet", "Ottava Rima", "Ballad meter"],
+    "answer": "Blank verse"
+  },
+  {
+    "question": "Who said \"Life is a jest, and all things show it\" in an epitaph?",
+    "options": ["Thomas Parnell", "Joseph Addison", "John Gay", "Richard Steele"],
+    "answer": "John Gay"
+  },
+  {
+    "question": "Who wrote \"The Christian Hero\" while serving in the army?",
+    "options": ["Richard Steele", "Edward Young", "Nahum Tate", "John Gay"],
+    "answer": "Richard Steele"
+  },
+  {
+    "question": "Which play by Steele exposes false arts of life through simplicity in dress and manners?",
+    "options": ["The Conscious Lovers", "The Tender Husband", "The Tatler", "The Funeral"],
+    "answer": "The Tatler"
+  },
+  {
+    "question": "Who contributed only 42 essays in The Tatler but more in The Spectator?",
+    "options": ["Steele", "Addison", "Pope", "Gay"],
+    "answer": "Addison"
+  },
+  {
+    "question": "Which of these plays by Nicholas Rowe is based on Greek epic characters?",
+    "options": ["Tamerlane", "Lady Jane Grey", "Ulysses", "The Biter"],
+    "answer": "Ulysses"
+  },
+  {
+    "question": "Who authored \"Night Piece on Death\" and is considered a Graveyard poet?",
+    "options": ["Thomas Gray", "Thomas Parnell", "Edward Young", "Robert Blair"],
+    "answer": "Thomas Parnell"
+  },
+  {
+    "question": "Who was Anne Finch married to when she became Countess of Winchilsea?",
+    "options": ["Charles Finch", "Matthew Prior", "Laurence Eusden", "Samuel Johnson"],
+    "answer": "Charles Finch"
+  },
+  {
+    "question": "What is the name of Anne Finch’s famous love poem to her husband?",
+    "options": ["The Spleen", "A Letter to Daphnis", "The Prodigy", "A Natural Reverie"],
+    "answer": "A Letter to Daphnis"
+  },
+  {
+    "question": "Which is the only major collection of Anne Finch’s work?",
+    "options": ["Solomon and Other Poems", "Miscellany Poems, on Several Occasions: written by a Lady", "The Rambler", "The Vicar of the Wakefield"],
+    "answer": "Miscellany Poems, on Several Occasions: written by a Lady"
+  },
+  {
+    "question": "What theme did Virginia Woolf find in Anne Finch's writing?",
+    "options": ["Joy and tranquility", "Hates and grievances", "Hope and resilience", "War and peace"],
+    "answer": "Hates and grievances"
+  },
+  {
+    "question": "What is the longest humorous poem written by Matthew Prior?",
+    "options": ["Solomon", "Henry and Emma", "Alma; or, The Progress of the Mind", "To a Child of Quality"],
+    "answer": "Alma; or, The Progress of the Mind"
+  },
+  {
+    "question": "Who impeached Matthew Prior in 1714?",
+    "options": ["Samuel Johnson", "Robert Walpole", "William Augustus", "Charles Montagu"],
+    "answer": "Robert Walpole"
+  },
+  {
+    "question": "What did Matthew Prior co-write to ridicule Dryden’s 'The Hind and the Panther'?",
+    "options": ["Alma", "Solomon", "The Nut Brown Maid", "The City Mouse and Country Mouse"],
+    "answer": "The City Mouse and Country Mouse"
+  },
+  {
+    "question": "Who described Matthew Prior as 'amongst the most charmingly humorous of English lyrical poems'?",
+    "options": ["Pope", "Thomas Gray", "W.M. Thackeray", "Samuel Johnson"],
+    "answer": "W.M. Thackeray"
+  },
+  {
+    "question": "Which Poet Laureate wrote 'The Origin of the Knights of Bath'?",
+    "options": ["Anne Finch", "Laurence Eusden", "Matthew Prior", "Oliver Goldsmith"],
+    "answer": "Laurence Eusden"
+  },
+  {
+    "question": "Who said, 'Know Eusden thirst no more for sack or praise'?",
+    "options": ["Thomas Gray", "Pope", "Johnson", "Thackeray"],
+    "answer": "Pope"
+  },
+  {
+    "question": "The Age of Johnson is also called the:",
+    "options": ["Age of Enlightenment", "Age of Pope", "Age of Transition", "Romantic Age"],
+    "answer": "Age of Transition"
+  },
+  {
+    "question": "Who compiled the 'Dictionary of the English Language' in 1755?",
+    "options": ["Laurence Eusden", "Samuel Johnson", "Edmund Burke", "Oliver Goldsmith"],
+    "answer": "Samuel Johnson"
+  },
+  {
+    "question": "Which newspaper did Johnson and Hakesworth contribute to?",
+    "options": ["The Examiner", "The Adventurer", "The Spectator", "The Times"],
+    "answer": "The Adventurer"
+  },
+  {
+    "question": "Which war took place from 1756–1763 involving France and Britain?",
+    "options": ["Seven Year War", "French Revolution", "American War of Independence", "Napoleonic War"],
+    "answer": "Seven Year War"
+  },
+  {
+    "question": "Who are considered transitional poets between Classicism and Romanticism?",
+    "options": ["Blake and Burns", "Gray and Collins", "Pope and Dryden", "Finch and Prior"],
+    "answer": "Gray and Collins"
+  },
+  {
+    "question": "Which journal did Matthew Prior contribute to?",
+    "options": ["The Spectator", "The Examiner", "The Rambler", "The Adventurer"],
+    "answer": "The Examiner"
+  },
+  {
+    "question": "Which movement is associated with freedom of speech, religion, and press?",
+    "options": ["Romanticism", "Classicism", "Liberalism", "Feudalism"],
+    "answer": "Liberalism"
+  },
+  {
+    "question": "When did the French Revolution take place?",
+    "options": ["1756–1763", "1775–1783", "1789–1799", "1800–1815"],
+    "answer": "1789–1799"
+  },
+  {
+    "question": "What was the outcome of 'Solomon and Other Poems' (1718)?",
+    "options": ["Imprisonment", "Mockery by Pope", "£4000 reward", "Fame in France"],
+    "answer": "£4000 reward"
+  },
+  {
+    "question": "Which Age saw the rise of sentimentalism due to the middle class?",
+    "options": ["Age of Pope", "Age of Enlightenment", "Age of Johnson", "Age of Restoration"],
+    "answer": "Age of Johnson"
+  },
+  {
+    "question": "Who wrote 'A Dictionary of the English Language' in 1755?",
+    "options": ["James Boswell", "Samuel Johnson", "Alexander Pope", "Laurence Eusden"],
+    "answer": "Samuel Johnson"
+  },
+  {
+    "question": "What pension did Samuel Johnson receive from George III?",
+    "options": ["£200", "£300", "£500", "£1000"],
+    "answer": "£300"
+  },
+  {
+    "question": "Who wrote the biography 'Life of Samuel Johnson'?",
+    "options": ["James Boswell", "Thomas Gray", "Joshua Reynolds", "Edmund Burke"],
+    "answer": "James Boswell"
+  },
+  {
+    "question": "Which is the only play written by Samuel Johnson?",
+    "options": ["The Vanity of Human Wishes", "London", "Irene", "Rasselas"],
+    "answer": "Irene"
+  },
+  {
+    "question": "Which of these works is Johnson’s only novel?",
+    "options": ["The Rambler", "The Idler", "The History of Rasselas", "Lives of the Poets"],
+    "answer": "The History of Rasselas"
+  },
+  {
+    "question": "What is the name of the character who leaves London for Wales in Johnson’s poem 'London'?",
+    "options": ["Thales", "Imlac", "Savage", "Pekuah"],
+    "answer": "Thales"
+  },
+  {
+    "question": "Which satire of Juvenal inspired 'The Vanity of Human Wishes'?",
+    "options": ["Satire I", "Satire III", "Satire X", "Satire V"],
+    "answer": "Satire X"
+  },
+  {
+    "question": "In which poem does Johnson emphasize Christian values over politics?",
+    "options": ["London", "Irene", "The Rambler", "The Vanity of Human Wishes"],
+    "answer": "The Vanity of Human Wishes"
+  },
+  {
+    "question": "Which newspaper published Johnson’s 'The Idler' essays?",
+    "options": ["The Examiner", "The Adventurer", "The Universal Chronicle", "The Times"],
+    "answer": "The Universal Chronicle"
+  },
+  {
+    "question": "Which work of Johnson includes critical appraisals of 52 poets?",
+    "options": ["The Rambler", "Preface to Shakespeare", "Lives of the Poets", "Rasselas"],
+    "answer": "Lives of the Poets"
+  },
+  {
+    "question": "Which friend accompanied Johnson to Scotland in 1773?",
+    "options": ["Garrick", "Boswell", "Reynolds", "Goldsmith"],
+    "answer": "Boswell"
+  },
+  {
+    "question": "What was the original title of Johnson’s 'Rasselas'?",
+    "options": ["The Search for Happiness", "The Tale of Imlac", "The Choice of Life", "The Life of Abyssinia"],
+    "answer": "The Choice of Life"
+  },
+  {
+    "question": "In what form is Johnson’s poem 'The Vanity of Human Wishes' written?",
+    "options": ["Blank verse", "Free verse", "Heroic couplets", "Spenserian stanza"],
+    "answer": "Heroic couplets"
+  },
+  {
+    "question": "Which chapter in 'Rasselas' is titled 'Dissertation upon Poetry'?",
+    "options": ["Chapter 3", "Chapter 7", "Chapter 10", "Chapter 15"],
+    "answer": "Chapter 10"
+  },
+  {
+    "question": "How many articles were published under 'The Rambler'?",
+    "options": ["108", "208", "150", "250"],
+    "answer": "208"
+  },
+  {
+    "question": "Who included a defense of 'The Rambler' in her novel 'The Female Quixote'?",
+    "options": ["Fanny Burney", "Charlotte Lennox", "Mary Shelley", "Elizabeth Inchbald"],
+    "answer": "Charlotte Lennox"
+  },
+  {
+    "question": "What was Johnson's first serious biography?",
+    "options": ["Life of Cowley", "Life of Mr. Richard Savage", "Life of Milton", "Life of Pitt"],
+    "answer": "Life of Mr. Richard Savage"
+  },
+  {
+    "question": "Who did Johnson call 'the poet of nature'?",
+    "options": ["Pope", "Milton", "Dryden", "Shakespeare"],
+    "answer": "Shakespeare"
+  },
+  {
+    "question": "How many poets are critically appraised in 'Lives of the Poets'?",
+    "options": ["42", "50", "52", "54"],
+    "answer": "52"
+  },
+  {
+    "question": "Which of these was NOT a member of Johnson’s Literary Club?",
+    "options": ["Oliver Goldsmith", "David Garrick", "T.S. Eliot", "Edward Gibbon"],
+    "answer": "T.S. Eliot"
+  },
+  {
+    "question": "Which of the following is Oliver Goldsmith's only novel?",
+    "options": ["The Deserted Village", "She Stoops to Conquer", "The Vicar of Wakefield", "The Traveller"],
+    "answer": "The Vicar of Wakefield"
+  },
+  {
+    "question": "What is the famous children's tale written by Goldsmith?",
+    "options": ["The Village Schoolmaster", "The History of Little Goody Two-Shoes", "The Deserted Village", "An Elegy on the Death of a Mad Dog"],
+    "answer": "The History of Little Goody Two-Shoes"
+  },
+  {
+    "question": "Who gave Goldsmith the epithet 'Inspired Idiot'?",
+    "options": ["Horace Walpole", "Thomas De Quincey", "Samuel Johnson", "David Garrick"],
+    "answer": "Horace Walpole"
+  },
+  {
+    "question": "Which of Goldsmith’s works was originally titled 'Mistakes of a Night'?",
+    "options": ["The Vicar of Wakefield", "The Good-Natured Man", "The Traveller", "She Stoops to Conquer"],
+    "answer": "She Stoops to Conquer"
+  },
+  {
+    "question": "What theatre staged Goldsmith’s play 'The Good-Natured Man'?",
+    "options": ["Drury Lane", "Globe Theatre", "Covent Garden Theatre", "Haymarket Theatre"],
+    "answer": "Covent Garden Theatre"
+  },
+  {
+    "question": "Which of these quotes is by Mr. Hardcastle in 'She Stoops to Conquer'?",
+    "options": [
+      "Ask me no questions, and I’ll tell you no fibs.",
+      "Our greatest glory is not in never falling...",
+      "I love everything that is Old; old friends; old times; old manners; old books; old wines.",
+      "True Madam, those who have most virtue in their mouths..."
+    ],
+    "answer": "I love everything that is Old; old friends; old times; old manners; old books; old wines."
+  },
+  {
+    "question": "Who is revealed to be Sir William Thornhill in 'The Vicar of Wakefield'?",
+    "options": ["George", "Squire Thornhill", "Mr. Burchell", "Primrose"],
+    "answer": "Mr. Burchell"
+  },
+  {
+    "question": "Which Goldsmith poem is written in heroic couplets?",
+    "options": ["The Traveller", "The Village Schoolmaster", "The Deserted Village", "An Elegy on the Death of a Mad Dog"],
+    "answer": "The Deserted Village"
+  },
+  {
+    "question": "Which book by Goldsmith consists of letters from a Chinese philosopher?",
+    "options": ["The Citizen of the World", "The Vicar of Wakefield", "The Present State of Polite Learning", "The Traveller"],
+    "answer": "The Citizen of the World"
+  },
+  {
+    "question": "Who resolves the problems at the end of 'The Vicar of Wakefield'?",
+    "options": ["Squire Thornhill", "Dr. Primrose", "George", "Mr. Burchell"],
+    "answer": "Mr. Burchell"
+  },
+  {
+    "question": "Tony Lumpkin is related to Kate Hardcastle in what way?",
+    "options": ["Brother", "Cousin", "Stepbrother", "Uncle"],
+    "answer": "Stepbrother"
+  },
+  {
+    "question": "What does Kate pretend to be in 'She Stoops to Conquer'?",
+    "options": ["An innkeeper", "A maid", "A noblewoman", "A widow"],
+    "answer": "A maid"
+  },
+  {
+    "question": "What poetic work by Goldsmith addresses rural depopulation and excessive wealth?",
+    "options": ["The Traveller", "An Elegy on the Death of a Mad Dog", "The Deserted Village", "The Village Schoolmaster"],
+    "answer": "The Deserted Village"
+  },
+  {
+    "question": "Who said of Goldsmith, 'All the motion of Goldsmith’s nature moved in the direction of the true, the natural, the sweet, the gentle'?",
+    "options": ["De Quincey", "Pope", "Johnson", "Boswell"],
+    "answer": "De Quincey"
+  },
+  {
+    "question": "Which play by Goldsmith was influenced by Farquhar’s 'The Beaux’ Stratagem'?",
+    "options": ["The Good-Natured Man", "She Stoops to Conquer", "The Traveller", "The Citizen of the World"],
+    "answer": "She Stoops to Conquer"
+  },
+  {
+    "question": "Where is Goldsmith buried?",
+    "options": ["St. Paul's Cathedral", "Westminster Abbey", "Temple Church", "St. Clement Danes"],
+    "answer": "Temple Church"
+  },
+  {
+    "question": "Which Goldsmith character is deceived into a mock marriage?",
+    "options": ["Sophia", "Deborah", "Olivia", "Constance"],
+    "answer": "Olivia"
+  },
+  {
+    "question": "Who ends up marrying Arabella Wilmot in 'The Vicar of Wakefield'?",
+    "options": ["Primrose", "George", "Squire Thornhill", "Mr. Burchell"],
+    "answer": "George"
+  },
+  {
+    "question": "Which of these is a poem by Goldsmith?",
+    "options": ["The Idler", "Rasselas", "The Vanity of Human Wishes", "The Traveller"],
+    "answer": "The Traveller"
+  },
+  {
+    "question": "Which of the following is NOT a title/nickname of Robert Burns?",
+    "options": ["Ploughman Poet", "Bard of Ayrshire", "Poet of the Lake District", "Robden of Solway Firth"],
+    "answer": "Poet of the Lake District"
+  },
+  {
+    "question": "Robert Burns is considered the National Poet of which country?",
+    "options": ["Ireland", "Scotland", "Wales", "England"],
+    "answer": "Scotland"
+  },
+  {
+    "question": "In which year was the 'Kilmarnock Volume' of Robert Burns' poems published?",
+    "options": ["1776", "1786", "1796", "1766"],
+    "answer": "1786"
+  },
+  {
+    "question": "Which dialect/language did Robert Burns often use in his poetry?",
+    "options": ["Irish Gaelic", "Welsh", "Lowland Scots", "Latin"],
+    "answer": "Lowland Scots"
+  },
+  {
+    "question": "Who edited Robert Burns' poems and songs in three volumes in 1968?",
+    "options": ["James Boswell", "Horace Walpole", "James Kinsley", "Thomas De Quincey"],
+    "answer": "James Kinsley"
+  },
+  {
+    "question": "Which poem by Robert Burns is written in Spenserian stanza?",
+    "options": ["Tam o’ Shanter", "To a Mouse", "The Cotter’s Saturday Night", "A Red Red Rose"],
+    "answer": "The Cotter’s Saturday Night"
+  },
+  {
+    "question": "Which of the following is a long narrative poem by Robert Burns?",
+    "options": ["To a Louse", "A Man’s a Man for A’ That", "Tam o’ Shanter", "Ae Fond Kiss"],
+    "answer": "Tam o’ Shanter"
+  },
+  {
+    "question": "Robert Burns is most closely associated with which literary movement?",
+    "options": ["Modernism", "Romanticism", "Victorianism", "Realism"],
+    "answer": "Romanticism"
+  },
+  {
+    "question": "In which poem by Robert Burns do the lines 'Till a’ the seas gang dry' appear?",
+    "options": ["To a Mouse", "Holy Willie’s Prayer", "A Red Red Rose", "The Battle of Sherramuir"],
+    "answer": "A Red Red Rose"
+  },
+  {
+    "question": "Which poem of Robert Burns features the character Tam, a farmer?",
+    "options": ["Tam o’ Shanter", "To a Mouse", "To a Louse", "Ae Fond Kiss"],
+    "answer": "Tam o’ Shanter"
+  },
+  {
+    "question": "Why is Robert Burns sometimes called the 'Bard of Ayrshire'?",
+    "options": ["He wrote epic poems in Latin", "He was born in Ayrshire", "He worked in Scottish Parliament", "He founded a literary club there"],
+    "answer": "He was born in Ayrshire"
+  },
+  {
+    "question": "What is the theme of 'A Man’s a Man for A’ That'?",
+    "options": ["Wealth and Greed", "Patriotism", "Equality and Dignity", "Tragic Love"],
+    "answer": "Equality and Dignity"
+  }
+]
+
+

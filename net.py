@@ -17,10 +17,9 @@ if paper_choice == "Paper 1":
     st.subheader("Paper 1 – General Aptitude")
     chapter = st.selectbox("Choose Chapter", ["Research Aptitude"])  # Add more later
     json_file = "ResearchAptitude.json"
-
 else:
     st.subheader("Paper 2 – English Literature")
-    quiz_type = st.selectbox("Quiz Type", ["Indian Literature", "Cultural Studies", "Chronology", "Literary Theory", "Linguistics", "African Literature", "European Literature", "British Part 1", "British Part 2", "British Part 3", "Australian Literature"])
+    quiz_type = st.selectbox("Quiz Type", ["Indian Literature", "Cultural Studies", "Chronology", "Literary Theory", "Linguistics", "African Literature", "European Literature", "British Part 1", "British Part 2", "British Part 3", "British Part 4", "Australian Literature"])
     if quiz_type == "Indian Literature":
         json_file = "chapterOne.json"
     elif quiz_type == "Cultural Studies":
@@ -39,12 +38,12 @@ else:
         json_file = "EnglishpartTwo.json"
     elif quiz_type == "British Part 3":
         json_file = "EnglishpartThree.json"
+    elif quiz_type == "British Part 4":
+        json_file = "EnglishpartFour.json"
     elif quiz_type == "Australian Literature":
         json_file = "aus.json"
     else:
         json_file = "chronology.json"
-
-
 
 # Load questions
 with open(json_file, "r", encoding="utf-8") as f:
@@ -71,8 +70,6 @@ if "shuffled_options" not in st.session_state or st.session_state.get("quiz_id")
 # Render quiz
 st.subheader(f"📝 Quiz {quiz_index}")
 
-user_answers = []
-
 # Chronology-style rendering
 if paper_choice == "Paper 2" and quiz_type == "Chronology":
     for idx, q in enumerate(selected_questions):
@@ -91,24 +88,62 @@ if paper_choice == "Paper 2" and quiz_type == "Chronology":
             else:
                 st.error(f"❌ Incorrect. Your answer: {user_ans} | Correct: {correct}")
 
-# Regular MCQ rendering
+# Regular MCQ: Two-part quiz
 else:
-    with st.form("quiz_form"):
-        for idx, q in enumerate(selected_questions):
+    half = len(selected_questions) // 2
+    first_half = selected_questions[:half]
+    second_half = selected_questions[half:]
+
+    # Initialize answer storage if not already done
+    if "user_answers" not in st.session_state or st.session_state.quiz_id != quiz_key:
+        st.session_state.user_answers = [None] * len(selected_questions)
+
+    # Part 1: Questions 1–10
+    with st.form("quiz_form_part1"):
+        st.markdown("### 🧾 Part 1: Questions 1 to 10")
+        for idx, q in enumerate(first_half):
             st.markdown(f"---\n### Q{idx + 1}. {q['question']}")
             options = st.session_state.shuffled_options[idx]
-            answer = st.radio("Choose one:", options, key=f"q{idx}")
-            user_answers.append(answer)
-        submitted = st.form_submit_button("Submit")
+            st.session_state.user_answers[idx] = st.radio("Choose one:", options, key=f"q{idx}")
+        submitted1 = st.form_submit_button("Submit Part 1")
 
-    if submitted:
-        st.markdown("### 🧾 Feedback:")
-        score = 0
-        for idx, (q, user_ans) in enumerate(zip(selected_questions, user_answers)):
+    if submitted1:
+        st.markdown("### 📋 Feedback for Part 1:")
+        score1 = 0
+        for idx, q in enumerate(first_half):
+            user_ans = st.session_state.user_answers[idx]
             correct = q['answer']
             if user_ans == correct:
                 st.success(f"✅ Q{idx + 1}: Correct ({correct})")
-                score += 1
+                score1 += 1
             else:
                 st.error(f"❌ Q{idx + 1}: Wrong. Your answer: {user_ans} | Correct: {correct}")
-        st.markdown(f"### ✅ Final Score: **{score}/{len(selected_questions)}**")
+        st.session_state.score1 = score1
+        st.markdown(f"#### 🧮 Score for Part 1: **{score1}/{half}**")
+
+    # Part 2: Questions 11–20
+    with st.form("quiz_form_part2"):
+        st.markdown("### 🧾 Part 2: Questions 11 to 20")
+        for idx, q in enumerate(second_half, start=half):
+            st.markdown(f"---\n### Q{idx + 1}. {q['question']}")
+            options = st.session_state.shuffled_options[idx]
+            st.session_state.user_answers[idx] = st.radio("Choose one:", options, key=f"q{idx}")
+        submitted2 = st.form_submit_button("Submit Part 2")
+
+    if submitted2:
+        st.markdown("### 📋 Feedback for Part 2:")
+        score2 = 0
+        for idx, q in enumerate(second_half, start=half):
+            user_ans = st.session_state.user_answers[idx]
+            correct = q['answer']
+            if user_ans == correct:
+                st.success(f"✅ Q{idx + 1}: Correct ({correct})")
+                score2 += 1
+            else:
+                st.error(f"❌ Q{idx + 1}: Wrong. Your answer: {user_ans} | Correct: {correct}")
+        st.session_state.score2 = score2
+        st.markdown(f"#### 🧮 Score for Part 2: **{score2}/{len(second_half)}**")
+
+        # Final Score (if both parts submitted)
+        total_score = st.session_state.get("score1", 0) + score2
+        st.markdown(f"### ✅ Final Combined Score: **{total_score}/{len(selected_questions)}**")
