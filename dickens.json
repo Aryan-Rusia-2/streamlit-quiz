@@ -1,0 +1,267 @@
+[
+  {
+    "question": "Where was Charles Dickens born?",
+    "options": ["Yorkshire", "London", "Hampshire", "Oxford"],
+    "answer": "Hampshire"
+  },
+  {
+    "question": "What was the name of the prison where Dickens' family was sent?",
+    "options": ["Newgate", "Marshalsea", "Fleet", "Bedlam"],
+    "answer": "Marshalsea"
+  },
+  {
+    "question": "Which early job did Dickens do for six shillings a week?",
+    "options": [
+      "Shoemaker’s apprentice",
+      "Bottler at a brewery",
+      "Label-paster at a blacking warehouse",
+      "Chimney sweep"
+    ],
+    "answer": "Label-paster at a blacking warehouse"
+  },
+  {
+    "question": "Under which pseudonym did Charles Dickens publish his early sketches?",
+    "options": ["Charles Boz", "Boz", "Mosses", "Dodger"],
+    "answer": "Boz"
+  },
+  {
+    "question": "What is the name of Dickens’ first novel?",
+    "options": [
+      "Oliver Twist",
+      "Sketches by Boz",
+      "David Copperfield",
+      "The Pickwick Papers"
+    ],
+    "answer": "The Pickwick Papers"
+  },
+  {
+    "question": "Which novel by Dickens remained unfinished at his death?",
+    "options": [
+      "Great Expectations",
+      "Our Mutual Friend",
+      "The Mystery of Edwin Drood",
+      "Hard Times"
+    ],
+    "answer": "The Mystery of Edwin Drood"
+  },
+  {
+    "question": "Which two periodicals were edited by Dickens?",
+    "options": [
+      "The Times & The Spectator",
+      "Household Words & All the Year Round",
+      "Punch & The Gentleman's Magazine",
+      "Morning Chronicle & Sketches Weekly"
+    ],
+    "answer": "Household Words & All the Year Round"
+  },
+  {
+    "question": "Which novel is subtitled *The Parish Boy’s Progress*?",
+    "options": ["David Copperfield", "Nicholas Nickleby", "Oliver Twist", "Dombey and Son"],
+    "answer": "Oliver Twist"
+  },
+  {
+    "question": "What genre best describes *The Pickwick Papers*?",
+    "options": ["Tragicomedy", "Picaresque", "Mystery", "Gothic"],
+    "answer": "Picaresque"
+  },
+  {
+    "question": "Who is the criminal leader in *Oliver Twist*?",
+    "options": ["Dodger", "Sikes", "Fagin", "Monks"],
+    "answer": "Fagin"
+  },
+  {
+    "question": "What is the name of the kind man who adopts Oliver?",
+    "options": ["Mr. Brownlow", "Mr. Bumble", "Bill Sikes", "Noah Claypole"],
+    "answer": "Mr. Brownlow"
+  },
+  {
+    "question": "Who was Oliver Twist’s half-brother?",
+    "options": ["Noah Claypole", "Jack Dawkins", "Monks", "Mr. Sowerberry"],
+    "answer": "Monks"
+  },
+  {
+    "question": "Which girl in *Oliver Twist* tries to protect Oliver and is later murdered?",
+    "options": ["Betsy", "Nancy", "Martha", "Agnes"],
+    "answer": "Nancy"
+  },
+  {
+    "question": "Which novel is considered Dickens' autobiographical work?",
+    "options": ["Bleak House", "David Copperfield", "Hard Times", "Nicholas Nickleby"],
+    "answer": "David Copperfield"
+  },
+  {
+    "question": "Which Dickens short story features the character Scrooge?",
+    "options": [
+      "The Chimes",
+      "A Message from the Sea",
+      "A Christmas Carol",
+      "The Haunted Man"
+    ],
+    "answer": "A Christmas Carol"
+  },
+  {
+    "question": "Which work contains 56 sketches about London life?",
+    "options": ["Oliver Twist", "Sketches by Boz", "Hard Times", "Great Expectations"],
+    "answer": "Sketches by Boz"
+  },
+  {
+    "question": "Who was Charles Dickens' biographer?",
+    "options": ["Gaskell", "Ackroyd", "Trollope", "Thackeray"],
+    "answer": "Ackroyd"
+  },
+  {
+    "question": "Which novel by Dickens deals with the French Revolution?",
+    "options": ["Barnaby Rudge", "A Tale of Two Cities", "Little Dorrit", "Martin Chuzzlewit"],
+    "answer": "A Tale of Two Cities"
+  },
+  {
+    "question": "What is the name of Belinda's dog in *The Rape of the Lock* (misplaced; fix this)?",
+    "options": ["Shock", "Dodger", "Jingle", "Fang"],
+    "answer": "Shock"
+  },
+  {
+    "question": "In *Oliver Twist*, who is the undertaker that mistreats Oliver?",
+    "options": ["Mr. Brownlow", "Mr. Sowerberry", "Bill Sikes", "Mr. Bumble"],
+    "answer": "Mr. Sowerberry"
+  },
+  {
+    "question": "What is the complete title of *Nicholas Nickleby*?",
+    "options": [
+      "The Journey of Nicholas Nickleby",
+      "Nicholas Nickleby: An English Tale",
+      "The Life and Adventures of Nicholas Nickleby",
+      "Nicholas Nickleby: Orphan and Hero"
+    ],
+    "answer": "The Life and Adventures of Nicholas Nickleby"
+  },
+  {
+    "question": "Which character is the villain and uncle of Nicholas in *Nicholas Nickleby*?",
+    "options": ["Newman Noggs", "Wackford Squeers", "Ralph Nickleby", "John Browdie"],
+    "answer": "Ralph Nickleby"
+  },
+  {
+    "question": "What is the central theme of *Nicholas Nickleby*?",
+    "options": ["Industrialization", "Selfishness", "Boarding school abuse", "War"],
+    "answer": "Boarding school abuse"
+  },
+  {
+    "question": "In *The Old Curiosity Shop*, who is the young orphan protagonist?",
+    "options": ["Kate Nickleby", "Amy Dorrit", "Nell Trent", "Esther Summerson"],
+    "answer": "Nell Trent"
+  },
+  {
+    "question": "*The Old Curiosity Shop* was praised by which monarch?",
+    "options": ["Queen Elizabeth I", "Queen Victoria", "Queen Anne", "King George IV"],
+    "answer": "Queen Victoria"
+  },
+  {
+    "question": "Which Dickens novel is subtitled *A Tale of the Riots of ‘Eighty*?",
+    "options": ["Martin Chuzzlewit", "Barnaby Rudge", "Bleak House", "Hard Times"],
+    "answer": "Barnaby Rudge"
+  },
+  {
+    "question": "Who turns out to be the murderer in *Barnaby Rudge*?",
+    "options": ["Geoffrey Haredale", "Barnaby", "Rudge", "John Chester"],
+    "answer": "Rudge"
+  },
+  {
+    "question": "What is the main theme of *Martin Chuzzlewit*?",
+    "options": ["Industrial greed", "Family conflict", "Social hypocrisy", "Selfishness"],
+    "answer": "Selfishness"
+  },
+  {
+    "question": "What are the names of Pecksniff's daughters in *Martin Chuzzlewit*?",
+    "options": ["Flora and Dora", "Charity and Mercy", "Mary and Clara", "Lucy and Rose"],
+    "answer": "Charity and Mercy"
+  },
+  {
+    "question": "Which Dickens novel deals with the downfall of Mr. Dombey due to his pride?",
+    "options": ["Little Dorrit", "Dombey and Son", "Nicholas Nickleby", "Bleak House"],
+    "answer": "Dombey and Son"
+  },
+  {
+    "question": "What is the name of Dombey’s neglected daughter?",
+    "options": ["Lucy", "Florence", "Kate", "Dora"],
+    "answer": "Florence"
+  },
+  {
+    "question": "Which novel is considered Dickens’s autobiographical work?",
+    "options": ["Oliver Twist", "David Copperfield", "Hard Times", "Our Mutual Friend"],
+    "answer": "David Copperfield"
+  },
+  {
+    "question": "Who is David Copperfield’s first love, modeled on Dickens’ real-life love Maria?",
+    "options": ["Emily", "Agnes", "Dora", "Estella"],
+    "answer": "Dora"
+  },
+  {
+    "question": "*Bleak House* satirizes which British institution?",
+    "options": ["The monarchy", "The press", "The Court of Chancery", "Parliament"],
+    "answer": "The Court of Chancery"
+  },
+  {
+    "question": "*Little Dorrit* primarily explores which theme?",
+    "options": ["Love and betrayal", "Prison and debt", "Industrialization", "Political revolution"],
+    "answer": "Prison and debt"
+  },
+  {
+    "question": "What is the subtitle of *A Tale of Two Cities*’ famous opening?",
+    "options": [
+      "It was the best of cities, it was the worst of cities",
+      "It was a tale of time and war",
+      "It was the best of times, it was the worst of times",
+      "It was a city in flames"
+    ],
+    "answer": "It was the best of times, it was the worst of times"
+  },
+  {
+    "question": "Who sacrifices himself at the end of *A Tale of Two Cities*?",
+    "options": ["Charles Darnay", "Dr. Manette", "Sydney Carton", "Lucie’s brother"],
+    "answer": "Sydney Carton"
+  },
+  {
+    "question": "Who is the escaped convict in *Great Expectations*?",
+    "options": ["Joe", "Compeyson", "Magwitch", "Pumblechook"],
+    "answer": "Magwitch"
+  },
+  {
+    "question": "What is Estella's relationship to Magwitch?",
+    "options": ["Daughter", "Wife", "Sister", "Cousin"],
+    "answer": "Daughter"
+  },
+  {
+    "question": "*Hard Times* critiques which Victorian philosophy?",
+    "options": ["Romanticism", "Catholicism", "Utilitarianism", "Colonialism"],
+    "answer": "Utilitarianism"
+  },
+  {
+    "question": "What is the name of the miserly businessman in *A Christmas Carol*?",
+    "options": ["Scrooge", "Marley", "Fred", "Tim"],
+    "answer": "Scrooge"
+  },
+  {
+    "question": "Who are the ghosts that visit Scrooge?",
+    "options": [
+      "Three kings",
+      "Jacob Marley and two angels",
+      "Past, Present, and Future",
+      "Time, Fate, and Spirit"
+    ],
+    "answer": "Past, Present, and Future"
+  },
+  {
+    "question": "Which Dickens novel features a character named Pip?",
+    "options": ["Dombey and Son", "Great Expectations", "Bleak House", "Hard Times"],
+    "answer": "Great Expectations"
+  },
+  {
+    "question": "In *Hard Times*, what are the three parts of the novel called?",
+    "options": ["Spring, Summer, Autumn", "Faith, Hope, Charity", "Sowing, Reaping, Garnering", "Work, Play, Rest"],
+    "answer": "Sowing, Reaping, Garnering"
+  },
+  {
+    "question": "Who saves Pip from Orlick’s attack in *Great Expectations*?",
+    "options": ["Joe", "Herbert", "Magwitch", "Jaggers"],
+    "answer": "Herbert"
+  }
+]

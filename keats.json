@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Who among the following is regarded as a second-generation Romantic poet along with Shelley and Byron?",
+    "options": ["William Blake", "John Keats", "William Wordsworth", "Robert Southey"],
+    "answer": "John Keats"
+  },
+  {
+    "question": "Where was John Keats born?",
+    "options": ["Stratford-upon-Avon", "Moorgate, London", "Lake District", "Dublin"],
+    "answer": "Moorgate, London"
+  },
+  {
+    "question": "Which magazine first published Keats's sonnet 'Solitude'?",
+    "options": ["The Spectator", "The Tatler", "The Examiner", "The Quarterly Review"],
+    "answer": "The Examiner"
+  },
+  {
+    "question": "Who described the publication day of Keats’s poetry as a ‘Red Letter Day’?",
+    "options": ["Leigh Hunt", "Percy Shelley", "Charles Cowden Clarke", "William Hazlitt"],
+    "answer": "Charles Cowden Clarke"
+  },
+  {
+    "question": "Which work is a collaboration of Shelley, Keats, and Reynolds?",
+    "options": ["Endymion", "Hyperion", "Three Young Poets", "Ode to Psyche"],
+    "answer": "Three Young Poets"
+  },
+  {
+    "question": "How many sonnets did John Keats write in total?",
+    "options": ["54", "64", "44", "74"],
+    "answer": "64"
+  },
+  {
+    "question": "What are the famous ending lines of 'Ode on a Grecian Urn'?",
+    "options": [
+      "A thing of beauty is a joy forever",
+      "Truth is beauty, beauty is truth – that is all ye know on earth",
+      "Seasons of mists and mellow fruitfulness",
+      "Cease upon the midnight with no pain"
+    ],
+    "answer": "Truth is beauty, beauty is truth – that is all ye know on earth"
+  },
+  {
+    "question": "Who memorized Keats in the elegy 'Adonais'?",
+    "options": ["Byron", "Wordsworth", "Shelley", "Coleridge"],
+    "answer": "Shelley"
+  },
+  {
+    "question": "What is the meaning of 'Annus Mirabilis' in Keats's context?",
+    "options": ["Year of illness", "Year of travels", "Year of wonders", "Year of tragedies"],
+    "answer": "Year of wonders"
+  },
+  {
+    "question": "Who called Keats 'more sensuous than others because he satisfies all five senses'?",
+    "options": ["Arnold", "Hazlitt", "Hunt", "Wordsworth"],
+    "answer": "Arnold"
+  },
+  {
+    "question": "Which poem begins with the line: 'A thing of beauty is a joy forever'?",
+    "options": ["Ode to Psyche", "Endymion", "Lamia", "Hyperion"],
+    "answer": "Endymion"
+  },
+  {
+    "question": "What poetic form is used in 'Endymion'?",
+    "options": ["Blank verse", "Heroic couplets", "Free verse", "Terza Rima"],
+    "answer": "Heroic couplets"
+  },
+  {
+    "question": "What concept did Keats introduce in 1817?",
+    "options": ["Romantic Imagination", "Negative Capability", "Egotistical Sublime", "Fancy and Imagination"],
+    "answer": "Negative Capability"
+  },
+  {
+    "question": "Who did Keats believe possessed Negative Capability?",
+    "options": ["Milton", "Shakespeare", "Wordsworth", "Shelley"],
+    "answer": "Shakespeare"
+  },
+  {
+    "question": "Which bird is central to one of Keats’s famous odes?",
+    "options": ["Skylark", "Cuckoo", "Nightingale", "Raven"],
+    "answer": "Nightingale"
+  },
+  {
+    "question": "What does the nightingale symbolize in 'Ode to a Nightingale'?",
+    "options": ["Hope", "Pain", "Art", "Death"],
+    "answer": "Art"
+  },
+  {
+    "question": "Which poem opens with 'Seasons of mists and mellow fruitfulness'?",
+    "options": ["Ode to Psyche", "To Autumn", "On a Grecian Urn", "Lamia"],
+    "answer": "To Autumn"
+  },
+  {
+    "question": "What is the rhyme scheme of 'On First Looking into Chapman’s Homer'?",
+    "options": ["abab cdcd efef gg", "abba abba cdcdcd", "aabbcc", "abba abba cdecde"],
+    "answer": "abba abba cdcdcd"
+  },
+  {
+    "question": "Why did Keats abandon 'Hyperion'?",
+    "options": ["Lack of ideas", "Criticism of being Miltonic", "Illness", "Personal loss"],
+    "answer": "Criticism of being Miltonic"
+  },
+  {
+    "question": "What is the form of 'The Eve of St. Agnes'?",
+    "options": ["Heroic couplets", "Free verse", "Spenserian stanza", "Blank verse"],
+    "answer": "Spenserian stanza"
+  },
+  {
+    "question": "Who was Keats’s love interest mentioned in his biography?",
+    "options": ["Mary Shelley", "Fanny Browne", "Elizabeth Barrett", "Emily Brontë"],
+    "answer": "Fanny Browne"
+  },
+  {
+    "question": "Which poem was dedicated to Thomas Chatterton?",
+    "options": ["Endymion", "Hyperion", "Isabella", "Lamia"],
+    "answer": "Endymion"
+  },
+  {
+    "question": "What literary identity did Keats contrast against 'Egotistical Sublime'?",
+    "options": ["Romantic Genius", "Hellenic Poet", "Chameleon Poet", "Mystic Realist"],
+    "answer": "Chameleon Poet"
+  },
+  {
+    "question": "What was engraved on Keats's tombstone?",
+    "options": [
+      "Here lies the poet of Beauty",
+      "Forever remembered in verse",
+      "Here lies one, whose name was writ in water",
+      "A thing of beauty is a joy forever"
+    ],
+    "answer": "Here lies one, whose name was writ in water"
+  },
+  {
+    "question": "What theme dominates 'The Eve of St. Agnes'?",
+    "options": ["War", "Religious doubt", "Sensuous love", "Political satire"],
+    "answer": "Sensuous love"
+  }
+]

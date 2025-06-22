@@ -1,0 +1,412 @@
+[
+  {
+    "question": "Which major epic poem is John Milton best known for?",
+    "options": ["Paradise Lost", "Lycidas", "Comus", "Samson Agonistes"],
+    "answer": "Paradise Lost"
+  },
+  {
+    "question": "Milton’s prose work 'Areopagitica' is a defense of what?",
+    "options": ["Democracy", "Free speech and press", "Monarchy", "Puritanism"],
+    "answer": "Free speech and press"
+  },
+  {
+    "question": "Which language did Milton NOT write in?",
+    "options": ["English", "Latin", "French", "Greek"],
+    "answer": "French"
+  },
+  {
+    "question": "What was Milton’s nickname at Christ’s College, Cambridge?",
+    "options": ["Gentle Genius", "Lady of the Christ", "Blind Prophet", "Poetic Master"],
+    "answer": "Lady of the Christ"
+  },
+  {
+    "question": "Who was the subject of Milton’s elegy 'Lycidas'?",
+    "options": ["William Blake", "Edward King", "Charles Diodati", "John Egerton"],
+    "answer": "Edward King"
+  },
+  {
+    "question": "Which of Milton’s works was anonymously included in the 1632 folio of Shakespeare?",
+    "options": ["Lycidas", "On Shakespeare", "Areopagitica", "Il Penseroso"],
+    "answer": "On Shakespeare"
+  },
+  {
+    "question": "Which tragedy by Milton was published alongside 'Paradise Regained' in 1671?",
+    "options": ["Comus", "Lycidas", "Samson Agonistes", "Il Penseroso"],
+    "answer": "Samson Agonistes"
+  },
+  {
+    "question": "What event caused Milton to go completely blind?",
+    "options": ["Kidney failure", "Stroke", "Unknown illness", "Not specified"],
+    "answer": "Not specified"
+  },
+  {
+    "question": "Who composed music for Milton's masque 'Comus'?",
+    "options": ["Henry Purcell", "William Lawes", "Henry Lawes", "John Blow"],
+    "answer": "Henry Lawes"
+  },
+  {
+    "question": "Which poetic device is most common in 'Paradise Lost'?",
+    "options": ["Rhyme", "Heroic couplets", "Blank verse", "Free verse"],
+    "answer": "Blank verse"
+  },
+  {
+    "question": "Which critic called Milton the 'Poet of the Sublime'?",
+    "options": ["Wordsworth", "Dryden", "Arnold", "Hazlitt"],
+    "answer": "Dryden"
+  },
+  {
+    "question": "What kind of sonnets did Milton predominantly write?",
+    "options": ["Shakespearean", "Blank verse", "Petrarchan", "Spenserian"],
+    "answer": "Petrarchan"
+  },
+  {
+    "question": "Which poet wrote 'Milton! Thou should’st be living at this hour'?",
+    "options": ["Shelley", "Blake", "Wordsworth", "Tennyson"],
+    "answer": "Wordsworth"
+  },
+  {
+    "question": "How many sonnets did Milton write in total?",
+    "options": ["14", "24", "19", "27"],
+    "answer": "24"
+  },
+  {
+    "question": "What is 'Comus' subtitled as?",
+    "options": [
+      "A Masque to Liberty",
+      "A Vision of Night",
+      "A Masque presented at Ludlow Castle",
+      "A Celebration of Innocence"
+    ],
+    "answer": "A Masque presented at Ludlow Castle"
+  },
+  {
+    "question": "Who called Milton the 'god-gifted organ voice of England'?",
+    "options": ["Blake", "Arnold", "Tennyson", "Johnson"],
+    "answer": "Tennyson"
+  },
+  {
+    "question": "What poem is the line 'Fame is no plant that grows on mortal soil' from?",
+    "options": ["Lycidas", "Paradise Lost", "Comus", "On Time"],
+    "answer": "Lycidas"
+  },
+  {
+    "question": "Who claimed Milton was 'of the devil’s party without knowing it'?",
+    "options": ["Dryden", "Johnson", "Blake", "Keats"],
+    "answer": "Blake"
+  },
+  {
+    "question": "Milton's two contrasting narrative poems are?",
+    "options": [
+      "Lycidas and Comus",
+      "L’Allegro and Il Penseroso",
+      "Samson Agonistes and Lycidas",
+      "Il Penseroso and On Time"
+    ],
+    "answer": "L’Allegro and Il Penseroso"
+  },
+  {
+    "question": "What does 'L’Allegro' mean?",
+    "options": ["The Sorrowful One", "The Melancholy Man", "The Happy Man", "The Pious One"],
+    "answer": "The Happy Man"
+  },
+  {
+    "question": "Milton’s theological work that supports polygamy is?",
+    "options": ["De Doctrina Christiana", "Areopagitica", "Of Divorce", "On Education"],
+    "answer": "De Doctrina Christiana"
+  },
+  {
+    "question": "Which critic described Milton’s sonnets as 'flowers at the base of a proud column'?",
+    "options": ["Blake", "Hazlitt", "Johnson", "Tennyson"],
+    "answer": "Hazlitt"
+  },
+  {
+    "question": "What is the subject of 'On the Late Massacre in Piedmont'?",
+    "options": ["Personal grief", "Italian politics", "Religious persecution", "Satan's rebellion"],
+    "answer": "Religious persecution"
+  },
+  {
+    "question": "The line 'Love virtue, she alone is free' belongs to which work?",
+    "options": ["Areopagitica", "Comus", "Lycidas", "Paradise Lost"],
+    "answer": "Comus"
+  },
+  {
+    "question": "Which poem includes the line 'and calm of mind all passion spent'?",
+    "options": ["Samson Agonistes", "Il Penseroso", "Lycidas", "Comus"],
+    "answer": "Samson Agonistes"
+  },
+  {
+    "question": "How many books are in the second edition of Milton's Paradise Lost?",
+    "options": ["10", "12", "14", "16"],
+    "answer": "12"
+  },
+  {
+    "question": "What was Milton’s stated purpose in writing Paradise Lost?",
+    "options": [
+      "To glorify Satan’s rebellion",
+      "To narrate biblical events",
+      "To justify the ways of God to man",
+      "To promote Puritan ideals"
+    ],
+    "answer": "To justify the ways of God to man"
+  },
+  {
+    "question": "Which form of verse is used in Paradise Lost?",
+    "options": ["Heroic couplets", "Blank verse", "Free verse", "Ottava rima"],
+    "answer": "Blank verse"
+  },
+  {
+    "question": "In what year was Paradise Lost first published?",
+    "options": ["1652", "1667", "1674", "1688"],
+    "answer": "1667"
+  },
+  {
+    "question": "What shape does Satan take when perched on the Tree of Life?",
+    "options": ["Serpent", "Toad", "Cormorant", "Cherub"],
+    "answer": "Cormorant"
+  },
+  {
+    "question": "Who is Satan’s second-in-command in Paradise Lost?",
+    "options": ["Belial", "Mammon", "Beelzebub", "Moloch"],
+    "answer": "Beelzebub"
+  },
+  {
+    "question": "What is the name of the great temple built by demons in Hell?",
+    "options": ["Gehenna", "Purgatorio", "Pandemonium", "Inferna"],
+    "answer": "Pandemonium"
+  },
+  {
+    "question": "Who are Satan’s two offspring in Paradise Lost?",
+    "options": ["Envy and Wrath", "Pride and Sloth", "Sin and Death", "Chaos and Night"],
+    "answer": "Sin and Death"
+  },
+  {
+    "question": "Which angel volunteers to warn Adam and Eve in Paradise?",
+    "options": ["Gabriel", "Uriel", "Raphael", "Michael"],
+    "answer": "Raphael"
+  },
+  {
+    "question": "What major prose work of Milton defends freedom of the press?",
+    "options": ["Of Education", "Areopagitica", "Doctrine of Divorce", "Eikonoklastes"],
+    "answer": "Areopagitica"
+  },
+  {
+    "question": "Which narrative poem by Milton describes the death of Edward King?",
+    "options": ["Il Penseroso", "Lycidas", "Comus", "On Time"],
+    "answer": "Lycidas"
+  },
+  {
+    "question": "In Paradise Lost, Satan says it is 'better to reign in Hell than to serve in Heaven'. This line appears in:",
+    "options": ["Book I", "Book II", "Book III", "Book IV"],
+    "answer": "Book I"
+  },
+  {
+    "question": "Who detects Satan’s disguise in Paradise and informs Gabriel?",
+    "options": ["Raphael", "Uriel", "Michael", "Abdiel"],
+    "answer": "Uriel"
+  },
+  {
+    "question": "What is the symbolic meaning of the golden scales seen in the sky during Gabriel and Satan’s confrontation?",
+    "options": [
+      "The balance of good and evil",
+      "The coming apocalypse",
+      "Heaven’s judgment that Satan cannot win",
+      "The fall of mankind"
+    ],
+    "answer": "Heaven’s judgment that Satan cannot win"
+  },
+  {
+    "question": "Who refuses to follow Satan and returns to God's side during the rebellion in Heaven?",
+    "options": ["Uriel", "Michael", "Gabriel", "Abdiel"],
+    "answer": "Abdiel"
+  },
+  {
+    "question": "What structure does Satan see from Earth, described as a kingly gate with stairs leading to Heaven?",
+    "options": ["Tower of Babel", "Celestial Staircase", "Jacob’s Ladder", "Gate of Heaven"],
+    "answer": "Gate of Heaven"
+  },
+  {
+    "question": "What is the first act of disobedience described in Paradise Lost?",
+    "options": [
+      "Satan’s rebellion",
+      "Adam and Eve eating the forbidden fruit",
+      "Sin and Death creating a bridge",
+      "Building of Pandemonium"
+    ],
+    "answer": "Adam and Eve eating the forbidden fruit"
+  },
+  {
+    "question": "Which prose work of Milton focuses on reforming universities?",
+    "options": ["Of Reformation", "Of Education", "Areopagitica", "Tetrachordon"],
+    "answer": "Of Education"
+  },
+  {
+    "question": "In which book of Paradise Lost does Satan fly to Earth to find mankind?",
+    "options": ["Book I", "Book II", "Book III", "Book IV"],
+    "answer": "Book II"
+  },
+  {
+    "question": "Milton added prose summaries of each book to Paradise Lost in the edition of:",
+    "options": ["1667", "1674", "1652", "1688"],
+    "answer": "1674"
+  },
+  {
+    "question": "Who leads Heaven's army in the war against Satan in Book VI?",
+    "options": ["Raphael and Uriel", "Michael and Gabriel", "Michael and Abdiel", "Uriel and Abdiel"],
+    "answer": "Michael and Gabriel"
+  },
+  {
+    "question": "How long did Satan and his followers fall before landing in Hell?",
+    "options": ["3 days", "7 days", "9 days", "12 days"],
+    "answer": "9 days"
+  },
+  {
+    "question": "In Book VII, who does Milton invoke for inspiration?",
+    "options": ["Calliope", "Urania", "Clio", "Euterpe"],
+    "answer": "Urania"
+  },
+  {
+    "question": "Who created Earth in Paradise Lost according to Raphael?",
+    "options": ["Gabriel", "The Father", "The Son", "Michael"],
+    "answer": "The Son"
+  },
+  {
+    "question": "What hangs the Earth below Heaven in Paradise Lost?",
+    "options": ["A divine pillar", "The hand of God", "A golden chain", "Sun rays"],
+    "answer": "A golden chain"
+  },
+  {
+    "question": "According to Raphael, what is Eve's weakness?",
+    "options": ["Envy", "Pride", "Vanity", "Fear"],
+    "answer": "Vanity"
+  },
+  {
+    "question": "Which book in Paradise Lost contains the fall of Adam and Eve?",
+    "options": ["Book VII", "Book VIII", "Book IX", "Book X"],
+    "answer": "Book IX"
+  },
+  {
+    "question": "How does Satan deceive Eve into eating the fruit?",
+    "options": [
+      "By showing her visions",
+      "By appearing as Gabriel",
+      "By speaking through a serpent",
+      "By using a dream"
+    ],
+    "answer": "By speaking through a serpent"
+  },
+  {
+    "question": "Why does Adam eat the fruit after Eve?",
+    "options": [
+      "He is tempted by Satan",
+      "He wishes to gain knowledge",
+      "He does not know it’s forbidden",
+      "He cannot live without her"
+    ],
+    "answer": "He cannot live without her"
+  },
+  {
+    "question": "Who judges Adam and Eve after their disobedience?",
+    "options": ["God the Father", "Raphael", "Gabriel", "The Son"],
+    "answer": "The Son"
+  },
+  {
+    "question": "What curse is given to snakes in Book X?",
+    "options": [
+      "They will die young",
+      "They must crawl on their bellies",
+      "They must guard Eden",
+      "They must live in fire"
+    ],
+    "answer": "They must crawl on their bellies"
+  },
+  {
+    "question": "What does God do to the earth after the Fall?",
+    "options": ["Destroys it", "Remakes Eden", "Tilts its axis", "Seals Eden forever"],
+    "answer": "Tilts its axis"
+  },
+  {
+    "question": "Who is the first human to die, shown in Michael’s vision to Adam?",
+    "options": ["Seth", "Noah", "Cain", "Abel"],
+    "answer": "Abel"
+  },
+  {
+    "question": "What causes the great flood in Adam’s vision?",
+    "options": [
+      "Satan's influence",
+      "Mankind’s sinful ways",
+      "Curse of the tree",
+      "Wrath of angels"
+    ],
+    "answer": "Mankind’s sinful ways"
+  },
+  {
+    "question": "What sign does God show after the flood to promise no destruction again?",
+    "options": ["A dove", "A comet", "A rainbow", "An angel"],
+    "answer": "A rainbow"
+  },
+  {
+    "question": "Who builds the Tower of Babel?",
+    "options": ["Cain", "Noah", "Nimrod", "Lamech"],
+    "answer": "Nimrod"
+  },
+  {
+    "question": "Who is chosen as the father of Israel in Paradise Lost?",
+    "options": ["Isaac", "Jacob", "Moses", "Abraham"],
+    "answer": "Abraham"
+  },
+  {
+    "question": "Who leads the Israelites out of Egypt?",
+    "options": ["Aaron", "Joseph", "Moses", "Joshua"],
+    "answer": "Moses"
+  },
+  {
+    "question": "Who is promised to unite Heaven and Earth in the future?",
+    "options": ["Gabriel", "David", "Jesus", "Noah"],
+    "answer": "Jesus"
+  },
+  {
+    "question": "Who shows Adam visions of mankind’s future?",
+    "options": ["Raphael", "Michael", "Uriel", "The Son"],
+    "answer": "Michael"
+  },
+  {
+    "question": "How many books are in Paradise Regained?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4"
+  },
+  {
+    "question": "What does Satan first tempt Jesus with in the desert?",
+    "options": ["Power", "Wealth", "Food", "Music"],
+    "answer": "Food"
+  },
+  {
+    "question": "What does Jesus say about Satan’s offer of Greek philosophy and wisdom?",
+    "options": [
+      "It is divinely inspired",
+      "It is superior to Hebrew tradition",
+      "It is empty",
+      "It is suitable only for pagans"
+    ],
+    "answer": "It is empty"
+  },
+  {
+    "question": "What does Satan try last to tempt Jesus at the pinnacle of the temple?",
+    "options": [
+      "Jump to prove his divinity",
+      "Reveal future events",
+      "Pray to him",
+      "Accept angels’ protection"
+    ],
+    "answer": "Jump to prove his divinity"
+  },
+  {
+    "question": "How does Paradise Regained end?",
+    "options": [
+      "Satan defeats Jesus",
+      "Jesus accepts glory",
+      "Jesus returns home after angelic feast",
+      "Angels cast out Satan"
+    ],
+    "answer": "Jesus returns home after angelic feast"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Which poetic form is Alexander Pope best known for using?",
+    "options": ["Blank verse", "Ottava rima", "Free verse", "Heroic couplet"],
+    "answer": "Heroic couplet"
+  },
+  {
+    "question": "Which of Pope's works is considered a mock-heroic poem?",
+    "options": ["Windsor Forest", "Essay on Criticism", "The Rape of the Lock", "Peri Bathous"],
+    "answer": "The Rape of the Lock"
+  },
+  {
+    "question": "What was the first major published work of Alexander Pope?",
+    "options": ["The Pastorals", "The Rape of the Lock", "Windsor Forest", "Essay on Criticism"],
+    "answer": "The Pastorals"
+  },
+  {
+    "question": "What club did Pope form with Swift, Gay, and others to satirize pedantry?",
+    "options": ["The Dunciad Society", "Augustan League", "The Scriblerus Club", "The Tory Assembly"],
+    "answer": "The Scriblerus Club"
+  },
+  {
+    "question": "What genre is Pope's 'Peri Bathous'?",
+    "options": ["Epic", "Mock-epic", "Satirical essay", "Tragedy"],
+    "answer": "Satirical essay"
+  },
+  {
+    "question": "Who was Pope’s close lifelong companion?",
+    "options": ["Clarissa", "Lady Mary Montagu", "Martha Blount", "Arabella Fermor"],
+    "answer": "Martha Blount"
+  },
+  {
+    "question": "Who is the gnome that visits the Cave of Spleen in The Rape of the Lock?",
+    "options": ["Shock", "Ariel", "Umbriel", "Betty"],
+    "answer": "Umbriel"
+  },
+  {
+    "question": "In which canto of The Rape of the Lock is the lock of hair actually cut?",
+    "options": ["Canto I", "Canto II", "Canto III", "Canto V"],
+    "answer": "Canto III"
+  },
+  {
+    "question": "Which classical author did Pope imitate in 'Imitations of Horace'?",
+    "options": ["Virgil", "Juvenal", "Longinus", "Horace"],
+    "answer": "Horace"
+  },
+  {
+    "question": "Which of the following quotes is from Pope's 'Essay on Criticism'?",
+    "options": [
+      "A little learning is a dangerous thing",
+      "All the world’s a stage",
+      "Better to reign in Hell than serve in Heaven",
+      "The best lack all conviction"
+    ],
+    "answer": "A little learning is a dangerous thing"
+  },
+  {
+    "question": "Who did Pope attack as 'Appius' in Essay on Criticism?",
+    "options": ["Dryden", "John Dennis", "Richard Blackmore", "Thomas Shadwell"],
+    "answer": "John Dennis"
+  },
+  {
+    "question": "What supernatural being serves as Belinda's guardian in The Rape of the Lock?",
+    "options": ["Ariel", "Clarissa", "Umbriel", "Betty"],
+    "answer": "Ariel"
+  },
+  {
+    "question": "Which poem describes the area around Pope’s house?",
+    "options": ["Windsor Forest", "The Dunciad", "The Rape of the Lock", "Ode on Solitude"],
+    "answer": "Windsor Forest"
+  },
+  {
+    "question": "In which poem does Pope say: 'To err is human, to forgive divine'?",
+    "options": ["Essay on Man", "Essay on Criticism", "The Rape of the Lock", "Messiah"],
+    "answer": "Essay on Criticism"
+  },
+  {
+    "question": "What is the total line count of 'The Rape of the Lock'?",
+    "options": ["674", "794", "856", "612"],
+    "answer": "794"
+  },
+  {
+    "question": "What literary term did Pope introduce in 'Peri Bathous'?",
+    "options": ["Sublime", "Burlesque", "Bathos", "Satire"],
+    "answer": "Bathos"
+  },
+  {
+    "question": "Which poem of Pope begins with Belinda asleep and her dog Shock by her side?",
+    "options": ["Windsor Forest", "Essay on Criticism", "The Rape of the Lock", "Elegy to an Unfortunate Lady"],
+    "answer": "The Rape of the Lock"
+  },
+  {
+    "question": "Which of the following influenced 'The Rape of the Lock'?",
+    "options": ["Le Comte de Gabalis", "The Iliad", "The Aeneid", "On the Sublime"],
+    "answer": "Le Comte de Gabalis"
+  },
+  {
+    "question": "Who called Pope 'Paper Saving Pope'?",
+    "options": ["Swift", "Voltaire", "Dr. Johnson", "Addison"],
+    "answer": "Jonathan Swift"
+  },
+  {
+    "question": "What does Belinda use to subdue the Baron in The Rape of the Lock?",
+    "options": ["A mirror", "Perfume", "Snuff", "A letter"],
+    "answer": "Snuff"
+  },
+  {
+    "question": "What is the subject of Pope’s 'Messiah'?",
+    "options": ["Christ’s resurrection", "Virgil’s fourth eclogue", "Pagan gods", "The Pope"],
+    "answer": "Virgil’s fourth eclogue"
+  },
+  {
+    "question": "Who described Pope’s translation of Homer as 'a performance no age could equal'?",
+    "options": ["Voltaire", "Swift", "Dr. Johnson", "Walter Bate"],
+    "answer": "Dr. Johnson"
+  },
+  {
+    "question": "Which Queen's reign is praised in Windsor Forest?",
+    "options": ["Elizabeth I", "Queen Anne", "Victoria", "Mary II"],
+    "answer": "Queen Anne"
+  },
+  {
+    "question": "Which work by Pope is a parody of Longinus’ 'On the Sublime'?",
+    "options": ["Essay on Man", "Peri Bathous", "Essay on Criticism", "Imitations of Horace"],
+    "answer": "Peri Bathous"
+  },
+  {
+    "question": "What does Pope refer to in 'Essay on Criticism' with 'True wit is nature to advantage dressed'?",
+    "options": [
+      "Wit should be original",
+      "Poetry should be mysterious",
+      "Art should enhance nature",
+      "Critics are better than poets"
+    ],
+    "answer": "Art should enhance nature"
+  },
+  {
+    "question": "Which literary form is used in Pope’s *Essay on Man*?",
+    "options": ["Blank verse", "Free verse", "Heroic couplets", "Ottava rima"],
+    "answer": "Heroic couplets"
+  },
+  {
+    "question": "What is the main philosophical goal of *Essay on Man*?",
+    "options": [
+      "To explain political satire",
+      "To vindicate the ways of God to man",
+      "To promote Catholic faith",
+      "To criticize monarchy"
+    ],
+    "answer": "To vindicate the ways of God to man"
+  },
+  {
+    "question": "To whom are the four epistles of *Essay on Man* addressed?",
+    "options": ["Jonathan Swift", "Lord Bolingbroke", "Dr. Arbuthnot", "Addison"],
+    "answer": "Lord Bolingbroke"
+  },
+  {
+    "question": "Which philosopher praised *Essay on Man* as 'the most useful poem ever written'?",
+    "options": ["Jean-Jacques Rousseau", "Voltaire", "Hume", "Locke"],
+    "answer": "Voltaire"
+  },
+  {
+    "question": "What is the famous line from *Epistle to Dr. Arbuthnot* referring to mild criticism?",
+    "options": [
+      "Willing to wound but yet afraid to strike",
+      "Fools rush in where angels fear to tread",
+      "To err is human",
+      "True wit is nature to advantage dressed"
+    ],
+    "answer": "Willing to wound but yet afraid to strike"
+  },
+  {
+    "question": "*Epistle to Dr. Arbuthnot* famously satirizes which two figures?",
+    "options": ["Swift and Gay", "Addison and Hervey", "Dryden and Dennis", "Dennis and Swift"],
+    "answer": "Addison and Hervey"
+  },
+  {
+    "question": "Which character in *The Dunciad* replaced Lewis Theobald in later editions?",
+    "options": ["John Dennis", "Colley Cibber", "Atticus", "Tibbald"],
+    "answer": "Colley Cibber"
+  },
+  {
+    "question": "What vice is primarily satirized in *The Dunciad*?",
+    "options": ["Hypocrisy", "Dullness", "Ambition", "Vanity"],
+    "answer": "Dullness"
+  },
+  {
+    "question": "Which quote from *The Dunciad* describes the climax of dullness?",
+    "options": [
+      "Thy hand great Dullness! Let’s the curtain fall",
+      "Wit’s last and greatest art",
+      "Damn with faint praise",
+      "Where ignorance is bliss, 'tis folly to be wise"
+    ],
+    "answer": "Thy hand great Dullness! Let’s the curtain fall"
+  },
+  {
+    "question": "Who did Pope address in his poetic satire *Epistle to Dr. Arbuthnot*?",
+    "options": ["A Whig politician", "A Catholic Bishop", "A physician friend", "A critic of The Dunciad"],
+    "answer": "A physician friend"
+  }
+]

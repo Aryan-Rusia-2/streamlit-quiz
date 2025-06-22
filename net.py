@@ -49,7 +49,7 @@ elif section_choice == "Paper 2":
 
 else:
     st.subheader("Important Authors – Focused Practice")
-    author_choice = st.selectbox("Choose Author", ["T.S. Eliot", "Coleridge", "William Wordsworth", "Dryden", "Johnson"])
+    author_choice = st.selectbox("Choose Author", ["T.S. Eliot", "Coleridge", "William Wordsworth", "Dryden", "Johnson", "John Keats", "John Milton", "Alexander Pope", "Charles Dickens"])
     if author_choice == "T.S. Eliot":
         json_file = "ts_eliot.json"
     elif author_choice == "Coleridge":
@@ -60,6 +60,14 @@ else:
         json_file = "dryden.json"
     elif author_choice == "Johnson":
         json_file = "johnson.json"
+    elif author_choice == "John Keats":
+        json_file = "keats.json"
+    elif author_choice == "John Milton":
+        json_file = "milton.json"
+    elif author_choice == "Alexander Pope":
+        json_file = "pope.json"
+    elif author_choice == "Charles Dickens":
+        json_file = "dickens.json"
     else:
         json_file = "default_author.json"
 
