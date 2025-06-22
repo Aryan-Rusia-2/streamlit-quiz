@@ -7,19 +7,21 @@ QUIZ_SIZE = 20
 
 # Title
 st.title("📘 UGC-NET English Quiz App")
-st.subheader("Choose Paper:")
+st.subheader("Choose Section:")
 
-# Step 1: Paper selector
-paper_choice = st.radio("Select UGC-NET Paper:", ["Paper 1", "Paper 2"])
+# Step 1: Section Selector
+section_choice = st.radio("Select Quiz Type:", ["Paper 1", "Paper 2", "Important Authors"])
 
-# Step 2: Logic based on Paper selection
-if paper_choice == "Paper 1":
+# Step 2: Logic Based on Section
+if section_choice == "Paper 1":
     st.subheader("Paper 1 – General Aptitude")
     chapter = st.selectbox("Choose Chapter", ["Research Aptitude"])  # Add more later
     json_file = "ResearchAptitude.json"
-else:
+
+elif section_choice == "Paper 2":
     st.subheader("Paper 2 – English Literature")
     quiz_type = st.selectbox("Quiz Type", ["Indian Literature", "Cultural Studies", "Chronology", "Literary Theory", "Linguistics", "African Literature", "European Literature", "British Part 1", "British Part 2", "British Part 3", "British Part 4", "Australian Literature"])
+    
     if quiz_type == "Indian Literature":
         json_file = "chapterOne.json"
     elif quiz_type == "Cultural Studies":
@@ -44,6 +46,22 @@ else:
         json_file = "aus.json"
     else:
         json_file = "chronology.json"
+
+else:
+    st.subheader("Important Authors – Focused Practice")
+    author_choice = st.selectbox("Choose Author", ["T.S. Eliot", "Coleridge", "William Wordsworth", "Dryden", "Johnson"])
+    if author_choice == "T.S. Eliot":
+        json_file = "ts_eliot.json"
+    elif author_choice == "Coleridge":
+        json_file = "coleridge.json"
+    elif author_choice == "William Wordsworth":
+        json_file = "wordsworth.json"
+    elif author_choice == "Dryden":
+        json_file = "dryden.json"
+    elif author_choice == "Johnson":
+        json_file = "johnson.json"
+    else:
+        json_file = "default_author.json"
 
 # Load questions
 with open(json_file, "r", encoding="utf-8") as f:
@@ -71,7 +89,7 @@ if "shuffled_options" not in st.session_state or st.session_state.get("quiz_id")
 st.subheader(f"📝 Quiz {quiz_index}")
 
 # Chronology-style rendering
-if paper_choice == "Paper 2" and quiz_type == "Chronology":
+if section_choice == "Paper 2" and quiz_type == "Chronology":
     for idx, q in enumerate(selected_questions):
         st.markdown(f"---\n### Q{idx + 1}: {q['question']}")
         st.markdown(f"A. {q['works'][0]}")
@@ -88,17 +106,16 @@ if paper_choice == "Paper 2" and quiz_type == "Chronology":
             else:
                 st.error(f"❌ Incorrect. Your answer: {user_ans} | Correct: {correct}")
 
-# Regular MCQ: Two-part quiz
+# Regular MCQ rendering
 else:
     half = len(selected_questions) // 2
     first_half = selected_questions[:half]
     second_half = selected_questions[half:]
 
-    # Initialize answer storage if not already done
     if "user_answers" not in st.session_state or st.session_state.quiz_id != quiz_key:
         st.session_state.user_answers = [None] * len(selected_questions)
 
-    # Part 1: Questions 1–10
+    # Part 1
     with st.form("quiz_form_part1"):
         st.markdown("### 🧾 Part 1: Questions 1 to 10")
         for idx, q in enumerate(first_half):
@@ -121,7 +138,7 @@ else:
         st.session_state.score1 = score1
         st.markdown(f"#### 🧮 Score for Part 1: **{score1}/{half}**")
 
-    # Part 2: Questions 11–20
+    # Part 2
     with st.form("quiz_form_part2"):
         st.markdown("### 🧾 Part 2: Questions 11 to 20")
         for idx, q in enumerate(second_half, start=half):
@@ -144,6 +161,5 @@ else:
         st.session_state.score2 = score2
         st.markdown(f"#### 🧮 Score for Part 2: **{score2}/{len(second_half)}**")
 
-        # Final Score (if both parts submitted)
         total_score = st.session_state.get("score1", 0) + score2
         st.markdown(f"### ✅ Final Combined Score: **{total_score}/{len(selected_questions)}**")

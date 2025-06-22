@@ -1,0 +1,283 @@
+[
+  {
+    "question": "Which poem by Wordsworth is also known as 'Daffodils'?",
+    "options": ["The Solitary Reaper", "The World Is Too Much With Us", "I Wandered Lonely as a Cloud", "Tintern Abbey"],
+    "answer": "I Wandered Lonely as a Cloud"
+  },
+  {
+    "question": "What is the subtitle of 'The Prelude'?",
+    "options": ["Poem to Dorothy", "The Recluse", "Growth of a Poet’s Mind", "Poem of the Lakes"],
+    "answer": "Growth of a Poet’s Mind"
+  },
+  {
+    "question": "Who published 'The Prelude' after Wordsworth’s death?",
+    "options": ["S.T. Coleridge", "Dorothy Wordsworth", "Mary Hutchinson", "John Murray"],
+    "answer": "Mary Hutchinson"
+  },
+  {
+    "question": "Which poem by Wordsworth recalls a walk with his daughter Caroline?",
+    "options": ["To the Cuckoo", "The Solitary Reaper", "It is a Beauteous Evening, Calm and Free", "My Heart Leaps Up"],
+    "answer": "It is a Beauteous Evening, Calm and Free"
+  },
+  {
+    "question": "Who was the addressee of Wordsworth’s sonnet 'London, 1802'?",
+    "options": ["Blake", "Milton", "Byron", "Shakespeare"],
+    "answer": "Milton"
+  },
+  {
+    "question": "Which of these is *not* part of the 'Lucy Poems' collection?",
+    "options": ["Three Years She Grew", "She Dwelt Among the Untrodden Ways", "A Slumber Did My Spirit Seal", "The Solitary Reaper"],
+    "answer": "The Solitary Reaper"
+  },
+  {
+    "question": "Which of the following was Wordsworth’s only play?",
+    "options": ["The Recluse", "Peter Bell", "The Borderers", "Resolution and Independence"],
+    "answer": "The Borderers"
+  },
+  {
+    "question": "What year was the first edition of Lyrical Ballads published?",
+    "options": ["1800", "1798", "1797", "1802"],
+    "answer": "1798"
+  },
+  {
+    "question": "Which poem concludes the first edition of Lyrical Ballads?",
+    "options": ["The Solitary Reaper", "Tintern Abbey", "Lucy Gray", "The Rime of the Ancient Mariner"],
+    "answer": "Tintern Abbey"
+  },
+  {
+    "question": "Who coined the term 'Lake School of Poets'?",
+    "options": ["J.C. Ransom", "Francis Jeffrey", "Coleridge", "Robert Southey"],
+    "answer": "Francis Jeffrey"
+  },
+  {
+    "question": "What type of poem is 'The World Is Too Much With Us'?",
+    "options": ["Blank verse", "Free verse", "Italian sonnet", "Elegy"],
+    "answer": "Italian sonnet"
+  },
+  {
+    "question": "Which poem is also referred to as 'Sonnet Upon Sonnet'?",
+    "options": ["The Prelude", "The Recluse", "Nuns Fret Not", "Elegiac Stanzas"],
+    "answer": "Nuns Fret Not"
+  },
+  {
+    "question": "Which poem criticizes materialism during the Industrial Revolution?",
+    "options": ["The Excursion", "My Heart Leaps Up", "The World Is Too Much With Us", "Michael"],
+    "answer": "The World Is Too Much With Us"
+  },
+  {
+    "question": "How many sonnets did Wordsworth write?",
+    "options": ["78", "231", "320", "523"],
+    "answer": "523"
+  },
+  {
+    "question": "Which poetic work was intended as part of a grand project titled 'The Recluse'?",
+    "options": ["The Prelude", "The Solitary Reaper", "Tintern Abbey", "Descriptive Sketches"],
+    "answer": "The Prelude"
+  },
+  {
+    "question": "Who is the author of 'Grasmere Journal'?",
+    "options": ["William Wordsworth", "Dorothy Wordsworth", "Mary Hutchinson", "Robert Southey"],
+    "answer": "Dorothy Wordsworth"
+  },
+  {
+    "question": "Which collection contains 'Ode: Intimations of Immortality'?",
+    "options": ["The Prelude", "Poems in Two Volumes", "Lyrical Ballads", "The Recluse"],
+    "answer": "Poems in Two Volumes"
+  },
+  {
+    "question": "In which poem does Wordsworth explore the theme of lost youth and immortality?",
+    "options": ["Ode: Intimations of Immortality", "Michael", "The Borderers", "Peter Bell"],
+    "answer": "Ode: Intimations of Immortality"
+  },
+  {
+    "question": "Which poem is addressed to a bird and reflects childhood innocence?",
+    "options": ["To a Skylark", "To the Cuckoo", "Ode to Duty", "The Solitary Reaper"],
+    "answer": "To the Cuckoo"
+  },
+  {
+    "question": "Which poem includes the line 'My heart leaps up when I behold'?",
+    "options": ["The Solitary Reaper", "I Wandered Lonely as a Cloud", "My Heart Leaps Up", "The Prelude"],
+    "answer": "My Heart Leaps Up"
+  },
+  {
+    "question": "Who called Wordsworth 'a lost leader'?",
+    "options": ["Byron and Shelley", "Hazlitt and Browning", "Keats and Leigh Hunt", "Coleridge and Blake"],
+    "answer": "Hazlitt and Browning"
+  },
+  {
+    "question": "What year was 'The Excursion' published?",
+    "options": ["1802", "1807", "1814", "1850"],
+    "answer": "1814"
+  },
+  {
+    "question": "Which poem begins with 'The music in my heart I bore'?",
+    "options": ["The Solitary Reaper", "The Prelude", "Michael", "To the Cuckoo"],
+    "answer": "The Solitary Reaper"
+  },
+  {
+    "question": "Which poem is set during a solitary walk in the countryside?",
+    "options": ["Lines Written Above Tintern Abbey", "The Recluse", "Peter Bell", "The Borderers"],
+    "answer": "Lines Written Above Tintern Abbey"
+  },
+  {
+    "question": "Which university awarded Wordsworth an honorary doctorate in Civil Law?",
+    "options": ["Oxford", "Durham", "Cambridge", "St. Andrews"],
+    "answer": "Durham"
+  },
+  {
+    "question": "Who referred to Wordsworth as having 'uttered nothing base'?",
+    "options": ["Browning", "Matthew Arnold", "Tennyson", "Hazlitt"],
+    "answer": "Tennyson"
+  },
+  {
+    "question": "Who called Wordsworth's style 'Egoistic Sublime'?",
+    "options": ["Hazlitt", "Shelley", "Keats", "Coleridge"],
+    "answer": "Keats"
+  },
+  {
+    "question": "Who described Wordsworth as a 'Moral Eunuch'?",
+    "options": ["Hazlitt", "Browning", "Jeffrey", "Hardy"],
+    "answer": "Browning"
+  },
+  {
+    "question": "In which edition did Wordsworth include the Appendix 'Poetic Diction'?",
+    "options": ["1798", "1800", "1802", "1805"],
+    "answer": "1802"
+  },
+  {
+    "question": "Which poem by Coleridge was added in 1800 edition replacing 'The Convict'?",
+    "options": ["The Nightingale", "The Dungeon", "Love", "The Foster Mother’s Tale"],
+    "answer": "Love"
+  },
+  {
+    "question": "Which of these poems was *omitted* from the 1800 edition of Lyrical Ballads?",
+    "options": ["Michael", "The Convict", "Love", "The Brothers"],
+    "answer": "The Convict"
+  },
+  {
+    "question": "In the Preface, Wordsworth defines poetry as:",
+    "options": [
+      "An art form of nature",
+      "The finest expression of intellect",
+      "The spontaneous overflow of powerful feelings recollected in tranquility",
+      "An imitation of life in metrical form"
+    ],
+    "answer": "The spontaneous overflow of powerful feelings recollected in tranquility"
+  },
+  {
+    "question": "How many poems did Coleridge contribute to the 1798 Lyrical Ballads?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4"
+  },
+  {
+    "question": "Which poem opens the 1798 edition of Lyrical Ballads?",
+    "options": ["Michael", "Tintern Abbey", "The Brothers", "The Rime of the Ancient Mariner"],
+    "answer": "The Rime of the Ancient Mariner"
+  },
+  {
+    "question": "Which poem ends the 1798 edition of Lyrical Ballads?",
+    "options": ["Michael", "The Dungeon", "Tintern Abbey", "The Nightingale"],
+    "answer": "Tintern Abbey"
+  },
+  {
+    "question": "Which poetic form is *not* used in 'Ode: Intimations of Immortality'?",
+    "options": ["Elegy", "Blank verse", "Pindaric Ode", "Conversation poem"],
+    "answer": "Blank verse"
+  },
+  {
+    "question": "Which poem by Wordsworth contains the line 'Thoughts that do often lie too deep for tears'?",
+    "options": ["The Prelude", "Tintern Abbey", "Ode: Intimations of Immortality", "The Solitary Reaper"],
+    "answer": "Ode: Intimations of Immortality"
+  },
+  {
+    "question": "Which of the following is a conversation poem in blank verse by Wordsworth?",
+    "options": ["Tintern Abbey", "The Solitary Reaper", "The Prelude", "Resolution and Independence"],
+    "answer": "The Prelude"
+  },
+  {
+    "question": "Which book of The Prelude includes 'Boy of Winander' episode?",
+    "options": ["Book 3", "Book 5", "Book 7", "Book 11"],
+    "answer": "Book 5"
+  },
+  {
+    "question": "What is described by Wordsworth as having a 'renovating virtue' in The Prelude?",
+    "options": ["Nature", "Spots of time", "Tintern Abbey", "Youth"],
+    "answer": "Spots of time"
+  },
+  {
+    "question": "Which poem is subtitled 'on Revisiting the Banks of the Wye during a Tour, July 13, 1798'?",
+    "options": [
+      "Ode: Intimations of Immortality",
+      "Lines Composed a Few Miles Above Tintern Abbey",
+      "The Solitary Reaper",
+      "The Recluse"
+    ],
+    "answer": "Lines Composed a Few Miles Above Tintern Abbey"
+  },
+  {
+    "question": "How many books are there in the final 1850 version of The Prelude?",
+    "options": ["12", "13", "14", "15"],
+    "answer": "14"
+  },
+  {
+    "question": "In which poem does the line appear: 'The child is the father of man'?",
+    "options": [
+      "Tintern Abbey",
+      "The Prelude",
+      "My Heart Leaps Up",
+      "The Solitary Reaper"
+    ],
+    "answer": "My Heart Leaps Up"
+  },
+  {
+    "question": "Which quote appears in The Prelude and is also cited as expressing joy of youth?",
+    "options": [
+      "The music in my heart I bore",
+      "Come grow old with me",
+      "Bliss was it in that dawn to be alive",
+      "Spots of time that retain a renovating virtue"
+    ],
+    "answer": "Bliss was it in that dawn to be alive"
+  },
+  {
+    "question": "Which of these is *not* a work by Wordsworth?",
+    "options": ["The Recluse", "Laodamia", "The Leechgatherer", "Christabel"],
+    "answer": "Christabel"
+  },
+  {
+    "question": "Who said Wordsworth's poetry ranks just after Shakespeare and Milton?",
+    "options": ["Tennyson", "Keats", "Matthew Arnold", "Browning"],
+    "answer": "Matthew Arnold"
+  },
+  {
+    "question": "Which work by Wordsworth serves as a manifesto of Romanticism?",
+    "options": [
+      "The Prelude",
+      "Lyrical Ballads Preface",
+      "The Solitary Reaper",
+      "Ode to Duty"
+    ],
+    "answer": "Lyrical Ballads Preface"
+  },
+  {
+    "question": "According to Wordsworth, poetry should use the language of:",
+    "options": ["Court and nobility", "Myth and imagination", "Middle and lower class conversation", "Archaic forms"],
+    "answer": "Middle and lower class conversation"
+  },
+  {
+    "question": "Which quote by Wordsworth explains his concept of poetic diction?",
+    "options": [
+      "The best words in the best order",
+      "Poetry is the breath and finer spirit of all knowledge",
+      "All things that love the sun are out of doors",
+      "The poet binds together by passion and knowledge"
+    ],
+    "answer": "Poetry is the breath and finer spirit of all knowledge"
+  },
+  {
+    "question": "Which poem by Wordsworth is influenced by the French Revolution?",
+    "options": ["The Excursion", "The Prelude", "Lyrical Ballads", "Peter Bell"],
+    "answer": "Lyrical Ballads"
+  }
+]
+

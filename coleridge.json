@@ -1,0 +1,258 @@
+[
+  {
+    "question": "Which of the following poems by Coleridge was addressed to Sara Hutchinson?",
+    "options": ["Frost at Midnight", "Love", "Dejection: An Ode", "The Nightingale"],
+    "answer": "Love"
+  },
+  {
+    "question": "Which of these terms was coined by Coleridge?",
+    "options": ["Objective Correlative", "Stream of Consciousness", "Suspension of Disbelief", "Negative Capability"],
+    "answer": "Suspension of Disbelief"
+  },
+  {
+    "question": "What was the name of the journal Coleridge published every eight days in 1796?",
+    "options": ["The Watchmen", "The Friend", "The Examiner", "The Observer"],
+    "answer": "The Watchmen"
+  },
+  {
+    "question": "Which German poet's trilogy did Coleridge translate?",
+    "options": ["Heine", "Schelling", "Goethe", "Schiller"],
+    "answer": "Schiller"
+  },
+  {
+    "question": "What poetic term did Coleridge coin to describe poetic imagination?",
+    "options": ["Esemplastic", "Metaphysical", "Negative Capability", "Fancy"],
+    "answer": "Esemplastic"
+  },
+  {
+    "question": "Which work by Coleridge explains Primary and Secondary Imagination?",
+    "options": ["The Friend", "Kubla Khan", "Biographia Literaria", "The Statesman's Manual"],
+    "answer": "Biographia Literaria"
+  },
+  {
+    "question": "What kind of power did Coleridge associate with Secondary Imagination?",
+    "options": ["Reproductive", "Mechanical", "Magical Synthetic", "Rational"],
+    "answer": "Magical Synthetic"
+  },
+  {
+    "question": "According to Coleridge, which of these is *not* a creative power?",
+    "options": ["Primary Imagination", "Secondary Imagination", "Fancy", "Esemplastic"],
+    "answer": "Fancy"
+  },
+  {
+    "question": "Which phrase did Coleridge use to describe Iago from Shakespeare’s *Othello*?",
+    "options": ["Evil incarnate", "False patriot", "Motiveless malignity", "Fiendish villain"],
+    "answer": "Motiveless malignity"
+  },
+  {
+    "question": "What kind of meter did Coleridge introduce in 'Christabel'?",
+    "options": ["Spenserian stanza", "Ottava rima", "Blank verse", "Christabel meter with rhythmic variation"],
+    "answer": "Christabel meter with rhythmic variation"
+  },
+  {
+    "question": "What was the title of the tragedy written by Coleridge and later retitled 'Remorse'?",
+    "options": ["France: An Ode", "Osorio", "The Mad Monk", "Kubla Khan"],
+    "answer": "Osorio"
+  },
+  {
+    "question": "Coleridge’s conversation poems include all of the following EXCEPT:",
+    "options": ["The Lime Tree Bower", "Frost at Midnight", "The Nightingale", "Kubla Khan"],
+    "answer": "Kubla Khan"
+  },
+  {
+    "question": "Coleridge collaborated with Wordsworth on which landmark poetry collection?",
+    "options": ["Poems in Two Volumes", "The Prelude", "Lyrical Ballads", "Songs of Innocence"],
+    "answer": "Lyrical Ballads"
+  },
+  {
+    "question": "What psychological condition did Coleridge suffer from?",
+    "options": ["OCD", "Bipolar disorder", "Schizophrenia", "PTSD"],
+    "answer": "Bipolar disorder"
+  },
+  {
+    "question": "Which poem by Coleridge was written after an opium-induced dream?",
+    "options": ["Frost at Midnight", "Christabel", "The Pains of Sleep", "Kubla Khan"],
+    "answer": "Kubla Khan"
+  },
+  {
+    "question": "What term did Coleridge use to describe the fusion of reason with magic or supernatural?",
+    "options": ["Transcendental fusion", "Organic synthesis", "Esemplastic", "Synthetic metaphor"],
+    "answer": "Esemplastic"
+  },
+  {
+    "question": "Which critical prose work by Coleridge discusses Shakespeare and Milton?",
+    "options": ["Aids to Reflection", "The Friend", "Seven Lectures upon Shakespeare and Milton", "Hints Toward a Theory of Life"],
+    "answer": "Seven Lectures upon Shakespeare and Milton"
+  },
+  {
+    "question": "What is Coleridge’s metaphor for the difference between fancy and imagination?",
+    "options": ["Tree and fruit", "Mind and body", "Mechanical mixture vs chemical compound", "Pen and paper"],
+    "answer": "Mechanical mixture vs chemical compound"
+  },
+  {
+    "question": "Which work by Coleridge is an ode originally written as a verse letter to Sara Hutchinson?",
+    "options": ["The Nightingale", "Love", "Dejection: An Ode", "The Pains of Sleep"],
+    "answer": "Dejection: An Ode"
+  },
+  {
+    "question": "Which of the following thinkers are associated with German Idealism, a movement Coleridge helped popularize?",
+    "options": ["Schelling and Hegel", "Goethe and Heine", "Kant and Nietzsche", "Descartes and Leibniz"],
+    "answer": "Schelling and Hegel"
+  },
+  {
+    "question": "Who described Coleridge as 'Perhaps the greatest of English critics, and in a sense the last'?",
+    "options": ["Matthew Arnold", "T.S. Eliot", "William Hazlitt", "Samuel Johnson"],
+    "answer": "T.S. Eliot"
+  },
+  {
+    "question": "Who referred to Coleridge as 'A Damaged Archangel'?",
+    "options": ["Hazlitt", "Lamb", "Wordsworth", "Eliot"],
+    "answer": "Charles Lamb"
+  },
+  {
+    "question": "How many parts are there in 'The Rime of the Ancient Mariner'?",
+    "options": ["V", "VI", "VII", "VIII"],
+    "answer": "VII"
+  },
+  {
+    "question": "What object is hung around the Mariner’s neck as a symbol of guilt?",
+    "options": ["A cross", "A rope", "The Albatross", "A bone"],
+    "answer": "The Albatross"
+  },
+  {
+    "question": "Which two spirits gamble for the Mariner’s soul in 'Rime of the Ancient Mariner'?",
+    "options": ["Life and Death", "Death and Life-in-Death", "Fate and Fortune", "Sin and Redemption"],
+    "answer": "Death and Life-in-Death"
+  },
+  {
+    "question": "What is the famous quote that signifies thirst in 'Rime of the Ancient Mariner'?",
+    "options": ["Not a drop to see", "All is lost", "Water, water everywhere, nor any drop to drink", "Thirst is agony"],
+    "answer": "Water, water everywhere, nor any drop to drink"
+  },
+  {
+    "question": "How does the Mariner redeem himself spiritually?",
+    "options": ["By confessing to the Hermit", "By praying to God", "By blessing water snakes", "By saving a child"],
+    "answer": "By blessing water snakes"
+  },
+  {
+    "question": "What effect does hearing the Mariner’s tale have on the wedding guest?",
+    "options": ["He faints", "He becomes mad", "He misses the wedding", "He returns home sadder and wiser"],
+    "answer": "He returns home sadder and wiser"
+  },
+  {
+    "question": "What poetic device is used in the line: 'As idle as a painted ship upon a painted ocean'?",
+    "options": ["Metaphor", "Simile", "Personification", "Alliteration"],
+    "answer": "Simile"
+  },
+  {
+    "question": "What inspired 'Kubla Khan'?",
+    "options": ["Byron’s stories", "Shakespeare’s plays", "Purcha’s Pilgrimage", "A Chinese myth"],
+    "answer": "Purcha’s Pilgrimage"
+  },
+  {
+    "question": "Why was 'Kubla Khan' left incomplete according to Coleridge?",
+    "options": ["He fell ill", "He lost interest", "He was interrupted by a visitor from Porlock", "The manuscript was burned"],
+    "answer": "He was interrupted by a visitor from Porlock"
+  },
+  {
+    "question": "What is the subtitle of 'Kubla Khan'?",
+    "options": ["A Fragment", "A Vision in Time", "A Dream of the Orient", "An Ode to Xanadu"],
+    "answer": "A Fragment"
+  },
+  {
+    "question": "In 'Kubla Khan', the river Alph flows to:",
+    "options": ["A sacred pool", "A crystal cave", "A sunless sea", "The edge of the world"],
+    "answer": "A sunless sea"
+  },
+  {
+    "question": "Who is the visionary figure the narrator hears in 'Kubla Khan'?",
+    "options": ["Kubla Khan himself", "A Damsel with a dulcimer", "A wandering monk", "A veiled prophetess"],
+    "answer": "A Damsel with a dulcimer"
+  },
+  {
+    "question": "Which poem starts with: “’Tis the middle of night by the Castle clock…”?",
+    "options": ["Frost at Midnight", "Christabel", "Dejection: An Ode", "Kubla Khan"],
+    "answer": "Christabel"
+  },
+  {
+    "question": "What is the name of the mysterious woman encountered by Christabel?",
+    "options": ["Leoline", "Sarah", "Geraldine", "Clarisse"],
+    "answer": "Geraldine"
+  },
+  {
+    "question": "What sign reveals Geraldine’s supernatural nature in 'Christabel'?",
+    "options": ["Her voice", "Her shadow", "A strange mark on her body", "Her eyes glow"],
+    "answer": "A strange mark on her body"
+  },
+  {
+    "question": "Which poem expresses Coleridge’s hopes for his son Hartley?",
+    "options": ["Love", "Dejection: An Ode", "Frost at Midnight", "France: An Ode"],
+    "answer": "Frost at Midnight"
+  },
+  {
+    "question": "What kind of poem is 'Frost at Midnight'?",
+    "options": ["Lyrical ballad", "Narrative poem", "Conversation poem", "Blank verse drama"],
+    "answer": "Conversation poem"
+  },
+  {
+    "question": "How many chapters does Biographia Literaria have?",
+    "options": ["20", "21", "23", "25"],
+    "answer": "23"
+  },
+  {
+    "question": "In which chapter of Biographia Literaria does Coleridge introduce 'Suspension of Disbelief'?",
+    "options": ["X", "XIII", "XIV", "XV"],
+    "answer": "XIV"
+  },
+  {
+    "question": "What does Coleridge compare Fancy and Imagination to?",
+    "options": ["Memory and Dream", "Water and Fire", "Mechanical mixture and chemical compound", "Song and Silence"],
+    "answer": "Mechanical mixture and chemical compound"
+  },
+  {
+    "question": "Which German philosopher had a major influence on Coleridge?",
+    "options": ["Descartes", "Voltaire", "Schelling", "Machiavelli"],
+    "answer": "Schelling"
+  },
+  {
+    "question": "Which of Coleridge’s plays was later renamed 'Remorse'?",
+    "options": ["France: An Ode", "Osorio", "The Mad Monk", "The Statesman's Manual"],
+    "answer": "Osorio"
+  },
+  {
+    "question": "Which 1816 pamphlet first contained 'Christabel', 'Kubla Khan', and 'The Pains of Sleep'?",
+    "options": ["Three Visions", "Dreams and Fragments", "Pamphlet of Nightmares", "A pamphlet of three poems"],
+    "answer": "A pamphlet of three poems"
+  },
+  {
+    "question": "Coleridge believed that 'Fancy' is just:",
+    "options": ["A spiritual process", "A creative act", "A memory-like operation", "A force of emotion"],
+    "answer": "A memory-like operation"
+  },
+  {
+    "question": "Coleridge coined the term 'Esemplastic' to describe:",
+    "options": ["Nature", "Imagination’s fusing power", "Religious epiphany", "Romantic solitude"],
+    "answer": "Imagination’s fusing power"
+  },
+  {
+    "question": "Which poem by Coleridge contains the line: 'He prayeth best, who loveth best all things both great and small'?",
+    "options": ["Dejection: An Ode", "Kubla Khan", "Rime of the Ancient Mariner", "Frost at Midnight"],
+    "answer": "Rime of the Ancient Mariner"
+  },
+  {
+    "question": "Coleridge’s concept of 'Secondary Imagination' is described as:",
+    "options": ["Empirical association", "Mechanical recall", "Conscious, vital, creative power", "Detached perception"],
+    "answer": "Conscious, vital, creative power"
+  },
+  {
+    "question": "In 'Biographia Literaria', Coleridge opposed which poetic claim by Wordsworth?",
+    "options": [
+      "Nature as a teacher",
+      "Ordinary language in poetry",
+      "Imagination over reason",
+      "Unity of content and form"
+    ],
+    "answer": "Ordinary language in poetry"
+  }
+]
+

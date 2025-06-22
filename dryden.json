@@ -1,0 +1,157 @@
+[
+  {
+    "question": "Who is considered the 'Father of English Criticism'?",
+    "options": ["Ben Jonson", "Alexander Pope", "John Dryden", "Samuel Johnson"],
+    "answer": "John Dryden"
+  },
+  {
+    "question": "Dryden's critical work 'An Essay of Dramatic Poesy' is structured as a:",
+    "options": ["Monologue", "Dialogue", "Narrative", "Epistle"],
+    "answer": "Dialogue"
+  },
+  {
+    "question": "Which character in Dryden's 'Essay of Dramatic Poesy' represents Dryden himself?",
+    "options": ["Eugenius", "Crites", "Lisideius", "Neander"],
+    "answer": "Neander"
+  },
+  {
+    "question": "Dryden believed the final end of poetry is to:",
+    "options": ["Instruct", "Delight and transport", "Reform society", "Depict morality"],
+    "answer": "Delight and transport"
+  },
+  {
+    "question": "In the Preface to Fables, Dryden called Chaucer:",
+    "options": ["A moralist", "The first satirist", "The Father of English Poetry", "The last romantic"],
+    "answer": "The Father of English Poetry"
+  },
+  {
+    "question": "Which famous work by Dryden was written during the closure of London theatres due to plague?",
+    "options": ["The Hind and the Panther", "An Essay of Dramatic Poesy", "Absalom and Achitophel", "Religio Laici"],
+    "answer": "An Essay of Dramatic Poesy"
+  },
+  {
+    "question": "Who called Dryden 'Glorious John'?",
+    "options": ["T.S. Eliot", "Samuel Johnson", "Matthew Arnold", "Walter Scott"],
+    "answer": "Walter Scott"
+  },
+  {
+    "question": "Which critic said: 'He found it brick and left it marble' about Dryden?",
+    "options": ["T.S. Eliot", "Walter Scott", "Samuel Johnson", "Coleridge"],
+    "answer": "Samuel Johnson"
+  },
+  {
+    "question": "Which dialogue character in Dryden’s essay defends the Ancients?",
+    "options": ["Neander", "Lisideius", "Crites", "Eugenius"],
+    "answer": "Crites"
+  },
+  {
+    "question": "Neander argues that tragicomedy is the best form because:",
+    "options": ["It follows French models", "It is closer to life", "It teaches more morals", "It avoids rhyme"],
+    "answer": "It is closer to life"
+  },
+  {
+    "question": "Which character in Dryden’s Essay represents the French dramatic tradition?",
+    "options": ["Crites", "Eugenius", "Lisideius", "Neander"],
+    "answer": "Lisideius"
+  },
+  {
+    "question": "What poetic device did Crites oppose in serious drama?",
+    "options": ["Simile", "Blank verse", "Rhyme", "Allegory"],
+    "answer": "Rhyme"
+  },
+  {
+    "question": "Dryden defended rhyme in drama by saying it:",
+    "options": ["Limits imagination", "Follows ancient rules", "Is fit only for comedy", "Adds to judgment and delight"],
+    "answer": "Adds to judgment and delight"
+  },
+  {
+    "question": "Which critic argued that French plays omit the mistake of representing death on stage?",
+    "options": ["Crites", "Lisideius", "Eugenius", "Neander"],
+    "answer": "Lisideius"
+  },
+  {
+    "question": "Which author is described by Dryden as 'more correct', though he loves the other more?",
+    "options": ["Chaucer", "Pope", "Jonson", "Milton"],
+    "answer": "Jonson"
+  },
+  {
+    "question": "Who said: 'I admire Jonson, but I love Shakespeare'?",
+    "options": ["Samuel Johnson", "John Dryden", "T.S. Eliot", "Ben Jonson"],
+    "answer": "John Dryden"
+  },
+  {
+    "question": "In 'Essay of Dramatic Poesy', Lisideius claims English plays are inferior because they:",
+    "options": ["Do not use rhyme", "Use too many characters", "Ignore classical unities", "Are not emotional"],
+    "answer": "Ignore classical unities"
+  },
+  {
+    "question": "Dryden translated the works of all of the following EXCEPT:",
+    "options": ["Virgil", "Ovid", "Homer", "Horace"],
+    "answer": "Horace"
+  },
+  {
+    "question": "Dryden considered poetry to be an imitation of:",
+    "options": ["Facts", "Morality", "Best nature", "Religion"],
+    "answer": "Best nature"
+  },
+  {
+    "question": "Dryden’s religion later in life was:",
+    "options": ["Protestant", "Anglican", "Catholic", "Deist"],
+    "answer": "Catholic"
+  },
+  {
+    "question": "Which of these is not one of the 'three unities' in classical drama?",
+    "options": ["Unity of action", "Unity of style", "Unity of time", "Unity of place"],
+    "answer": "Unity of style"
+  },
+  {
+    "question": "Who in the dialogue said: 'Moderns have excelled the Ancients'?",
+    "options": ["Crites", "Lisideius", "Eugenius", "Neander"],
+    "answer": "Eugenius"
+  },
+  {
+    "question": "What does Neander say about French drama?",
+    "options": ["It lacks beauty", "It imitates English now", "It is morally flawed", "It always follows Jonson"],
+    "answer": "It imitates English now"
+  },
+  {
+    "question": "What form of literary criticism is Dryden said to have pioneered?",
+    "options": ["Psychological criticism", "Practical criticism", "Post-structuralism", "Historical criticism"],
+    "answer": "Practical criticism"
+  },
+  {
+    "question": "Dryden’s 'Preface to Fables' is considered a masterpiece of:",
+    "options": ["Narrative style", "Satire", "Critical judgment", "Romanticism"],
+    "answer": "Critical judgment"
+  },
+  {
+    "question": "Dryden wrote comparative studies of all the following EXCEPT:",
+    "options": ["Homer", "Ovid", "Chaucer", "Aristotle"],
+    "answer": "Aristotle"
+  },
+  {
+    "question": "Dryden admired Shakespeare for having:",
+    "options": [
+      "A balanced structure",
+      "The most beautiful language",
+      "The largest and most comprehensive soul",
+      "Perfect use of rhyme"
+    ],
+    "answer": "The largest and most comprehensive soul"
+  },
+  {
+    "question": "Which French playwright did Lisideius praise as superior to English dramatists?",
+    "options": ["Racine", "Voltaire", "Corneille", "Molière"],
+    "answer": "Corneille"
+  },
+  {
+    "question": "Dryden translated Chaucer’s works in which of his publications?",
+    "options": ["Fables Ancient and Modern", "Essay of Dramatic Poesy", "Religio Laici", "The Hind and the Panther"],
+    "answer": "Fables Ancient and Modern"
+  },
+  {
+    "question": "Dryden argued that rhyme helps a poet in:",
+    "options": ["Limiting creativity", "Avoiding mistakes", "Controlling fancy and pleasing readers", "Imitating classical writers"],
+    "answer": "Controlling fancy and pleasing readers"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Who wrote the biography 'Life of Samuel Johnson' in 1791?",
+    "options": ["Charlotte Lennox", "James Boswell", "Oliver Goldsmith", "Edmund Burke"],
+    "answer": "James Boswell"
+  },
+  {
+    "question": "Which poem by Samuel Johnson is an imitation of Juvenal’s third satire?",
+    "options": ["Messiah", "London", "The Vanity of Human Wishes", "Rasselas"],
+    "answer": "London"
+  },
+  {
+    "question": "Which publication included Johnson’s essay series 'The Idler'?",
+    "options": ["The Gentleman’s Magazine", "The Rambler", "The Universal Chronicle", "The Literary Magazine"],
+    "answer": "The Universal Chronicle"
+  },
+  {
+    "question": "What is Samuel Johnson’s only novel?",
+    "options": ["Rasselas", "Irene", "The Adventurer", "The Rambler"],
+    "answer": "Rasselas"
+  },
+  {
+    "question": "What was the original title of Johnson’s novel 'Rasselas'?",
+    "options": ["The Search for Wisdom", "The Abyssinian Prince", "The Choice of Life", "The Valley of Happiness"],
+    "answer": "The Choice of Life"
+  },
+  {
+    "question": "Which of these magazines did Samuel Johnson not write for?",
+    "options": ["The Rambler", "The Adventurer", "The Spectator", "The Idler"],
+    "answer": "The Spectator"
+  },
+  {
+    "question": "Which poem by Johnson is an imitation of Juvenal’s tenth satire?",
+    "options": ["London", "Irene", "The Vanity of Human Wishes", "Messiah"],
+    "answer": "The Vanity of Human Wishes"
+  },
+  {
+    "question": "Who praised Johnson’s early poem 'Messiah'?",
+    "options": ["Dryden", "Pope", "Milton", "Gray"],
+    "answer": "Pope"
+  },
+  {
+    "question": "Which Johnson work contains 52 biographies of poets?",
+    "options": ["The Rambler", "Preface to Shakespeare", "Lives of the Most Eminent English Poets", "Rasselas"],
+    "answer": "Lives of the Most Eminent English Poets"
+  },
+  {
+    "question": "Which of Johnson’s works includes the quote 'A book should help us either to enjoy life or to endure it'?",
+    "options": ["Rambler", "Rasselas", "The Idler", "Lives of the Poets"],
+    "answer": "Lives of the Poets"
+  },
+  {
+    "question": "Who did Johnson describe as 'the poet of nature'?",
+    "options": ["Milton", "Dryden", "Shakespeare", "Pope"],
+    "answer": "Shakespeare"
+  },
+  {
+    "question": "What is the title of Johnson’s only play?",
+    "options": ["Rasselas", "Irene", "The Adventurer", "The Vanity of Human Wishes"],
+    "answer": "Irene"
+  },
+  {
+    "question": "Which work by Johnson is modeled on 'Arabian Nights'?",
+    "options": ["The Rambler", "Rasselas", "The Idler", "A Journey to the Western Islands"],
+    "answer": "Rasselas"
+  },
+  {
+    "question": "Which chapter of Rasselas is titled 'Dissertation upon Poetry'?",
+    "options": ["5", "10", "12", "15"],
+    "answer": "10"
+  },
+  {
+    "question": "Johnson’s 'London' describes the character Thales fleeing to which place?",
+    "options": ["Scotland", "Ireland", "Wales", "France"],
+    "answer": "Wales"
+  },
+  {
+    "question": "How many years did Johnson take to complete his dictionary?",
+    "options": ["5", "7", "9", "11"],
+    "answer": "9"
+  },
+  {
+    "question": "In which year was 'A Dictionary of the English Language' published?",
+    "options": ["1749", "1755", "1765", "1770"],
+    "answer": "1755"
+  },
+  {
+    "question": "How many words did Johnson’s dictionary include approximately?",
+    "options": ["20,000", "30,000", "40,000", "50,000"],
+    "answer": "40,000"
+  },
+  {
+    "question": "Which friend of Johnson defended 'The Rambler' in her novel 'The Female Quixote'?",
+    "options": ["Charlotte Lennox", "Frances Burney", "Mary Wollstonecraft", "Elizabeth Inchbald"],
+    "answer": "Charlotte Lennox"
+  },
+  {
+    "question": "Which is NOT a member of Johnson’s Literary Club?",
+    "options": ["Joshua Reynolds", "Edmund Burke", "Boswell", "Percy Shelley"],
+    "answer": "Percy Shelley"
+  },
+  {
+    "question": "Which of Johnson’s works is a travel narrative through Scotland?",
+    "options": ["The Idler", "The Adventurer", "A Journey to the Western Islands of Scotland", "The Beauties of Johnson"],
+    "answer": "A Journey to the Western Islands of Scotland"
+  },
+  {
+    "question": "Which of the following is Johnson’s only known translation?",
+    "options": ["A Voyage to Abyssinia", "The Odyssey", "The Iliad", "The Aeneid"],
+    "answer": "A Voyage to Abyssinia"
+  },
+  {
+    "question": "Who described Johnson as 'arguably the most distinguished man of letters in English history'?",
+    "options": ["T.S. Eliot", "James Boswell", "George III", "Matthew Arnold"],
+    "answer": "T.S. Eliot"
+  },
+  {
+    "question": "Who was the oldest poet featured in 'Lives of the Poets'?",
+    "options": ["Milton", "Dryden", "Cowley", "Addison"],
+    "answer": "Milton"
+  },
+  {
+    "question": "Which poem by Johnson contains the line 'Resolved at length from vice and London far'?",
+    "options": ["Messiah", "The Vanity of Human Wishes", "London", "Rasselas"],
+    "answer": "London"
+  },
+  {
+    "question": "In which of his works did Johnson use the term 'Metaphysical Poets'?",
+    "options": ["The Rambler", "Life of Cowley", "Preface to Shakespeare", "The Idler"],
+    "answer": "Life of Cowley"
+  },
+  {
+    "question": "What form is used in 'The Vanity of Human Wishes'?",
+    "options": ["Free verse", "Blank verse", "Heroic couplets", "Ottava rima"],
+    "answer": "Heroic couplets"
+  },
+  {
+    "question": "Who called Johnson's 'The Vanity of Human Wishes' his greatest poem?",
+    "options": ["Hazlitt and Shelley", "Walter Scott and T.S. Eliot", "Dryden and Pope", "Boswell and Reynolds"],
+    "answer": "Walter Scott and T.S. Eliot"
+  },
+  {
+    "question": "Which poets did Matthew Arnold classify and edit from 'Lives of the Poets'?",
+    "options": ["Milton, Dryden, Pope, Addison, Swift, Gray", "Shakespeare, Donne, Pope, Keats, Byron, Gray", "Milton, Donne, Cowley, Gray, Collins, Blake", "Pope, Swift, Coleridge, Byron, Shelley, Gray"],
+    "answer": "Milton, Dryden, Pope, Addison, Swift, Gray"
+  },
+  {
+    "question": "What was Johnson’s criticism of Shakespeare in his Preface?",
+    "options": ["Too dependent on rhyme", "Neglected dramatic unities except Action", "Followed neoclassical rules too closely", "Avoided historical plays"],
+    "answer": "Neglected dramatic unities except Action"
+  }
+]
